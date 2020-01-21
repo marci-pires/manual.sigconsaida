@@ -2,13 +2,13 @@
 
 Os remanejamentos e indicações realizados podem ser consultados nas próprias telas em que foram solicitados, mas o SIGCON-SAÍDA permite a visualização concisa dessas informações em relatórios. Os relatórios podem ser acessados a partir do menu “Emendas” &gt; “Relatórios”, conforme a imagem abaixo:
 
-![](.gitbook/assets/0%20%2818%29.png)
+![](.gitbook/assets/0%20%2819%29.png)
 
 ## **Lista de Incisos**
 
 O relatório “Lista de Incisos” exibe todos os incisos do parlamentar, discriminando o seu valor inicial, o seu valor após os remanejamentos para outros incisos, e o montante indicado. Diversos filtros podem ser utilizados na geração do relatório, caso o usuário deseje visualizar somente os incisos de um determinado órgão, por exemplo.
 
-![](.gitbook/assets/1%20%2817%29.png)
+![](.gitbook/assets/1%20%2818%29.png)
 
 **O usuário pode gerar o relatório em PDF, para impressão, ou em CSV, caso deseje trabalhar os dados no excel.**
 

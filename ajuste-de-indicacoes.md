@@ -18,7 +18,7 @@ A alteração do tipo de atendimento é realizada na tela de visualização das 
 
 Em seguida, o usuário deverá localizar a indicação que foi retornada para ajuste através do inciso, clicando sobre o ícone na coluna “Expandir Inciso”, ou pelos campos de busca disponíveis:
 
-![](.gitbook/assets/1%20%2820%29.png)
+![](.gitbook/assets/1%20%2821%29.png)
 
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
