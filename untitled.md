@@ -18,9 +18,9 @@
 
     [Remanejamento de recursos de emenda parlamentar](remanejar-recursos.md#remanejamento-de-recursos-de-emenda-parlamentar).........................................................14
 
-\*\*\*\*[**Indicação de Recursos**]()**.....................................................................................................17**
+\*\*\*\*[**Indicação de Recursos**](indicacao-de-recursos.md)**.....................................................................................................17**
 
-    [Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória]()........................................................................................18
+    [Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória](indicacao-de-recursos.md#prazos-para-indicacao-de-recursos-de-emenda-parlamentar-individual-com-execucao-orcamentaria-e-financeira-obrigatoria)........................................................................................18
 
    [ Indicação de recursos por tipo de instrumento]().....................................................................20
 
