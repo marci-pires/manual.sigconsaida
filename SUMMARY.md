@@ -10,4 +10,5 @@
 * [Consulta de informações e relatórios](consulta-de-informacoes-e-relatorios.md)
 * [Ajuste de indicações](ajuste-de-indicacoes.md)
 * [Definir ordem de prioridade das indicações](definir-ordem-de-prioridade-das-indicacoes.md)
+* [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)
 

@@ -34,15 +34,15 @@
 
     [Realizando o ajuste de indicações no SIGCON-SAÍDA](ajuste-de-indicacoes.md#realizando-o-ajuste-de-indicacoes-no-sigcon-saida)..........................................................32
 
-**Definir ordem de prioridade das indicações......................................................................35**
+\*\*\*\*[**Definir ordem de prioridade das indicações**](definir-ordem-de-prioridade-das-indicacoes.md)**......................................................................35**
 
-**Propostas saneadoras e reprogramação dos impedimentos de ordem técnica.................36**
+\*\*\*\*[**Propostas saneadoras e reprogramação dos impedimentos de ordem técnica**](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)**.................36**
 
-    Adequação do valor orçamentário de execução obrigatória................................................37
+    [Adequação do valor orçamentário de execução obrigatória](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#adequacao-do-valor-orcamentario-de-execucao-obrigatoria)................................................37
 
-    Saneamento de Indicações.....................................................................................................39
+    [Saneamento de Indicações](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#saneamento-de-indicacoes).....................................................................................................39
 
-    Remanejamento das programações orçamentárias.............................................................42
+    [Remanejamento das programações orçamentárias](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#remanejamento-das-programacoes-orcamentarias).............................................................42
 
 **Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019......................44**
 

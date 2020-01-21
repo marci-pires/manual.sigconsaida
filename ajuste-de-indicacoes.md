@@ -14,11 +14,11 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 A alteração do tipo de atendimento é realizada na tela de visualização das indicações do inciso. Primeiramente, o usuário deverá acessar o menu Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos.
 
-![](.gitbook/assets/0%20%288%29.png)
+![](.gitbook/assets/0%20%289%29.png)
 
 Em seguida, o usuário deverá localizar a indicação que foi retornada para ajuste através do inciso, clicando sobre o ícone na coluna “Expandir Inciso”, ou pelos campos de busca disponíveis:
 
-![](.gitbook/assets/1%20%2821%29.png)
+![](.gitbook/assets/1%20%2822%29.png)
 
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
@@ -34,11 +34,11 @@ Na tela de indicações do inciso, a indicação será exibida com o status “A
 
 Reparem que o status da indicação fica realçado quando ela for retornada para ajustes. Ao clicar sobre o status dela é possível visualizar a justificativa de retorno para ajuste inserida pelo Órgão:
 
-![](.gitbook/assets/3%20%2814%29.png)
+![](.gitbook/assets/3%20%2815%29.png)
 
 Ao clicar sobre o ícone de edição é exibida uma janela para alteração do tipo de atendimento:
 
-![](.gitbook/assets/4%20%289%29.png)
+![](.gitbook/assets/4%20%2810%29.png)
 
 Após a alteração do tipo de atendimento é só clicar em “Enviar para Aprovação do Órgão”.
 

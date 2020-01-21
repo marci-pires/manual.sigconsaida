@@ -6,7 +6,7 @@ Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu �
 
 No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à unidade orçamentária, à ação, ao grupo de despesa e aos valores disponíveis para indicação. A fim de facilitar a localização de incisos, o usuário pode utilizar os campos de busca no canto direito:
 
-![](.gitbook/assets/1%20%289%29.png)
+![](.gitbook/assets/1%20%2810%29.png)
 
 **Utilize os campos de pesquisa para agilizar a busca por um determinado inciso.**
 
@@ -14,7 +14,7 @@ Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis na col
 
 Há quatro tipos de indicação de recursos, Caixa Escolar, Resolução, Convênio/Parceria e Execução Direta. As opções de indicação de recursos que estarão disponíveis no inciso irão depender unidade orçamentária, da ação e do grupo de despesa daquele inciso.
 
-![](.gitbook/assets/2%20%2810%29.png)
+![](.gitbook/assets/2%20%2811%29.png)
 
 ## Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória
 
@@ -22,7 +22,7 @@ Em função dos novos prazos e procedimentos estabelecidos pela Lei de Diretrize
 
 Os parlamentares poderão solicitar as indicações após a liberação do SIGCON-SAÍDA, nos termos do art. 38-E, I, da LDO para 2019 e do art. 4°, I, da Resolução SEGOV n° 688/2018. Até o prazo de 30 após a liberação do SIGCON-SAÍDA, o saldo disponível para indicação será o valor do inciso, desconsiderando os valores de remanejamento e indicações que já foram solicitados – mesmo que não tenham sido aprovados ainda. Caso alguma indicação seja reprovada por impedimento técnico durante este período, o seu valor será estornado para o saldo disponível para indicações, permitindo que o usuário solicite novas indicações com ele.
 
-![](.gitbook/assets/3%20%287%29.png)
+![](.gitbook/assets/3%20%288%29.png)
 
 As indicações realizadas em até 30 dias após a liberação do SIGCON-SAÍDA, em caso de reprovação por impedimento técnico após esta data, terão seu valor disponibilizado para novas indicações e remanejamentos. As indicações provenientes do saldo disponível para indicações com possibilidade de remanejamento, caso reprovadas em até 60 dias após a publicação da LOA, terão seu valor retornado para o mesmo saldo de origem, permitindo que o usuário solicite novas indicações e remanejamentos com ele.
 
@@ -50,7 +50,7 @@ A indicação de recursos para a celebração de convênios e parcerias é reali
 
 A definição de como os recursos serão utilizados é feita através do preenchimento do tipo de atendimento e da descrição do objeto. É importante ressaltar que as opções de preenchimento do tipo de atendimento são exibidas conforme o grupo de despesa do inciso, por exemplo: Se o grupo de despesa do inciso for “Investimentos”, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
 
-![](.gitbook/assets/6.png)
+![](.gitbook/assets/6%20%281%29.png)
 
 **As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso.**
 
@@ -80,7 +80,7 @@ Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual tam
 
 O sistema verifica se todas as informações foram preenchidas corretamente e exibe uma mensagem confirmando que a operação foi realizada com sucesso.
 
-![](.gitbook/assets/9.png)
+![](.gitbook/assets/9%20%281%29.png)
 
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.
 
