@@ -14,7 +14,7 @@ Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis na col
 
 Há quatro tipos de indicação de recursos, Caixa Escolar, Resolução, Convênio/Parceria e Execução Direta. As opções de indicação de recursos que estarão disponíveis no inciso irão depender unidade orçamentária, da ação e do grupo de despesa daquele inciso.
 
-![](.gitbook/assets/2%20%2810%29.png)
+![](.gitbook/assets/2%20%289%29.png)
 
 ## Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória
 

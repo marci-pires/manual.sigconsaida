@@ -2,7 +2,7 @@
 
 Os remanejamentos e indicações realizados podem ser consultados nas próprias telas em que foram solicitados, mas o SIGCON-SAÍDA permite a visualização concisa dessas informações em relatórios. Os relatórios podem ser acessados a partir do menu “Emendas” &gt; “Relatórios”, conforme a imagem abaixo:
 
-![](.gitbook/assets/0%20%2819%29.png)
+![](.gitbook/assets/0%20%2818%29.png)
 
 ## **Lista de Incisos**
 

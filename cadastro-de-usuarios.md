@@ -18,7 +18,7 @@ Todas as informações solicitadas são obrigatórias.
 
 Após clicar em **ENVIAR** você receberá aviso informando que a solicitação foi encaminhada.
 
-![](.gitbook/assets/2%20%289%29.png)
+![](.gitbook/assets/2%20%288%29.png)
 
 A partir desse momento, a solicitação de entrada no sistema é encaminhada para que a Coordenação do SIGCON-SAÍDA faça os demais ajustes necessários. Após a configuração do usuário pela Coordenação do SIGCON-SAÍDA o usuário receberá um e-mail para a definição da senha.
 

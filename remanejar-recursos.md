@@ -9,7 +9,7 @@ Em função dos novos prazos e procedimentos estabelecidos pela Lei de Diretrize
 
 A opção para remanejar os recursos de emenda parlamentar é acessada através do menu “Emendas &gt; Gerenciar Indicações &gt; Remanejamentos – Solicitação”, conforme a imagem abaixo:
 
-![](.gitbook/assets/0%20%2810%29.png)
+![](.gitbook/assets/0%20%289%29.png)
 
 Na tela de solicitação de remanejamento de recursos são exibidas todas as unidades orçamentárias nas quais o parlamentar possui incisos vinculados.
 
@@ -17,7 +17,7 @@ Na tela de solicitação de remanejamento de recursos são exibidas todas as uni
 
 Após selecionar uma unidade orçamentária, são exibidos os incisos relacionados àquela unidade orçamentária, o usuário deverá selecionar aquele do qual deseja transferir os recursos.
 
-![A letra &#x201C;S&#x201D; indica que o inciso foi previsto inicialmente na LOA, enquanto que a letra &#x201C;R&#x201D; indica que o inciso &#xE9; resultante do remanejamento de recursos de outro inciso.](.gitbook/assets/2%20%2812%29.png)
+![A letra &#x201C;S&#x201D; indica que o inciso foi previsto inicialmente na LOA, enquanto que a letra &#x201C;R&#x201D; indica que o inciso &#xE9; resultante do remanejamento de recursos de outro inciso.](.gitbook/assets/2%20%2811%29.png)
 
 Após selecionar uma Unidade Orçamentária são exibidos os incisos que o parlamentar possui naquela UO, assim como as respectivas informações do número da emeda ao qual cada inciso está relacionado, o valor do inciso, o valor inicial do inciso, e o valor do inciso disponível para remanejamento. Nos casos em que o número do inciso é precedido pela letra “S”, o valor inicial do inciso é o valor do inciso previsto inicialmente na LOA, já nos casos em que o número do inciso é precedido pela letra “R”, o valor inicial do inciso é o valor que foi remanejado de outro inciso. O valor do inciso é o seu valor inicial deduzido o montante remanejado para outros incisos, e o valor disponível para remanejamento é o valor do inciso deduzidos os valores de remanejamento solicitados e os valores que já foram indicados.
 
@@ -67,5 +67,5 @@ A solicitação de remanejamento possui o status de “Solicitado” no momento 
 
 Enquanto o remanejamento está no status “Solicitado”, o usuário pode cancelar a solicitação de remanejamento. Após a aprovação pela SEGOV o remanejamento não poderá ser cancelado, e o parlamentar deverá solicitar um novo remanejamento caso ele identifique que o remanejamento realizado não atende a sua necessidade. Após a aprovação pela SEGOV o parlamentar recebe um e-mail de notificação sobre a aprovação da solicitação de remanejamento.
 
-![](.gitbook/assets/3%20%2815%29.png)
+![](.gitbook/assets/3%20%2814%29.png)
 
