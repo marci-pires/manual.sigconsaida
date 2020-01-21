@@ -20,17 +20,17 @@ Em seguida, o usuário deverá localizar a indicação que foi retornada para aj
 
 ![](.gitbook/assets/1%20%2820%29.png)
 
-Para visualizar as indicações do inciso, o usuário deverá clicar em “Expandir Inciso”.
-
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
+
+Para visualizar as indicações do inciso, o usuário deverá clicar em “Expandir Inciso”.
 
 Na tela de indicações do inciso, a indicação será exibida com o status “Aguardando Ajuste Parlamentar”.
 
 ![](.gitbook/assets/2%20%285%29.png)
 
-Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.
+**Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.**
 
-Ao clicar sobre o status da indicação é exibida a justificativa de retorno para ajuste, preenchida pelo Órgão em que a indicação foi realizada.
+**Ao clicar sobre o status da indicação é exibida a justificativa de retorno para ajuste, preenchida pelo Órgão em que a indicação foi realizada**.
 
 Reparem que o status da indicação fica realçado quando ela for retornada para ajustes. Ao clicar sobre o status dela é possível visualizar a justificativa de retorno para ajuste inserida pelo Órgão:
 

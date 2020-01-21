@@ -28,11 +28,11 @@
 
 \*\*\*\*[**Consulta de informações e relatórios**](consulta-de-informacoes-e-relatorios.md)**...............................................................................29**
 
-**Ajuste de indicações........................................................................................................32**
+\*\*\*\*[**Ajuste de indicações**](ajuste-de-indicacoes.md)**........................................................................................................32**
 
-    Premissas para o ajuste de indicações..................................................................................32
+    [Premissas para o ajuste de indicações](ajuste-de-indicacoes.md#premissas-para-o-ajuste-de-indicacoes)..................................................................................32
 
-    Realizando o ajuste de indicações no SIGCON-SAÍDA..........................................................32
+    [Realizando o ajuste de indicações no SIGCON-SAÍDA](ajuste-de-indicacoes.md#realizando-o-ajuste-de-indicacoes-no-sigcon-saida)..........................................................32
 
 **Definir ordem de prioridade das indicações......................................................................35**
 

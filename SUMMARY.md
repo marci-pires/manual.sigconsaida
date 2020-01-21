@@ -9,4 +9,5 @@
 * [Indicação de Recursos](indicacao-de-recursos.md)
 * [Consulta de informações e relatórios](consulta-de-informacoes-e-relatorios.md)
 * [Ajuste de indicações](ajuste-de-indicacoes.md)
+* [Definir ordem de prioridade das indicações](definir-ordem-de-prioridade-das-indicacoes.md)
 
