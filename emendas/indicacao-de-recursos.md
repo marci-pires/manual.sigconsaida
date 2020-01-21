@@ -2,11 +2,11 @@
 
 Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu “Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos”, conforme a imagem abaixo:
 
-![](.gitbook/assets/0%20%287%29.png)
+![](../.gitbook/assets/0%20%287%29.png)
 
 No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à unidade orçamentária, à ação, ao grupo de despesa e aos valores disponíveis para indicação. A fim de facilitar a localização de incisos, o usuário pode utilizar os campos de busca no canto direito:
 
-![](.gitbook/assets/1%20%2811%29.png)
+![](../.gitbook/assets/1%20%2811%29.png)
 
 **Utilize os campos de pesquisa para agilizar a busca por um determinado inciso.**
 
@@ -14,7 +14,7 @@ Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis na col
 
 Há quatro tipos de indicação de recursos, Caixa Escolar, Resolução, Convênio/Parceria e Execução Direta. As opções de indicação de recursos que estarão disponíveis no inciso irão depender unidade orçamentária, da ação e do grupo de despesa daquele inciso.
 
-![](.gitbook/assets/2%20%2811%29.png)
+![](../.gitbook/assets/2%20%2811%29.png)
 
 ## Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória
 
@@ -22,7 +22,7 @@ Em função dos novos prazos e procedimentos estabelecidos pela Lei de Diretrize
 
 Os parlamentares poderão solicitar as indicações após a liberação do SIGCON-SAÍDA, nos termos do art. 38-E, I, da LDO para 2019 e do art. 4°, I, da Resolução SEGOV n° 688/2018. Até o prazo de 30 após a liberação do SIGCON-SAÍDA, o saldo disponível para indicação será o valor do inciso, desconsiderando os valores de remanejamento e indicações que já foram solicitados – mesmo que não tenham sido aprovados ainda. Caso alguma indicação seja reprovada por impedimento técnico durante este período, o seu valor será estornado para o saldo disponível para indicações, permitindo que o usuário solicite novas indicações com ele.
 
-![](.gitbook/assets/3%20%289%29.png)
+![](../.gitbook/assets/3%20%289%29.png)
 
 As indicações realizadas em até 30 dias após a liberação do SIGCON-SAÍDA, em caso de reprovação por impedimento técnico após esta data, terão seu valor disponibilizado para novas indicações e remanejamentos. As indicações provenientes do saldo disponível para indicações com possibilidade de remanejamento, caso reprovadas em até 60 dias após a publicação da LOA, terão seu valor retornado para o mesmo saldo de origem, permitindo que o usuário solicite novas indicações e remanejamentos com ele.
 
@@ -30,7 +30,7 @@ Após o prazo de 30 dias da liberação do SIGCON-SAÍDA, o saldo dos incisos qu
 
 Ao solicitar uma indicação de emenda parlamentar no período compreendido entre o 31° dia após a liberação do SIGCON-SAÍDA e o 60° dia após a publicação da LOA, deverá ser selecionado o saldo que será utilizado para realiza-la, considerando-se a distinção entre os dois tipos descritos acima: com possibilidade de remanejamento e sem possibilidade de remanejamento.
 
-![](.gitbook/assets/4%20%283%29.png)
+![](../.gitbook/assets/4%20%283%29.png)
 
 Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorres mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
 
@@ -38,7 +38,7 @@ Contudo, após o prazo de 60 dias da publicação da LOA já é possível solici
 
 A indicação de recursos de emenda parlamentar sem execução orçamentária e financeira obrigatória dependerá das diretrizes do governo, por isso o botão para enviar as solicitações de indicação ficará, a princípio, desabilitado.
 
-![](.gitbook/assets/5%20%282%29.png)
+![](../.gitbook/assets/5%20%282%29.png)
 
 ## Indicação de recursos por tipo de instrumento
 
@@ -50,7 +50,7 @@ A indicação de recursos para a celebração de convênios e parcerias é reali
 
 A definição de como os recursos serão utilizados é feita através do preenchimento do tipo de atendimento e da descrição do objeto. É importante ressaltar que as opções de preenchimento do tipo de atendimento são exibidas conforme o grupo de despesa do inciso, por exemplo: Se o grupo de despesa do inciso for “Investimentos”, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
 
-![](.gitbook/assets/6%20%281%29.png)
+![](../.gitbook/assets/6%20%281%29.png)
 
 **As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso.**
 
@@ -60,7 +60,7 @@ A definição de como os recursos serão utilizados é feita através do preench
 
 Para selecionar o beneficiário da indicação de recursos, o usuário pode realizar uma pesquisa pelo CNPJ, pela Razão Social ou pelo Município do convenente ou OSC, os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a checkbox ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez, e em seguida clicar no botão “+ Adicionar”.
 
-![](.gitbook/assets/7%20%281%29.png)
+![](../.gitbook/assets/7%20%281%29.png)
 
 **1.Clique em pesquisar após preencher a razão social ou o município do beneficiário da indicação**
 
@@ -70,7 +70,7 @@ Para selecionar o beneficiário da indicação de recursos, o usuário pode real
 
 Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual também são dispostos os dados do tipo de atendimento, e na qual é preenchido o valor da indicação de recursos. Após preencher o valor das indicações é necessário marcar a checkbox e depois clicar em “Enviar Indicações”.
 
-![](.gitbook/assets/8.png)
+![](../.gitbook/assets/8.png)
 
 **1. Preencha o valor da indicação**
 
@@ -80,7 +80,7 @@ Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual tam
 
 O sistema verifica se todas as informações foram preenchidas corretamente e exibe uma mensagem confirmando que a operação foi realizada com sucesso.
 
-![](.gitbook/assets/9%20%281%29.png)
+![](../.gitbook/assets/9%20%281%29.png)
 
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.
 
@@ -94,7 +94,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 
 
-![](.gitbook/assets/10.png)
+![](../.gitbook/assets/10.png)
 
 **1. Preencher o CNPJ, a razão social ou o município do beneficiário**
 
@@ -104,7 +104,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 
 
-![](.gitbook/assets/11.png)
+![](../.gitbook/assets/11.png)
 
 **1. Selecione os beneficiários.**
 
@@ -112,7 +112,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual devem ser preenchidas as informações relativas à finalidade na qual os recursos serão aplicados e o montante que será indicado para isso.
 
-![](.gitbook/assets/12.png)
+![](../.gitbook/assets/12.png)
 
 **1. Selecione o tipo de aplicação. Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV n. 666/2018.**
 
@@ -122,9 +122,9 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 
 Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações. Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
 
-![](.gitbook/assets/13.png)
+![](../.gitbook/assets/13.png)
 
-![](.gitbook/assets/14%20%281%29.png)
+![](../.gitbook/assets/14%20%281%29.png)
 
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.
 
@@ -136,7 +136,7 @@ A indicação de recursos do tipo “Resolução” é realizada em três etapas
 
 A escolha de quem receberá os recursos é feita através da seleção de beneficiários. Para cada indicação deve ser selecionado apenas um beneficiário.
 
-![](.gitbook/assets/15.png)
+![](../.gitbook/assets/15.png)
 
 **1. Preencher o CNPJ, a razão social ou o município do beneficiário**
 
@@ -144,7 +144,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 É possível selecionar mais de um beneficiário, o que pode ser útil, caso se pretenda cadastrar mais de uma indicação de execução direta naquele inciso para beneficiários do mesmo município, já que isso agiliza a pesquisa.
 
-![](.gitbook/assets/16%20%281%29.png)
+![](../.gitbook/assets/16%20%281%29.png)
 
 **1. Selecione os beneficiários.**
 
@@ -154,7 +154,7 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 
 
 
-![](.gitbook/assets/17%20%281%29.png)
+![](../.gitbook/assets/17%20%281%29.png)
 
 **1. Selecione o tipo de aplicação. Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV n. 688/2018.**
 
@@ -162,7 +162,7 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 
 **3.Clique em “Enviar Indicações”.**
 
-![](.gitbook/assets/18.png)
+![](../.gitbook/assets/18.png)
 
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.
 
@@ -170,13 +170,13 @@ A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pe
 
 A indicação do tipo “Caixa Escolar” consiste na aplicação dos recursos de emenda parlamentar na gestão de infraestrutura das escolas do ensino médio e fundamental de Minas Gerais. Por esse motivo, essa opção de indicação só estará disponível nos incisos cuja unidade orçamentária for referente à Secretaria de Estado de Educação.
 
-![](.gitbook/assets/19.png)
+![](../.gitbook/assets/19.png)
 
 A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas, quais sejam: a escolha da escola receberá os recursos, como os recursos serão aplicados e o montante que será indicado.
 
 A escolha da escola receberá os recursos é feita pelo preenchimento do código da escola.
 
-![](.gitbook/assets/20.png)
+![](../.gitbook/assets/20.png)
 
 **1. Digite o código da escola.**
 
@@ -186,13 +186,13 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município.
 
-![](.gitbook/assets/21.png)
+![](../.gitbook/assets/21.png)
 
 **1.Digite o nome da escola ou município dela.**
 
 **2.Clique em “Pesquisar”.**
 
-![](.gitbook/assets/22.png)
+![](../.gitbook/assets/22.png)
 
 1.Selecione as escolas que serão beneciárias
 
@@ -200,9 +200,9 @@ Caso o usuário não saiba previamente o código da escola, é possível realiza
 
 As escolas selecionadas são exibidas na tabela “Entrada”, na qual deverão ser preenchidas as informações referente ao tipo de aplicação e ao valor de cada indicação**.**
 
-![](.gitbook/assets/23.png)
+![](../.gitbook/assets/23.png)
 
-![](.gitbook/assets/24.png)
+![](../.gitbook/assets/24.png)
 
 **1.Selecione o tipo de aplicação. Atenção quanto ao grupo de despesa do inciso!**
 
@@ -216,7 +216,7 @@ Após o período de 60 dias da publicação da LOA, não será mais permitido a 
 
 Assim que o órgão retornar a indicação para ajuste do tipo de atendimento o SIGCON-SAÍDA enviará um e-mail automaticamente para o parlamentar, justificando a necessidade do ajuste. Segue abaixo o modelo do e-mail:
 
-![http://200.198.50.65/sigconv2/javax.faces.resource/BrasaoMinas175x172.jpg.jsf?ln=img](.gitbook/assets/25.jpeg)
+![http://200.198.50.65/sigconv2/javax.faces.resource/BrasaoMinas175x172.jpg.jsf?ln=img](../.gitbook/assets/25.jpeg)
 
 ## SECRETARIA DE ESTADO DE GOVERNO - SEGOV
 
@@ -242,23 +242,23 @@ COORDENAÇÃO DO SIGCON-SAÍDA
 
 Para proceder com o ajuste o usuário deve acessar o menu “Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos”, conforme a imagem abaixo:
 
-![](.gitbook/assets/26.png)
+![](../.gitbook/assets/26.png)
 
 Em seguida, o usuário deverá identificar o inciso que contém a indicação a ser ajustada e clicar sobre o ícone para “Expandir Inciso”:
 
-![](.gitbook/assets/27.png)
+![](../.gitbook/assets/27.png)
 
 **Clique sobre o ícone “Expandir Inciso”**
 
 O SIGCON-SAÍDA exibirá as indicações cadastradas inciso selecionado, o usuário identificará aquela que necessita ser ajustada pelo status “Aguardando ajuste parlamentar”.
 
-![](.gitbook/assets/28.png)
+![](../.gitbook/assets/28.png)
 
 **Clique sobre o ícone “Editar”.**
 
 Após clicar em “Editar”, o sistema exibirá a interface para que o tipo de atendimento seja alterado:
 
-![](.gitbook/assets/29.png)
+![](../.gitbook/assets/29.png)
 
 **Clicar em “Enviar para Aprovação do Órgão” após alterar as informações do tipo de atendimento da indicação.**
 
