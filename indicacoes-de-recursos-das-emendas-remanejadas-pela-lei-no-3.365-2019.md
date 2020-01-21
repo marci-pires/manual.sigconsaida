@@ -37,8 +37,11 @@ Prazos específicos para indicações para convênios de saída ou parcerias \(M
 ## Indicação de Recursos
 
   
-![](.gitbook/assets/4%20%281%29.png) A irregularidade no CAGEC ou o bloqueio no SIAFI não impedirão a indicação, mas inviabilizarão o preenchimento de proposta de plano de trabalho pela OSC inadimplente.  
+ 
 
+{% hint style="danger" %}
+A irregularidade no CAGEC ou o bloqueio no SIAFI não impedirão a indicação, mas inviabilizarão o preenchimento de proposta de plano de trabalho pela OSC inadimplente.
+{% endhint %}
 
 1. **Celebração de Instrumento Jurídico \(Convênio ou parceria MROSC\)**
 

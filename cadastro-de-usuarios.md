@@ -2,7 +2,7 @@
 
 ## CADASTRO NO SIGCON-SAÍDA
 
-Para ter acesso ao SIGCON – Saída, é necessário primeiramente que o parlamentar ou seus respectivos assessores tenham um registro no ADSEG \(Sistema de Administração Descentralizada de Segurança\). O registro no ADSEG é de responsabilidade do Administrador Setorial de Segurança da ALMG.
+Para ter acesso ao SIGCON – Saída, é necessário primeiramente que o parlamentar ou seus respectivos assessores tenham um registro no **ADSEG \(Sistema de Administração Descentralizada de Segurança\)**. O registro no ADSEG é de responsabilidade do Administrador Setorial de Segurança da ALMG.
 
 Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída digitando o login registrado no ADSEG e a senha do mesmo.
 
@@ -14,7 +14,9 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 Todas as informações solicitadas são obrigatórias.
 
+{% hint style="warning" %}
 **ATENÇÃO:** o e-mail informado no pré-cadastrado é o e-mail que receberá a senha de acesso do usuário.
+{% endhint %}
 
 Após clicar em **ENVIAR** você receberá aviso informando que a solicitação foi encaminhada.
 
@@ -28,7 +30,7 @@ A princípio, somente o usuário do parlamentar poderá solicitar remanejamentos
 
 Primeiramente, é necessário que os assessores estejam cadastrados no SIGCON-SAÍDA. O procedimento para cadastro dos usuários dos assessores no SIGCON-SAÍDA é idêntico ao dos usuários dos parlamentares.
 
-Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e associar o assessor através do menu “Emendas” &gt; “Administração” &gt; “Associar Assessor”:
+Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e associar o assessor através do menu “Emendas” &gt; “Administração” &gt; “Associar Assessor
 
 ![](.gitbook/assets/3%20%2811%29.png)
 
