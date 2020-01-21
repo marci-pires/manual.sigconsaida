@@ -8,7 +8,7 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 ![](.gitbook/assets/0%20%285%29.png)
 
-Após ter digitado o **login** e **senha** você será endereçado para o Pré-Cadastro no SIGCON – Saída.
+#### Após ter digitado o **login** e **senha** você será endereçado para o Pré-Cadastro no SIGCON – Saída.
 
 ![](.gitbook/assets/1%20%288%29.png)
 
