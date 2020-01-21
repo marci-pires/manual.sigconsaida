@@ -22,7 +22,7 @@
 
     [Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória](indicacao-de-recursos.md#prazos-para-indicacao-de-recursos-de-emenda-parlamentar-individual-com-execucao-orcamentaria-e-financeira-obrigatoria)........................................................................................18
 
-   [ Indicação de recursos por tipo de instrumento]().....................................................................20
+   [ Indicação de recursos por tipo de instrumento](indicacao-de-recursos.md#indicacao-de-recursos-por-tipo-de-instrumento).....................................................................20
 
     [Ajustar indicação]().....................................................................................................................26
 
