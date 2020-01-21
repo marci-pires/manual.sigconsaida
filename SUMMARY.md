@@ -11,4 +11,5 @@
 * [Ajuste de indicações](ajuste-de-indicacoes.md)
 * [Definir ordem de prioridade das indicações](definir-ordem-de-prioridade-das-indicacoes.md)
 * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)
+* [Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)
 

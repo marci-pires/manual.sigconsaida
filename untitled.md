@@ -44,17 +44,17 @@
 
     [Remanejamento das programações orçamentárias](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#remanejamento-das-programacoes-orcamentarias).............................................................42
 
-**Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019......................44**
+\*\*\*\*[**Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019**](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)**......................44**
 
-    Dos procedimentos e prazos aplicados à execução de programações remanejadas de emendas parlamentares individuais..........................................................................................45
+    [Dos procedimentos e prazos aplicados à execução de programações remanejadas de emendas parlamentares individuais](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#dos-procedimentos-e-prazos-aplicados-a-execucao-de-programacoes-remanejadas-de-emendas-parlamentares-individuais)..........................................................................................45
 
-   Indicação de Recursos.............................................................................................................46
+   [Indicação de Recursos](indicacao-de-recursos.md#indicacao-de-recursos-por-tipo-de-instrumento).............................................................................................................46
 
-   Indicação de Recursos no Período de 28 de setembro de 2019 até 11 de outubro de 2019..............................................................................................................................................50
+   [Indicação de Recursos no Período de 28 de setembro de 2019 até 11 de outubro de 2019](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#indicacao-de-recursos-no-periodo-de-28-de-setembro-de-2019-ate-11-de-outubro-de-2019)..............................................................................................................................................50
 
-   Priorização das Indicações do Inciso “P”................................................................................50
+   [Priorização das Indicações do Inciso “P”](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#priorizacao-das-indicacoes-do-inciso-p)................................................................................50
 
-   Cancelar Indicações.................................................................................................................51
+   [Cancelar Indicações](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#cancelar-indicacoes).................................................................................................................51
 
-   Edição de Tipo de Atendimento...............................................................................................53
+   [Edição de Tipo de Atendimento](indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#edicao-de-tipo-de-atendimento)...............................................................................................53
 

@@ -45,7 +45,7 @@ No entanto, é possível que o Saldo com Impedimento de Ordem Técnica seja infe
 
 A solução será reprovar uma indicação que não possui impedimento de ordem técnica. Para isso, o parlamentar deverá acessar o SIGCON-SAÍDA, no menu “Emendas &gt; Solucionar Impedimento de Ordem Técnica &gt; Adequação Valor de Execução Orçamentária Obrigatória”.
 
-![](.gitbook/assets/0%20%288%29.png)
+![](.gitbook/assets/0%20%289%29.png)
 
 Na interface de adequação do valor com impositividade é exibido o Limite Constitucional e Valor Total Utilizado das Indicações Aprovadas, que correspondem, respectivamente:
 
@@ -55,7 +55,7 @@ Na interface de adequação do valor com impositividade é exibido o Limite Cons
 
 Caso o Valor Total Utilizado das Indicações Aprovadas seja superior ao Limite Constitucional, o parlamentar deverá selecionar indicações que estão aprovadas para eliminar essa diferença. O valor das indicações que deverá ser reprovado corresponde ao Valor Mínimo a ser Adequado, e o “Valor Adequado” corresponde ao valor das indicações que o parlamentar selecionou para realizar a reprovação. Importante ressaltar que é possível que o valor das indicações selecionadas para reprovação pelo parlamentar seja um pouco superior ao “Valor Mínimo a Ser Adequado”, essa diferença poderá ser reaproveitada na interface de [Saneamento de Indicações]().
 
-![](.gitbook/assets/1%20%289%29.png)
+![](.gitbook/assets/1%20%2810%29.png)
 
 **O “Valor Adequado” corresponde às indicações selecionadas pelo parlamentar e pode ser superior ao “Valor Mínimo a Ser Adequado”, a diferença poderá ser reaproveitada pelo Parlamentar.**
 
@@ -65,7 +65,7 @@ Após a seleção das indicações que serão reprovadas, o usuário deverá cli
 
 ![](.gitbook/assets/2%20%2810%29.png)
 
-![](.gitbook/assets/3%20%284%29.png)
+![](.gitbook/assets/3%20%285%29.png)
 
 Depois de confirmar a reprovação das indicações o parlamentar já terá realizado a adequação dos valores de emenda parlamentar com impositividade, e essa interface permanecerá disponível apenas para consulta. Em seguida, ele poderá proceder à indicação das propostas saneadoras e a reprogramação das dotações orçamentárias.
 
@@ -73,7 +73,7 @@ Depois de confirmar a reprovação das indicações o parlamentar já terá real
 
 Conforme mencionado anteriormente, em até 30 dias após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados solicitar a reprogramação dos recursos, nos termos do art. 160, §10, II da Constituição. No SIGCON-SAÍDA, esse procedimento só estará disponível se o parlamentar tiver realizado a [adequação dos valores com execução orçamentária e financeira obrigatória](), nos casos em que essa adequação for necessária. Isso feito, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimentos de Ordem Técnica &gt; Saneamento”.
 
-![](.gitbook/assets/4%20%284%29.png)
+![](.gitbook/assets/4%20%285%29.png)
 
 Nessa tela será exibido o saldo de impedimento de ordem técnica que o usuário possui para indicar o saneamento ou a reprogramação da dotação orçamentária, bem como as informações por inciso. É importante ressaltar que esse saldo não corresponde ao valor total dos impedimentos de ordem técnica, pois parte desse saldo foi comprometido para atender à adequação do valor com execução orçamentária e financeira obrigatória \(exceto nos casos em que o valor das indicações aprovadas foi superior ao saldo com impositividade e o ajuste foi realizado na [adequação dos valores com execução orçamentária e financeira obrigatória](), ou nos casos em que o parlamentar já possui um saldo sem impositividade superior ao montante que teria que ser ajustado\). Além disso, esse saldo diminui à medida em que o usuário realiza as propostas saneadoras ou indica que fará o remanejamento da programação orçamentária.
 
@@ -99,7 +99,7 @@ Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele i
 
 Para apresentar a proposta saneadora de uma indicação: o usuário deverá selecionar a indicação, o sistema exibirá uma mensagem de confirmação e o campo para preenchimento da proposta saneadora que o usuário deverá preencher, em seguida o campo para preenchimento do valor a ser sanado ficará habilitado para preenchimento. O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela. Para informar o valor que será remanejado através do Projeto de Lei: basta preencher o valor no campo “Projeto de Lei” e acionar o comando “Salvar”, na parte inferior da tela.
 
-![](.gitbook/assets/7%20%282%29.png)
+![](.gitbook/assets/7%20%283%29.png)
 
 **Nesse campo o usuário preencherá a parcela do impedimento de ordem técnica daquele que inciso que será remanejada através do PL.**
 
@@ -143,7 +143,7 @@ Nos termos do art. 160, §§ 4° e 6º, da Constituição do Estado de Minas Ger
 
 A fim de atender a execução mínima da Saúde, o parlamentar só poderá remanejar para outras Unidades Orçamentárias após realizar o remanejamento para as Unidades Orçamentárias da Saúde no montante correspondente à, no mínimo, o “Valor mínimo Saúde Projeto de Lei”. Assim, até que o remanejamento para as Unidades Orçamentárias da Saúde seja realizado o sistema só exibirá as Unidades Orçamentárias da Saúde para remanejamento.
 
-![](.gitbook/assets/10%20%281%29.png)
+![](.gitbook/assets/10%20%282%29.png)
 
 **O campo “Unidade Orçamentária” só exibirá as outras opções após a inclusão das programações orçamentárias com a Unidade Orçamentária da Saúde com o valor correspondente à, no mínimo, o “Valor Mínimo Saúde Projeto de Lei”.**
 

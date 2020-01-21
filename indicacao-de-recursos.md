@@ -2,11 +2,11 @@
 
 Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu “Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos”, conforme a imagem abaixo:
 
-![](.gitbook/assets/0%20%286%29.png)
+![](.gitbook/assets/0%20%287%29.png)
 
 No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à unidade orçamentária, à ação, ao grupo de despesa e aos valores disponíveis para indicação. A fim de facilitar a localização de incisos, o usuário pode utilizar os campos de busca no canto direito:
 
-![](.gitbook/assets/1%20%2810%29.png)
+![](.gitbook/assets/1%20%2811%29.png)
 
 **Utilize os campos de pesquisa para agilizar a busca por um determinado inciso.**
 
@@ -22,7 +22,7 @@ Em função dos novos prazos e procedimentos estabelecidos pela Lei de Diretrize
 
 Os parlamentares poderão solicitar as indicações após a liberação do SIGCON-SAÍDA, nos termos do art. 38-E, I, da LDO para 2019 e do art. 4°, I, da Resolução SEGOV n° 688/2018. Até o prazo de 30 após a liberação do SIGCON-SAÍDA, o saldo disponível para indicação será o valor do inciso, desconsiderando os valores de remanejamento e indicações que já foram solicitados – mesmo que não tenham sido aprovados ainda. Caso alguma indicação seja reprovada por impedimento técnico durante este período, o seu valor será estornado para o saldo disponível para indicações, permitindo que o usuário solicite novas indicações com ele.
 
-![](.gitbook/assets/3%20%288%29.png)
+![](.gitbook/assets/3%20%289%29.png)
 
 As indicações realizadas em até 30 dias após a liberação do SIGCON-SAÍDA, em caso de reprovação por impedimento técnico após esta data, terão seu valor disponibilizado para novas indicações e remanejamentos. As indicações provenientes do saldo disponível para indicações com possibilidade de remanejamento, caso reprovadas em até 60 dias após a publicação da LOA, terão seu valor retornado para o mesmo saldo de origem, permitindo que o usuário solicite novas indicações e remanejamentos com ele.
 
@@ -30,7 +30,7 @@ Após o prazo de 30 dias da liberação do SIGCON-SAÍDA, o saldo dos incisos qu
 
 Ao solicitar uma indicação de emenda parlamentar no período compreendido entre o 31° dia após a liberação do SIGCON-SAÍDA e o 60° dia após a publicação da LOA, deverá ser selecionado o saldo que será utilizado para realiza-la, considerando-se a distinção entre os dois tipos descritos acima: com possibilidade de remanejamento e sem possibilidade de remanejamento.
 
-![](.gitbook/assets/4%20%282%29.png)
+![](.gitbook/assets/4%20%283%29.png)
 
 Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorres mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
 
@@ -124,7 +124,7 @@ Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o 
 
 ![](.gitbook/assets/13.png)
 
-![](.gitbook/assets/14.png)
+![](.gitbook/assets/14%20%281%29.png)
 
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.
 
@@ -144,7 +144,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 É possível selecionar mais de um beneficiário, o que pode ser útil, caso se pretenda cadastrar mais de uma indicação de execução direta naquele inciso para beneficiários do mesmo município, já que isso agiliza a pesquisa.
 
-![](.gitbook/assets/16.png)
+![](.gitbook/assets/16%20%281%29.png)
 
 **1. Selecione os beneficiários.**
 
@@ -154,7 +154,7 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 
 
 
-![](.gitbook/assets/17.png)
+![](.gitbook/assets/17%20%281%29.png)
 
 **1. Selecione o tipo de aplicação. Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV n. 688/2018.**
 
