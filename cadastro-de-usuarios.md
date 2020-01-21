@@ -18,7 +18,7 @@ Todas as informações solicitadas são obrigatórias.
 
 Após clicar em **ENVIAR** você receberá aviso informando que a solicitação foi encaminhada.
 
-![](.gitbook/assets/2%20%287%29.png)
+![](.gitbook/assets/2%20%288%29.png)
 
 A partir desse momento, a solicitação de entrada no sistema é encaminhada para que a Coordenação do SIGCON-SAÍDA faça os demais ajustes necessários. Após a configuração do usuário pela Coordenação do SIGCON-SAÍDA o usuário receberá um e-mail para a definição da senha.
 
@@ -30,11 +30,11 @@ Primeiramente, é necessário que os assessores estejam cadastrados no SIGCON-SA
 
 Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e associar o assessor através do menu “Emendas” &gt; “Administração” &gt; “Associar Assessor”:
 
-![](.gitbook/assets/3%20%288%29.png)
+![](.gitbook/assets/3%20%289%29.png)
 
 Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta:
 
-![](.gitbook/assets/4%20%286%29.png)
+![](.gitbook/assets/4%20%287%29.png)
 
 Se o usuário do assessor estiver devidamente cadastrado no SIGCON-SAÍDA, o sistema exibirá o nome dele na tela. Por fim, o usuário deverá clicar em “Associar Assessor”.
 

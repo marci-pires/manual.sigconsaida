@@ -14,7 +14,7 @@ Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis na col
 
 Há quatro tipos de indicação de recursos, Caixa Escolar, Resolução, Convênio/Parceria e Execução Direta. As opções de indicação de recursos que estarão disponíveis no inciso irão depender unidade orçamentária, da ação e do grupo de despesa daquele inciso.
 
-![](.gitbook/assets/2%20%288%29.png)
+![](.gitbook/assets/2%20%289%29.png)
 
 ## Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória
 
@@ -22,7 +22,7 @@ Em função dos novos prazos e procedimentos estabelecidos pela Lei de Diretrize
 
 Os parlamentares poderão solicitar as indicações após a liberação do SIGCON-SAÍDA, nos termos do art. 38-E, I, da LDO para 2019 e do art. 4°, I, da Resolução SEGOV n° 688/2018. Até o prazo de 30 após a liberação do SIGCON-SAÍDA, o saldo disponível para indicação será o valor do inciso, desconsiderando os valores de remanejamento e indicações que já foram solicitados – mesmo que não tenham sido aprovados ainda. Caso alguma indicação seja reprovada por impedimento técnico durante este período, o seu valor será estornado para o saldo disponível para indicações, permitindo que o usuário solicite novas indicações com ele.
 
-![](.gitbook/assets/3%20%286%29.png)
+![](.gitbook/assets/3%20%287%29.png)
 
 As indicações realizadas em até 30 dias após a liberação do SIGCON-SAÍDA, em caso de reprovação por impedimento técnico após esta data, terão seu valor disponibilizado para novas indicações e remanejamentos. As indicações provenientes do saldo disponível para indicações com possibilidade de remanejamento, caso reprovadas em até 60 dias após a publicação da LOA, terão seu valor retornado para o mesmo saldo de origem, permitindo que o usuário solicite novas indicações e remanejamentos com ele.
 
@@ -30,7 +30,7 @@ Após o prazo de 30 dias da liberação do SIGCON-SAÍDA, o saldo dos incisos qu
 
 Ao solicitar uma indicação de emenda parlamentar no período compreendido entre o 31° dia após a liberação do SIGCON-SAÍDA e o 60° dia após a publicação da LOA, deverá ser selecionado o saldo que será utilizado para realiza-la, considerando-se a distinção entre os dois tipos descritos acima: com possibilidade de remanejamento e sem possibilidade de remanejamento.
 
-![](.gitbook/assets/4%20%281%29.png)
+![](.gitbook/assets/4%20%282%29.png)
 
 Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorres mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
 
