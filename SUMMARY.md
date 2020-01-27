@@ -8,8 +8,8 @@
 ## Emendas
 
 * [Introdução](emendas/introducao.md)
-* [Remanejar Recursos](emendas/remanejar-recursos.md)
 * [Indicação de Recursos](emendas/indicacao-de-recursos.md)
+* [Remanejar Recursos](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Ajuste de indicações](emendas/ajuste-de-indicacoes.md)
 * [Definir ordem de prioridade das indicações](emendas/definir-ordem-de-prioridade-das-indicacoes.md)
