@@ -4,7 +4,19 @@ O orçamento público é o instrumento pelo qual se prevê a arrecadação das r
 
 A [Emenda Constitucional nº 96/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=EMC&num=96&comp=&ano=2018) dispôs sobre novos parâmetros para a realização das emendas parlamentares individuais, tais como:
 
+{% tabs %}
+{% tab title="First Tab" %}
 
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+>
+
+{% page-ref page="introducao.md" %}
 
 *  Estabeleceu o limite de 0,7% da Receita Corrente Liquida para a aprovação de emendas individuais a partir do exercício de 2019, aumentando progressivamente até atingir em 2022 o limite de 1%, sendo que 50% desse limite percentual deve ser destinado a ações e serviços públicos de saúde
 * Determinou a execução obrigatória e equitativa das emendas individuais: as programações orçamentárias incluídas através de emendas parlamentares individuais são de execução obrigatória, que deve ser realizada de forma igualitária e impessoal;
