@@ -34,27 +34,27 @@
 
     [Realizando o ajuste de indicações no SIGCON-SAÍDA](emendas/ajuste-de-indicacoes.md#realizando-o-ajuste-de-indicacoes-no-sigcon-saida)
 
-\*\*\*\*[**Definir ordem de prioridade das indicações**](emendas/definir-ordem-de-prioridade-das-indicacoes.md)\*\*\*\*
+\*\*\*\*[**Definir ordem de prioridade das indicações**](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/definir-ordem-de-prioridade-das-indicacoes.md)**......................................................................35**
 
-\*\*\*\*[**Propostas saneadoras e reprogramação dos impedimentos de ordem técnica**](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)\*\*\*\*
+\*\*\*\*[**Propostas saneadoras e reprogramação dos impedimentos de ordem técnica**](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)\*\*\*\*
 
-    [Adequação do valor orçamentário de execução obrigatória](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#adequacao-do-valor-orcamentario-de-execucao-obrigatoria)
+    [Adequação do valor orçamentário de execução obrigatória](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#adequacao-do-valor-orcamentario-de-execucao-obrigatoria)
 
-    [Saneamento de Indicações](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#saneamento-de-indicacoes)
+    [Saneamento de Indicações](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#saneamento-de-indicacoes)
 
-    [Remanejamento das programações orçamentárias](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#remanejamento-das-programacoes-orcamentarias)
+    [Remanejamento das programações orçamentárias](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md#remanejamento-das-programacoes-orcamentarias)
 
-\*\*\*\*[**Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019**](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)\*\*\*\*
+\*\*\*\*[**Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019**](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)\*\*\*\*
 
-    [Dos procedimentos e prazos aplicados à execução de programações remanejadas de emendas parlamentares individuais](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#dos-procedimentos-e-prazos-aplicados-a-execucao-de-programacoes-remanejadas-de-emendas-parlamentares-individuais)
+    [Dos procedimentos e prazos aplicados à execução de programações remanejadas de emendas parlamentares individuais](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#dos-procedimentos-e-prazos-aplicados-a-execucao-de-programacoes-remanejadas-de-emendas-parlamentares-individuais)
 
    [Indicação de Recursos](emendas/indicacao-de-recursos.md#indicacao-de-recursos-por-tipo-de-instrumento)
 
-   [Indicação de Recursos no Período de 28 de setembro de 2019 até 11 de outubro de 2019](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#indicacao-de-recursos-no-periodo-de-28-de-setembro-de-2019-ate-11-de-outubro-de-2019)
+   [Indicação de Recursos no Período de 28 de setembro de 2019 até 11 de outubro de 2019](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#indicacao-de-recursos-no-periodo-de-28-de-setembro-de-2019-ate-11-de-outubro-de-2019)
 
-   [Priorização das Indicações do Inciso “P”](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#priorizacao-das-indicacoes-do-inciso-p)
+   [Priorização das Indicações do Inciso “P”](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#priorizacao-das-indicacoes-do-inciso-p)
 
-   [Cancelar Indicações](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#cancelar-indicacoes)
+   [Cancelar Indicações](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#cancelar-indicacoes)
 
-   [Edição de Tipo de Atendimento](emendas/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#edicao-de-tipo-de-atendimento)
+   [Edição de Tipo de Atendimento](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#edicao-de-tipo-de-atendimento)
 
