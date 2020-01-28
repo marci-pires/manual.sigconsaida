@@ -3,7 +3,8 @@
 * [Manual SIGCON](README.md)
 * [Conteúdo](untitled.md)
 * [Prefácio](prefacio.md)
-* [Cadastro de Usuários](cadastro-de-usuarios.md)
+* [Cadastro de Usuários - PARLAMENTARES](cadastro-de-usuarios/README.md)
+  * [RECUPERAR LOGIN/SENHA PARLAMENTARES](cadastro-de-usuarios/recuperar-login-senha-parlamentares.md)
 
 ## Emendas
 

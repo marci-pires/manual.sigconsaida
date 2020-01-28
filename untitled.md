@@ -4,11 +4,11 @@
 
 \*\*\*\*[**Prefácio**](prefacio.md)
 
-\*\*\*\*[**Cadastro de Usuários**](cadastro-de-usuarios.md)
+\*\*\*\*[**Cadastro de Usuários**](cadastro-de-usuarios/)
 
-   [ CADASTRO NO SIGCON-SAÍDA](cadastro-de-usuarios.md#cadastro-no-sigcon-saida)
+   [ CADASTRO NO SIGCON-SAÍDA](cadastro-de-usuarios/#cadastro-no-sigcon-saida)
 
-    [ASSOCIAR ASSESSORES](cadastro-de-usuarios.md#associar-assessores)
+    [ASSOCIAR ASSESSORES](cadastro-de-usuarios/#associar-assessores)
 
 \*\*\*\*[**Introdução**](emendas/introducao.md)\*\*\*\*
 
