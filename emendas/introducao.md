@@ -1,10 +1,10 @@
 # Introdução
 
-O orçamento público é o instrumento pelo qual se prevê a arrecadação das receitas e fixa-se a execução das despesas, para o período de um exercício financeiro, necessárias para o funcionamento e implementação dos serviços e políticas públicas. 
+O orçamento público é o instrumento pelo qual se prevê a arrecadação das receitas e fixa-se a execução das despesas, para o período de um exercício financeiro, necessárias para o funcionamento e implementação dos serviços e políticas públicas.
 
-O orçamento público é instituído na forma da Lei Orçamentária Anual \(LOA\), de iniciativa exclusiva do Poder Executivo, e que deve ser analisada e aprovada pelo Poder Legislativo. 
+O orçamento público é instituído na forma da Lei Orçamentária Anual \(LOA\), de iniciativa exclusiva do Poder Executivo, e que deve ser analisada e aprovada pelo Poder Legislativo.
 
-Desse modo, as **emendas parlamentares** são as ferramentas que o Poder Legislativo possui para participar da elaboração do orçamento anual. 
+Desse modo, as **emendas parlamentares** são as ferramentas que o Poder Legislativo possui para participar da elaboração do orçamento anual.
 
 Por meio das emendas os parlamentares procuram aperfeiçoar a proposta encaminhada pelo Poder Executivo, visando uma melhor alocação dos recursos públicos.
 

@@ -1,6 +1,6 @@
 # RECUPERAR LOGIN/SENHA PARLAMENTARES
 
-![](../.gitbook/assets/manual_parlamentares_pagina-inicial_solicitar-login-senha%20%281%29.jpg)
+![](../.gitbook/assets/manual_parlamentares_pagina-inicial_solicitar-login-senha-1.jpg)
 
 ![](../.gitbook/assets/manual_parlamentares_recuperar-login-senha_forms.jpg)
 

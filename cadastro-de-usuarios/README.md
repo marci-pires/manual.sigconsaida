@@ -12,11 +12,11 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 ![](../.gitbook/assets/manual_parlamentares_pagina-inicial_solicitar-login-senha.jpg)
 
-#### Após ter clicado "Solicitar / Recuperar Login e Senha", você será redirecionado para uma página e deverá selecionar no menu "SOLICITAR LOGIN/SENHA" a opção "PARLAMENTAR" e clicar no botão "CADASTRAR"
+### Após ter clicado "Solicitar / Recuperar Login e Senha", você será redirecionado para uma página e deverá selecionar no menu "SOLICITAR LOGIN/SENHA" a opção "PARLAMENTAR" e clicar no botão "CADASTRAR"
 
 ![](../.gitbook/assets/manual_parlamentares_solicitar-login-senha.jpg)
 
-Após clicar no botão, você será redirecionado para uma página do Google Forms. 
+Após clicar no botão, você será redirecionado para uma página do Google Forms.
 
 ![](../.gitbook/assets/manual_parlamentares_solicitar-login-senha_forms.jpg)
 
@@ -26,7 +26,7 @@ Todas as informações solicitadas são obrigatórias. Preencha todo o formulár
 O e-mail informado no pré-cadastrado é o e-mail que receberá a senha de acesso do usuário.
 {% endhint %}
 
-A partir desse momento, a solicitação de entrada no sistema é encaminhada para que a Coordenação do SIGCON-SAÍDA faça os demais ajustes necessários. 
+A partir desse momento, a solicitação de entrada no sistema é encaminhada para que a Coordenação do SIGCON-SAÍDA faça os demais ajustes necessários.
 
 Após a configuração do usuário pela Coordenação do SIGCON-SAÍDA o usuário receberá um e-mail para a definição da senha.
 
@@ -38,11 +38,11 @@ Primeiramente, é necessário que os assessores estejam cadastrados no SIGCON-SA
 
 Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e associar o assessor através do menu “Emendas” &gt; “Administração” &gt; “Associar Assessor
 
-![](../.gitbook/assets/3%20%2812%29.png)
+![](../.gitbook/assets/3%20%2816%29.png)
 
 Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta:
 
-![](../.gitbook/assets/4%20%2810%29.png)
+![](https://github.com/marci-pires/manual.sigconsaida/tree/99e0ab1db3397bb9a88470e886dd997e2295ebae/.gitbook/assets/4%20%2810%29.png)
 
 Se o usuário do assessor estiver devidamente cadastrado no SIGCON-SAÍDA, o sistema exibirá o nome dele na tela. Por fim, o usuário deverá clicar em “Associar Assessor”.
 

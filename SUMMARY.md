@@ -13,9 +13,8 @@
 * [Remanejar Recursos](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Ajuste de indicações](emendas/ajuste-de-indicacoes.md)
-* [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/README.md)
-  * [Definir ordem de prioridade das indicações](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/definir-ordem-de-prioridade-das-indicacoes.md)
-  * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)
-  * [Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)
-  * [Untitled](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/untitled.md)
+* [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/README.md)
+  * [Definir ordem de prioridade das indicações](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/definir-ordem-de-prioridade-das-indicacoes.md)
+  * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)
+  * [Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)
 

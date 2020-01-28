@@ -8,13 +8,13 @@ No SIGCON-SAÍDA a ordem das indicações é definida, à princípio, pela ordem
 atenção
 {% endhint %}
 
-![](../.gitbook/assets/0%20%2823%29.png)
+![](../../.gitbook/assets/0%20%2823%29.png)
 
 Para alterar a ordem de prioridade de uma indicação é só preencher na coluna “Prioridade” a ordem que ela deverá assumir. Depois de preencher o campo o sistema atualiza a ordem das prioridades assim que usuário clicar em qualquer outro lugar da tela, mas ainda é necessário clicar no botão “Salvar”, no canto inferior da tela, para que as alterações sejam efetivadas.
 
 Exemplo: se neste campo for preenchido o valor “3”, assim que o usuário clicar em outro lugar da tela o sistema atualizará a ordem de todas as indicações: a indicação que anteriormente estava na posição 1 passará para a posição 3, a indicação que estava na posição 3 passará para a posição 2, e a indicação que estava na posição 2 passará para a posição 1.
 
-![](../.gitbook/assets/1%20%2817%29.png)
+![](../../.gitbook/assets/1%20%2817%29.png)
 
-Caso seja necessário imprimir a lista de prioridades das indicações, sugerimos a utilização do “[Relatório de Valores Indicados](../emendas/consulta-de-informacoes-e-relatorios.md#lista-de-valores-indicados)”, que também contém essa informação.
+Caso seja necessário imprimir a lista de prioridades das indicações, sugerimos a utilização do “[Relatório de Valores Indicados](../consulta-de-informacoes-e-relatorios.md#lista-de-valores-indicados)”, que também contém essa informação.
 
