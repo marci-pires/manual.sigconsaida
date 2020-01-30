@@ -17,7 +17,7 @@ PERIGO
 {% endhint %}
 
 {% hint style="success" %}
-SUCESSO, CORRETO
+SUCESSO, CORRETO, DICAS
 {% endhint %}
 
 
