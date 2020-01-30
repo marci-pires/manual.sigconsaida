@@ -1,18 +1,35 @@
 # Indicação de Recursos
 
-Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu “Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos”, conforme a imagem abaixo:
+Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu`Emendas > Gerenciar Indicações > Indicação de Recursos`, conforme a imagem abaixo:
 
 ![](../.gitbook/assets/0%20%287%29.png)
 
-No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à unidade orçamentária, à ação, ao grupo de despesa e aos valores disponíveis para indicação. A fim de facilitar a localização de incisos, o usuário pode utilizar os campos de busca no canto direito:
+No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à **unidade orçamentária**, à **ação**, ao **grupo de despesa** e aos **valores disponíveis** para indicação. 
 
-![](../.gitbook/assets/1%20%2812%29.png)
+A busca pode ser feita pelo nome do responsável \(1, no lado esquerdo da tela\), por número do inciso ou número da indicação \(2, canto direto da tela\)  
 
-**Utilize os campos de pesquisa para agilizar a busca por um determinado inciso.**
+![](../.gitbook/assets/manual_parlamentares_indicacao_tela-de-indicacao%20%281%29.jpg)
 
-Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis na coluna “INDICAR”, no canto direito da tabela de incisos. Já a opção de “Expandir Inciso” exibe as indicações realizadas naquele inciso e possibilita o cancelamento de indicações já aprovadas.
+{% hint style="info" %}
+Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
+{% endhint %}
 
-Há quatro tipos de indicação de recursos, Caixa Escolar, Resolução, Convênio/Parceria e Execução Direta. As opções de indicação de recursos que estarão disponíveis no inciso irão depender unidade orçamentária, da ação e do grupo de despesa daquele inciso.
+Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](../.gitbook/assets/icone_lapis.jpg) na coluna “INDICAR”, no canto direito da tabela de incisos. 
+
+Já a opção de “EXPANDIR INCISO” ![](../.gitbook/assets/icone_expandir.jpg) exibe as indicações realizadas naquele inciso e possibilita o cancelamento de indicações já aprovadas.
+
+Há quatro tipos de indicação de recursos, 
+
+* **Convênio/Parceria** 
+* **Resolução**
+* **Execução Direta**
+* **Caixa Escolar**
+
+{% hint style="info" %}
+As opções de indicação de recursos que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
+{% endhint %}
+
+Como exemplo, após clicar em editar ![](../.gitbook/assets/icone_lapis.jpg) a seguinte tela aparece com as opções permitidas para aquele inciso
 
 ![](../.gitbook/assets/2%20%2811%29.png)
 
