@@ -1,4 +1,4 @@
-# Remanejar Recursos
+# Como Remanejar Recursos?
 
   
 Os incisos disponíveis inicialmente para que os parlamentares realizem as indicações de recursos são aqueles definidos na LOA. A forma como os recursos estão alocados pode ser modificada durante o período de celebração no SIGCON-SAÍDA, e posteriormente as alterações realizadas por meio dos remanejamentos são formalizadas através de Decreto.

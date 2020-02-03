@@ -1,4 +1,4 @@
-# Ajuste de indicações
+# Ajustar indicação
 
 Nos termos do art. 38-E, §3°, I da Lei de Diretrizes Orçamentárias e do art. 5°, IV, a da Resolução SEGOV N° 688/2018, o parlamentar poderá realizar ajustes nas indicações a fim de sanar determinado impedimento de ordem técnica, desde que haja anuência do órgão executor. Conforme o art. 2°, VII da Resolução SEGOV n° 688/2018, entende-se por ajuste o “procedimento por meio do qual se permite a modificação do tipo de atendimento \(gênero, categoria e especificação\), observado o beneficiário, o valor da emenda e a dotação orçamentária”. Portanto, o ajuste de indicações é um procedimento aplicável somente às indicações de emenda parlamentar do tipo “Instrumento Jurídico”, isto é, para a celebração de convênios, termos de fomento e termos de colaboração.
 
@@ -41,4 +41,58 @@ Ao clicar sobre o ícone de edição é exibida uma janela para alteração do t
 ![](../.gitbook/assets/4%20%2812%29.png)
 
 Após a alteração do tipo de atendimento é só clicar em “Enviar para Aprovação do Órgão”.
+
+Após o período de 60 dias da publicação da LOA, não será mais permitido a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória. Não obstante, nos termos do art. 38-E, §3°, I, da LDO para o exercício de 2019, caso ocorra algum impedimento de ordem técnica relacionado ao tipo de atendimento da indicação, o órgão poderá retornar a indicação para que o parlamentar proceda com o ajuste necessário.
+
+Assim que o órgão retornar a indicação para ajuste do tipo de atendimento o SIGCON-SAÍDA enviará um e-mail automaticamente para o parlamentar, justificando a necessidade do ajuste. Segue abaixo o modelo do e-mail:
+
+![http://200.198.50.65/sigconv2/javax.faces.resource/BrasaoMinas175x172.jpg.jsf?ln=img](../.gitbook/assets/25.jpeg)
+
+## SECRETARIA DE ESTADO DE GOVERNO - SEGOV
+
+Prezado\(a\) informamos que a indicação nº: 2973, da emenda parlamentar de autoria de PARLAMENTAR TESTE SIGCON, foi retornada para ajuste.
+
+Será permitida, neste momento, somente a modificação do tipo de atendimento, observada a legislação.
+
+Seguem abaixo os dados relativos à indicação correspondente:
+
+* Código de indicação: 2973
+* Nº do Inciso / Nº da Emenda: S530 / 175
+* Beneficiário: HMLG PREFEITURA MUNICIPAL DE BELO HORIZONTE
+* Tipo de indicação: CELEBRAÇÃO DE CONVÊNIO
+* Tipo de atendimento / Tipo de aplicação: AQUISIÇÃO DE BENS - Permanente - Equipamento
+* Valor: R$ 2.000,00
+* Responsável: FERNANDO KATSUMI DE ABREU HADA - [fernando.hada@governo.mg.gov.br](mailto:fernando.hada@governo.mg.gov.br)
+* Data/Hora: 24/01/2019 12:00:35
+* Justificativa: Tipo de atendimento inadequado em relação ao projeto apresentado pelo convenente
+
+Atenciosamente,
+
+COORDENAÇÃO DO SIGCON-SAÍDA
+
+Para proceder com o ajuste o usuário deve acessar o menu “Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos”, conforme a imagem abaixo:
+
+![](../.gitbook/assets/26.png)
+
+Em seguida, o usuário deverá identificar o inciso que contém a indicação a ser ajustada e clicar sobre o ícone para “Expandir Inciso”:
+
+![](../.gitbook/assets/27.png)
+
+**Clique sobre o ícone “Expandir Inciso”**
+
+O SIGCON-SAÍDA exibirá as indicações cadastradas inciso selecionado, o usuário identificará aquela que necessita ser ajustada pelo status “Aguardando ajuste parlamentar”.
+
+![](../.gitbook/assets/28.png)
+
+**Clique sobre o ícone “Editar”.**
+
+Após clicar em “Editar”, o sistema exibirá a interface para que o tipo de atendimento seja alterado:
+
+![](../.gitbook/assets/29.png)
+
+**Clicar em “Enviar para Aprovação do Órgão” após alterar as informações do tipo de atendimento da indicação.**
+
+Após o ajuste da indicação é necessário que o órgão para qual ela foi indicada aprove a alteração.
+
+Vale ressaltar que, conforme o art. 5°, III e VI, da Resolução SEGOV n° 688/2018, o ajuste de indicações deverá ser realizado em até 80 após a publicação da LOA, excetos nos casos em que o ajuste trate apenas da edição da categoria e especificação da indicação, neste caso o ajuste poderá ser realizado em até 110 dias após a publicação da LOA. Ou seja, a funcionalidade de ajuste de indicações estará disponível após 60 dias da publicação da LOA; em até 80 dias da publicação da LOA será permitida a alteração do “Gênero” do tipo de atendimento; no período compreendido entre 81 e 110 dias da publicação da LOA será permitida a alteração somente da categoria e da especificação.
 

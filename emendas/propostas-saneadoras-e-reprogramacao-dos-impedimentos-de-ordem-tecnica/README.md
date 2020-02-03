@@ -111,7 +111,9 @@ Ao clicar sobre o status da indicação é possível visualizar o impedimento de
 
 O valor a sanear que será preenchido pelo usuário não poderá ser superior ao valor não utilizado da indicação
 
-**ATENÇÃO:** o parlamentar deve estar atento ao disposto no art. 160, §§ 4° e 6° da Constituição Estadual, segundo o qual 50% dos recursos de emenda parlamentar individual deverão ser executados na Saúde. Caso esse percentual não seja cumprido o SIGCON-SAÍDA impedirá o saneamento das indicações das demais unidades orçamentárias.
+{% hint style="danger" %}
+O parlamentar deve estar atento ao disposto no art. 160, §§ 4° e 6° da Constituição Estadual, segundo o qual 50% dos recursos de emenda parlamentar individual deverão ser executados na Saúde. Caso esse percentual não seja cumprido o SIGCON-SAÍDA impedirá o saneamento das indicações das demais unidades orçamentárias.
+{% endhint %}
 
 Após realizar as etapas descritas acima, o usuário já indicou as propostas saneadoras para as indicações selecionadas e o valor que será remanejado através do Projeto de Lei. No entanto, apesar de já ter informado o valor que será remanejado através do projeto de lei, ainda é preciso informar as dotações orçamentárias para ele. O preenchimento das dotações orçamentárias que serão remanejadas poderá ser realizado na interface de “[Projeto de Lei]()”, para poder realizar esse preenchimento é preciso que o usuário acione o comando “Concluir Saneamento”.
 
@@ -121,7 +123,9 @@ O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o q
 
 É preciso que o usuário clique no comando “Concluir Saneamento” para que possa preencher as dotações orçamentárias do Projeto de Lei.
 
-**ATENÇÃO:** O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o qual o parlamentar não apresentar proposta saneadora ou apontar que esse recurso será remanejado, no prazo de 150 dias após a publicação da LOA \(9 de Junho de 2019\), perderá a impositividade!
+{% hint style="danger" %}
+ O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o qual o parlamentar não apresentar proposta saneadora ou apontar que esse recurso será remanejado, no prazo de 150 dias após a publicação da LOA \(9 de Junho de 2019\), perderá a impositividade!
+{% endhint %}
 
 Remanejamento das programações orçamentárias
 

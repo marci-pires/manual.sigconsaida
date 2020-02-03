@@ -69,5 +69,19 @@ A indicação de recursos de emenda parlamentar sem execução orçamentária e 
 
 ![](../.gitbook/assets/5%20%282%29.png)
 
-## 
+## Tipo de Instrumento
+
+Dependendo do tipo de instrumento a ser celebrado a indicação segue um procedimento diferente
+
+Clique no quadro desejado para ser encaminhado para o tipo de instrumento
+
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md" %}
+
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-resolucao.md" %}
+
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-instrumento-juridico.md" %}
+
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-execucao-direta.md" %}
+
+
 

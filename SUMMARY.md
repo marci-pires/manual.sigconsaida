@@ -9,13 +9,20 @@
 ## Emendas
 
 * [O que são emendas?](emendas/introducao.md)
-* [Como Indicar Recursos?](emendas/indicacao-de-recursos.md)
-* [Indicação de recursos por tipo de instrumento](emendas/indicacao-de-recursos-por-tipo-de-instrumento.md)
-* [Remanejar Recursos](emendas/remanejar-recursos.md)
+* [Como Remanejar Recursos?](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
-* [Ajuste de indicações](emendas/ajuste-de-indicacoes.md)
 * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/README.md)
   * [Definir ordem de prioridade das indicações](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/definir-ordem-de-prioridade-das-indicacoes.md)
   * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica.md)
   * [Indicações de recursos das emendas remanejadas pela Lei nº 3.365/2019](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md)
+
+## INDICAÇÃO
+
+* [Como Indicar Recursos?](indicacao/indicacao-de-recursos.md)
+* [Indicação de recursos por tipo de instrumento](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/README.md)
+  * [Indicação Instrumento Jurídico](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-instrumento-juridico.md)
+  * [Indicação Execução Direta](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-execucao-direta.md)
+  * [Indicação Caixa Escolar](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md)
+  * [Indicação Resolução](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-resolucao.md)
+* [Ajustar indicação](indicacao/ajustar-indicacao.md)
 
