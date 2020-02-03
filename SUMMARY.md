@@ -10,6 +10,7 @@
 
 * [O que são emendas?](emendas/introducao.md)
 * [Como Indicar Recursos?](emendas/indicacao-de-recursos.md)
+* [Indicação de recursos por tipo de instrumento](emendas/indicacao-de-recursos-por-tipo-de-instrumento.md)
 * [Remanejar Recursos](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Ajuste de indicações](emendas/ajuste-de-indicacoes.md)
