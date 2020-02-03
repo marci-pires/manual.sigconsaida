@@ -8,37 +8,41 @@ A indicação de recursos do tipo “Caixa Escolar” é realizada em três etap
 
 A escolha da escola receberá os recursos é feita pelo preenchimento do código da escola.
 
-![](../../.gitbook/assets/20.png)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_lista-de-indicacoes.jpg)
 
-**1. Digite o código da escola.**
+> **Passo-a-passo**
+>
+> 1.  ****Digite o código da escola
+> 2. Clique em "Adicionar"
 
-**Caso o usuário não saiba o código da escola, é possível pesquisa-lo.**
-
-**2.Clique em “Adicionar”.**
+#### Pesquisa de Código da Escola
 
 Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município.
 
-![](../../.gitbook/assets/21.png)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_pesquisa-escola.jpg)
 
-**1.Digite o nome da escola ou município dela.**
+> **Passo-a-passo**
+>
+> 1.  ****Digite o nome da escola ou o município em que ela se localiza
+> 2. Clique em "Pesquisar"
+> 3. Selecione as escolas que serão beneficiárias
+> 4. Clique em "Confirmar"
 
-**2.Clique em “Pesquisar”.**
+### As escolas selecionadas são exibidas na tabela “Entrada”, na qual deverão ser preenchidas as informações referente ao tipo de aplicação e ao valor de cada indicação**.**
 
-![](../../.gitbook/assets/22.png)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_selecao-cx-escolar.jpg)
 
-1.Selecione as escolas que serão beneficiárias
+> **Passo-a-passo**
+>
+> 1.  ****Selecione o tipo de  aplicação.
+> 2. Preencha o valor da indicação
+> 3. Clique em “Enviar Indicações”
 
-2.Clique em “Confirmar”.
+{% hint style="danger" %}
+Atenção quanto ao grupo de despesa do inciso!
+{% endhint %}
 
-As escolas selecionadas são exibidas na tabela “Entrada”, na qual deverão ser preenchidas as informações referente ao tipo de aplicação e ao valor de cada indicação**.**
-
-![](../../.gitbook/assets/23.png)
+Após o preenchimento correto, o sistema irá gerar uma mensagem como a abaixo
 
 ![](../../.gitbook/assets/24.png)
-
-**1.Selecione o tipo de aplicação. Atenção quanto ao grupo de despesa do inciso!**
-
-**2.Preencha o valor da indicação.**
-
-**3.Clique em “Enviar Indicações”.**
 
