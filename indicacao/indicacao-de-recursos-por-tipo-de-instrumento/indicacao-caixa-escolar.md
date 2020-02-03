@@ -26,7 +26,7 @@ Caso o usuário não saiba previamente o código da escola, é possível realiza
 
 ![](../../.gitbook/assets/22.png)
 
-1.Selecione as escolas que serão beneciárias
+1.Selecione as escolas que serão beneficiárias
 
 2.Clique em “Confirmar”.
 
