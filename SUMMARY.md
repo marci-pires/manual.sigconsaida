@@ -22,7 +22,7 @@
 * [Indicação de recursos por tipo de instrumento](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/README.md)
   * [Indicação Instrumento Jurídico](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-instrumento-juridico.md)
   * [Indicação Execução Direta](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-execucao-direta.md)
-  * [Indicação Caixa Escolar](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md)
   * [Indicação Resolução](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-resolucao.md)
+  * [Indicação Caixa Escolar](indicacao/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md)
 * [Ajustar indicação](indicacao/ajustar-indicacao.md)
 
