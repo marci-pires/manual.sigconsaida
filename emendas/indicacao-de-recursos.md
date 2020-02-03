@@ -1,4 +1,8 @@
-# Indicação de Recursos
+# Como Indicar Recursos?
+
+{% hint style="info" %}
+Apenas usuários com o perfil de "Parlamentar" podem indicar recursos
+{% endhint %}
 
 Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu`Emendas > Gerenciar Indicações > Indicação de Recursos`, conforme a imagem abaixo:
 

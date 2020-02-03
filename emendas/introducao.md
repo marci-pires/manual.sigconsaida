@@ -1,4 +1,4 @@
-# Introdução
+# O que são emendas?
 
 O orçamento público é o instrumento pelo qual se prevê a arrecadação das receitas e fixa-se a execução das despesas, para o período de um exercício financeiro, necessárias para o funcionamento e implementação dos serviços e políticas públicas.
 
