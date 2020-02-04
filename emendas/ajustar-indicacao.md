@@ -4,7 +4,13 @@ Nos termos do art. 38-E, §3°, I da Lei de Diretrizes Orçamentárias e do art.
 
 Conforme o art. 2°, VII da Resolução SEGOV n° 688/2018, entende-se por ajuste o “procedimento por meio do qual se permite a modificação do tipo de atendimento \(gênero, categoria e especificação\), observado o beneficiário, o valor da emenda e a dotação orçamentária”. 
 
-Portanto, o ajuste de indicações é um procedimento aplicável somente às indicações de emenda parlamentar do tipo “Instrumento Jurídico”, isto é, para a celebração de convênios, termos de fomento e termos de colaboração.
+{% hint style="danger" %}
+O **ajuste de indicações** é um procedimento limitado às indicações de emenda parlamentar do tipo **"Instrumento Jurídico"**  que são
+
+* Celebração de Convênios
+* Termos de Fomento
+* Termos de Colaboração
+{% endhint %}
 
 ## Premissas para o ajuste de indicações
 
