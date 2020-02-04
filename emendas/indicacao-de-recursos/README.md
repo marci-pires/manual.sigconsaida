@@ -1,41 +1,43 @@
 # Como Indicar Recursos?
 
 {% hint style="info" %}
-Apenas usuários com o perfil de "Parlamentar" podem indicar recursos
+Apenas usuários com o perfil de “Parlamentar” que podem indicar recursos e para emendas de Bloco é necessário ser “Responsável pelo BLOCO”
 {% endhint %}
 
 Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu`Emendas > Gerenciar Indicações > Indicação de Recursos`, conforme a imagem abaixo:
 
-![](../.gitbook/assets/0%20%287%29.png)
+![](../../.gitbook/assets/0%20%287%29.png)
 
 No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à **unidade orçamentária**, à **ação**, ao **grupo de despesa** e aos **valores disponíveis** para indicação. 
 
 A busca pode ser feita pelo nome do responsável \(1, no lado esquerdo da tela\), por número do inciso ou número da indicação \(2, canto direto da tela\)  
 
-![](../.gitbook/assets/manual_parlamentares_indicacao_tela-de-indicacao%20%281%29.jpg)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_tela-de-indicacao%20%281%29.jpg)
 
 {% hint style="info" %}
 Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
 {% endhint %}
 
-Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](../.gitbook/assets/icone_lapis.jpg) na coluna “INDICAR”, no canto direito da tabela de incisos. 
+Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](../../.gitbook/assets/icone_lapis.jpg) na coluna “INDICAR”, no canto direito da tabela de incisos. 
 
-Já a opção de “EXPANDIR INCISO” ![](../.gitbook/assets/icone_expandir.jpg) exibe as indicações realizadas naquele inciso e possibilita o cancelamento de indicações já aprovadas.
+Já a opção de “EXPANDIR INCISO” ![](../../.gitbook/assets/icone_expandir.jpg) exibe as indicações realizadas naquele inciso e possibilita o cancelamento de indicações já aprovadas.
 
-Há quatro tipos de indicação de recursos, 
+Tipos de indicação de recursos: 
 
-* **Convênio/Parceria** 
+* **Celebração de Convênio/Parceria** 
 * **Resolução**
-* **Execução Direta**
-* **Caixa Escolar**
+* **Aplicação Direta - Execução Direta**
+* **Aplicação Direta - Doação de Bens**
+* **Aplicação Direta - Caixa Escolar**
+* **Transferência Especial**
 
 {% hint style="info" %}
 As opções de indicação de recursos que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
 {% endhint %}
 
-Como exemplo, após clicar em editar ![](../.gitbook/assets/icone_lapis.jpg) a seguinte tela aparece com as opções permitidas para aquele inciso
+Como exemplo, após clicar em editar ![](../../.gitbook/assets/icone_lapis.jpg) a seguinte tela aparece com as opções permitidas para aquele inciso
 
-![](../.gitbook/assets/2%20%2811%29.png)
+![](../../.gitbook/assets/2%20%2811%29.png)
 
 ## Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória
 
@@ -49,7 +51,7 @@ Os parlamentares poderão solicitar as indicações após a liberação do SIGCO
 
 Até o prazo de 30 após a liberação do SIGCON-SAÍDA, o saldo disponível para indicação será o valor do inciso, desconsiderando os valores de remanejamento e indicações que já foram solicitados – mesmo que não tenham sido aprovados ainda. Caso alguma indicação seja reprovada por impedimento técnico durante este período, o seu valor será estornado para o saldo disponível para indicações, permitindo que o usuário solicite novas indicações com ele.
 
-![](../.gitbook/assets/3%20%2810%29.png)
+![](../../.gitbook/assets/3%20%2810%29.png)
 
 As indicações realizadas em até 30 dias após a liberação do SIGCON-SAÍDA, em caso de reprovação por impedimento técnico após esta data, terão seu valor disponibilizado para novas indicações e remanejamentos.
 
@@ -59,7 +61,7 @@ Após o prazo de 30 dias da liberação do SIGCON-SAÍDA, o saldo dos incisos qu
 
 Ao solicitar uma indicação de emenda parlamentar no período compreendido entre o 31° dia após a liberação do SIGCON-SAÍDA e o 60° dia após a publicação da LOA, deverá ser selecionado o saldo que será utilizado para realiza-la, considerando-se a distinção entre os dois tipos descritos acima: com possibilidade de remanejamento e sem possibilidade de remanejamento.
 
-![](../.gitbook/assets/4%20%283%29.png)
+![](../../.gitbook/assets/4%20%283%29.png)
 
 Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorres mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
 
@@ -67,7 +69,7 @@ Contudo, após o prazo de 60 dias da publicação da LOA já é possível solici
 
 A indicação de recursos de emenda parlamentar sem execução orçamentária e financeira obrigatória dependerá das diretrizes do governo, por isso o botão para enviar as solicitações de indicação ficará, a princípio, desabilitado.
 
-![](../.gitbook/assets/5%20%282%29.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 
 ## Tipo de Instrumento
 
@@ -75,13 +77,13 @@ Dependendo do tipo de instrumento a ser celebrado a indicação segue um procedi
 
 Clique no quadro desejado para ser encaminhado para o tipo de instrumento
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md" %}
+{% page-ref page="../indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-caixa-escolar.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-resolucao.md" %}
+{% page-ref page="../indicacao-de-recursos-por-tipo-de-instrumento/resolucao.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-instrumento-juridico.md" %}
+{% page-ref page="../indicacao-de-recursos-por-tipo-de-instrumento/celebracao-de-convenio-parceria.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/indicacao-execucao-direta.md" %}
+{% page-ref page="../indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-execucao-direta.md" %}
 
 
 

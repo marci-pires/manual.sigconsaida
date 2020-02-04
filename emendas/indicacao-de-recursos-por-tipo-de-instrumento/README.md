@@ -1,12 +1,12 @@
 # Indicação de recursos por tipo de instrumento
 
-{% page-ref page="indicacao-instrumento-juridico.md" %}
+{% page-ref page="celebracao-de-convenio-parceria.md" %}
 
-{% page-ref page="indicacao-execucao-direta.md" %}
+{% page-ref page="aplicacao-direta-execucao-direta.md" %}
 
-{% page-ref page="indicacao-resolucao.md" %}
+{% page-ref page="resolucao.md" %}
 
-{% page-ref page="indicacao-caixa-escolar.md" %}
+{% page-ref page="aplicacao-direta-caixa-escolar.md" %}
 
 
 

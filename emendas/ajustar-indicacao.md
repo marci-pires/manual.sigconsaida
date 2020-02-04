@@ -7,7 +7,7 @@ Conforme o art. 2°, VII da Resolução SEGOV n° 688/2018, entende-se por ajust
 {% hint style="danger" %}
 O **ajuste de indicações** é um procedimento limitado às indicações de emenda parlamentar do tipo **"Instrumento Jurídico"**  que são
 
-* Celebração de Convênios
+* Celebração de Convênios/Parceria
 * Termos de Fomento
 * Termos de Colaboração
 {% endhint %}

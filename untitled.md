@@ -22,13 +22,13 @@
 [Remanejamento de recursos de emenda parlamentar](emendas/remanejar-recursos.md#remanejamento-de-recursos-de-emenda-parlamentar)
 ```
 
-\*\*\*\*[**Indicação de Recursos**](emendas/indicacao-de-recursos.md)\*\*\*\*
+\*\*\*\*[**Indicação de Recursos**](emendas/indicacao-de-recursos/)\*\*\*\*
 
 ```text
 [Prazos para indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória](emendas/indicacao-de-recursos.md#prazos-para-indicacao-de-recursos-de-emenda-parlamentar-individual-com-execucao-orcamentaria-e-financeira-obrigatoria)
 ```
 
-[ Indicação de recursos por tipo de instrumento](emendas/indicacao-de-recursos.md#indicacao-de-recursos-por-tipo-de-instrumento)
+[ Indicação de recursos por tipo de instrumento](emendas/indicacao-de-recursos/#indicacao-de-recursos-por-tipo-de-instrumento)
 
 ```text
 [Ajustar indicação](emendas/indicacao-de-recursos.md#ajustar-indicacao)
@@ -62,7 +62,7 @@
 [Dos procedimentos e prazos aplicados à execução de programações remanejadas de emendas parlamentares individuais](propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#dos-procedimentos-e-prazos-aplicados-a-execucao-de-programacoes-remanejadas-de-emendas-parlamentares-individuais)
 ```
 
-[Indicação de Recursos](emendas/indicacao-de-recursos.md#indicacao-de-recursos-por-tipo-de-instrumento)
+[Indicação de Recursos](emendas/indicacao-de-recursos/#indicacao-de-recursos-por-tipo-de-instrumento)
 
 [Indicação de Recursos no Período de 28 de setembro de 2019 até 11 de outubro de 2019](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/indicacoes-de-recursos-das-emendas-remanejadas-pela-lei-no-3.365-2019.md#indicacao-de-recursos-no-periodo-de-28-de-setembro-de-2019-ate-11-de-outubro-de-2019)
 
