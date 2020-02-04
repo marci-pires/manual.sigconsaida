@@ -1,12 +1,28 @@
 # Como ajustar uma indicação?
 
-Nos termos do art. 38-E, §3°, I da Lei de Diretrizes Orçamentárias e do art. 5°, IV, a da Resolução SEGOV N° 688/2018, o parlamentar poderá realizar ajustes nas indicações a fim de sanar determinado impedimento de ordem técnica, desde que haja anuência do órgão executor. Conforme o art. 2°, VII da Resolução SEGOV n° 688/2018, entende-se por ajuste o “procedimento por meio do qual se permite a modificação do tipo de atendimento \(gênero, categoria e especificação\), observado o beneficiário, o valor da emenda e a dotação orçamentária”. Portanto, o ajuste de indicações é um procedimento aplicável somente às indicações de emenda parlamentar do tipo “Instrumento Jurídico”, isto é, para a celebração de convênios, termos de fomento e termos de colaboração.
+Nos termos do art. 38-E, §3°, I da Lei de Diretrizes Orçamentárias e do art. 5°, IV, a da Resolução SEGOV N° 688/2018, **o parlamentar poderá realizar ajustes nas indicações a fim de sanar determinado impedimento de ordem técnica, desde que haja anuência do órgão executor**. 
+
+Conforme o art. 2°, VII da Resolução SEGOV n° 688/2018, entende-se por ajuste o “procedimento por meio do qual se permite a modificação do tipo de atendimento \(gênero, categoria e especificação\), observado o beneficiário, o valor da emenda e a dotação orçamentária”. 
+
+Portanto, o ajuste de indicações é um procedimento aplicável somente às indicações de emenda parlamentar do tipo “Instrumento Jurídico”, isto é, para a celebração de convênios, termos de fomento e termos de colaboração.
 
 ## Premissas para o ajuste de indicações
 
-Como a finalidade do ajuste de indicações é sanar um impedimento de ordem técnica, é necessário que tenha ocorrido um impedimento de ordem técnica para que esse procedimento seja realizado. Em termos práticos, não é facultado aos parlamentares ajustar as indicações sem que haja uma orientação dos órgãos em que elas foram realizadas, ou mesmo em um momento anterior à análise da indicação por parte destes. Os Órgãos são responsáveis por retornar as indicações para os parlamentares no SIGCON-SAÍDA para que sejam realizados os ajustes, afinal, os órgãos são responsáveis por verificar a ocorrência de impedimentos de ordem técnica e o ajuste só pode ser realizado com anuência deles.
+Como a finalidade do ajuste de indicações é sanar um impedimento de ordem técnica, é necessário que tenha ocorrido um impedimento de ordem técnica para que esse procedimento seja realizado. Em termos práticos, não é facultado aos parlamentares ajustar as indicações sem que haja uma orientação dos órgãos em que elas foram realizadas, ou mesmo em um momento anterior à análise da indicação por parte destes. 
 
-O ajuste de indicações consiste na alteração do tipo de atendimento das indicações, que caracterizam o objeto do instrumento que será celebrado a partir da indicação. O tipo de atendimento, por sua vez, é composto por três níveis de detalhamento: Gênero, Categoria e Especificação. O Gênero é o nível mais amplo de detalhamento, ele define se o objeto do instrumento a ser celebrado será a realização de uma obra, de um evento, a prestação de serviços ou a aquisição de bens. Justamente por definir o objeto do instrumento que será celebrado, o Gênero não poderá ser alterado após o prazo estabelecido para a entrega de propostas de plano de trabalho, que é de 80 dias após a publicação da LOA \(art. 5°, II da Resolução SEGOV n° 688/2018\). Já o ajuste de indicações relacionado somente à alteração da Categoria e da Especificação poderá ser realizado em até 110 dias da publicação da LOA \(art. 5°, IV da Resolução SEGOV n° 688/2018\).
+Os Órgãos são responsáveis por retornar as indicações para os parlamentares no SIGCON-SAÍDA para que sejam realizados os ajustes, afinal, os órgãos são responsáveis por verificar a ocorrência de impedimentos de ordem técnica e o ajuste só pode ser realizado com anuência deles.
+
+O ajuste de indicações consiste na alteração do tipo de atendimento das indicações, que caracterizam o objeto do instrumento que será celebrado a partir da indicação. 
+
+O tipo de atendimento, por sua vez, é composto por três níveis de detalhamento: 
+
+1. Gênero
+2. Categoria
+3. Especificação. 
+
+Gênero é o nível mais amplo de detalhamento, ele define se o objeto do instrumento a ser celebrado será a realização de uma obra, de um evento, a prestação de serviços ou a aquisição de bens. Justamente por definir o objeto do instrumento que será celebrado, o Gênero não poderá ser alterado após o prazo estabelecido para a entrega de propostas de plano de trabalho, que é de 80 dias após a publicação da LOA \(art. 5°, II da Resolução SEGOV n° 688/2018\) 
+
+ Já o ajuste de indicações relacionado somente à alteração da Categoria e da Especificação poderá ser realizado em até 110 dias da publicação da LOA \(art. 5°, IV da Resolução SEGOV n° 688/2018\).
 
 ## Realizando o ajuste de indicações no SIGCON-SAÍDA
 
