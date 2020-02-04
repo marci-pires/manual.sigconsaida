@@ -22,11 +22,11 @@ O tipo de atendimento, por sua vez, é composto por três níveis de detalhament
 
 Gênero é o nível mais amplo de detalhamento, ele define se o objeto do instrumento a ser celebrado será a realização de uma obra, de um evento, a prestação de serviços ou a aquisição de bens. Justamente por definir o objeto do instrumento que será celebrado, o Gênero não poderá ser alterado após o prazo estabelecido para a entrega de propostas de plano de trabalho, que é de 80 dias após a publicação da LOA \(art. 5°, II da Resolução SEGOV n° 688/2018\) 
 
- Já o ajuste de indicações relacionado somente à alteração da Categoria e da Especificação poderá ser realizado em até 110 dias da publicação da LOA \(art. 5°, IV da Resolução SEGOV n° 688/2018\).
+Já o ajuste de indicações relacionado somente à alteração da Categoria e da Especificação poderá ser realizado em até 110 dias da publicação da LOA \(art. 5°, IV da Resolução SEGOV n° 688/2018\).
 
 ## Realizando o ajuste de indicações no SIGCON-SAÍDA
 
-Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela é alterado para “Aguardando ajuste parlamentar”, no qual será possível editar o seu tipo de atendimento. Além disso, é enviado um e-mail de notificação para que o parlamentar saiba que há uma indicação que deve ser ajustada.
+Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela é alterado para _`Aguardando ajuste parlamentar`_, no qual será possível editar o seu tipo de atendimento. Além disso, é enviado um e-mail de notificação para que o parlamentar saiba que há uma indicação que deve ser ajustada.
 
 A alteração do tipo de atendimento é realizada na tela de visualização das indicações do inciso. Primeiramente, o usuário deverá acessar o menu Emendas &gt; Gerenciar Indicações &gt; Indicação de Recursos.
 
