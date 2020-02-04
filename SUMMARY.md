@@ -16,7 +16,7 @@
   * [Indicação Resolução](emendas/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-resolucao.md)
   * [Indicação Caixa Escolar](emendas/indicacao-de-recursos-por-tipo-de-instrumento/indicacao-caixa-escolar.md)
   * [Transferência Especial](emendas/indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md)
-* [Como ajustar uma indicação?](emendas/ajustar-indicacao.md)
+* [Como Ajustar uma Indicação?](emendas/ajustar-indicacao.md)
 * [Como Remanejar Recursos?](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Propostas saneadoras e reprogramação dos impedimentos de ordem técnica](emendas/propostas-saneadoras-e-reprogramacao-dos-impedimentos-de-ordem-tecnica/README.md)

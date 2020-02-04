@@ -1,4 +1,4 @@
-# Como ajustar uma indicação?
+# Como Ajustar uma Indicação?
 
 Nos termos do art. 38-E, §3°, I da Lei de Diretrizes Orçamentárias e do art. 5°, IV, a da Resolução SEGOV N° 688/2018, **o parlamentar poderá realizar ajustes nas indicações a fim de sanar determinado impedimento de ordem técnica, desde que haja anuência do órgão executor**. 
 
@@ -58,7 +58,9 @@ Ao clicar sobre o ícone de edição é exibida uma janela para alteração do t
 
 Após a alteração do tipo de atendimento é só clicar em “Enviar para Aprovação do Órgão”.
 
-Após o período de 60 dias da publicação da LOA, não será mais permitido a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória. Não obstante, nos termos do art. 38-E, §3°, I, da LDO para o exercício de 2019, caso ocorra algum impedimento de ordem técnica relacionado ao tipo de atendimento da indicação, o órgão poderá retornar a indicação para que o parlamentar proceda com o ajuste necessário.
+Após o período de 60 dias da publicação da LOA, não será mais permitido a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória. 
+
+Não obstante, nos termos do art. 38-E, §3°, I, da LDO para o exercício de 2019, caso ocorra algum impedimento de ordem técnica relacionado ao tipo de atendimento da indicação, o órgão poderá retornar a indicação para que o parlamentar proceda com o ajuste necessário.
 
 Assim que o órgão retornar a indicação para ajuste do tipo de atendimento o SIGCON-SAÍDA enviará um e-mail automaticamente para o parlamentar, justificando a necessidade do ajuste. Segue abaixo o modelo do e-mail:
 
