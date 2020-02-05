@@ -10,15 +10,15 @@ Para ter acesso ao SIGCON – Saída, é necessário primeiramente que o parlame
 Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída digitando o login registrado no ADSEG e a senha do mesmo.
 {% endhint %}
 
-![](../.gitbook/assets/manual_parlamentares_pagina-inicial_solicitar-login-senha.jpg)
+Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "ENTRAR" no canto direito da tela.
 
-### Após ter clicado "Solicitar / Recuperar Login e Senha", você será redirecionado para uma página e deverá selecionar no menu "SOLICITAR LOGIN/SENHA" a opção "PARLAMENTAR" e clicar no botão "CADASTRAR"
+![](../.gitbook/assets/image%20%282%29.png)
+
+### Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro" a opção "PARLAMENTAR" e clicar no botão "CADASTRAR"
 
 ![](../.gitbook/assets/manual_parlamentares_solicitar-login-senha.jpg)
 
 Após clicar no botão, você será redirecionado para uma página do Google Forms.
-
-![](../.gitbook/assets/manual_parlamentares_solicitar-login-senha_forms.jpg)
 
 {% hint style="danger" %}
 Todas as informações solicitadas são obrigatórias. Preencha todo o formulário com cuidado e atenção
