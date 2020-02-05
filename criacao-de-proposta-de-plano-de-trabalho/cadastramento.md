@@ -46,17 +46,27 @@ A mensagem de atenção na imagem acima é muito importante.
 Poderá ser cadastrada uma Proposta mesmo o Concedente estando BLOQUEADO no CAGEC caso ele se enquadre em um Tipo de Repasse Especial: **Educação, Saúde, Assistência Social, Calamidade Pública ou Repasse MGI – Calamidade Pública**
 {% endhint %}
 
-{% hint style="danger" %}
-Caso algum dado esteja incorreto, entre no Fale Conosco do Cagec e preencha o formulário [http://www.portalcagec.mg.gov.br/fale-conosco/](http://www.portalcagec.mg.gov.br/fale-conosco/) 
-
-Após a atualização voltar nessa tela e clicar novamente na lupa para carregar os dados novamente 
-{% endhint %}
-
 A única informação que não é obrigatória e que pode ser alterada ao ser importada do CAGEC é a data de vencimento do mandato do Responsável Legal e o Cargo.
 
 Complete essas informações e prossiga
 
 ![](../.gitbook/assets/manual_convenentes_proposta_identificacao%20%281%29.jpg)
 
+{% hint style="danger" %}
+Caso algum dado esteja incorreto, siga as orientações do Manual de Utilização do CAGEC - [https://manual.portalcagec.mg.gov.br/atualizacoes/atualizacao-de-dados](https://manual.portalcagec.mg.gov.br/atualizacoes/atualizacao-de-dados)
+
+Após a atualização voltar nessa tela e clicar novamente na lupa para carregar os dados novamente 
+{% endhint %}
+
+Por fim, selecione o "Tipo de Instrumento" e Clique em ![](../.gitbook/assets/image%20%286%29.png) 
+
 ![](../.gitbook/assets/manual_convenentes_proposta_caracterizacao.jpg)
+
+### Caso o Convenente permita Repasse de Natureza Especial e for o caso da proposta a ser gerada, selecione o tipo de instrumento e marque "sim" na opção de repasse e selecione, em seguida, a natureza especial. 
+
+#### É muito importante, também, digitar a Fundamentação Legal
+
+![](../.gitbook/assets/manual_convenentes_proposta_caracterizacao_repasse-especial.jpg)
+
+Seguiremos para o preenchimento da proposta!
 
