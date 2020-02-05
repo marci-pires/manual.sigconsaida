@@ -1,2 +1,0 @@
-# Indicação de Bloco
-

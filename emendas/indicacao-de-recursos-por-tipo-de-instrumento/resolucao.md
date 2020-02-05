@@ -38,7 +38,7 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 > 3. Clique em "Enviar Indicações"
 
 {% hint style="danger" %}
-**Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV n. 666/2018.**
+**Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV vigente no ano.**
 {% endhint %}
 
 ![](../../.gitbook/assets/18.png)

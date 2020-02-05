@@ -8,9 +8,9 @@
 
 ## Emendas
 
-* [O que são emendas?](emendas/introducao.md)
-* [Como Indicar Recursos?](emendas/indicacao-de-recursos/README.md)
-  * [Indicação de Bloco](emendas/indicacao-de-recursos/indicacao-de-bloco.md)
+* [O que são emendas?](emendas/introducao/README.md)
+  * [Prazos](emendas/introducao/prazos.md)
+* [Como Indicar Recursos?](emendas/indicacao-de-recursos.md)
 * [Indicação de recursos por tipo de instrumento](emendas/indicacao-de-recursos-por-tipo-de-instrumento/README.md)
   * [Celebração de Convênio/Parceria](emendas/indicacao-de-recursos-por-tipo-de-instrumento/celebracao-de-convenio-parceria.md)
   * [Aplicação Direta - Doação de Bens](emendas/indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-doacao-de-bens.md)
