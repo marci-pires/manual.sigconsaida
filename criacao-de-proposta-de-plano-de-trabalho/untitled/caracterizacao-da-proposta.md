@@ -2,15 +2,23 @@
 
 ## Caracterização da Proposta
 
+**TÍTULO:** Campo obrigatório onde deve ser digitado a Finalidade Macro do Convênio
+
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+**REPASSE DE NATUREZA ESPECIAL:** Caso o convênio a ser celebrado se enquadre no Parágrafo 3º Art. 25 da LRF, deverá ser marcado a opção desejada, inserindo a respectiva **Fundamentação Legal**   
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
 
 
 ## Lista de Emendas Parlamentares
 
-
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ## Contrapartida
 
-
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ### Lista de Dotações Orçamentárias
 
@@ -49,19 +57,19 @@ Caso você tenha utilizado algum recurso de Emenda, já virá listado o Tipo de 
 
 Após adicionar o Tipo de Atendimento ele aparecerá na **Lista de Tipos de Atendimento**, para inserir os valores respectivos as Origens de Recursos anteriormente selecionada basta clicar no ícone  ![](../../.gitbook/assets/icone_lapis.jpg) e as opções estarão disponíveis.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Endereço da obra ou local do evento, de prestação de serviço ou de entrega do bem \(dependendo do objeto\)
 
-
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ### Lista de Endereços
 
-
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ## Pessoas Beneficiadas Diretamente
 
-
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ## Vigência
 
@@ -73,7 +81,7 @@ Caso você tenha utilizado algum recurso de Emenda, já virá listado o Tipo de 
 
 ## Equipe executora do Convênio/Parceria de saída
 
-
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ### Responsável pela documentação de celebração e termos aditivos
 
