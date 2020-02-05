@@ -44,14 +44,12 @@ Caso você tenha utilizado algum recurso de Emenda, já virá listado o Tipo de 
 {% endhint %}
 
 {% hint style="info" %}
-  
-  
-Se não encontrar o Tipo de Atendimento que se enquadre, você deverá entrar em contado com o Concedente do Convênio e solicitar mais informações.
+Se não encontrar o Tipo de Atendimento que se enquadre, você deverá entrar em contado com o Concedente do Convênio e solicitar mais informações.
 {% endhint %}
 
-### Lista de Tipos de Atendimento
+Após adicionar o Tipo de Atendimento ele aparecerá na **Lista de Tipos de Atendimento**, para inserir os valores respectivos as Origens de Recursos anteriormente selecionada basta clicar no ícone  ![](../../.gitbook/assets/icone_lapis.jpg) e as opções estarão disponíveis.
 
-
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ## Endereço da obra ou local do evento, de prestação de serviço ou de entrega do bem \(dependendo do objeto\)
 
