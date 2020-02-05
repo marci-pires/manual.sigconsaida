@@ -8,7 +8,7 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 ![](../../.gitbook/assets/tipo_doacao_bens.png)
 
-#### Seleção de Beneficiário
+### Seleção de Beneficiário
 
 ![](../../.gitbook/assets/pesquisa_beneficiario_doacao_bens.png)
 

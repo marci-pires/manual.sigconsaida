@@ -18,7 +18,7 @@
   * [Resolução](emendas/indicacao-de-recursos-por-tipo-de-instrumento/resolucao.md)
   * [Aplicação Direta - Caixa Escolar](emendas/indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-caixa-escolar.md)
   * [Transferência Especial](emendas/indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md)
-* [Como Ajustar uma Indicação?](emendas/ajustar-indicacao.md)
+* [Ajuste do Tipo de Atendimento](emendas/ajuste-do-tipo-de-atendimento.md)
 * [Como Remanejar Recursos?](emendas/remanejar-recursos.md)
 * [Consulta de informações e relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Priorização de Indicação](emendas/priorizacao-de-indicacao.md)

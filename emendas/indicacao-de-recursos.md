@@ -75,5 +75,9 @@ Clique no quadro desejado para ser encaminhado para o tipo de instrumento
 
 {% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-execucao-direta.md" %}
 
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-doacao-de-bens.md" %}
+
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md" %}
+
 
 
