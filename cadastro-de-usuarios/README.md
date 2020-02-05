@@ -12,9 +12,9 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "ENTRAR" no canto direito da tela.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/trocar_senha.png)
 
-### Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro"
+### 2 - Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro"
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -26,7 +26,25 @@ Então, clique em "Abrir Chamado"
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
+### 3 - Trocar Senha
 
+{% hint style="info" %}
+Na próxima tela escolha qual usuário você pertence.
+{% endhint %}
+
+![](../.gitbook/assets/qual_usuario_pertence.png)
+
+{% hint style="info" %}
+Clique no botão Realizar troca de Senha
+{% endhint %}
+
+![](../.gitbook/assets/troca_senha.png)
+
+{% hint style="info" %}
+Preencha o Formulário
+{% endhint %}
+
+![](../.gitbook/assets/preencha_form.png)
 
 ## ASSOCIAR ASSESSORES
 
