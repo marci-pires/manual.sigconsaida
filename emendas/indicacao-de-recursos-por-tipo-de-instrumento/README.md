@@ -10,5 +10,9 @@
 
 {% page-ref page="transferencia-especial.md" %}
 
+{% page-ref page="aplicacao-direta-doacao-de-bens.md" %}
+
+
+
 
 

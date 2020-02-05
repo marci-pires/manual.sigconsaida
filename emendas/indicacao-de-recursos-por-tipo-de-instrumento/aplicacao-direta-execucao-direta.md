@@ -45,9 +45,9 @@ Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual 
 
 Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações. 
 
-Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
-
 ![](../../.gitbook/assets/13.png)
+
+Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
 
 ![](../../.gitbook/assets/14%20%281%29.png)
 
