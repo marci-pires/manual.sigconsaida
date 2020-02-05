@@ -12,23 +12,21 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "ENTRAR" no canto direito da tela.
 
+![](../.gitbook/assets/image%20%283%29.png)
+
+### Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro"
+
 ![](../.gitbook/assets/image%20%282%29.png)
 
-### Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro" a opção "PARLAMENTAR" e clicar no botão "CADASTRAR"
+Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo de Minas"
 
-![](../.gitbook/assets/manual_parlamentares_solicitar-login-senha.jpg)
+![](../.gitbook/assets/image%20%284%29.png)
 
-Após clicar no botão, você será redirecionado para uma página do Google Forms.
+Então, clique em "Abrir Chamado"
 
-{% hint style="danger" %}
-Todas as informações solicitadas são obrigatórias. Preencha todo o formulário com cuidado e atenção
+![](../.gitbook/assets/image%20%285%29.png)
 
-O e-mail informado no pré-cadastrado é o e-mail que receberá a senha de acesso do usuário.
-{% endhint %}
 
-A partir desse momento, a solicitação de entrada no sistema é encaminhada para que a Coordenação do SIGCON-SAÍDA faça os demais ajustes necessários.
-
-Após a configuração do usuário pela Coordenação do SIGCON-SAÍDA o usuário receberá um e-mail para a definição da senha.
 
 ## ASSOCIAR ASSESSORES
 
