@@ -22,7 +22,7 @@
 * [Como Remanejar Recursos?](emendas/remanejar-recursos.md)
 * [Relatórios](emendas/consulta-de-informacoes-e-relatorios.md)
 * [Priorização de Indicação](emendas/priorizacao-de-indicacao.md)
-* [Cancelar um indicação](emendas/cancelar-um-indicacao.md)
+* [Cancelar uma indicação](emendas/cancelar-um-indicacao.md)
 * [CRIAÇÃO DE PROPOSTA DE PLANO DE TRABALHO](criacao-de-proposta-de-plano-de-trabalho/README.md)
   * [CADASTRAMENTO](criacao-de-proposta-de-plano-de-trabalho/cadastramento.md)
   * [PROPOSTA](criacao-de-proposta-de-plano-de-trabalho/untitled/README.md)
