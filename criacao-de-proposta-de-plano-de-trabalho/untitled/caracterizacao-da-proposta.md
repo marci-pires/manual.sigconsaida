@@ -10,11 +10,16 @@
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-
+**ORIGEM DOS RECURSOS:** Deverá ser informada neste momento de onde os Recursos são provenientes
 
 ## Lista de Emendas Parlamentares
 
+Caso for um repasse de “Emenda Parlamentar”, deverá ser marcado o “sim"
+
 ![](../../.gitbook/assets/image%20%2814%29.png)
+
+  
+ Após ser selecionado “sim” o sistema exibirá lista ordenada por Tipo de Atendimento contendo os valores disponíveis para utilização em seguida basta clicar no ícone de   **Expandir**    ****para utilizar o valor da emenda
 
 ## Contrapartida
 
