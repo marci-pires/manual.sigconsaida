@@ -29,7 +29,7 @@
     * [Identificação do Concedente/Órgão ou Entidade Estadual Parceiro](criacao-de-proposta-de-plano-de-trabalho/untitled/identificacao-do-concedente-orgao-ou-entidade-estadual-parceiro.md)
     * [Identificação do Convenente/OSC Parceira](criacao-de-proposta-de-plano-de-trabalho/untitled/identificacao-do-convenente-osc-parceira.md)
     * [Identificação do Interveniente](criacao-de-proposta-de-plano-de-trabalho/untitled/identificacao-do-interveniente.md)
-    * [Caracterização da Proposta](criacao-de-proposta-de-plano-de-trabalho/untitled/caracterizacao-da-proposta.md)
+    * [Caracterização da Proposta - CONVÊNIO](criacao-de-proposta-de-plano-de-trabalho/untitled/caracterizacao-da-proposta.md)
     * [Cronograma de Execução](criacao-de-proposta-de-plano-de-trabalho/untitled/cronograma-de-execucao.md)
     * [Plano de Aplicação de Recursos](criacao-de-proposta-de-plano-de-trabalho/untitled/plano-de-aplicacao-de-recursos.md)
     * [Cronograma de Desembolso dos Recursos](criacao-de-proposta-de-plano-de-trabalho/untitled/cronograma-de-desembolso-dos-recursos.md)
