@@ -2,27 +2,44 @@
 
 ## METAS
 
-No Cronograma de Execução, clicar em ![](../../.gitbook/assets/image%20%2830%29.png) 
-
-![](../../.gitbook/assets/image%20%2832%29.png)
-
-
-
-![](../../.gitbook/assets/image%20%288%29.png)
-
-
+No Cronograma de Execução, clicar em ![](../../.gitbook/assets/image%20%2831%29.png) 
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+Para incluir uma meta, digite a descrição dela no campo "Descrição" e depois clique em ![](../../.gitbook/assets/icone_salvar.jpg) 
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
+Logo após, você voltará para a tela com as metas. Agora, é momento de incluir um novo tipo de atendimento para aquela meta específica. Selecione a meta desejada e clique em ![](../../.gitbook/assets/icone_incluir-novo-tipo-de-atendimento.jpg) 
 
+![](../../.gitbook/assets/image%20%2834%29.png)
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+Uma caixa de texto abrirá e você poderá selecionar o tipo de atendimento.
 
+![](../../.gitbook/assets/image%20%2814%29.png)
 
+> **Passo-a-passo**
+>
+> 1. Selecione o Tipo de Atendimento desejado
+> 2. Clique em ![](../../.gitbook/assets/icone_salvar.jpg)
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+Agora, de volta para a tela de Metas, selecione a linha desejada e clique ![](../../.gitbook/assets/image%20%282%29.png) 
+
+![](../../.gitbook/assets/image%20%2839%29.png)
+
+Na caixa aberta, siga os passos a seguir:
+
+![](../../.gitbook/assets/image%20%2843%29.png)
+
+> Passo-a-passo
+>
+> 1. Digite a descrição
+> 2. Especifique a duração daquela etapa
+> 3. Clique em ![](../../.gitbook/assets/icone_salvar.jpg)
+
+No final dessas três etapas, a página estará atualizada como a imagem abaixo \(marcado em amarelo\)
+
+![](../../.gitbook/assets/image%20%2827%29.png)
+
+Agora, passaremos para o Plano de Aplicação de Recursos
 

@@ -58,7 +58,7 @@ Caso algum dado esteja incorreto, siga as orientações do Manual de Utilizaçã
 Após a atualização voltar nessa tela e clicar novamente na lupa para carregar os dados novamente 
 {% endhint %}
 
-Por fim, selecione o "Tipo de Instrumento" e Clique em ![](../.gitbook/assets/image%20%2831%29.png) 
+Por fim, selecione o "Tipo de Instrumento" e Clique em ![](../.gitbook/assets/image%20%2832%29.png) 
 
 ![](../.gitbook/assets/manual_convenentes_proposta_caracterizacao.jpg)
 
