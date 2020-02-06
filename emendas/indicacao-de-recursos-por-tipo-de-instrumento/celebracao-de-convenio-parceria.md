@@ -1,6 +1,12 @@
 # Celebração de Convênio/Parceria
 
-A indicação de recursos do tipo “Celebração de Convênio/Parceria” resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado, que repassará os recursos indicados pelo parlamentar, e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação, que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada. Antes de selecionar a opção de indicação do tipo “Instrumento Jurídico”, convém verificar no anexo da Resolução SEGOV vigente no ano, se o mesmo item não está disponível através da opção “Execução Direta”.
+A indicação de recursos do tipo “Celebração de Convênio/Parceria” resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado \(que repassará os recursos indicados pelo parlamentar\) e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação \(que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada\).
+
+Antes de selecionar a opção de indicação do tipo “Instrumento Jurídico”, convém verificar no anexo da Resolução SEGOV vigente no ano, se o mesmo item não está disponível através da opção “Execução Direta”.
+
+{% hint style="info" %}
+
+{% endhint %}
 
 A indicação de recursos para a celebração de convênios e parcerias é realizada em três etapas
 
@@ -14,7 +20,7 @@ A definição de como os recursos serão utilizados é feita através do preench
 
  É importante ressaltar que as opções de preenchimento do tipo de atendimento são exibidas conforme o grupo de despesa do inciso, por exemplo
 
-Se o grupo de despesa do inciso for `Investimentos`, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
+Se o grupo de despesa do inciso for **Investimentos**, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
 
 ![](../../.gitbook/assets/manual_parlamentares_indicacao_inciso.jpg)
 

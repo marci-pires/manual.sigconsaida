@@ -20,11 +20,9 @@ Após o prazo de 30 dias da liberação do SIGCON-SAÍDA, o saldo dos incisos qu
 
 Ao solicitar uma indicação de emenda parlamentar no período compreendido entre o 31° dia após a liberação do SIGCON-SAÍDA e o 60° dia após a publicação da LOA, deverá ser selecionado o saldo que será utilizado para realiza-la, considerando-se a distinção entre os dois tipos descritos acima: com possibilidade de remanejamento e sem possibilidade de remanejamento.
 
-Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorrer mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
+Após o prazo de 60 dias da publicação da LOA não será permitida a indicação de recursos de emenda parlamentar individual com execução orçamentária e financeira obrigatória, e valor de todas as indicações reprovadas por impedimento técnico após esse período será reservado para o projeto de lei a que se refere o art. 160, §8, III da Constituição Estadual. Vale ressaltar que a reprovação por impedimento técnico poderá ocorres mesmo após a aprovação da indicação pela SEGOV, devido à problemas na celebração do instrumento jurídico proveniente da indicação.
 
 Contudo, após o prazo de 60 dias da publicação da LOA já é possível solicitar indicações de emenda parlamentar individual sem execução orçamentária e financeira obrigatória. Portanto, o valor disponível para indicações após 60 dias da publicação da LOA corresponde ao restante dos recursos de emenda parlamentar que não foram indicados até esta data e que por isso já não tem execução orçamentária e financeira obrigatória.
 
-{% hint style="warning" %}
 A indicação de recursos de emenda parlamentar sem execução orçamentária e financeira obrigatória dependerá das diretrizes do governo, por isso o botão para enviar as solicitações de indicação ficará, a princípio, desabilitado.
-{% endhint %}
 

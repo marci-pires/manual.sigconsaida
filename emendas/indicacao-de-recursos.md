@@ -67,15 +67,15 @@ Dependendo do tipo de instrumento a ser celebrado a indicação segue um procedi
 
 Clique no quadro desejado para ser encaminhado para o tipo de instrumento
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/celebracao-de-convenio-parceria.md" %}
-
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-doacao-de-bens.md" %}
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-caixa-escolar.md" %}
 
 {% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/resolucao.md" %}
 
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/celebracao-de-convenio-parceria.md" %}
+
 {% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-execucao-direta.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-caixa-escolar.md" %}
+{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-doacao-de-bens.md" %}
 
 {% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md" %}
 
