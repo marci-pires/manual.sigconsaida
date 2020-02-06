@@ -10,6 +10,8 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 ### Seleção de Beneficiário
 
+Na página seguinte, preencha os campos de acordo com o passo-a-passo abaixo!
+
 ![](../../.gitbook/assets/pesquisa_beneficiario_doacao_bens.png)
 
 ![](../../.gitbook/assets/adicionar_b_doacoes_bens.png)
@@ -20,13 +22,14 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 >
 > 1.  ****Preencher o CNPJ, a razão social ou o município do beneficiário para pesquisar
 > 2. Clicar em “Pesquisar”
+>
+>    Selecione a caixinha com o ✅ para marcar o beneficiário de interesse
+>
 > 3. Clique em "Adicionar" beneficiário
 > 4. Selecione o Tipo de Aplicação
-> 5. Preenche a Descrição
+> 5. Preencha a Descrição
 > 6. Insira o  valor
-> 7. Clique em Enviar Indicações
-
-
+> 7. Clique em "Enviar Indicações"
 
 {% hint style="danger" %}
 **Cuidado para selecionar um tipo de aplicação que não condiz com o grupo de despesa do inciso – na dúvida, consultem a Resolução SEGOV vigente no ano.**

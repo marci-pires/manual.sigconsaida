@@ -16,7 +16,11 @@ A [Emenda Constitucional nº 96/2018](https://www.almg.gov.br/consulte/legislaca
 * Determinou a publicidade da execução das indicações de emendas individuais: os Poderes Executivo, Legislativo e Judiciário, o Ministério Público e a Defensoria Pública deverão manter a relação das programações incluídas por emendas individuais na internet, contendo os detalhes sobre o instrumento de execução, o beneficiário, eventuais impedimentos, o estágio de execução da despesa, entre outros
 * Retirou a exigência de adimplência dos municípios com o Estado para receber recursos de transferência voluntária.
 
-Vale ressaltar que a Emenda Constitucional n° 96/2018 também instituiu novos prazos e procedimentos para a realização das indicações de emendas individuais. Não obstante, os prazos e procedimentos estabelecidos na Constituição Estadual também foram abordados pela Lei de Diretrizes Orçamentárias de 2019 \([Lei 23.086/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?ano=2018&num=23086&tipo=LEI)\) e pela [Resolução SEGOV n° 688/2018](http://www.sigconsaida.mg.gov.br/images/resolucoes/resolucao_segov_688_2018_12_28.pdf), que detalhou o processo para apresentação, registro e operacionalização das emendas individuais. A legislação mencionada e os prazos e procedimentos estabelecidos por ela são apresentados resumidamente em seguida, já que eles fundamentam o as funcionalidades do SIGCON-SAÍDA, e detalhada nos demais capítulos deste manual.
+Vale ressaltar que a Emenda Constitucional n° 96/2018 também instituiu novos prazos e procedimentos para a realização das indicações de emendas individuais. 
+
+Não obstante, os prazos e procedimentos estabelecidos na Constituição Estadual também foram abordados pela Lei de Diretrizes Orçamentárias de 2019 \([Lei 23.086/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?ano=2018&num=23086&tipo=LEI)\) e pela [Resolução SEGOV n° 688/2018](http://www.sigconsaida.mg.gov.br/images/resolucoes/resolucao_segov_688_2018_12_28.pdf), que detalhou o processo para apresentação, registro e operacionalização das emendas individuais. 
+
+A legislação mencionada e os prazos e procedimentos estabelecidos por ela são apresentados resumidamente em seguida, já que eles fundamentam o as funcionalidades do SIGCON-SAÍDA, e detalhada nos demais capítulos deste manual.
 
 
 
