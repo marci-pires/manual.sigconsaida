@@ -17,7 +17,7 @@ Concedente é o órgão ou entidade pertencente à Administração Pública Esta
 
 ### Pesquisa de CNPJ do CONVENENTE
 
-{% hint style="success" %}
+{% hint style="info" %}
 O **Convenente** é a Administração Pública Municipal, a Entidade Sem Fins Lucrativos ou a Entidade Pública responsável pela execução do objeto conveniado.
 {% endhint %}
 

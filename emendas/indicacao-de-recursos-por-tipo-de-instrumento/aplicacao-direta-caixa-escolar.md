@@ -4,11 +4,7 @@ A indicação do tipo “Caixa Escolar” consiste na aplicação dos recursos d
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas:
-
-1. A **escolha da escola** que receberá os recursos;
-2. **Como** os recursos serão aplicados;
-3. O **montante** que será indicado.
+A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas, quais sejam: a escolha da escola receberá os recursos, como os recursos serão aplicados e o montante que será indicado.
 
 A escolha da escola receberá os recursos é feita pelo preenchimento do código da escola.
 
@@ -21,7 +17,7 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 #### Pesquisa de Código da Escola
 
-Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município ou nome da escola
+Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município.
 
 ![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_pesquisa-escola.jpg)
 
