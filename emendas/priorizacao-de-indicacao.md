@@ -1,6 +1,6 @@
 # Priorização de Indicação
 
-A priorização pode ser acessada a partir do menu “Emendas” &gt; “Gerenciar Indicações”&gt; "Priorização das Indicações Impositivas", conforme a imagem abaixo:
+A priorização pode ser acessada a partir do menu `Emendas > Gerenciar Indicações > Priorização das Indicações Impositivas`conforme a imagem abaixo:
 
 ![](../.gitbook/assets/menu_priorizacao.PNG)
 
