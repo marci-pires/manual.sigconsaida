@@ -132,9 +132,9 @@ A Justificativa Fundamentada deve
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-### Responsável pela documentação de celebração e termos aditivos
+Responsável pela documentação de celebração e termos aditivos
 
-### Responsável pelo monitoramento da execução do Convênio/Parceria de saída
+Responsável pelo monitoramento da execução do Convênio/Parceria de saída
 
-### Responsável pela prestação de contas
+Responsável pela prestação de contas
 
