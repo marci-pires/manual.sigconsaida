@@ -17,6 +17,8 @@ Uma nova linha será adicionada no Demonstrativo de Recursos. Para prosseguir, s
 > 5. Marque o "Tipo de Despesa" - que podem ser Custos Indiretos, Despesa com Pessoal, Diária de Viagens, Material, Outros, Serviço
 > 6. Clique no ![](../../.gitbook/assets/image%20%2824%29.png) para "Vincular Etapa"aquele Item
 
+Vincular uma etapa no item é importante para deixar claro como serão gastos os recursos no decorrer do período de vigência do convênio.
+
 ![](../../.gitbook/assets/image%20%2844%29.png)
 
 > **Passo-a-passo**
