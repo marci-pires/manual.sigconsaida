@@ -56,5 +56,5 @@ Na tela do Plano de Aplicações, o arquivo aparecerá na Lista de Anexos. O usu
 
 Depois de preencher o Plano de Aplicação de Recursos completamente, seguiremos para o Cronograma de Desembolso. 
 
-                                                             Clique aqui para prosseguir no manual ![](../../.gitbook/assets/09c847_67c52440eeba464e968e0198f776eb08_mv2-1.gif) 
+                                                             Clique aqui para prosseguir no manual ![](../../.gitbook/assets/09c847_67c52440eeba464e968e0198f776eb08_mv2-2.gif) 
 
