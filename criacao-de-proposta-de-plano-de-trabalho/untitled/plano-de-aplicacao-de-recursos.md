@@ -30,3 +30,5 @@ Depois das inserções, a tela mostrará as aplicações dos recursos
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
+
+
