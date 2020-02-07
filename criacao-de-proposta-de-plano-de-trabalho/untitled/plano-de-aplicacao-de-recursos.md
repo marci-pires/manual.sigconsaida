@@ -1,8 +1,10 @@
 # Plano de Aplicação de Recursos
 
-Para "Adicionar Demonstrativo de Recursos" clique em 
+Para "Adicionar Demonstrativo de Recursos" clique em ![](../../.gitbook/assets/image%20%2846%29.png) 
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+Uma nova linha será adicionada no Demonstrativo de Recursos. Para prosseguir, siga o passo-a-passo abaixo
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
 
@@ -32,7 +34,7 @@ Depois das inserções, a tela mostrará as aplicações dos recursos
 
 ![](../../.gitbook/assets/image%20%2843%29.png)
 
-Caso deseje excluir um item, clique na ![](../../.gitbook/assets/image%20%2859%29.png) 
+Caso deseje excluir um item, clique na ![](../../.gitbook/assets/image%20%2860%29.png) 
 
 ### Equipe de trabalho
 
@@ -40,7 +42,7 @@ Caso deseje excluir um item, clique na ![](../../.gitbook/assets/image%20%2859%2
 
 Clique em ![](../../.gitbook/assets/image%20%2841%29.png) e adicione o documento desejado
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 Selecione um arquivo no seu computador e clique em "abrir"
 
@@ -52,9 +54,9 @@ Em seguida, clique em ![](../../.gitbook/assets/icone_salvar.jpg)
 
 ![](../../.gitbook/assets/image%20%2823%29.png)
 
-Na tela do Plano de Aplicações, o arquivo aparecerá na Lista de Anexos. O usuário pode visualizar o arquivo clicando na ![](../../.gitbook/assets/image%20%2835%29.png) ou excluir-lo clicando no ![](../../.gitbook/assets/image%20%2866%29.png) 
+Na tela do Plano de Aplicações, o arquivo aparecerá na Lista de Anexos. O usuário pode visualizar o arquivo clicando na ![](../../.gitbook/assets/image%20%2835%29.png) ou excluir-lo clicando no ![](../../.gitbook/assets/image%20%2867%29.png) 
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 Depois de preencher o Plano de Aplicação de Recursos completamente, seguiremos para o Cronograma de Desembolso. 
 
