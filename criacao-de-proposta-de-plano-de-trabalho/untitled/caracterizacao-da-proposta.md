@@ -4,7 +4,7 @@
 
 **TÍTULO:** Campo obrigatório onde deve ser digitado a Finalidade Macro do Convênio
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 **REPASSE DE NATUREZA ESPECIAL:** Caso o convênio a ser celebrado se enquadre no Parágrafo 3º Art. 25 da LRF, deverá ser marcado a opção desejada, inserindo a respectiva **Fundamentação Legal**   
 
@@ -18,12 +18,12 @@ Caso for um repasse de “Emenda Parlamentar”, deverá ser marcado o “sim"
 
 Se não for repasse de “Emenda Parlamentar”, basta marcar como “não” e dar prosseguimento na Proposta.
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
   
  Após ser selecionado “sim” o sistema exibirá lista ordenada por Tipo de Atendimento contendo os valores disponíveis para utilização em seguida basta clicar no ícone de   **Expandir**    ****para utilizar o valor da emenda
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 Após ter clicado em Expandir abrirá tela onde conterá a lista de Valores a serem Utlizados separado por Responsável da Indicação
 
@@ -88,7 +88,7 @@ Caso você tenha utilizado algum recurso de Emenda, já virá listado o Tipo de 
 
 Após adicionar o Tipo de Atendimento ele aparecerá na **Lista de Tipos de Atendimento**, para inserir os valores respectivos as Origens de Recursos anteriormente selecionada basta clicar no ícone  ![](../../.gitbook/assets/icone_lapis.jpg) e as opções estarão disponíveis.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ## Endereço da obra ou local do evento, de prestação de serviço ou de entrega do bem \(dependendo do objeto\)
 
@@ -96,13 +96,13 @@ Caso você tenha utilizado algum recurso de Emenda, já virá listado o Tipo de 
 
 Para localizar a Latitude e Longitude, é necessário ter preenchido o campo de Número/KM\* e clicar em Buscar Coordenadas por Endereço. Após ter preenchido os campos basta clicar em SALVAR ENDEREÇO para adicionar o endereço na Lista de Endereços do futuro Convênio.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 ### Lista de Endereços
 
 A Justificativa Fundamentada deve
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 ## Pessoas Beneficiadas Diretamente
 
@@ -110,13 +110,13 @@ A Justificativa Fundamentada deve
 
  Logo em seguida, digite a “Quantidade” de pessoas beneficiárias
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ## Vigência
 
 Campo destinado ao número de dias “próximo a realidade”, do tempo necessário para a execução completa do objeto do Convênio,
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 ## Conta Específica
 
@@ -124,7 +124,7 @@ A Justificativa Fundamentada deve
 Preencher todos os campos corretamente. A correta informação da conta, facilita o pagamento rápido e correto do convênio/parceria.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ## Equipe executora do Convênio/Parceria de saída
 

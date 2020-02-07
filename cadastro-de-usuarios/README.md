@@ -20,11 +20,11 @@ Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "
 
 Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo de Minas"
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 ### 3 - Trocar Senha
 
