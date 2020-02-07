@@ -16,15 +16,15 @@ Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "
 
 ### 2 - Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro"
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo de Minas"
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ### 3 - Trocar Senha
 
