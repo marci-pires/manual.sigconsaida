@@ -6,7 +6,7 @@ Depois do cadastro inicial, entramos na parte de preenchimento da proposta do pl
 
 O cabeçalho contêm as informações referentes à proposta
 
-Logo abaixo, temos os menus "sanfonados" e que tratam de diversos temas. Iremos tratar cada um deles mais profundamente nas seções seguintes!
+Logo abaixo, temos os menus "sanfonados" que tratam de diversos temas. Iremos tratar cada um deles mais profundamente nas seções seguintes!
 
 {% page-ref page="identificacao-do-concedente-orgao-ou-entidade-estadual-parceiro.md" %}
 
