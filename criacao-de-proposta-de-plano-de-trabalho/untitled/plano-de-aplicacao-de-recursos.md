@@ -1,5 +1,7 @@
 # Plano de Aplicação de Recursos
 
+Para "Adicionar Demonstrativo de Recursos" clique em 
+
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
