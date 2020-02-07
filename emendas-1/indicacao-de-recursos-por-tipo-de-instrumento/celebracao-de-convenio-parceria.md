@@ -4,10 +4,6 @@ A indicação de recursos do tipo “Celebração de Convênio/Parceria” resul
 
 Antes de selecionar a opção de indicação do tipo “Instrumento Jurídico”, convém verificar no anexo da Resolução SEGOV vigente no ano, se o mesmo item não está disponível através da opção “Execução Direta”.
 
-{% hint style="info" %}
-
-{% endhint %}
-
 A indicação de recursos para a celebração de convênios e parcerias é realizada em três etapas
 
 1. **Como** os recursos serão utilizados
