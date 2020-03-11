@@ -24,7 +24,7 @@ Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo d
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 ### 3 - Trocar Senha
 
@@ -48,7 +48,7 @@ Preencha o Formulário
 
 ## ASSOCIAR ASSESSORES
 
-A princípio, somente o usuário do parlamentar poderá solicitar remanejamentos e indicações, bem como acompanhar o andamento das solicitações realizadas no SIGCON-SAÍDA. No entanto, como a delegação dessas tarefas é algo costumas, o parlamentar poderá autorizar seus assessores a realizar essas tarefas com o usuário deles no SIGCON-SAÍDA. Dessa forma, o desempenho dessas atividades pode ser realizado sem a necessidade de compartilhar o usuário do parlamentar com diversas pessoas, o que é prejudicial para a segurança das informações.
+A princípio, somente o usuário do parlamentar poderá solicitar remanejamentos e indicações, bem como acompanhar o andamento das solicitações realizadas no SIGCON-SAÍDA. No entanto, como a delegação dessas tarefas é algo comum, o parlamentar poderá autorizar seus assessores a realizar essas tarefas com o usuário deles no SIGCON-SAÍDA. Dessa forma, o desempenho dessas atividades pode ser realizado sem a necessidade de compartilhar o usuário do parlamentar com diversas pessoas, o que é prejudicial para a segurança das informações.
 
 Primeiramente, é necessário que os assessores estejam cadastrados no SIGCON-SAÍDA. O procedimento para cadastro dos usuários dos assessores no SIGCON-SAÍDA é idêntico ao dos usuários dos parlamentares.
 
@@ -56,9 +56,9 @@ Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e a
 
 ![](../.gitbook/assets/3%20%2816%29.png)
 
-Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta:
+Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta
 
-![](https://github.com/marci-pires/manual.sigconsaida/tree/99e0ab1db3397bb9a88470e886dd997e2295ebae/.gitbook/assets/4%20%2810%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 Se o usuário do assessor estiver devidamente cadastrado no SIGCON-SAÍDA, o sistema exibirá o nome dele na tela. Por fim, o usuário deverá clicar em “Associar Assessor”.
 

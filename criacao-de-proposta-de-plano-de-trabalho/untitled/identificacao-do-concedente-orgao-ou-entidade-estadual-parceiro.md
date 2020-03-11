@@ -10,5 +10,5 @@ O art. 3° do Decreto n° 46.319/2013 lista todos os agentes que estão vedados 
 
 Identifique o Concedente/órgão ou Entidade Estadual Parceira
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
