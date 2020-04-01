@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manual de Utilização SIGCON-SAÍDA](README.md)
+* [MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA](README.md)
 * [O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
 * [LOGIN E SENHA](login-e-senha/README.md)
   * [Novo Usuário](login-e-senha/novo-usuario.md)

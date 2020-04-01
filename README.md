@@ -2,7 +2,7 @@
 description: Manual do Usuário - Módulo de Emendas Parlamentares
 ---
 
-# Manual de Utilização SIGCON-SAÍDA
+# MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA
 
 Prezados usuários,
 
