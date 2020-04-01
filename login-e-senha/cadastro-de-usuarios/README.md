@@ -12,19 +12,19 @@ Com o registro já efetuado no ADSEG basta entrar no Portal do SIGCON – Saída
 
 Acesse o portal [sigconsaida.mg.gov.br](www.sigconsaida.mg.gov.br) e clique em "ENTRAR" no canto direito da tela.
 
-![](../.gitbook/assets/trocar_senha.png)
+![](../../.gitbook/assets/trocar_senha.png)
 
 ### 2 - Após ter clicado "Recuperar Login/Senha", você será redirecionado para uma página e deverá selecionar no menu "Preciso solicitar meu cadastro"
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo de Minas"
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 ### 3 - Trocar Senha
 
@@ -32,19 +32,19 @@ Então, clique em "Abrir Chamado"
 Na próxima tela escolha qual usuário você pertence.
 {% endhint %}
 
-![](../.gitbook/assets/qual_usuario_pertence.png)
+![](../../.gitbook/assets/qual_usuario_pertence.png)
 
 {% hint style="info" %}
 Clique no botão Realizar troca de Senha
 {% endhint %}
 
-![](../.gitbook/assets/troca_senha.png)
+![](../../.gitbook/assets/troca_senha.png)
 
 {% hint style="info" %}
 Preencha o Formulário
 {% endhint %}
 
-![](../.gitbook/assets/preencha_form.png)
+![](../../.gitbook/assets/preencha_form.png)
 
 ## ASSOCIAR ASSESSORES
 
@@ -54,15 +54,15 @@ Primeiramente, é necessário que os assessores estejam cadastrados no SIGCON-SA
 
 Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e associar o assessor através do menu “Emendas” &gt; “Administração” &gt; “Associar Assessor
 
-![](../.gitbook/assets/3%20%2816%29.png)
+![](../../.gitbook/assets/3%20%2816%29.png)
 
 Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 Se o usuário do assessor estiver devidamente cadastrado no SIGCON-SAÍDA, o sistema exibirá o nome dele na tela. Por fim, o usuário deverá clicar em “Associar Assessor”.
 
-![](../.gitbook/assets/5%20%283%29.png)
+![](../../.gitbook/assets/5%20%283%29.png)
 
 O sistema exibirá a mensagem de sucesso, e os assessores associados podem ser visualizados na tabela “Assessores Cadastrados”.
 

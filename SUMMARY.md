@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Manual de Utilização SIGCON-SAÍDA](README.md)
-* [Conteúdo](untitled.md)
 * [O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
-* [Cadastro de Usuários - PARLAMENTARES](cadastro-de-usuarios/README.md)
-  * [RECUPERAR LOGIN/SENHA PARLAMENTARES](cadastro-de-usuarios/recuperar-login-senha-parlamentares.md)
+* [LOGIN E SENHA](login-e-senha/README.md)
+  * [Cadastro de Usuários - PARLAMENTARES](login-e-senha/cadastro-de-usuarios/README.md)
+    * [RECUPERAR LOGIN/SENHA PARLAMENTARES](login-e-senha/cadastro-de-usuarios/recuperar-login-senha-parlamentares.md)
 * [EMENDAS](emendas-1/README.md)
   * [O que são emendas?](emendas-1/introducao.md)
   * [Como Indicar Recursos?](emendas-1/indicacao-de-recursos.md)
