@@ -12,7 +12,7 @@
 [ASSOCIAR ASSESSORES](cadastro-de-usuarios/#associar-assessores)
 ```
 
-\*\*\*\*[**Introdução**](emendas-1/introducao/)\*\*\*\*
+\*\*\*\*[**Introdução**](emendas-1/introducao.md)\*\*\*\*
 
 \*\*\*\*[**Remanejar recursos**](emendas-1/remanejar-recursos.md)\*\*\*\*
 
