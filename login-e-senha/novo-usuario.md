@@ -4,36 +4,31 @@
 
 ## LOGIN CPF
 
-Passo 1. O usuário deverá abrir uma nova janela no Google Chrome, Mozilla Firefox ou Internet Explorer
+> Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Organização da Sociedade Civil\)
 
-Passo 2. O usuário deverá digitar na barra de endereço
+**Passo 1 -** O usuário deverá abrir uma nova janela no Google Chrome![](../.gitbook/assets/image%20%283%29.png) , Mozilla Firefox ![](../.gitbook/assets/image%20%2856%29.png) ou Internet Explorer ![](../.gitbook/assets/image%20%2825%29.png); Depois disso, deverá digitar na barra de endereço [www.sigconsaida.mg.gov.br](http://www.sigconsaida.mg.gov.br/) e clicar em ENTRAR \(no canto superior direito da tela\)
 
- ****  
-Passo 3. O usuário deverá passar o mouse na palavra ENTRAR e clicar em Recuperar Login/Senha:  
+![](../.gitbook/assets/sigcon-pag-inicial.png)
 
+**Passo 2 -** Depois de ser redirecionado para a página de login, o usuário deverá clicar em ![](../.gitbook/assets/image%20%2857%29.png) 
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjQ5OTQsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.3SetnMf9L-zQQ20ZvJE2CS10ZdY4WFBsk7aKpU2mOis)  
-  
-**Passo 4. O usuário deverá clicar em "Preciso solicitar meu cadastro" :**
+![](../.gitbook/assets/sigcon-login_novo-usuario.png)
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUwMTIsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.dwQE8mCS4iLZ0n1Wu_tYEPNR6YYJPJWjYcMlwhqHEx4)
+**Passo 3 -** O usuário deverá clicar em "Prefeituras e Organizações da Sociedade Civil"
 
-Passo 5. O usuário deverá clicar em "Prefeituras e Organizações da Sociedade Civil":  
+![](../.gitbook/assets/login_prefeitura.png)
 
+**Passo 4 -** Então, o usuário deve clicar em ![](../.gitbook/assets/image%20%2883%29.png) 
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUwMjcsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.oT7V0fKUjFxVV08AKlNyvOnRZuhTZhTv3a4981QeeLo)  
-****Passo 6. O usuário deverá clicar em Pré Cadastro:  
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxMDQsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.KgFmJxd4S8UXWGNxYnG67Htc4ecCLU5t4j_5lokGviQ)  
-  
-****Passo 7. O usuário deverá preencher o CPF e CNPJ e clicar em “ENVIAR” :  
+![](../.gitbook/assets/login_prefeitura_pre-cadastro.png)
 
+**Passo 5 -** O usuário deve preencher os campos corretamente
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNDMsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.P2Vc7QMz2Ehfpb7uOBRP1ZN582yjMNbmVC5JZlo6IK0)  
-  
-****Passo 8. O usuário deverá preencher todos os campos \(CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail\).:
+![](../.gitbook/assets/login_prefeitura_pre-cadastro2.png)
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNTIsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.QTPe_90yc5A-cvYoJ6wD5D-zfNdzkpwr2B_Nqpgo8Ig)  
-****Passo 9. O usuário deverá clicar em “Enviar”. Passo 10. O usuário receberá no e-mail cadastrado uma mensagem com o link para a geração de senha pessoal.Passo 11. O usuário deverá acessar o e-mail informado no momento do pré-cadastro no SIGCON-MG – Módulo Saída.Passo 12. O usuário deverá clicar no link contido na mensagem.  Será exibida tela com o CPF como usuário:
+{% hint style="info" %}
+O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
+{% endhint %}
 
 ![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30._M3VpJdDX0Oty_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)  
  **Passo 13. O usuário deverá digitar sua senha atendendo aos seguintes critérios de segurança:               - Mínimo de 6 caracteres alfanuméricos \(inclui letras maiúscula/minúscula e caracteres especiais\)                - A senha deve conter pelo menos uma letra e um número.  

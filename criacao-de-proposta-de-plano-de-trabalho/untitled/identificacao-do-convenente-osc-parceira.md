@@ -2,5 +2,5 @@
 
 Caso deseje, o convenente pode ser atualizado nesse momento. Basta atualizar o CNPJ e Salvar
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
