@@ -3,7 +3,7 @@
 * [Manual de Utilização SIGCON-SAÍDA](README.md)
 * [O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
 * [LOGIN E SENHA](login-e-senha/README.md)
-  * [NOVO USUÁRIO](login-e-senha/novo-usuario.md)
+  * [Novo Usuário](login-e-senha/novo-usuario.md)
   * [Problemas com Login](login-e-senha/problemas-com-login.md)
   * [Problemas com a Senha](login-e-senha/problemas-com-a-senha.md)
   * [RECUPERAR LOGIN/SENHA PARLAMENTARES](login-e-senha/recuperar-login-senha-parlamentares.md)

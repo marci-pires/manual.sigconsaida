@@ -8,7 +8,9 @@ description: >-
 
 ## Para começar, qual é o seu problema?
 
-* Sou um novo usuário, o que faço?
-* Problema com o Login
-* Problema com a SENHA
-* 
+{% page-ref page="novo-usuario.md" %}
+
+{% page-ref page="problemas-com-login.md" %}
+
+{% page-ref page="problemas-com-a-senha.md" %}
+
