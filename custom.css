@@ -1,3 +1,6 @@
+bookdown::gitbook:
+  css: "custom.css"
+
 body {
   text-align: justify;
  }
