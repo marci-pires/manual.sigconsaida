@@ -6,7 +6,7 @@ description: Manual do Usuário - Módulo de Emendas Parlamentares
 
 Prezados usuários,
 
-Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema  ~~SIGCON-SAÍDA~~
+Esse manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema  SIGCON-SAÍDA
 
 ### A navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
