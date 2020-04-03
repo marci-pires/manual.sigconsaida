@@ -24,7 +24,7 @@
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro.png)
 
-**Passo 5 -** O usuário deve preencher os campos corretamente
+**Passo 5 -** O usuário deve preencher os campos corretamente:
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro2.png)
 
@@ -32,17 +32,21 @@
 O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 {% endhint %}
 
+**Passo 6** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
+
 ![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30._M3VpJdDX0Oty_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)  
- **Passo 6 -** O usuário deverá digitar sua senha atendendo aos seguintes critérios de segurança:     
+****
 
-- Mínimo de 6 caracteres alfanuméricos \(inclui letras maiúscula/minúscula e caracteres especiais\)
+**Passo 7 -** O usuário deverá digitar sua senha atendendo aos seguintes critérios de segurança:     
 
- - A senha deve conter pelo menos uma letra e um número.
+> **- Mínimo de 6 caracteres alfanuméricos \(inclui letras maiúscula/minúscula e caracteres especiais\)**
+>
+>  **- A senha deve conter pelo menos uma letra e um número.**
 
   
-**Passo 7 -**  O usuário deverá repetir a nova senha criada.
+**Passo 8 -**  O usuário deverá repetir a nova senha criada.
 
-**Passo 8 -** Clicar em “Salvar”. 
+**Passo 9 -** Clicar em “Salvar”. 
 
 \*\*\*\*
 
@@ -59,8 +63,6 @@ O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 **Passo 1** - ****O Prefeito/Representante Legal do convenente deverá abrir uma nova janela no Google Chrome, Mozilla Firefox  ou Internet Explorer ![](http://sigconsaida.mg.gov.br/images/tutoriais/02/logo_internet_explorer.png)
 
 **Passo 2** - O Prefeito/Representante Legal do convenente deverá digitar na barra de endereço: [http://www.sigconsaida.mg.gov.br](http://www.sigconsaida.mg.gov.br)
-
-[![](http://sigconsaida.mg.gov.br/images/tutoriais/02/tela_1.png)](http://saida.convenios.mg.gov.br/)
 
 **Passo 3** - O Prefeito/Representante Legal do convenente deverá passar o mouse em cima da palavra ENTRAR e clicar em Recuperar Login/Senha:
 
