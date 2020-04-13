@@ -10,7 +10,7 @@ Por meio das emendas os parlamentares procuram aperfeiçoar a proposta encaminha
 
 A Constituição Estadual, por meio das Emendas Constitucionais nºs 96/2018, 100/2019 e 101/2019, dispõe sobre os parâmetros para a realização das emendas parlamentares individuais e de bloco ou bancada, as quais são de execução orçamentária e financeira obrigatória pelo Poder Executivo
 
-Para o exercício de 2020, ressalta-se:
+### Para o exercício de 2020, ressalta-se:
 
 *  O Ato de Disposições Constitucionais Transitórias \(ADCT\) estabeleceu o **limite de 0,8% da Receita Corrente Liquida** para a **aprovação de emendas individuais** para o exercício de 2020, sendo que **50%** \(cinquenta por cento\) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
 * O ADCT estabeleceu, ainda, o **limite de 0,0017% da Receita Corrente Liquida** para a **aprovação de emendas de blocos e bancadas**, por deputado integrante do bloco ou da bancada, sendo **no mínimo 50%** \(cinquenta por cento\) desse percentual destinado a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino;
