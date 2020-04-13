@@ -8,19 +8,16 @@ O orçamento público é instituído na forma da Lei Orçamentária Anual \(LOA\
 
 Por meio das emendas os parlamentares procuram aperfeiçoar a proposta encaminhada pelo Poder Executivo, visando uma melhor alocação dos recursos públicos.
 
-A [Emenda Constitucional nº 96/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=EMC&num=96&comp=&ano=2018) dispôs sobre novos parâmetros para a realização das emendas parlamentares individuais, tais como
+A Constituição Estadual, por meio das Emendas Constitucionais nºs 96/2018, 100/2019 e 101/2019, dispõe sobre os parâmetros para a realização das emendas parlamentares individuais e de bloco ou bancada, as quais são de execução orçamentária e financeira obrigatória pelo Poder Executivo
 
-* Estabeleceu o limite de 0,7% da Receita Corrente Liquida para a aprovação de emendas individuais a partir do exercício de 2019, aumentando progressivamente até atingir em 2022 o limite de 1%, sendo que 50% desse limite percentual deve ser destinado a ações e serviços públicos de saúde
-* Determinou a execução obrigatória e equitativa das emendas individuais: as programações orçamentárias incluídas através de emendas parlamentares individuais são de execução obrigatória, que deve ser realizada de forma igualitária e impessoal;
-* Estabeleceu um critério caso seja necessário contingenciar as despesas provenientes de emendas individuais: caso não haja recursos disponíveis para executar equitativamente as despesas cuja programação seja proveniente de emenda parlamentar, o contingenciamento dessas despesas deverá observar a prioridade das indicações, definida pelos próprios parlamentares, sem se sujeitar à discricionariedade do Poder Executivo
-* Determinou a publicidade da execução das indicações de emendas individuais: os Poderes Executivo, Legislativo e Judiciário, o Ministério Público e a Defensoria Pública deverão manter a relação das programações incluídas por emendas individuais na internet, contendo os detalhes sobre o instrumento de execução, o beneficiário, eventuais impedimentos, o estágio de execução da despesa, entre outros
-* Retirou a exigência de adimplência dos municípios com o Estado para receber recursos de transferência voluntária.
+Para o exercício de 2020, ressalta-se:
 
-Vale ressaltar que a Emenda Constitucional n° 96/2018 também instituiu novos prazos e procedimentos para a realização das indicações de emendas individuais. 
+*  O Ato de Disposições Constitucionais Transitórias \(ADCT\) estabeleceu o **limite de 0,8% da Receita Corrente Liquida** para a **aprovação de emendas individuais** para o exercício de 2020, sendo que **50%** \(cinquenta por cento\) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
+* O ADCT estabeleceu, ainda, o **limite de 0,0017% da Receita Corrente Liquida** para a **aprovação de emendas de blocos e bancadas**, por deputado integrante do bloco ou da bancada, sendo **no mínimo 50%** \(cinquenta por cento\) desse percentual destinado a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino;
+* **É vedado** o cômputo de qualquer percentual de restos a pagar das programações orçamentárias para o cumprimento da execução orçamentária e financeira das emendas individuais;
+* Para emendas de **bloco ou bancada**, poderão ser consideradas, para o cômputo da execução orçamentária, as despesas inscritas em restos a pagar relativas às emendas de aplicação direta, até o limite de 50% \(cinquenta por cento\) do valor dessas emendas;
+* **Exceção à exigência** de adimplência dos municípios com o Estado para receber recursos de transferência voluntária de emendas impositivas.
 
-Não obstante, os prazos e procedimentos estabelecidos na Constituição Estadual também foram abordados pela Lei de Diretrizes Orçamentárias de 2019 \([Lei 23.086/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?ano=2018&num=23086&tipo=LEI)\) e pela [Resolução SEGOV n° 688/2018](http://www.sigconsaida.mg.gov.br/images/resolucoes/resolucao_segov_688_2018_12_28.pdf), que detalhou o processo para apresentação, registro e operacionalização das emendas individuais. 
-
-A legislação mencionada e os prazos e procedimentos estabelecidos por ela são apresentados resumidamente em seguida, já que eles fundamentam o as funcionalidades do SIGCON-SAÍDA, e detalhada nos demais capítulos deste manual.
-
-
+  
+Vale ressaltar que  os prazos e procedimentos para cumprimento do disposto na Constituição Estadual foram regulamentados pela Lei de Diretrizes Orçamentárias de 2020[ \(Lei 23.364/2019\)](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?ano=2019&num=23364&tipo=LEI%20) e pela [Resolução SEGOV n° 743/2020](http://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/resolucoes/resolucao_segov_743_2020.pdf), que detalhou o processo para apresentação, registro e operacionalização das emendas individuais e de bloco ou bancada.
 
