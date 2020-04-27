@@ -20,6 +20,8 @@
     * [Transferência Especial](emendas-1/indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md)
   * [Ajuste do Tipo de Atendimento](emendas-1/ajuste-do-tipo-de-atendimento.md)
   * [Como Remanejar Recursos?](emendas-1/remanejar-recursos.md)
+  * [Informar Diligência](emendas-1/informar-diligencia/README.md)
+    * [Órgão](emendas-1/informar-diligencia/orgao.md)
   * [Relatórios](emendas-1/consulta-de-informacoes-e-relatorios.md)
   * [Priorização de Indicação](emendas-1/priorizacao-de-indicacao.md)
   * [Cancelar uma indicação](emendas-1/cancelar-um-indicacao.md)
