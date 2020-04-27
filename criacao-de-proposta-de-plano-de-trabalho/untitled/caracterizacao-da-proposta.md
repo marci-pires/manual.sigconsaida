@@ -23,7 +23,7 @@ Se não for repasse de “Emenda Parlamentar”, basta marcar como “não” e 
   
  Após ser selecionado “sim” o sistema exibirá lista ordenada por Tipo de Atendimento contendo os valores disponíveis para utilização em seguida basta clicar no ícone de   **Expandir**    ****para utilizar o valor da emenda
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 Após ter clicado em Expandir abrirá tela onde conterá a lista de Valores a serem Utlizados separado por Responsável da Indicação
 
@@ -102,7 +102,7 @@ Para localizar a Latitude e Longitude, é necessário ter preenchido o campo de 
 
 A Justificativa Fundamentada deve
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 ## Pessoas Beneficiadas Diretamente
 
@@ -116,7 +116,7 @@ A Justificativa Fundamentada deve
 
 Campo destinado ao número de dias “próximo a realidade”, do tempo necessário para a execução completa do objeto do Convênio,
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 ## Conta Específica
 

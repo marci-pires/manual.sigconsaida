@@ -22,6 +22,7 @@
   * [Como Remanejar Recursos?](emendas-1/remanejar-recursos.md)
   * [Informar Diligência](emendas-1/informar-diligencia/README.md)
     * [Órgão](emendas-1/informar-diligencia/orgao.md)
+    * [Parlamentar](emendas-1/informar-diligencia/parlamentar.md)
   * [Relatórios](emendas-1/consulta-de-informacoes-e-relatorios.md)
   * [Priorização de Indicação](emendas-1/priorizacao-de-indicacao.md)
   * [Cancelar uma indicação](emendas-1/cancelar-um-indicacao.md)

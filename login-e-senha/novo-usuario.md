@@ -20,7 +20,7 @@
 
 ![](../.gitbook/assets/login_prefeitura.png)
 
-**Passo 4 -** Então, o usuário deve clicar em ![](../.gitbook/assets/image%20%2894%29.png) 
+**Passo 4 -** Então, o usuário deve clicar em ![](../.gitbook/assets/image%20%2895%29.png) 
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro.png)
 

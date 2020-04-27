@@ -20,7 +20,7 @@ description: Gerenciar diligência órgão
 
 4. Uma nova tela será aberta com as informações da indicação selecionada, um campo de texto para escrever e um botão para Enviar a diligência  conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 5. Após clicar no botão Enviar diligência um número de controle será gerado e exibido na coluna número da diligência na tabela com informações da indicação  conforme a imagem abaixo:
 
@@ -36,11 +36,11 @@ Nesse ponto sua diligencia já foi registrada e um comunicado será enviado por 
 
 1. Para gerenciar as diligências clique no botão gerenciar diligência conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 2.  Após clicar no botão uma nova tela será aberta listando todas as diligencias informadas:
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 3.  Utilização do filtro de pesquisa
 

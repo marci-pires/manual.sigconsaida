@@ -24,7 +24,7 @@ Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo d
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 ### 3 - Trocar Senha
 
