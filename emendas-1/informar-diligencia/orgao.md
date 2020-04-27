@@ -8,7 +8,7 @@ description: Gerenciar diligência órgão
 
 1. Para informar uma diligência o usuário deve acessar o menu  `Emendas > Gerenciar Indicações > Aprovação de indicação - órgão`, conforme a imagem abaixo:
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 2. Na próxima tela será exiba a lista das Indicações do órgão:
 
@@ -20,7 +20,7 @@ description: Gerenciar diligência órgão
 
 4. Uma nova tela será aberta com as informações da indicação selecionada, um campo de texto para escrever e um botão para Enviar a diligência  conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 5. Após clicar no botão Enviar diligência um número de controle será gerado e exibido na coluna número da diligência na tabela com informações da indicação  conforme a imagem abaixo:
 
@@ -28,7 +28,7 @@ description: Gerenciar diligência órgão
 Nesse ponto sua diligencia já foi registrada e um comunicado será enviado por e-mail ao parlamentar. 
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 > Para fechar a janela clique no botão voltar
 
@@ -36,11 +36,11 @@ Nesse ponto sua diligencia já foi registrada e um comunicado será enviado por 
 
 1. Para gerenciar as diligências clique no botão gerenciar diligência conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 2.  Após clicar no botão uma nova tela será aberta listando todas as diligencias informadas:
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 3.  Utilização do filtro de pesquisa
 
@@ -52,7 +52,7 @@ Os seguintes campos estão habilitados para fazer o filtro:
 
 
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 > Após preencher os campos desejados é só clicar no botão "Filtrar Diligência" que a lista será recarregada conforme o filtro selecionado.
 
@@ -68,11 +68,18 @@ Para visualizar a justificativa da diligência clica no link "Abrir diligência"
 
 5.  Fechar um diligência
 
-| Para fechar uma diligência clica no seguinte botão![](../../.gitbook/assets/image%20%2871%29.png)correspondente a diligência a ser fechada |
+| Para fechar uma diligência clica no seguinte botão![](../../.gitbook/assets/image%20%2872%29.png)correspondente a diligência a ser fechada |
 | :--- |
 | Depois que a diligencia é fechada um e-mail será enviado para o parlamentar com informações do fechamento da diligência  e o botão ficará desabilitado conforme imagem abaixo: |
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
+6. Visualizar Diligências no Plano de Trabalho
 
+{% hint style="info" %}
+As diligências também poderão ser visualizadas no plano de trabalho.   
+Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%2855%29.png)
 

@@ -24,7 +24,7 @@ Em seguida, selecione a opção "Usuário da Assembleia Legislativa do Governo d
 
 Então, clique em "Abrir Chamado"
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 ### 3 - Trocar Senha
 
@@ -58,7 +58,7 @@ Em seguida, o parlamentar deverá acessar o SIGCON-SAÍDA com o seu usuário e a
 
 Na tela para associar o assessor, o parlamentar deverá preencher o usuário do assessor que será associado, e o sistema verificará se o usuário informado está devidamente cadastrado no SIGCON-SAÍDA. Se o cadastro do usuário do assessor não estiver concluído, será exibida uma mensagem de alerta
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 Se o usuário do assessor estiver devidamente cadastrado no SIGCON-SAÍDA, o sistema exibirá o nome dele na tela. Por fim, o usuário deverá clicar em “Associar Assessor”.
 
