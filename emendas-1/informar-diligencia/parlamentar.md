@@ -14,7 +14,7 @@ description: Tem a permissão de visualizar todas as diligências atribuídas a 
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
-3. Visualizar a diligência recebida
+3. Visualizar a justificativa da diligência recebida
 
 {% hint style="info" %}
 Para visualizar a justificativa da diligência clica no link "Abrir diligência" conforme imagem abaixo:
