@@ -70,7 +70,7 @@ Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 5.  Cadastrar data de publicação
 
 {% hint style="info" %}
-Selecione a transferência e digite a data no campo de publicação e clique no botão salvar
+Selecione a transferência e digite a data no campo data de publicação e clique no botão salvar
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2886%29.png)
