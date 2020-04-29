@@ -1,6 +1,6 @@
 # Termo Aditivo
 
-Para cadastrar um novo termo aditivo, o usuário deve localizar o convênio a ser alterado através do menu `“Convênios” >”Pesquisar Proposta/ Plano de Trabalho/ Convênio`
+Para cadastrar um novo termo aditivo, o usuário deve localizar o convênio a ser alterado através do menu `Convênios >Pesquisar Proposta/ Plano de Trabalho/ Convênio`
 
 Na tela de pesquisa, o usuário deve preencher o campo “número” com o número do convênio e selecionar a opção “convênio” na situação
 
