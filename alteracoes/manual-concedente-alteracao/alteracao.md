@@ -1,4 +1,4 @@
-# Alteração Simples ou por Termo Aditivo
+# Alteração Simples
 
 Ao clicar em `“Alteração”, na aba de “Alterações do Convênio/Parceria”,` o SIGCON-SAÍDA cria um novo registro de alteração. O registro da nova alteração é uma cópia idêntica às informações já preenchidas no convênio, no qual o usuário deve alterar as informações que tiver necessidade de modificar e manter inalteradas aquelas em que a modificação não é necessária.
 
