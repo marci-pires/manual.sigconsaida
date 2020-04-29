@@ -26,7 +26,7 @@ Importante
 
 1. Para gerir transferência o usuário deve acessar o menu  `Transferência Especial > Gerir transferência Especial`, conforme a imagem abaixo:
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%28144%29.png)
 
      2.  Na próxima tela as seguintes funcionalidades estarão disponíveis:
 
@@ -39,7 +39,7 @@ Importante
 6. Visualizar as transferências
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 3. Cadastrar data de publicação para todas as transferências
 
@@ -47,7 +47,7 @@ Importante
 Se a data da publicação for igual para todas as transferências e para facilitar o cadastro disponibilizamos o fluxo de aplicar a todas conforme imagem abaixo:
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 4. Filtro de transferências
 
@@ -65,7 +65,7 @@ Disponibilizamos os seguintes campos para pesquisa:
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 5.  Cadastrar data de publicação
 
@@ -73,7 +73,7 @@ Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 Selecione a transferência e digite a data no campo data de publicação e clique no botão salvar
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 6.  Enviar para o SIAFI
 
@@ -87,7 +87,7 @@ Selecione uma transferência e clique no botão Ações e no menu Enviar para o 
 Se o envio ocorrer com sucesso o status será alterado para **"VIGENTE"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 7.  Gerar cheque
 
@@ -95,7 +95,7 @@ Se o envio ocorrer com sucesso o status será alterado para **"VIGENTE"** caso c
 Selecione uma transferência e clique no botão Ações e no menu Gerar Cheque
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 
 

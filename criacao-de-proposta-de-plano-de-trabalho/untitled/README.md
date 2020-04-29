@@ -2,7 +2,7 @@
 
 Depois do cadastro inicial, entramos na parte de preenchimento da proposta do plano de trabalho. A tela será semelhante a essa:
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 O cabeçalho contêm as informações referentes à proposta
 

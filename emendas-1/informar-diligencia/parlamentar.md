@@ -8,11 +8,11 @@ description: Tem a permissão de visualizar todas as diligências atribuídas a 
 
 1. Para visualizar as diligências o usuário deve acessar o menu  `Emendas > Gerenciar Indicações > Gerenciar Diligências`, conforme a imagem abaixo:
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 2.  Na próxima tela será listada todas as diligencias informadas para o parlamentar para fins de visualização 
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
 3. Visualizar a justificativa da diligência recebida
 
@@ -20,5 +20,5 @@ description: Tem a permissão de visualizar todas as diligências atribuídas a 
 Para visualizar a justificativa da diligência clica no link "Abrir diligência" conforme imagem abaixo:
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
