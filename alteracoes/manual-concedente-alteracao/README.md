@@ -2,7 +2,7 @@
 description: O concedente é o Órgão ou Entidade responsável pelo repasse do recurso
 ---
 
-# Manual Concedente - Alteração
+# Adequação de Concedente
 
 ## Por que quem _repassa_ o recurso quer alterar o convênio?
 
@@ -14,11 +14,15 @@ Para alterar um convênio, é necessário pesquisa-lo e acessá-lo pela ação �
 
 Os requisitos e processos não serão os mesmos para todos os tipos de alteração, que são
 
-* Alteração Simples ou por Termo Aditivo
+* Alteração Simples
+* Termo Aditivo
+* Alteração de Dotação Orçamentária
 * Convalidação
 * Prorrogação de Ofício
 * Retificação por Erro Humano
 * Adequação
+* Alteração de Gestor de Parcerias
+* Alteração de Comissão de Monitoramento
 
  A seguir são apresentados todos esses tipos de alteração dos convênios, seus requisitos e o tramite de cada uma delas, desde seu cadastramento até sua conclusão.
 
