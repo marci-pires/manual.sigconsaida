@@ -5,7 +5,7 @@ description: >-
   processo de compra e financeira (Valor utilizado).
 ---
 
-# Controle de Execução
+# Controle de Execução \(Valores Utilizados\)
 
 
 
