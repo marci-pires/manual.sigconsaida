@@ -1,6 +1,6 @@
 # Cronograma de Desembolso dos Recursos
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 > **Passo-a-passo**
 >
@@ -12,5 +12,5 @@
 
 Depois da inserção, o valor estará disponível na "Lista de Desembolsos Cadastrados". O usuário, a depender do perfil, poderá editar ![](../../.gitbook/assets/icone_lapis.jpg) ou excluir ![](../../.gitbook/assets/icone_excluir.jpg) 
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
