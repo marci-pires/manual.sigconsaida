@@ -1,3 +1,7 @@
+---
+description: Informar Diligência
+---
+
 # Diligência
 
 A diligência é um instrumento muito utilizado pela Administração que tem como objetivo principal apoiar o esclarecimento de dúvidas, correção ou complementação relacionadas às propostas e/ou documentação apresentada pelos autores de emendas e beneficiários, complementar instruções presentes no processo e assegurar o cumprimentos dos requisitos legais para a formalização de instrumentos jurídicos e a execução da emenda parlamentar impositiva.
