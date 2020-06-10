@@ -21,7 +21,7 @@
   * [Ajuste do Tipo de Atendimento](emendas-1/ajuste-do-tipo-de-atendimento.md)
   * [Como Remanejar Recursos?](emendas-1/remanejar-recursos.md)
   * [Informar Diligência](emendas-1/informar-diligencia/README.md)
-    * [Órgão](emendas-1/informar-diligencia/orgao.md)
+    * [Diligência Órgão](emendas-1/informar-diligencia/diligencia-orgao.md)
     * [Parlamentar](emendas-1/informar-diligencia/parlamentar.md)
   * [Gerir Transferência Especial](emendas-1/gerir-transferencia-especial.md)
   * [Relatórios](emendas-1/consulta-de-informacoes-e-relatorios.md)
