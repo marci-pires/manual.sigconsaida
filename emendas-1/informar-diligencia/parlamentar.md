@@ -1,8 +1,10 @@
 ---
-description: Tem a permissão de visualizar todas as diligências atribuídas a ele.
+description: >-
+  Nessa tela o parlamentar pode visualizar todas as diligências atribuídas a
+  ele.
 ---
 
-# Parlamentar
+# Parlamentar - Visualizar Diligência
 
 ## Para visualizar as diligências 
 

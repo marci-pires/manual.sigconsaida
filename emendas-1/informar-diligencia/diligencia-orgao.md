@@ -1,10 +1,10 @@
 ---
 description: >-
-  As diligências podem ser informadas na tela de Gerenciar diligência órgão,
-  Aprovar indicações órgãos e no Plano de Trabalho.
+  As diligências podem ser informadas na tela de "Gerenciar diligência órgão",
+  "Aprovar indicações órgãos" e no "Plano de Trabalho".
 ---
 
-# Diligência Órgão
+# Órgão - Informar Diligência
 
 ## Informar diligência
 
@@ -44,7 +44,7 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 
 1. Acesse o submenu "Pesquisar Proposta/ Plano de Trabalho / Convênio / Parceria" no menu "Convênios / Parcerias".
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28214%29.png)
 
 2. Pesquise o plano de trabalho.
 
@@ -52,11 +52,11 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 
 3.  Clique sobre o número do plano de trabalho para abri-lo:
 
-![](../../.gitbook/assets/image%20%28211%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 4. No Plano de trabalho localize o botão "Informar Diligência" na parte inferior da página, conforme imagem abaixo.
 
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28216%29.png)
 
 5.  Na próxima tela que será aberta informe a diligência e clique no botão "Enviar Diligência".
 
@@ -64,11 +64,28 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 
 6.  Após clicar no botão "Enviar Diligência" um número será gerado pelo sistema e um aviso sobre a diligência relatada será enviado por e-mail para o Parlamentar.
 
+![](../../.gitbook/assets/image%20%28211%29.png)
+
+7.  Clique no botão "Voltar" para retornar a tela do plano.
+
 ![](../../.gitbook/assets/image%20%28209%29.png)
+
+8.  Visualizar Diligências no Plano de Trabalho
+
+{% hint style="info" %}
+As diligências também poderão ser visualizadas no plano de trabalho.   
+Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28108%29.png)
 
 ## Gerenciar a diligências
 
-1. Para gerenciar as diligências clique no botão gerenciar diligência conforme imagem abaixo:
+1. Para gerenciar uma diligência o usuário deve acessar o menu  `Emendas > Gerenciar Indicações > Gerenciar Diligência`, conforme a imagem abaixo:
+
+![](../../.gitbook/assets/image%20%28210%29.png)
+
+1. O menu "Gerenciar diligências" também está disponível na tela de "Aprovação de Indicações - Órgão",  conforme imagem abaixo:
 
 ![](../../.gitbook/assets/image%20%28201%29.png)
 
