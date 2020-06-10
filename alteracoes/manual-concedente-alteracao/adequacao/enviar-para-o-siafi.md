@@ -14,25 +14,25 @@ Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e
 
 Passo 1 - O usuário \(**perfil de Analista Técnico e Responsável pela Publicação no órgão de origem e de destino do instrumento**\) vai acessar o convênio, clicar na aba “Alterações do Convênio/Parceria” e clicar no Botão “Adequação do Convênio/Parceria”
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2814%29.png)
 
 Passo 2 - O Usuário irá lançar os dados como já era feito anteriormente e clicar em “Salvar e Encaminhar para Aprovação”:
 
-![](../../../.gitbook/assets/image%20%28178%29.png)
+![](../../../.gitbook/assets/image%20%28151%29.png)
 
 Passo 3 - O usuário clicará em “Sim” no _popup_ de confirmação
 
-![](../../../.gitbook/assets/image%20%28137%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 ## FASE 2 - APROVAÇÃO DA ADEQUAÇÃO
 
 Passo 4 - Para a aprovação da Adequação, o usuário irá clicar no botão “Enviar para o SIAFI”. **Lembrando que para essa ação de aprovação da Adequação do Convênio, é necessário ter o perfil de Encaminhador ou Ordenador do órgão de origem e de destino do instrumento**
 
-![](../../../.gitbook/assets/image%20%28130%29.png)
+![](../../../.gitbook/assets/image%20%28109%29%20%281%29.png)
 
 Passo 5 - O usuário deverá clicar no “Sim”
 
-![](../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 Passo 6 - A alteração se tornará VIGENTE
 

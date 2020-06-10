@@ -10,19 +10,19 @@ Também é possível pesquisar o convênio pelo número da proposta ou do plano 
 
 O resultado da pesquisa é exibido na parte inferior da tela, para cadastrar o termo aditivo o usuário deve clicar no ícone do lápis, para editá-lo.
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 Depois de acessar o convênio que será alterado, o usuário deverá selecionar a seção “ALTERAÇÕES DO CONVÊNIO/PARCERIA” e clicar no botão “Alteração”. Para executar esta ação, o usuário deverá possuir o perfil de “Cadastrador” no convenente. Além disso, o sistema só permite a criação de uma nova alteração do convênio se não houver outra alteração cadastrada, ou se as alterações anteriores tiverem sido concluídas ou canceladas
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
 Na seção “ALTERAÇÕES DO CONVÊNIO/PARCERIA”, as alterações cadastradas são exibidas na lista de alterações, informando o usuário que a cadastrou e a data de cadastramento, a situação da alteração do convênio, assim como o tipo de alteração do convênio. Veja mais sobre as “Situações” do termo aditivo na seção **Tramite do Termo Aditivo**. 
 
 Após clicar em “Alteração”, será criada uma nova alteração do convênio. Os campos da alteração estarão preenchidos com as mesmas informações que constarem no convênio, e o usuário irá alterar os campos que desejar.
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28131%29.png)
 
 Contudo, não são todos os campos do convênio que podem ser alterados fazendo-se um termo aditivo. Abaixo faremos algumas observações sobre os campos do convênio que merecem mais atenção ao se cadastrar um termo aditivo
 
@@ -30,11 +30,11 @@ Contudo, não são todos os campos do convênio que podem ser alterados fazendo-
 
 Reparem que a razão social e o CNPJ do órgão concedente estão bloqueados, e não há a opção para pesquisar outro CNPJ como há no cadastro de uma proposta de plano de trabalho. Se houver a necessidade de trocar o órgão concedente, essa operação deve ser realizada através da opção “Adequação”, na seção de “Alterações do convênio”. Veja mais sobre o procedimento de adequação em **“Adequação”.**
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28140%29%20%281%29.png)
 
 Na identificação do convenente, os campos são preenchidos conforme o registro no CAGEC, e também são bloqueados. Os campos que não estão bloqueados para preenchimento são os campos que não foram preenchidos no CAGEC. Caso tenha ocorrido alguma mudança nos dados do convenente, essa mudança deve ser atualizada no CAGEC, e depois o usuário deve clicar no ícone da lupa, ao lado do CNPJ do convenente, para que o sistema busque novamente as informações no CAGEC e atualize as informações no convênio.
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 Pode ser cadastrado um novo tipo de atendimento no termo aditivo, mas é necessário que o convenente esteja atento às restrições do art. 51, §1º, do Decreto Estadual nº 46.319/2013
 
@@ -42,21 +42,21 @@ Pode ser cadastrado um novo tipo de atendimento no termo aditivo, mas é necess�
 
 Embora o sistema não identifique se a alteração provoca ou não a modificação do núcleo da finalidade do convênio, essa análise é feita pelo órgão concedente durante a análise técnica
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2856%29%20%281%29.png)
 
 A lista de tipos de atendimento deve ser alterada caso seja necessário alterar os valores do convênio, seja para aumentar ou diminuir o repasse do concedente ou a contrapartida, ou incluir valores de saldo em conta e rendimentos. Para alterar os valores, o usuário deve clicar no ícone do lápis, para editar, será exibida a tela abaixo
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 Caso seja necessário reduzir algum valor, é só escrever o valor com o símbolo de “- “.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2817%29%20%281%29.png)
 
 Caso seja necessário alterar a vigência do convênio, o campo “Proposta de vigência” deve ser preenchido com o total de dias que o convênio terá após o aditivo, ou seja, o número de dias que deve ser preenchido é a **vigência inicial do convênio mais o número de dias que serão acrescidos**. Após realizar as devidas alterações, o usuário deve clicar em “Salvar e encaminhar alterações”. Ressaltamos que a alteração do convênio ainda não foi enviada para o órgão concedente, antes disso ela deve ser aprovada pelo responsável legal do convenente
 
 ## Trâmite do Termo Aditivo
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 
 1.  **Cadastramento:** Situação inicial do termo aditivo, no qual o usuário alterará os campos desejados. Nesse momento, a alteração ainda não é um termo aditivo, pois o sistema só identifica a alteração do convênio como um termo aditivo após o encaminhamento para validação do responsável legal, e somente se for alterado algum campo que não esteja incluído no rol de exceções que configuram alterações simples. Veja quais são esses campos na seção **Alteração Simples**.
 2. **Validação da proposta pelo Responsável Legal:** É a análise pelo Responsável Legal do convenente \(Prefeitos ou Presidentes de entidades\), para que eles estejam cientes da proposta de alteração e a encaminhem para o órgão concedente. É a última etapa de responsabilidade do convenente, as demais etapas são executadas pelo órgão concedente.
