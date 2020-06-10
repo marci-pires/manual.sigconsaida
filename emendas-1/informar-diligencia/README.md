@@ -25,10 +25,8 @@ O órgão também poderá gerenciar as diligências e realizar seu fechamento, q
 
 A diligência não poderá ser informada se o instrumento já estiver em Processo de Publicação ou Instrumento Cadastrado Vigente.
 
-Somente nos seguintes status poderá ser informada:
+Somente é permitido informar diligência até o processo de assinatura conforme imagem abaixo.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28204%29.png)
-
-
+![Status permitido para informar dilig&#xEA;ncia](../../.gitbook/assets/image%20%28213%29.png)
 

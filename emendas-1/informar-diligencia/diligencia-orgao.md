@@ -1,10 +1,12 @@
 ---
-description: Gerenciar diligência órgão
+description: >-
+  As diligências podem ser informadas na tela de Gerenciar diligência órgão,
+  Aprovar indicações órgãos e no Plano de Trabalho.
 ---
 
 # Diligência Órgão
 
-## Informa diligência
+## Informar diligência
 
 1. Para informar uma diligência o usuário deve acessar o menu  `Emendas > Gerenciar Indicações > Aprovação de indicação - órgão`, conforme a imagem abaixo:
 
@@ -25,12 +27,44 @@ description: Gerenciar diligência órgão
 5. Após clicar no botão Enviar diligência um número de controle será gerado e exibido na coluna número da diligência na tabela com informações da indicação  conforme a imagem abaixo:
 
 {% hint style="info" %}
-Nesse ponto sua diligencia já foi registrada e um comunicado será enviado por e-mail ao parlamentar. 
+Nesse ponto sua diligência já foi registrada e um comunicado será enviado por e-mail ao parlamentar. 
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28127%29.png)
 
 > Para fechar a janela clique no botão voltar
+
+### Informar Diligência no Plano de Trabalho
+
+{% hint style="info" %}
+É permitido informar diligência nos seguintes status:
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28204%29.png)
+
+1. Acesse o submenu "Pesquisar Proposta/ Plano de Trabalho / Convênio / Parceria" no menu "Convênios / Parcerias".
+
+![](../../.gitbook/assets/image%20%28212%29.png)
+
+2. Pesquise o plano de trabalho.
+
+![Digite o n&#xFA;mero do plano desejado e clique em pesquisar  ](../../.gitbook/assets/image%20%28206%29.png)
+
+3.  Clique sobre o número do plano de trabalho para abri-lo:
+
+![](../../.gitbook/assets/image%20%28211%29.png)
+
+4. No Plano de trabalho localize o botão "Informar Diligência" na parte inferior da página, conforme imagem abaixo.
+
+![](../../.gitbook/assets/image%20%28214%29.png)
+
+5.  Na próxima tela que será aberta informe a diligência e clique no botão "Enviar Diligência".
+
+![Descreva a Dilig&#xEA;ncia](../../.gitbook/assets/image%20%28208%29.png)
+
+6.  Após clicar no botão "Enviar Diligência" um número será gerado pelo sistema e um aviso sobre a diligência relatada será enviado por e-mail para o Parlamentar.
+
+![](../../.gitbook/assets/image%20%28209%29.png)
 
 ## Gerenciar a diligências
 
