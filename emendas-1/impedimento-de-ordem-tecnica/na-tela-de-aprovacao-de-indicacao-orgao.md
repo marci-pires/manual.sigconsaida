@@ -18,5 +18,5 @@ Selecione uma indicação e clique no botão de Impedimento de Ordem Técnica, c
 
 ![](../../.gitbook/assets/image%20%28181%29.png)
 
-4. Apos o impedimento de ordem técnica o status da indicação será alterado para **"Reprovado"** e  um e-mail será enviado para o Parlamentar com informações sobre a reprovação.
+4. Após o impedimento de ordem técnica o status da indicação será alterado para **"Reprovado"** e  um e-mail será enviado para o Parlamentar com informações sobre a reprovação.
 

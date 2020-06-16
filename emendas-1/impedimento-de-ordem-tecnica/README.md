@@ -12,6 +12,8 @@ O usuário deverá ser um Concedente \(Órgão\) e possui o perfil de Análise d
 A indicação selecionada deverá possuir o status de **"Retornado pela SEGOV"** ou **"Aguardando Ajuste Parlamentar"** , **"Em Análise Órgão”** ou **"Aprovada"** para ser reprovada.
 
 Para efetuar a reprovação, não há necessidade de desvincular ou solicitar o retorno da indicação pela SEGOV se a mesma estiver em qualquer um dos status informados acima.
+
+Para as indicações vinculadas a convênios e parcerias, é necessário cadastrar o impedimento de ordem técnica na própria proposta ou plano de trabalho.
 {% endhint %}
 
 É o descumprimento dos procedimentos e prazos estabelecidos na Constituição do Estado, na LDO, na Lei, e na resolução SEGOV  do ano corrente que pode ser conferida no portal  [Sigcon Saida](http://www.sigconsaida.mg.gov.br/emendas/) , inviabilizam à execução orçamentária das emendas parlamentares individuais, de bloco ou de bancada, configurando impedimento de ordem técnica insuperável, nos termos do art. 160, § 9º, da Constituição do Estado.
