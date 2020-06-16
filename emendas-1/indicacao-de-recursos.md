@@ -5,6 +5,8 @@ description: Indicar Recursos Individuais e Bloco
 # Como Indicar Recursos?
 
 {% hint style="info" %}
+**Perfil necessário**
+
 Apenas usuários com o perfil de “Parlamentar” que podem indicar recursos e para emendas de Bloco é necessário ser “Responsável pelo BLOCO”
 {% endhint %}
 
@@ -20,11 +22,11 @@ No menu de indicação de recursos são exibidos os incisos do parlamentar, assi
 A busca pode ser feita pelo nome do responsável \(_1, no lado esquerdo da tela_\), por número do inciso ou número da indicação \(_2, canto direto da tela_\)  
 {% endhint %}
 
-![Rela&#xE7;&#xE3;o de Inciso do Parlamentar](../.gitbook/assets/manual_parlamentares_indicacao_tela-de-indicacao%20%281%29.jpg)
-
 {% hint style="info" %}
 Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
 {% endhint %}
+
+![](../.gitbook/assets/image%20%28180%29.png)
 
 ### **Indicações Bloco**
 
@@ -45,13 +47,13 @@ A opção de “EXPANDIR INCISO” ![](../.gitbook/assets/icone_expandir.jpg) ex
 Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](../.gitbook/assets/icone_lapis.jpg) na coluna “INDICAR”, no canto direito da tabela de incisos. 
 
 {% hint style="info" %}
-As opções de indicação de recursos que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
+As **formas de execução** que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
 {% endhint %}
 
-Tipos de indicação de recursos: 
+Formas de Execução: 
 
-* **Celebração de Convênio/Parceria** 
-* **Resolução**
+* **Celebração de Outros Instrumentos Jurídicos**
+* **Transferência Fundo a Fundo \(Resolução SES\)**
 * **Aplicação Direta - Execução Direta**
 * **Aplicação Direta - Doação de Bens**
 * **Aplicação Direta - Caixa Escolar**
@@ -59,25 +61,25 @@ Tipos de indicação de recursos:
 
 Como exemplo, após clicar em editar ![](../.gitbook/assets/icone_lapis.jpg) a seguinte tela aparece com as opções permitidas para o inciso S964.
 
-![](../.gitbook/assets/tipo_indicacao.PNG)
+![](../.gitbook/assets/image%20%28178%29.png)
 
-## Tipo de Instrumento
+## Forma de Execução
 
-Dependendo do tipo de instrumento a ser celebrado a indicação segue um procedimento diferente.
+Dependendo da forma de execução a ser celebrado a indicação segue um procedimento diferente.
 
 Clique no quadro desejado para ser encaminhado para o tipo de instrumento
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/celebracao-de-convenio-parceria.md" %}
+{% page-ref page="formas-de-execucao/celebracao-de-convenio-parceria.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-doacao-de-bens.md" %}
+{% page-ref page="formas-de-execucao/aplicacao-direta-doacao-de-bens.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/resolucao.md" %}
+{% page-ref page="formas-de-execucao/resolucao.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-execucao-direta.md" %}
+{% page-ref page="formas-de-execucao/aplicacao-direta-execucao-direta.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/aplicacao-direta-caixa-escolar.md" %}
+{% page-ref page="formas-de-execucao/aplicacao-direta-caixa-escolar.md" %}
 
-{% page-ref page="indicacao-de-recursos-por-tipo-de-instrumento/transferencia-especial.md" %}
+{% page-ref page="formas-de-execucao/transferencia-especial.md" %}
 
 
 
