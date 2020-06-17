@@ -2,7 +2,7 @@
 
 Procedimentos necessários para a transmissão do bem, no caso de indicações com forma de execução de doação de bens móveis.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Na hipótese de indicação para a forma de execução de doação de bens móveis, a documentação de que trata o caput deverá ser enviada no Sistema Eletrônico de Informações - SEI.
 {% endhint %}
 
@@ -12,11 +12,11 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 Na página seguinte, preencha os campos de acordo com o passo-a-passo abaixo!
 
-![](../../.gitbook/assets/pesquisa_beneficiario_doacao_bens.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
-![](../../.gitbook/assets/adicionar_b_doacoes_bens.png)
+![](../../.gitbook/assets/image%20%28187%29.png)
 
-![](../../.gitbook/assets/enviar_ind_bens%20%281%29.png)
+![](../../.gitbook/assets/image%20%28192%29.png)
 
 > **Passo-a-passo**
 >

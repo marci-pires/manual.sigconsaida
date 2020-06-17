@@ -14,7 +14,7 @@
   * [Formas de Execução](emendas-1/formas-de-execucao/README.md)
     * [Celebração de Outros Instrumentos Jurídicos](emendas-1/formas-de-execucao/celebracao-de-convenio-parceria.md)
     * [Aplicação Direta - Doação de Bens](emendas-1/formas-de-execucao/aplicacao-direta-doacao-de-bens.md)
-    * [Resolução](emendas-1/formas-de-execucao/resolucao.md)
+    * [Transferência Fundo a Fundo \(Resolução SES\)](emendas-1/formas-de-execucao/resolucao.md)
     * [Aplicação Direta - Execução Direta](emendas-1/formas-de-execucao/aplicacao-direta-execucao-direta.md)
     * [Aplicação Direta - Caixa Escolar](emendas-1/formas-de-execucao/aplicacao-direta-caixa-escolar.md)
     * [Transferência Especial](emendas-1/formas-de-execucao/transferencia-especial.md)

@@ -1,4 +1,4 @@
-# Resolução
+# Transferência Fundo a Fundo \(Resolução SES\)
 
 A indicação do tipo “Resolução” consiste na transferência de recursos da emenda parlamentar para um fundo municipal de saúde ou para alguma unidade do sistema de saúde. Devido as suas características, a opção de indicação do tipo “Resolução” só está habilitada caso a unidade orçamentária do inciso seja referente à Secretaria de Estado de Saúde.
 
@@ -14,7 +14,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 **Para cada indicação deve ser selecionado apenas um beneficiário.**
 {% endhint %}
 
-![](../../.gitbook/assets/manual_parlamentares_indicacao_resolucao_lista-de-indicacoes.jpg)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 > **Passo-a-passo**
 >
@@ -29,7 +29,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual devem ser preenchidas as informações relativas à finalidade na qual os recursos serão aplicados e o montante que será indicado para isso.
 
-![](../../.gitbook/assets/manual_parlamentares_indicacao_resolucao_entrada.jpg)
+![](../../.gitbook/assets/image%20%28186%29.png)
 
 > **Passo-a-passo**
 >

@@ -4,6 +4,8 @@ A indicação de recursos do tipo “Celebração de Outros Instrumentos Jurídi
 
 Antes de selecionar a opção de indicação do tipo “Instrumento Jurídico”, convém verificar no anexo da Resolução SEGOV vigente no ano, se o mesmo item não está disponível através da opção “Execução Direta”.
 
+[Clique aqui](http://www.sigconsaida.mg.gov.br/emendas/) para acessar a Resolução SEGOV vigente.
+
 A indicação de recursos para a celebração de outros instrumentos jurídicos é realizada em três etapas:
 
 1. **Como** os recursos serão utilizados
@@ -28,7 +30,7 @@ Para selecionar o beneficiário da indicação de recursos, o usuário pode real
 
 Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão ![](../../.gitbook/assets/icone_adicionar.jpg)
 
-![](../../.gitbook/assets/manual_parlamentares_indicacao_conv_selecao-de-conventes.jpg)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 > **Passo-a-passo**
 >
@@ -40,7 +42,7 @@ Depois disso, desça a página e vá para a Lista de Indicações
 
 Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual também são dispostos os dados do tipo de atendimento, e na qual é preenchido o valor da indicação de recursos. Após preencher o valor das indicações é necessário marcar a checkbox e depois clicar em “Enviar Indicações”.
 
-![](../../.gitbook/assets/manual_parlamentares_indicacao_conv_lista-de-indicacoes.jpg)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
 > **Passo-a-passo**
 >
@@ -51,7 +53,7 @@ O sistema verifica se todas as informações foram preenchidas corretamente e ex
 
 ![](../../.gitbook/assets/9%20%282%29.png)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.
 {% endhint %}
 
