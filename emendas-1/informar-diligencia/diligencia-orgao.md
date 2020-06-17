@@ -14,15 +14,15 @@ description: >-
 
 2. Na próxima tela será exiba a lista das Indicações do órgão:
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 3. Selecione uma indicação e clique no botão "Informar Diligência"  para informar a diligência:
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 4. Uma nova tela será aberta com as informações da indicação selecionada, um campo de texto para escrever e um botão para Enviar a diligência  conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28191%29.png)
 
 5. Após clicar no botão Enviar diligência um número de controle será gerado e exibido na coluna número da diligência na tabela com informações da indicação  conforme a imagem abaixo:
 
@@ -30,7 +30,7 @@ description: >-
 Nesse ponto sua diligência já foi registrada e um comunicado será enviado por e-mail ao parlamentar. 
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28192%29.png)
 
 > Para fechar a janela clique no botão voltar
 
@@ -60,17 +60,13 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 
 5.  Na próxima tela que será aberta informe a diligência e clique no botão "Enviar Diligência".
 
-![Descreva a Dilig&#xEA;ncia](../../.gitbook/assets/image%20%28211%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
 6.  Após clicar no botão "Enviar Diligência" um número será gerado pelo sistema e um aviso sobre a diligência relatada será enviado por e-mail para o Parlamentar.
 
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28187%29.png)
 
-7.  Clique no botão "Voltar" para retornar a tela do plano.
-
-![](../../.gitbook/assets/image%20%28212%29.png)
-
-8.  Visualizar Diligências no Plano de Trabalho
+7.  Visualizar Diligências no Plano de Trabalho
 
 {% hint style="info" %}
 As diligências também poderão ser visualizadas no plano de trabalho.   

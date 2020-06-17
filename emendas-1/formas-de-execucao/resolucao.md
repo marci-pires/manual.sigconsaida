@@ -14,7 +14,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 **Para cada indicação deve ser selecionado apenas um beneficiário.**
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28198%29.png)
 
 > **Passo-a-passo**
 >

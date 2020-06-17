@@ -16,7 +16,7 @@ Em seguida, o usuário deverá localizar a indicação que foi retornada para aj
 
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28227%29.png)
 
 **Na tela de indicações do inciso, a indicação será exibida com o status “Aguardando Ajuste Parlamentar”.**
 
@@ -26,7 +26,7 @@ Reparem que o status da indicação fica realçado quando ela for retornada para
 
 **Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.**
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
 
 

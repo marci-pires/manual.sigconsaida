@@ -23,13 +23,13 @@ O retorno do tipo de atendimento é realizada na tela de Aprovação de Indicaç
 
 Na próxima tela você vai selecionar a indicação desejada e clicar no botão Retornar Indicação\(ões\) para Ajuste Parlamentar.
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28199%29.png)
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28195%29.png)
 
 Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo:
 
-![](../../.gitbook/assets/image%20%28191%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 As indicações retornadas para ajuste do tipo de atendimento os status passará  a  **"Aguardando ajuste parlamentar"** 
 
@@ -49,7 +49,7 @@ As indicações retornadas para ajuste do tipo de atendimento os status passará
 
 4. No plano de trabalho expande a Aba "Caracterização da Proposta " e localize as indicações vinculadas e clique no botão expandir,  conforme imagem abaixo.
 
-![](../../.gitbook/assets/image%20%28196%29.png)
+![](../../.gitbook/assets/image%20%28203%29.png)
 
 5.  Na próxima tela clique no botão desvincular indicação, conforme imagem abaixo:
 
