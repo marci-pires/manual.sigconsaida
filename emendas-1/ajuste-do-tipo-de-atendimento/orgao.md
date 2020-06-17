@@ -17,17 +17,19 @@ description: Retornar indicações para ajuste parlamentar
 
 Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela é alterado para _`Aguardando ajuste parlamentar`_, no qual será possível editar o seu tipo de atendimento. Além disso, é enviado um e-mail de notificação para que o parlamentar saiba que há uma indicação que deve ser ajustada.
 
-O retorno do tipo de atendimento é realizada na tela de Aprovação de Indicações Órgão. Primeiramente, o usuário deverá acessar o menu Emendas &gt; Gerenciar Indicações &gt; Aprovação de Indicações - Órgão.
+O retorno do tipo de atendimento é realizada na tela de Aprovação de Indicações Órgão. Primeiramente, o usuário deverá acessar o menu **Emendas &gt; Gerenciar Indicações &gt; Aprovação de Indicações - Órgão**.
 
 ![](../../.gitbook/assets/image%20%28225%29.png)
 
 Na próxima tela você vai selecionar a indicação desejada e clicar no botão Retornar Indicação\(ões\) para Ajuste Parlamentar.
 
-![](../../.gitbook/assets/image%20%28221%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
+
+![](../../.gitbook/assets/image%20%28190%29.png)
 
 Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo:
 
-![ Inserir uma justificativa para informar o motivo da adequa&#xE7;&#xE3;o](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28191%29.png)
 
 As indicações retornadas para ajuste do tipo de atendimento os status passará  a  **"Aguardando ajuste parlamentar"** 
 
@@ -47,7 +49,7 @@ As indicações retornadas para ajuste do tipo de atendimento os status passará
 
 4. No plano de trabalho expande a Aba "Caracterização da Proposta " e localize as indicações vinculadas e clique no botão expandir,  conforme imagem abaixo.
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 5.  Na próxima tela clique no botão desvincular indicação, conforme imagem abaixo:
 

@@ -30,7 +30,7 @@ Para selecionar o beneficiário da indicação de recursos, o usuário pode real
 
 Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão ![](../../.gitbook/assets/icone_adicionar.jpg)
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 > **Passo-a-passo**
 >
@@ -42,7 +42,7 @@ Depois disso, desça a página e vá para a Lista de Indicações
 
 Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual também são dispostos os dados do tipo de atendimento, e na qual é preenchido o valor da indicação de recursos. Após preencher o valor das indicações é necessário marcar a checkbox e depois clicar em “Enviar Indicações”.
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
 > **Passo-a-passo**
 >

@@ -14,29 +14,19 @@ A alteração do tipo de atendimento é realizada na tela de visualização das 
 
 Em seguida, o usuário deverá localizar a indicação que foi retornada para ajuste através do inciso, clicando sobre o ícone na coluna “Expandir Inciso”, ou pelos campos de busca disponíveis:
 
-![](../../.gitbook/assets/1%20%2824%29.png)
-
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
-Para visualizar as indicações do inciso, o usuário deverá clicar em “Expandir Inciso”.
+![](../../.gitbook/assets/image%20%28197%29.png)
 
-Na tela de indicações do inciso, a indicação será exibida com o status “Aguardando Ajuste Parlamentar”.
-
-**Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.**
-
-![](../../.gitbook/assets/ajustar_tipo_atendimento.png)
-
-**Ao clicar sobre o status da indicação é exibida a justificativa de retorno para ajuste, preenchida pelo Órgão em que a indicação foi realizada**.
-
-![](../../.gitbook/assets/visualizar_justificativa_tipo.png)
+**Na tela de indicações do inciso, a indicação será exibida com o status “Aguardando Ajuste Parlamentar”.**
 
 Reparem que o status da indicação fica realçado quando ela for retornada para ajustes. Ao clicar sobre o status dela é possível visualizar a justificativa de retorno para ajuste inserida pelo Órgão:
 
-![](../../.gitbook/assets/3%20%2817%29.png)
+![](../../.gitbook/assets/visualizar_justificativa_tipo.png)
 
-Ao clicar sobre o ícone de edição é exibida uma janela para alteração do tipo de atendimento:
+**Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.**
 
-![](../../.gitbook/assets/4%20%2812%29.png)
+![](../../.gitbook/assets/image%20%28195%29.png)
 
 
 
