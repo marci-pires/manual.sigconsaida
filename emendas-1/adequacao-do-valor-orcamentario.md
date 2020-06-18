@@ -46,7 +46,7 @@ No entanto, é possível que o Saldo com Impedimento de Ordem Técnica seja infe
 
 A solução será reprovar uma indicação que não possui impedimento de ordem técnica. Para isso, o parlamentar deverá acessar o SIGCON-SAÍDA, no menu “**Emendas &gt; Solucionar Impedimento de Ordem Técnica &gt; Adequação Valor de Execução Orçamentária Obrigatória**”.
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28272%29.png)
 
 Na interface de adequação do valor com impositividade é exibido o Limite Constitucional e Valor Total Utilizado das Indicações Aprovadas, que correspondem, respectivamente:
 
@@ -56,13 +56,13 @@ Na interface de adequação do valor com impositividade é exibido o Limite Cons
 
 Caso o Valor Total Utilizado das Indicações Aprovadas seja superior ao Limite Constitucional, o parlamentar deverá selecionar indicações que estão aprovadas para eliminar essa diferença. O valor das indicações que deverá ser reprovado corresponde ao Valor Mínimo a ser Adequado, e o “Valor Adequado” corresponde ao valor das indicações que o parlamentar selecionou para realizar a reprovação. Importante ressaltar que é possível que o valor das indicações selecionadas para reprovação pelo parlamentar seja um pouco superior ao “Valor Mínimo a ser adequado”, essa diferença poderá ser reaproveitada na interface de [Saneamento de Indicações](saneamento.md).
 
-![](../.gitbook/assets/image%20%28275%29.png)
+![](../.gitbook/assets/image%20%28277%29.png)
 
 Após a seleção das indicações que serão reprovadas, o usuário deverá clicar no comando “**Finalizar Adequação**”. Depois de executar essa operação o sistema exibirá a relação das indicações selecionadas e exigirá que o usuário confirme a reprovação dessas indicações, informando a impossibilidade de reverter essa decisão depois que ela for concluída. Esse é um ponto importante e afeta diretamente as demais operações referentes ao saldo das indicações com impedimento de ordem técnica, por isso os alertas são exibidos inúmeras vezes nesse processo.
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28268%29.png)
 
-![](../.gitbook/assets/image%20%28257%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 Depois de confirmar a reprovação das indicações o parlamentar já terá realizado a adequação dos valores de emenda parlamentar com impositividade, e essa interface permanecerá disponível apenas para consulta. Em seguida, ele poderá proceder à indicação das propostas saneadoras e a reprogramação das dotações orçamentárias.
 

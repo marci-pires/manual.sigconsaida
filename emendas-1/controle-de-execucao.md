@@ -31,13 +31,13 @@ description: >-
 
 #### **É possível pesquisar utilizando como filtro: Ano Exercício, Parlamentar, Nº de Controle de Execução ou Nº da Indicação.**
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28262%29.png)
 
 #### **Cadastrar Controle de Execução**
 
 `Clique no botão "Cadastrar Controle Execução"`
 
-![](../.gitbook/assets/image%20%28263%29.png)
+![](../.gitbook/assets/image%20%28265%29.png)
 
 `Na próxima tela selecione o Tipo de Indicação`
 
