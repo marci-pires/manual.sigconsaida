@@ -7,31 +7,37 @@ description: >-
 
 # Controle de Execução \(Valores Utilizados\)
 
+> Tendo em vista a necessidade de aprimoramento das formas de acompanhamento das execuções das emendas parlamentares impositivas indicadas nas formas de execução direta, cuja gestão não está totalmente incluída no Sigcon-MG - Módulo Saída, informamos que encontra-se disponível no módulo de emendas do sistema a funcionalidade "Cronograma de Execução".
+>
+> A nova ferramenta contribui para a transparência da gestão e controle acerca da operacionalização das emendas impositivas, ao centralizar as informações em um único sistema, conforme recomendação do Tribunal de Contas de Minas Gerais \(TCEMG\) expressa no Relatório Sobre a Macrogestão e Contas do Governador do Estado de Minas Gerais - Exercício 2019.
+>
+> Ressaltamos a importância do preenchimento das informações constantes no Cronograma de Execução de forma a refletir a realidade do momento em que se encontram as execuções das emendas impositivas nos órgãos e entidades, para acompanhamento dos parlamentares autores das emendas bem como do TCEMG.
 
-
-{% hint style="info" %}
 **Perfil necessário:**
 
+{% hint style="info" %}
   **Analista de Viabilidade Técnica**
 {% endhint %}
 
 ## Passo a Passo
 
-**Para gerenciar os controles de execução o usuário deve acessar o menu**  
+**Para gerenciar os controles de execução o usuário deve acessar o Menu**  
   
 `Emendas > Gerenciar Indicações > Controle de Execução`, conforme a imagem abaixo:
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-#### **Na próxima tela serão listados  os controles de execução já cadastrados e também é possível pesquisar utilizando o número do controle ou da indicação.**
+#### **Nessa tela basta escolher o filtro para pesquisa e clicar no botão `Pesquisar`.**
 
-![](../.gitbook/assets/image%20%28153%29.png)
+#### **É possível pesquisar utilizando como filtro: Ano Exercício, Parlamentar, Nº de Controle de Execução ou Nº da Indicação.**
+
+![](../.gitbook/assets/image%20%28254%29.png)
 
 #### **Cadastrar Controle de Execução**
 
 `Clique no botão "Cadastrar Controle Execução"`
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%28256%29.png)
 
 `Na próxima tela selecione o Tipo de Indicação`
 
@@ -39,92 +45,343 @@ description: >-
 
 ### 1. Aplicação Direta - Caixa Escolar
 
+**1.1.** Selecione o Tipo de Indicação `Aplicação Direta - Caixa Escolar`:
+
 ![](../.gitbook/assets/image%20%2856%29.png)
 
-**Insira o número do empenho**
+**1.2.** Vinculação da indicação:
 
-![](../.gitbook/assets/image%20%2869%29.png)
+     **1.2.1.** Escolha o Tipo de Indicação: Aplicação Direta - Caixa Escolar
 
-**Vincula as indicações** 
+     **1.2.2.** Digite o Nº da Indicação
 
-![](../.gitbook/assets/image%20%2872%29.png)
+     **1.2.3.** Clique em Adicionar
 
-> ### 2. Aplicação Direta - Doação de Bens
+     **1.2.4.** Digite os valores 
 
-![](../.gitbook/assets/image%20%28109%29.png)
+     **1.2.5.** Clique em `Salvar`
 
-> Cadastrar o número do SEI e Doação
+![](../.gitbook/assets/image%20%28237%29.png)
 
-![](../.gitbook/assets/image%20%28103%29.png)
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
 
-Cadastrar o número do Empenho
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
 
-![](../.gitbook/assets/image%20%2848%29.png)
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
 
-Vinculação da Indicação  
+                    **Valor Utilizado &lt; Valor Indicado**
 
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
 
-![](../.gitbook/assets/image%20%2845%29.png)
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
+
+### 2.  Aplicação Direta - Doação de Bens
+
+**2.1.** Selecione o Tipo de Indicação `Aplicação Direta - Doação de Bens` 
+
+**2.2.** Escolha se há `Registro de Preços`
+
+![](../.gitbook/assets/image%20%28240%29.png)
+
+**2.3.** Caso seja marcado `SIM` para Registro de Preços, informe o Status do Registro de Preços:
+
+![](../.gitbook/assets/image%20%28247%29.png)
+
+**2.4.** Caso o seja marcado `NÃO` para Registro de Preços, informe o Status do Processo de Compra:
+
+![](../.gitbook/assets/image%20%28245%29.png)
+
+**2.5.** Informe o Nº do Processo de Compra / Nº do Registro de Preços \(opcional\) e a Data de Referência do Status, caso o mesmo tenha sido preenchido \(obrigatório\):
+
+![](../.gitbook/assets/image%20%28250%29.png)
+
+**2.6.** Os campos `Nº Contrato (SIAD)`, `Nº Autorização de (AF) ou Ordem de Serviço (OS)` , `Nº SEI Compras` e `Nº SEI Compras` são opcionais:
+
+![](../.gitbook/assets/image%20%28242%29.png)
+
+> **Nos campos acima, é possível a inserção de mais de 1 valor.**
+
+**2.7.** Cadastrar o nº de Empenho:
+
+![](../.gitbook/assets/image%20%28235%29.png)
+
+> 1. **É possível o cadastro de mais de 1 empenho**
+> 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
+
+**2.8.** Vinculação da Indicação:
+
+     **2.8.1.** Digite o Nº da Indicação
+
+     **2.8.2.** Clique em Adicionar
+
+     **2.8.3.** Digite os valores 
+
+     **2.8.4.** Clique em `Salvar`
+
+![](../.gitbook/assets/image%20%28233%29.png)
+
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
+
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
+
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
+
+                    **Valor Utilizado &lt; Valor Indicado**
+
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
+
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Valor Executado ≤ Valor Pago
+4. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
 
 ### 3. Aplicação Direta - Execução Direta
 
-**Com processo de compra:**
+**3.1.** `Com processo de compra`:
 
-![](../.gitbook/assets/image%20%2832%29.png)
+     **3.1.1.** Escolher se há `Registro de Preços`:
 
-Cadastrar o número do SEI de compras
+![](../.gitbook/assets/image%20%28246%29.png)
 
-![](../.gitbook/assets/image%20%2892%29.png)
+     **3.1.2.** Caso seja marcado `SIM` para Registro de Preços, informe o Status do Registro de Preços:
 
-Cadastrar o Empenho
+![](../.gitbook/assets/image%20%28247%29.png)
 
-![](../.gitbook/assets/image%20%28126%29.png)
+     **3.1.3.** Caso o seja marcado `NÃO` para Registro de Preços, informe o Status do Processo de Compra:
 
-Vincular a Indicação:
+![](../.gitbook/assets/image%20%28245%29.png)
 
-![](../.gitbook/assets/image%20%2894%29.png)
+     **3.1.4.** Os campos `Nº Contrato (SIAD)`, `Nº Autorização de (AF) ou Ordem de Serviço (OS)` , `Nº SEI Compras` e `Nº SEI Compras` são opcionais:
 
+![](../.gitbook/assets/image%20%28242%29.png)
 
+  
 
-**Sem processo de compra:**
+> **Nos campos acima, é possível a inserção de mais de 1 valor.**
+
+ **3.1.5.** Cadastrar o `Nº de Empenho` :
+
+![](../.gitbook/assets/image%20%28235%29.png)
+
+> 1. **É possível o cadastro de mais de 1 empenho.**
+> 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
+
+**3.1.6.** Vinculação da Indicação:
+
+     **3.1.6.1.** Digite o `Nº da Indicação`
+
+     **3.1.6.2.** Clique em `Adicionar`
+
+     **3.1.6.3.** Digite os `Valores` 
+
+     **3.1.6.4.** Clique em `Salvar`
+
+![](../.gitbook/assets/image%20%28236%29.png)
+
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
+
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
+
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
+
+                    **Valor Utilizado &lt; Valor Indicado**
+
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
+
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
+
+**3.2.** `Sem processo de compra`**:**
 
 ![](../.gitbook/assets/image%20%28169%29.png)
 
-Cadastrar o Empenho
+     **3.2.1.** Cadastrar o `Nº de Empenho`:
 
 ![](../.gitbook/assets/image%20%28155%29.png)
 
-Vincular a Indicação
+> 1. **É possível o cadastro de mais de 1 empenho .**
+> 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
 
-![](../.gitbook/assets/image%20%2895%29.png)
+**3.2.2.** Vinculação da Indicação:
 
+     **3.2.2.1.** Digite o `Nº da Indicação`
 
+     **3.2.2.2.** Clique em `Adicionar`
+
+     **3.2.2.3.** Digite os `Valores` 
+
+     **3.2.2.4.** Clique em `Salvar`
+
+![](../.gitbook/assets/image%20%28232%29.png)
+
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
+
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
+
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
+
+                    **Valor Utilizado &lt; Valor Indicado**
+
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
+
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
 
 ### 4. Outros Instrumentos
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%28252%29.png)
 
-Cadastrar o número do SEI de compras
+**4.1.** Caso o `Tipo de Instrumento` selecionado seja `Termo de Descentralização de Crédito Orçamentário (TDCO)` é obrigatório selecionar `SIM` ou `NÂO` para o campo `Processo de compras do órgão Gerenciador do Crédito`:
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%28249%29.png)
 
-Cadastrar número do Empenho
+  **4.2.** Caso seja marcado `SIM` para Registro de Preços, informe o Status do Registro de Preços:
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
-Vincular a indicação
+**4.3.** Caso o seja marcado `NÃO` para Registro de Preços, informe o Status do Processo de Compra:
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
+
+**4.4.** Os campos `Nº Contrato (SIAD)`, `Nº Autorização de (AF) ou Ordem de Serviço (OS)` , `Nº SEI Compras` e `Nº SEI Compras` são opcionais:
+
+![](../.gitbook/assets/image%20%28242%29.png)
+
+
+
+> **Nos campos acima, é possível a inserção de mais de 1 valor.**
+
+**4.5.** Cadastrar o `Nº de Empenho`:
+
+![](../.gitbook/assets/image%20%28248%29.png)
+
+> 1. **É possível o cadastro de mais de 1 empenho .**
+> 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
+
+**4.6.** Vinculação da Indicação:
+
+     **4.6.1.** Digite o `Nº da Indicação`
+
+     **4.6.2.** Clique em `Adicionar`
+
+     **4.6.3.** Digite os `Valores` 
+
+     **4.6.4.** Clique em `Salvar`
+
+![](../.gitbook/assets/image%20%28234%29.png)
+
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
+
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
+
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
+
+                    **Valor Utilizado &lt; Valor Indicado**
+
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
+
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
 
 ### 5. Resolução
 
 ![](../.gitbook/assets/image%20%28170%29.png)
 
-Cadastrar número do Empenho
+**5.1.** Vinculação da Indicação:
 
-![](../.gitbook/assets/image%20%28140%29.png)
+     **5.1.1.** Digite o `Nº da Indicação`
 
-Vincular Indicação
+     **5.1.2.** Clique em `Adicionar`
 
-![](../.gitbook/assets/image%20%2817%29.png)
+     **5.1.3.** Digite os `Valores` 
+
+     **5.1.4.** Clique em `Salvar`
+
+![](../.gitbook/assets/image%20%28251%29.png)
+
+{% hint style="warning" %}
+**Atenção: O valor utilizado por padrão será o saldo da indicação**
+{% endhint %}
+
+{% hint style="info" %}
+**Condição para Impedimento de Ordem Técnica \(IOT\):**
+
+Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técnica \(IOT\)**, onde será obrigatório a escolha da Justificativa de Ordem Técnica:
+
+                    **Valor Utilizado &lt; Valor Indicado**
+
+ ![](../.gitbook/assets/iot.png) 
+{% endhint %}
+
+{% hint style="info" %}
+**Demais Condições:**
+
+1. Valor Pago ≤ ****Valor Empenhado
+2. Valor Empenhado ≤ Valor Utilizado
+3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
+{% endhint %}
+
+{% hint style="danger" %}
+O campo "`Valor Utilizado`" se refere ao valor da indicação da emenda que será de fato aplicado pelo órgão/entidade gestora na execução do objeto indicado pelo parlamentar.
+
+O preenchimento deste campo dependerá da forma de execução da indicação da emenda:
+
+* **Celebração de Convênio/Parceria:** Valor da indicação vinculado no Plano de Trabalho ou na proposta de alteração. Esse dado é buscado automaticamente pelo sistema para o relatório e não há necessidade de preenchimento por usuário analista de viabilidade técnica;
+* **Transferência Fundo a Fundo do FES - Resolução:** Valor contido nas Resoluções SES publicadas a ser repassado ao Fundo Municipal de Saúde, relativo ao beneficiário da indicação. Esse valor considera os preços de referência do Fundo Nacional de Saúde e do Portfólio de Emendas 2020;
+* **Transferência Especial:** Valor da indicação a ser repassado contido na Resolução SEGOV publicada;
+* **Aplicação Direta - Execução Direta:**  Valor de referência ou resultante da aquisição/contratação para o objeto da indicação \(Procedimento Licitatório/Dispensa/Inexigibilidade/Apostilamento/Aditamento\) realizada para execução do objeto da emenda;
+* **Aplicação Direta - Doação de Bens**: Valor de referência ou resultante da aquisição/contratação para o objeto da indicação \(Procedimento licitatório/Dispensa/Inexigibilidade/Apostilamento/Aditamento\) realizada para aquisição do bem para doação, desde que os documentos entregues pelo autor da emenda ou pelo beneficiário estejam em conformidade com os requisitos legais e técnicos para formalização do termo de doação.
+
+  _Ex.: Indicação no valor de R$ 50.000,00 para doação de dois bens. Beneficiário apresenta a documentação correspondente à doação somente de um bem. Valor de Referência unitário do processo licitatório: R$ 24.000,00. O Valor utilizado será R$ 24.000,00;_
+
+* **Aplicação Direta - Caixa Escolar:** Valor constantes dos Termos de Compromisso Caixa Escolar a serem ou já formalizados;
+* **Aplicação Direta - Outros Instrumentos:** Valor celebrado no instrumento jurídico.
+
+Caso o `Valor Utilizado` seja inferior ao `Valor Indicado`, será necessário o preenchimento de justificativa para a diferença. Considerando o exemplo acima para "Aplicação Direta - Doação de Bens", a justificativa seria a entrega de documentação correspondente à doação somente de um dos dois bens indicados e a obtenção de preço mais vantajoso quando da obtenção de orçamentos para elaboração do mapa de preços de referência da licitação.
+{% endhint %}
 
