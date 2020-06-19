@@ -26,7 +26,19 @@ Para efetuar a reprovação, não há necessidade de desvincular ou solicitar o 
 Para as indicações vinculadas a convênios e parcerias, é necessário cadastrar o impedimento de ordem técnica na própria proposta ou plano de trabalho.
 {% endhint %}
 
- **A reprovação da indicação pode ser efetuada de duas formas:**
+{% hint style="danger" %}
+**Status Permitido:**
+
+O impedimento de ordem técnica não poderá ser informado se o instrumento já estiver em Processo de Publicação ou Instrumento Cadastrado Vigente.
+
+Somente é permitido reprovar uma indicação até o processo de assinatura conforme imagem abaixo.
+{% endhint %}
+
+![Status permitido para Impedimento de Ordem T&#xE9;cnica](../../.gitbook/assets/image%20%28223%29.png)
+
+ 
+
+**A reprovação da indicação pode ser efetuada de duas formas:**
 
 Clique no quadro desejado para ser encaminhado para a tela correspondente.
 
