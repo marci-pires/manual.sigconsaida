@@ -16,7 +16,7 @@ A escolha de quem receberá os recursos é feita através da seleção de benefi
 
 Primeiramente, siga os passos abaixo
 
-![](../../.gitbook/assets/manual_parlamentares_indicacao_ind-direta_lista-de-indicacoes.jpg)
+![](../../.gitbook/assets/image%20%28279%29.png)
 
 > **Passo-a-passo**
 >
