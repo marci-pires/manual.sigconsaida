@@ -31,10 +31,10 @@ A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exib
 **Valor Saúde Remanejamento Constitucional:** parcela do saldo para o qual o parlamentar solicitou a reprogramação da dotação orçamentária para uma das Unidades Orçamentárias da Saúde.
 
 {% hint style="danger" %}
-**ATENÇÃO: M**esmo que o usuário tenha apontado quais recursos serão remanejados através do Remanejamento Constitucional, é imprescindível que ele inclua para quais Unidades Orçamentárias esse remanejamento será realizado. Caso contrário, após o encerramento do prazo de 150 dias da publicação da LOA, o montante remanescente do “Saldo Disponível Remanejamento Constitucional” perderá a impositividade, nos termos do art. 160, § 11°, da Constituição Estadual.
+**ATENÇÃO:** Mesmo que o usuário tenha apontado quais recursos serão remanejados através do Remanejamento Constitucional, é imprescindível que ele inclua para quais Unidades Orçamentárias esse remanejamento será realizado. Caso contrário, após o encerramento do prazo de 150 dias da publicação da LOA, o montante remanescente do “Saldo Disponível Remanejamento Constitucional” perderá a impositividade, nos termos do art. 160, § 11°, da Constituição Estadual.
 {% endhint %}
 
-**Escolha as informações das dotações:**
+**Escolha as informações da dotação:**
 
 ![](../.gitbook/assets/image%20%28291%29.png)
 
