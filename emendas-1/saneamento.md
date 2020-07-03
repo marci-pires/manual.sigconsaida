@@ -14,9 +14,9 @@ O usuário deverá ter o\(s\) perfil\(is\) de **Parlamentar** ou **Administrador
 **ATENÇÃO:** Nos termos do art. 160, §§ 4°, 6º e 18, da Constituição do Estado de Minas Gerais, 50% das emendas parlamentares individuais deverão ser destinados a ações e serviços públicos de saúde, e 50% de emendas parlamentares de Bloco/Bancada devem ser destinados a ações e serviços públicos de saúde e/ou à manutenção e ao desenvolvimento do ensino. Dessa forma, as escolhas de saneamento e/ou remanejamento devem respeitar esses percentuais.
 {% endhint %}
 
-Após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados e solicitar a reprogramação dos recursos, nos termos do art. 160, §10, II da Constituição. 
+Após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados ou solicitar o remanejamento constitucional dos recursos, nos termos do art. 141, §3º, do Ato de Disposições Constitucionais Transitórias \(ADCT\) e conforme regulamentado pelos arts. 16 a 23 da Resolução Segov nº 743/2020. 
 
-Isso feito, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimentos de Ordem Técnica &gt; Saneamento”.
+Ao optar pelo saneamento, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimentos de Ordem Técnica &gt; Saneamento”.
 
 ![](../.gitbook/assets/image%20%28267%29.png)
 
