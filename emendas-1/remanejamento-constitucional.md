@@ -18,7 +18,7 @@ O usuário deverá ter o perfil de **Parlamentar** ou **Administrador de Emenda 
 
 Após definir o valor que será sanado das indicações com impedimento de ordem técnica e o valor que será remanejado através do Remanejamento Constitucional, o parlamentar ainda deverá definir para quais dotações orçamentárias o remanejamento será realizado. Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimento de Ordem Técnica &gt; Remanejamento Constitucional”:
 
-![](../.gitbook/assets/image%20%28261%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exibidos quatro saldos:
 
@@ -32,7 +32,17 @@ A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exib
 
 A fim de atender a execução mínima das ações e serviços públicos de saúde, o parlamentar só poderá remanejar para outras Unidades Orçamentárias após realizar o remanejamento para as Unidades Orçamentárias da Saúde no montante correspondente à, no mínimo, o “Valor mínimo Saúde Remanejamento Constitucional”. Assim, até que o remanejamento para as Unidades Orçamentárias da Saúde seja realizado o sistema só exibirá as Unidades Orçamentárias da Saúde para remanejamento.
 
+**Escolha as informações das dotações:**
+
 ![](../.gitbook/assets/image%20%28257%29.png)
+
+Clique no botão salvar
+
+
+
+Insira os valor:
+
+
 
 {% hint style="danger" %}
 **ATENÇÃO:** mesmo que o usuário tenha apontado quais recursos serão remanejados através do Remanejamento Constitucional, é imprescindível que ele inclua para quais Unidades Orçamentárias esse remanejamento será realizado. Caso contrário, após o encerramento do prazo de 150 dias da publicação da LOA, o montante remanescente do “Saldo Disponível Remanejamento Constitucional” perderá a impositividade, nos termos do art. 160, § 11°, da Constituição Estadual.

@@ -33,7 +33,6 @@
   * [Priorização de Indicação](emendas-1/priorizacao-de-indicacao.md)
   * [Controle de Execução \(Valores Utilizados\)](emendas-1/controle-de-execucao.md)
   * [Cancelar uma indicação](emendas-1/cancelar-um-indicacao.md)
-  * [Adequação do Valor Orçamentário](emendas-1/adequacao-do-valor-orcamentario.md)
   * [Saneamento](emendas-1/saneamento.md)
   * [Remanejamento Constitucional](emendas-1/remanejamento-constitucional.md)
 * [CRIAÇÃO DE PROPOSTA DE PLANO DE TRABALHO](criacao-de-proposta-de-plano-de-trabalho/README.md)

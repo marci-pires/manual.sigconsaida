@@ -55,7 +55,7 @@ Em seguida o campo para preenchimento do valor a ser sanado ficará habilitado p
 ![](../.gitbook/assets/image%20%28284%29.png)
 
 {% hint style="info" %}
-É preciso que o usuário clique no comando “**Concluir Saneamento**” para que possa preencher as informações  no [Remanejamento Constitucional](remanejamento-constitucional.md).
+É preciso que o usuário clique no botão “**Concluir Saneamento**” para que possa preencher as informações  no [Remanejamento Constitucional](remanejamento-constitucional.md).
 {% endhint %}
 
 {% hint style="danger" %}
