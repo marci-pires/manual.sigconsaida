@@ -52,3 +52,5 @@ Caso o usuário deseje alterar as informações do saneamento e do montante dire
 
 ![](../.gitbook/assets/image%20%28289%29.png)
 
+Após clicar no botão SIM o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.
+
