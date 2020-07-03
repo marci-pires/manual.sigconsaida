@@ -1,38 +1,62 @@
+---
+description: Procedimento para superação de impedimento de ordem técnica.
+---
+
 # Saneamento
 
-Após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados solicitar a reprogramação dos recursos, nos termos do art. 160, §10, II da Constituição. No SIGCON-SAÍDA, esse procedimento só estará disponível se o parlamentar tiver realizado a adequação dos valores com execução orçamentária e financeira obrigatória, nos casos em que essa adequação for necessária.
+{% hint style="info" %}
+**Precondições**
+
+O usuário deverá ter o\(s\) perfil\(is\) de **Parlamentar** ou **Administrador de Emenda Parlamentar**
+{% endhint %}
+
+{% hint style="danger" %}
+**ATENÇÃO:** Nos termos do art. 160, §§ 4°, 6º e 18, da Constituição do Estado de Minas Gerais, 50% das emendas parlamentares individuais deverão ser destinados a ações e serviços públicos de saúde, e 50% de emendas parlamentares de Bloco/Bancada devem ser destinados a ações e serviços públicos de saúde e/ou à manutenção e ao desenvolvimento do ensino. Dessa forma, as escolhas de saneamento e/ou remanejamento devem respeitar esses percentuais.
+{% endhint %}
+
+Após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados e solicitar a reprogramação dos recursos, nos termos do art. 160, §10, II da Constituição. No SIGCON-SAÍDA, esse procedimento só estará disponível se o parlamentar tiver realizado a adequação dos valores com execução orçamentária e financeira obrigatória, nos casos em que essa adequação for necessária.
 
 Isso feito, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimentos de Ordem Técnica &gt; Saneamento”.
 
 ![](../.gitbook/assets/image%20%28267%29.png)
 
-Nessa tela será exibido o saldo de impedimento de ordem técnica que o usuário possui para indicar o saneamento ou a reprogramação da dotação orçamentária, bem como as informações por inciso. É importante ressaltar que esse saldo não corresponde ao valor total dos impedimentos de ordem técnica, pois parte desse saldo foi comprometido para atender à adequação do valor com execução orçamentária e financeira obrigatória \(exceto nos casos em que o valor das indicações aprovadas foi superior ao saldo com impositividade e o ajuste foi realizado na adequação dos valores com execução orçamentária e financeira obrigatória, ou nos casos em que o parlamentar já possui um saldo sem impositividade superior ao montante que teria que ser ajustado\). Além disso, esse saldo diminui à medida em que o usuário realiza as propostas saneadoras ou indica que fará o remanejamento da programação orçamentária.
+Na próxima tela será exibido o saldo de impedimento de ordem técnica que o usuário possui para indicar o saneamento ou remanejamento constitucional, bem como as informações por inciso.  O saldo com Impedimento de Ordem Técnica diminui à medida em que o usuário realiza as propostas saneadoras ou indica que fará o remanejamento constitucional.
 
-**Saldo com impedimento de ordem técnica disponível \(A\) = B – C – D**
+A indicação das propostas saneadoras e do montante que será remanejado através do [Remanejamento Constitucional ](remanejamento-constitucional.md)será realizada por inciso. Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele inciso.
 
-**B\)**  somatório do valor de todas as indicações com impedimento de ordem técnica, incluídas aquelas cujo valor indicado foi superior ao previsto para execução de seu objeto;
+![](../.gitbook/assets/image%20%28287%29.png)
 
-**C\)**  valor cuja impositividade teve de ser ajustada em função da diferença entre o valor indicado no orçamento e o percentual estabelecido no art. 140, I, ADCT da Constituição Estadual;
+Na próxima tela estará disponível o saldo com impedimento de ordem técnica para realizar proposta saneadora ou realizar o remanejamento através do  [Remanejamento Constitucional](remanejamento-constitucional.md).
 
-**D\)** valor que já foi sanado ou reprogramado.
+![](../.gitbook/assets/image%20%28286%29.png)
 
-A indicação das propostas saneadoras e do montante que será remanejado através do [Remanejamento Constitucional ](remanejamento-constitucional.md)será realizada por inciso:
+O usuário pode clicar em  "Expandir Inciso" para visualizar mais informações, como o valor de inciso que perdeu a impositividade.
 
-![](../.gitbook/assets/image%20%28273%29.png)
+![](../.gitbook/assets/image%20%28280%29.png)
 
-Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele inciso, bem como o saldo total de impedimento de ordem técnica do parlamentar. Conforme mencionado, saldo total de impedimento de ordem técnica do parlamentar pode ser inferior ao somatório dos impedimentos de ordem técnica dos incisos, pois há um valor com impositividade que teve ser adequado. Dessa forma, o montante disponível para realizar proposta saneadoras ou realizar o remanejamento através do  [Remanejamento Constitucional](remanejamento-constitucional.md), por inciso, será sempre o menor entre esses dois valores.
+Para apresentar a proposta saneadora de uma indicação: o usuário deverá selecionar a indicação, o sistema exibirá uma mensagem de confirmação e o campo para preenchimento da proposta saneadora que o usuário deverá preencher.
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
-Para apresentar a proposta saneadora de uma indicação: o usuário deverá selecionar a indicação, o sistema exibirá uma mensagem de confirmação e o campo para preenchimento da proposta saneadora que o usuário deverá preencher, em seguida o campo para preenchimento do valor a ser sanado ficará habilitado para preenchimento. O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela. Para informar o valor que será remanejado através do Projeto de Lei: basta preencher o valor no campo “[Remanejamento Constitucional](remanejamento-constitucional.md)” e acionar o comando “Salvar”, na parte inferior da tela.
+Em seguida o campo para preenchimento do valor a ser sanado ficará habilitado para preenchimento.
 
-![](../.gitbook/assets/image%20%28264%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
+
+ O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela. Para informar o valor que será remanejado através do Remanejamento Constitucional: basta preencher o valor no campo “[Remanejamento Constitucional](remanejamento-constitucional.md)” e acionar o comando “Salvar”, na parte inferior da tela.
+
+![](../.gitbook/assets/image%20%28285%29.png)
 
 {% hint style="danger" %}
-**ATENÇÃO:** o parlamentar deve estar atento ao disposto no art. 160, §§ 4° e 6° da Constituição Estadual, segundo o qual 50% dos recursos de **emenda parlamentar individual e de bloco** deverão ser executados na Saúde. Caso esse percentual não seja cumprido o SIGCON-SAÍDA impedirá o saneamento das indicações das demais unidades orçamentárias. Após realizar as etapas descritas acima, o usuário já indicou as propostas saneadoras para as indicações selecionadas e o valor que será remanejado através do  [Remanejamento Constitucional](remanejamento-constitucional.md). No entanto, apesar de já ter informado o valor que será remanejado através do  [Remanejamento Constitucional](remanejamento-constitucional.md), ainda é preciso informar as dotações orçamentárias para ele. O preenchimento das dotações orçamentárias que serão remanejadas poderá ser realizado na interface de “ [Remanejamento Constitucional](remanejamento-constitucional.md)”, para poder realizar esse preenchimento é preciso que o usuário acione o comando “Concluir Saneamento”.
+**ATENÇÃO:** Nos termos do art. 160, §§ 4°, 6º e 18, da Constituição do Estado de Minas Gerais, 50% das emendas parlamentares individuais deverão ser destinados a ações e serviços públicos de saúde, e 50% de emendas parlamentares de Bloco/Bancada devem ser destinados a ações e serviços públicos de saúde e/ou à manutenção e ao desenvolvimento do ensino . Dessa forma, as escolhas de saneamento e/ou remanejamento devem respeitar esses percentuais.
+
+ Caso esse percentual não seja cumprido o SIGCON-SAÍDA impedirá o saneamento das indicações das demais unidades orçamentárias. Após realizar as etapas descritas acima, o usuário já indicou as propostas saneadoras para as indicações selecionadas e o valor que será remanejado através do  [Remanejamento Constitucional](remanejamento-constitucional.md). 
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28284%29.png)
+
+{% hint style="info" %}
+É preciso que o usuário clique no comando “**Concluir Saneamento**” para que possa preencher as informações  no [Remanejamento Constitucional](remanejamento-constitucional.md).
+{% endhint %}
 
 {% hint style="danger" %}
 **ATENÇÃO:** O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o qual o parlamentar não apresentar proposta saneadora ou apontar que esse recurso será remanejado,  perderá a impositividade conforme os prazos estabelecidos na Resolução SEGOV e na LOA, que pode ser  conferida no site [http://www.sigconsaida.mg.gov.br/emendas/](http://www.sigconsaida.mg.gov.br/emendas/).
