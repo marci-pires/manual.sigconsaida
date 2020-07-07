@@ -38,7 +38,7 @@ Para apresentar a proposta saneadora de uma indicação: o usuário deverá sele
 
 ![](../.gitbook/assets/image%20%28288%29.png)
 
-Em seguida o campo para preenchimento do valor a ser sanado ficará habilitado para preenchimento.
+Em seguida o campo para preenchimento do **VALOR** a ser sanado ficará habilitado para preenchimento.
 
 ![](../.gitbook/assets/image%20%28297%29.png)
 
