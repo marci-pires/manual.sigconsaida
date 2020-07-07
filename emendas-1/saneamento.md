@@ -28,9 +28,9 @@ A indicação das propostas saneadoras e do montante que será remanejado atrav�
 
 Na próxima tela estará disponível o saldo com impedimento de ordem técnica para realizar proposta saneadora ou realizar o remanejamento através do  [Remanejamento Constitucional](remanejamento-constitucional.md).
 
-![](../.gitbook/assets/image%20%28298%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
-O usuário pode clicar em  "Expandir Inciso" para visualizar mais informações, como o valor de inciso que perdeu a impositividade.
+Para visualizar mais informações do inciso clique no botão "Expandir Inciso".
 
 ![](../.gitbook/assets/image%20%28280%29.png)
 
