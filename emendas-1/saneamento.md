@@ -59,6 +59,6 @@ Em seguida o campo para preenchimento do **VALOR** a ser sanado ficará habilita
 {% endhint %}
 
 {% hint style="danger" %}
-**ATENÇÃO:** O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o qual o parlamentar não apresentar proposta saneadora ou apontar que esse recurso será remanejado,  perderá a impositividade conforme os prazos estabelecidos na Resolução SEGOV e na LOA, que pode ser  conferida no site [http://www.sigconsaida.mg.gov.br/emendas/](http://www.sigconsaida.mg.gov.br/emendas/).
+**ATENÇÃO:** O montante do “Saldo com Impedimento de Ordem Técnica Disponível” para o qual o parlamentar não apresentar proposta saneadora ou apontar que esse recurso será remanejado perderá a impositividade conforme os prazos estabelecidos na Resolução SEGOV e na Lei nº 23.648/2020, que pode ser  conferida no site [http://www.sigconsaida.mg.gov.br/emendas/](http://www.sigconsaida.mg.gov.br/emendas/).
 {% endhint %}
 
