@@ -24,7 +24,7 @@ Na próxima tela será exibido o saldo de impedimento de ordem técnica que o us
 
 A indicação das propostas saneadoras e do montante que será remanejado através do [Remanejamento Constitucional ](remanejamento-constitucional.md)será realizada por inciso. Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele inciso.
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28300%29.png)
 
 Na próxima tela estará disponível o saldo com impedimento de ordem técnica para realizar proposta saneadora ou realizar o remanejamento através do  [Remanejamento Constitucional](remanejamento-constitucional.md).
 
