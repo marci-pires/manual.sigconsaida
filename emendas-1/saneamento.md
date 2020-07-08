@@ -22,7 +22,9 @@ Ao optar pelo saneamento, os parlamentares deverão acessar o SIGCON-SAÍDA no m
 
 Na próxima tela será exibido o saldo de impedimento de ordem técnica que o usuário possui para indicar o saneamento ou remanejamento constitucional, bem como as informações por inciso.  O saldo com Impedimento de Ordem Técnica diminui à medida em que o usuário realiza as propostas saneadoras ou indica que fará o remanejamento constitucional.
 
-A indicação das propostas saneadoras e do montante que será remanejado através do [Remanejamento Constitucional ](remanejamento-constitucional.md)será realizada por inciso. Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele inciso.
+A indicação das propostas saneadoras e do montante que será remanejado através do [Remanejamento Constitucional ](remanejamento-constitucional.md)será realizada por inciso. 
+
+**Importante:** Em cada inciso será exibido o saldo com impedimento de ordem técnica daquele inciso.
 
 ![](../.gitbook/assets/image%20%28300%29.png)
 
