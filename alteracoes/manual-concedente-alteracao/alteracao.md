@@ -2,7 +2,7 @@
 
 Ao clicar em `“Alteração”, na aba de “Alterações do Convênio/Parceria”,` o SIGCON-SAÍDA cria um novo registro de alteração. O registro da nova alteração é uma cópia idêntica às informações já preenchidas no convênio, no qual o usuário deve alterar as informações que tiver necessidade de modificar e manter inalteradas aquelas em que a modificação não é necessária.
 
- As alterações realizadas no registro da alteração são efetivadas apenas após a conclusão do tramite da alteração, quando esta assumir o status de “Vigente”. O tramite da alteração varia conforme o tipo de alteração, que por sua vez é definido conforme os campos que o usuário edita na alteração.
+ As alterações realizadas no registro da alteração são efetivadas apenas após a conclusão do tramite da alteração, quando esta assumir o status de “Vigente”. O trâmite da alteração varia conforme o tipo de alteração, que por sua vez é definido conforme os campos que o usuário edita na alteração.
 
 Via de regra, as alterações no plano de trabalho do convênio realizadas após a sua publicação são cadastradas como “Termo Aditivo”. Segundo o Art. 51, caput, do Decreto Estadual nº 46.319/2013
 
@@ -33,7 +33,7 @@ Se o campo “Proposta de Vigência” for o único campo que o usuário editou 
 
 ### Apostila de dotação orçamentária
 
-Caso o único item alterado seja a dotação orçamentária do concedente, o tipo de alteração será definido como “Dotação Orçamentária”, cujo tramite é similar ao de uma “Alteração Simples”.
+Caso o único item alterado seja a dotação orçamentária do concedente, o tipo de alteração será definido como “Dotação Orçamentária”, cujo trâmite é similar ao de uma “Alteração Simples”.
 
 O SIGCON-SAÍDA não permite editar uma dotação orçamentária cadastrada, de modo que para realizar essa alteração é necessário excluir a dotação orçamentária e cadastrar outra em seu lugar.
 
