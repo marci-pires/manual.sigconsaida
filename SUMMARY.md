@@ -61,7 +61,7 @@
     * [Prorrogação de Ofício - COVID 19](alteracoes/manual-concedente-alteracao/prorrogacao-de-oficio-covid-19.md)
     * [Retificação por Erro Humano](alteracoes/manual-concedente-alteracao/retificacao-por-erro-humano.md)
     * [Termo Aditivo](alteracoes/manual-concedente-alteracao/termo-aditivo-1.md)
-    * [Termo Aditivo](alteracoes/manual-concedente-alteracao/termo-aditivo.md)
   * [Convenente](alteracoes/manual-convenente-alteracao/README.md)
     * [Alteração Simples](alteracoes/manual-convenente-alteracao/alteracao-simples.md)
+    * [Termo Aditivo](alteracoes/manual-convenente-alteracao/termo-aditivo.md)
 
