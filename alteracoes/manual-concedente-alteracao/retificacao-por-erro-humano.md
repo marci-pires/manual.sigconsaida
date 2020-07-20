@@ -2,8 +2,6 @@
 
 > Ferramenta para retificação da Data de Assinatura ou Data de Publicação do Convênio que foi preenchida de forma equivocada.
 
-![](../../.gitbook/assets/image%20%288%29.png)
-
 1. Buscar pelo convênio e clicar na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`**. Clicar no **`Botão Retificação por Erro Humano`**:
 
 ![](../../.gitbook/assets/image%20%28303%29.png)
