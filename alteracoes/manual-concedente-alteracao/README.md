@@ -2,7 +2,7 @@
 description: O concedente é o Órgão ou Entidade responsável pelo repasse do recurso
 ---
 
-# Concedente
+# Concedente / Órgão ou Entidade Estadual Parceiro
 
 ## Por que quem _repassa_ o recurso quer alterar o convênio?
 

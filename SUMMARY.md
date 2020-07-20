@@ -48,7 +48,7 @@
     * [Auditoria](criacao-de-proposta-de-plano-de-trabalho/untitled/auditoria.md)
     * [Documentos Anexados](criacao-de-proposta-de-plano-de-trabalho/untitled/documentos-anexados.md)
 * [ALTERAÇÕES](alteracoes/README.md)
-  * [Concedente](alteracoes/manual-concedente-alteracao/README.md)
+  * [Concedente / Órgão ou Entidade Estadual Parceiro](alteracoes/manual-concedente-alteracao/README.md)
     * [Adequação](alteracoes/manual-concedente-alteracao/adequacao/README.md)
       * [Enviar para o SIAFI](alteracoes/manual-concedente-alteracao/adequacao/enviar-para-o-siafi.md)
       * [Refletir no SIGCON](alteracoes/manual-concedente-alteracao/adequacao/refletir-no-sigcon.md)
@@ -61,7 +61,7 @@
     * [Prorrogação de Ofício - COVID 19](alteracoes/manual-concedente-alteracao/prorrogacao-de-oficio-covid-19.md)
     * [Retificação por Erro Humano](alteracoes/manual-concedente-alteracao/retificacao-por-erro-humano.md)
     * [Termo Aditivo](alteracoes/manual-concedente-alteracao/termo-aditivo-1.md)
-  * [Convenente](alteracoes/manual-convenente-alteracao/README.md)
+  * [Convenente / OSC Parceira](alteracoes/manual-convenente-alteracao/README.md)
     * [Alteração Simples](alteracoes/manual-convenente-alteracao/alteracao-simples.md)
     * [Termo Aditivo](alteracoes/manual-convenente-alteracao/termo-aditivo.md)
 
