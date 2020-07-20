@@ -1,18 +1,32 @@
 # Retificação por Erro Humano
 
-Após a publicação do extrato do convênio no Diário Oficial, o usuário do Órgão Concedente deve preencher no SIGCON-SAÍDA a data em que a publicação foi realizada, e a vigência do convênio no sistema tem início justamente na data de publicação preenchida. É possível que o usuário responsável pelo preenchimento da data de publicação, por equívoco, não preencha a data correta em que o convênio foi publicado no Diário Oficial, de modo que a vigência do convênio no SIGCON-SAÍDA ficará divergente da vigência correta. A funcionalidade de “Retificação por Erro Humano” serve justamente para corrigir a data de publicação preenchida no sistema, caso ela não tenha sido preenchida corretamente.
+> Ferramenta para retificação da Data de Assinatura ou Data de Publicação do Convênio que foi preenchida de forma equivocada.
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-A retificação de erro humano também exige que seja anexado um arquivo que comprove a publicação do convênio na data preenchida pelo usuário no campo “Data Início”, como por exemplo, a página do Diário Oficial
+1. Buscar pelo convênio e clicar na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`**. Clicar no **`Botão Retificação por Erro Humano`**:
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28303%29.png)
 
-Finalmente, após preencher todos os campos e anexar o arquivo que comprove a justificativa fornecida, será possível gravar a alteração com sucesso clicando no botão “Salvar"
+2. É possível corrigir a **`Data de Publicação`**, **`Data de Assinatura`** ou **`Vigência (dias corridos)`**. Após a retificação dos campos desejados, preencha a **`Justificativa`** , insira um anexo \(extrato da publicação de retificação da Data de Assinatura ou Publicação\) e clique em **`Incluir documento`**:
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28307%29.png)
 
-Depois de salvar as alterações, o SIGCON-SAÍDA exibe um comparativo entre as informações do convênio antes e após a conclusão da “Retificação Por Erro Humano”
+3. Após a inserção, clique em **`Salvar`**:
+
+![](../../.gitbook/assets/image%20%28320%29.png)
+
+
+
+4. Será solicitado a assinatura do Encaminhador. Clique no botão **`Assinar Encaminhador:`**  
+
+![](../../.gitbook/assets/image%20%28322%29.png)
+
+5. Essa assinatura deverá ser realizada pelo usuário com o perfil **`Encaminhador`** e utilizando **`Certificado Digital (token)`**:
+
+![](../../.gitbook/assets/image%20%28341%29.png)
+
+6. Depois de salvar as alterações, o SIGCON-SAÍDA exibe um comparativo entre as informações do convênio antes e após a conclusão da “Retificação Por Erro Humano”:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
