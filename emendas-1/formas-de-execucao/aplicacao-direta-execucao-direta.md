@@ -1,4 +1,4 @@
-# Aplicação Direta - Execução Direta
+# 🗂 Aplicação Direta - Execução Direta
 
 A indicação do tipo “Execução Direta” consiste na alocação de recursos da emenda parlamentar para a execução de um determinado objeto pelo próprio Estado, como a doação de bens móveis, por exemplo.
 

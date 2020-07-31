@@ -1,4 +1,4 @@
-# Transferência Especial
+# 🗂 Transferência Especial
 
 A modalidade de transferência exclusivamente a municípios de recursos estaduais decorrentes de programações incluídas na LOA 2020 por emendas individuais, de blocos e de bancadas, disciplinada pela Emenda à Constituição nº 101, de 20 de dezembro de 2019, que independe da celebração de convênio ou de instrumento congênere para realização dos repasses.
 

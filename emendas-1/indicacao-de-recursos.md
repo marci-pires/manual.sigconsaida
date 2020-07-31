@@ -2,7 +2,7 @@
 description: Indicar Recursos Individuais e Bloco
 ---
 
-# Como Indicar Recursos?
+# 🤔Como Indicar Recursos?
 
 {% hint style="info" %}
 **Perfil necessário**

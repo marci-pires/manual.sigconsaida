@@ -1,4 +1,4 @@
-# Novo Usuário
+# 🖊 NOVO USUÁRIO
 
 ## Opa, é sua primeira vez acessando o SIGCON-Saída? O sistema comporta diversos tipos de usuários. Siga o passo-a-passo que corresponda ao seu tipo de usuário
 

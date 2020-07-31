@@ -1,4 +1,4 @@
-# Celebração de Outros Instrumentos Jurídicos
+# ⚖️Celebração de Outros Instrumentos Jurídicos
 
 A indicação de recursos do tipo “Celebração de Outros Instrumentos Jurídicos” resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado \(que repassará os recursos indicados pelo parlamentar\) e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação \(que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada\).
 
