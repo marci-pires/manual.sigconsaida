@@ -10,11 +10,11 @@ O processo para indicação de recursos varia de acordo com o tipo de instrument
 
 {% page-ref page="celebracao-de-convenio-parceria.md" %}
 
+{% page-ref page="outros-instrumentos.md" %}
+
 {% page-ref page="transferencia-especial.md" %}
 
 {% page-ref page="resolucao.md" %}
-
-
 
 
 
