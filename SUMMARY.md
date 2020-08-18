@@ -14,7 +14,7 @@
   * [🤔O que são emendas?](emendas-1/introducao.md)
   * [🤔Como Indicar Recursos?](emendas-1/indicacao-de-recursos.md)
   * [🛠Formas de Execução](emendas-1/formas-de-execucao/README.md)
-    * [⚖️Celebração de Outros Instrumentos Jurídicos](emendas-1/formas-de-execucao/celebracao-de-convenio-parceria.md)
+    * [⚖️Celebração de Convênios](emendas-1/formas-de-execucao/celebracao-de-convenio-parceria.md)
     * [🗂Aplicação Direta - Doação de Bens](emendas-1/formas-de-execucao/aplicacao-direta-doacao-de-bens.md)
     * [🗂 Transferência Fundo a Fundo \(Resolução SES\)](emendas-1/formas-de-execucao/resolucao.md)
     * [🗂 Aplicação Direta - Execução Direta](emendas-1/formas-de-execucao/aplicacao-direta-execucao-direta.md)

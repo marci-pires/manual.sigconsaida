@@ -1,4 +1,4 @@
-# ⚖️Celebração de Outros Instrumentos Jurídicos
+# ⚖️Celebração de Convênios
 
 A indicação de recursos do tipo “Celebração de Outros Instrumentos Jurídicos” resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado \(que repassará os recursos indicados pelo parlamentar\) e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação \(que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada\).
 
@@ -23,12 +23,12 @@ Se o grupo de despesa do inciso for **Investimentos**, não será possível sele
 ![](../../.gitbook/assets/manual_parlamentares_indicacao_inciso.jpg)
 
 {% hint style="info" %}
-**As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso. As opções de escolha da Categoria variam conforme o Gênero selecionado. As opções de escolha da Especificação variam conforme a Categoria selecionada**
+**As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso. As opções de escolha da Categoria variam conforme o Gênero selecionado. As opções de escolha da Especificação variam conforme a Categoria selecionada.**
 {% endhint %}
 
 Para selecionar o beneficiário da indicação de recursos, o usuário pode realizar uma pesquisa pelo CNPJ, pela Razão Social ou pelo Município do convenente ou OSC.
 
-Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão ![](../../.gitbook/assets/icone_adicionar.jpg)
+Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão `PESQUISAR`.
 
 ![](../../.gitbook/assets/image%20%28194%29.png)
 
