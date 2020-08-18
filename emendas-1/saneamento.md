@@ -44,7 +44,9 @@ Em seguida o campo para preenchimento do **VALOR** a ser sanado ficará habilita
 
 ![](../.gitbook/assets/image%20%28297%29.png)
 
- O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela. Para informar o valor que será remanejado através do Remanejamento Constitucional: basta preencher o valor no campo “[Remanejamento Constitucional](remanejamento-constitucional.md)” e acionar o comando “Salvar”, na parte inferior da tela.
+ O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela. 
+
+Para informar o valor que será remanejado através do Remanejamento Constitucional: basta preencher o valor no campo “[Remanejamento Constitucional](remanejamento-constitucional.md)” e acionar o comando “Salvar”, na parte inferior da tela.
 
 ![](../.gitbook/assets/image%20%28293%29.png)
 
@@ -57,7 +59,7 @@ Em seguida o campo para preenchimento do **VALOR** a ser sanado ficará habilita
 ![](../.gitbook/assets/image%20%28294%29.png)
 
 {% hint style="info" %}
-É preciso que o usuário clique no botão “**Concluir Saneamento**” para que possa preencher as informações  no [Remanejamento Constitucional](remanejamento-constitucional.md).
+É preciso que o usuário clique no botão “**Concluir Saneamento**” para que possa preencher as informações  no [Remanejamento Constitucional](remanejamento-constitucional.md). **O remanejamento constitucional só poderá ser preenchido após a escolha entre sanear ou remanejar de todos os incisos.**
 {% endhint %}
 
 {% hint style="danger" %}
