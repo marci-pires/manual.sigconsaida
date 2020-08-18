@@ -47,3 +47,9 @@ Antes de seguirmos para o passo-a-passo, alguns exemplos \(clique nas abas para 
 {% endtab %}
 {% endtabs %}
 
+{% hint style="success" %}
+**ATENÇÃO**: Quando a adequação for realizada entre 2 órgãos existentes \(e não extintos\), enviar email para [`atendimento@sigconsaida.mg.gov.br`](mailto:%20atendimento@sigconsaida.mg.gov.br), solicitando a aprovação da Adequação de Concedente do Convênio/Termo de Fomento/Termo de Colaboração. **Essa solicitação deve ser feita pelo órgão que receberá o instrumento.** 
+
+**Ex:** instrumento da SEINFRA que será transposto para a SEGOV. A SEGOV solicita a aprovação da alteração.
+{% endhint %}
+
