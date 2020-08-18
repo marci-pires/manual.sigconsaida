@@ -12,7 +12,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 1. Acessar o instrumento a ser prorrogado, clicar na aba `ALTERAÇÕES DO CONVÊNIO/PARCERIA`e depois no botão `PRORROGAÇÃO DE OFÍCIO - COVID 19`:
 
-![](../../.gitbook/assets/image%20%28350%29.png)
+![](../../.gitbook/assets/image%20%28358%29.png)
 
 2. Clicar na aba `PRORROGAÇÃO DE OFÍCIO - COVID` 19  e inserir o número de dias para prorrogação após calamidade:
 
@@ -20,11 +20,11 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 3. Após a inserção, clicar em `SALVAR` e então o sistema calculará a nova data de término do instrumento:
 
-![](../../.gitbook/assets/image%20%28348%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 4. Preencha a aba `JUSTIFICATIVA DA ALTERAÇÃO`e clicar em `SALVAR`:
 
-![](../../.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
 5. Clique no botão `SALVAR ALTERAÇÕES E ENCAMINHAR PARA APROVAÇÃO`:
 
@@ -32,19 +32,19 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 6. Será exibido um aviso de alteração. Verifique se o tipo de alteração a ser criada é **Prorrogação de Ofício**. Em caso afirmativo, clique em `Sim`.
 
-![](../../.gitbook/assets/image%20%28352%29.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
 7. Clique na aba `ANÁLISE TÉCNICA` e insira a análise técnica da alteração. Após isso, clique em `SALVAR`:
 
-![](../../.gitbook/assets/image%20%28345%29.png)
+![](../../.gitbook/assets/image%20%28346%29.png)
 
 8. Caso queira, gere o **Termo de Prorrogação de Ofício**, após a inserção da análise técnica clicando no botão `TERMO DE PRORROGAÇÃO DE OFÍCIO COVID 19`:
 
-![](../../.gitbook/assets/image%20%28346%29.png)
+![](../../.gitbook/assets/image%20%28348%29.png)
 
 9. Preencha a aba `ALTERAÇÃO DE CLÁUSULA` e clique em `SALVAR`:
 
-![](../../.gitbook/assets/image%20%28347%29.png)
+![](../../.gitbook/assets/image%20%28349%29.png)
 
 10. Clique no Botão `ENVIAR PARA O ENCAMINHADOR`:
 
@@ -52,7 +52,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 11. O usuário com o perfil **Encaminhador** deve assinar a Prorrogação de Ofício. Nessa assinatura é exigido o uso de certificado digital:
 
-![](../../.gitbook/assets/image%20%28349%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
 12. Após a assinatura, clique no botão `ENCAMINHAR PARA A SEGOV`.
 
