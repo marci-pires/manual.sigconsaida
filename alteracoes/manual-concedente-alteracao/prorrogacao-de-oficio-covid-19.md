@@ -7,7 +7,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
                         [Decreto 47.891](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47891&comp=&ano=2020) de 20 de março de 2020.
 
-                         [Resolução 5554](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=5554&ano=2020&tipo=RAL) de 17 de julho de 2020.     
+                        [Resolução 5554](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=5554&ano=2020&tipo=RAL) de 17 de julho de 2020.     
 {% endhint %}
 
 1. Acessar o instrumento a ser prorrogado, clicar na aba `ALTERAÇÕES DO CONVÊNIO/PARCERIA`e depois no botão `PRORROGAÇÃO DE OFÍCIO - COVID 19`:
