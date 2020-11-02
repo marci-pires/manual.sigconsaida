@@ -22,7 +22,7 @@ Para utilização da funcionalidade de reprovação, acessar o Controle de Execu
 **Importante:** A reprovação parcial é feita de maneira individual. Ou seja: se no mesmo controle de execução houver mais de 1 indicação a ser reprovada parcialmente, a operação tem que ser realizada para cada indicação.
 {% endhint %}
 
-3. A **Reprovação Parcial** só pode ser concluída se a indicação estiver no status Aprovada ou Enviada para a SEE \(status de indicação do Tipo Aplicação Direta - Caixa Escolar\):
+3. A **Reprovação Parcial** só pode ser realizada se a indicação estiver no status Aprovada ou Enviada para a SEE \(status de indicação do Tipo Aplicação Direta - Caixa Escolar\):
 
 ![](../.gitbook/assets/image%20%28368%29.png)
 
