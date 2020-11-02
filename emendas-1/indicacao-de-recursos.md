@@ -69,17 +69,17 @@ Dependendo da forma de execução a ser celebrado a indicação segue um procedi
 
 Clique no quadro desejado para ser encaminhado para o tipo de instrumento
 
-{% page-ref page="formas-de-execucao/celebracao-de-convenio-parceria.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/celebracao-de-convenio-parceria.md" %}
 
-{% page-ref page="formas-de-execucao/aplicacao-direta-doacao-de-bens.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/aplicacao-direta-doacao-de-bens.md" %}
 
-{% page-ref page="formas-de-execucao/resolucao.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/resolucao.md" %}
 
-{% page-ref page="formas-de-execucao/aplicacao-direta-execucao-direta.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/aplicacao-direta-execucao-direta.md" %}
 
-{% page-ref page="formas-de-execucao/aplicacao-direta-caixa-escolar.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/aplicacao-direta-caixa-escolar.md" %}
 
-{% page-ref page="formas-de-execucao/transferencia-especial.md" %}
+{% page-ref page="ajuste-do-tipo-de-atendimento/formas-de-execucao/transferencia-especial.md" %}
 
 
 
