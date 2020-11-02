@@ -267,9 +267,9 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 ![](../.gitbook/assets/image%20%28252%29.png)
 
-**4.1.** Caso o `Tipo de Instrumento` selecionado seja `Termo de Descentralização de Crédito Orçamentário (TDCO)` é obrigatório selecionar `SIM` ou `NÂO` para o campo `Processo de compras do órgão Gerenciador do Crédito`:
+**4.1.** Caso o `Tipo de Instrumento` selecionado seja `Termo de Descentralização de Crédito Orçamentário (TDCO)` é obrigatório selecionar `SIM` ou `NÂO` para o campo `Processo de compras do órgão Gerenciador do Crédito`. Necessário também escolher o Órgão ou Entidade Estadual:
 
-![](../.gitbook/assets/image%20%28249%29.png)
+![](../.gitbook/assets/image%20%28375%29.png)
 
   **4.2.** Caso seja marcado `SIM` para Registro de Preços, informe o Status do Registro de Preços:
 
@@ -383,5 +383,47 @@ O preenchimento deste campo dependerá da forma de execução da indicação da 
 * **Aplicação Direta - Outros Instrumentos:** Valor celebrado no instrumento jurídico.
 
 Caso o `Valor Utilizado` seja inferior ao `Valor Indicado`, será necessário o preenchimento de justificativa para a diferença. Considerando o exemplo acima para "Aplicação Direta - Doação de Bens", a justificativa seria a entrega de documentação correspondente à doação somente de um dos dois bens indicados e a obtenção de preço mais vantajoso quando da obtenção de orçamentos para elaboração do mapa de preços de referência da licitação.
+{% endhint %}
+
+**6. Upload de dados em massa \(planilha de Excel\):** 
+
+6.1. Para todos os tipos de indicação, é possível o upload de dados em massa. Para isso, acesso o Controle de Execução, e clique na aba `Importação de dados`:
+
+![](../.gitbook/assets/image%20%28365%29.png)
+
+6.2. Faça a escolha no Tipo de Importação a ser realizada: `Empenho ou Indicação`:
+
+6.2.1. **Planilha Empenho:** com essa planilha é possível a importação do nº de empenho e data de registro do empenho. O preenchimento pode ser realizado em somente uma planilha para todos os Controles de Execução, mas a importação tem que ser realizada em cada Controle de Execução:
+
+![](../.gitbook/assets/image%20%28364%29.png)
+
+6.2.2. **Planilha Indicação:** com essa planilha é possível a importação do nº de indicação, valor empenhado e valor pago. O preenchimento pode ser realizado em somente uma planilha para todas indicações em diferentes Controles de Execução, mas a importação tem que ser realizada em cada Controle de Execução:
+
+![](../.gitbook/assets/image%20%28367%29.png)
+
+6.3. Após o preenchimento da planilha, faça o upload da mesma. Clique em `Procurar arquivo` e busque pela planilha a ser importada. Após isso, clique no botão `Importar`. Após a importação clique no Botão `Salvar` do Controle de Execução.
+
+{% hint style="danger" %}
+**ATENÇÃO:**
+
+Instruções para importação dos dados:
+
+1- Escolha o Tipo de Importação: Empenho ou Indicação;
+
+          ****1.1- Dados do Empenho: Número Controle Execução, Número do Empenho e Data de Registro; 
+
+          ****1.2- Dados da Indicação: Número Controle Execução, Número da Indicação, Valor Empenhado, Valor Pago; 
+
+2- Realize o download do modelo da planilha para importação; 
+
+3- Localize e importe o arquivo com os dados: 
+
+          **3.1- Não alterar o nome e ordem das colunas em destaque na 1ª linha;** 
+
+          ****3.2- Formato de campos de Valor: 9.999,99;
+
+          ****3.3- Os campos de Data devem estar formatados como tipo Data: Ex.: DD/MM/YYYY; 
+
+          **3.4- Formato do arquivo: Planilha deve ser salva no formato XLSX.**
 {% endhint %}
 
