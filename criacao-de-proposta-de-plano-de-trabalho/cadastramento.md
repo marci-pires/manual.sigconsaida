@@ -1,19 +1,21 @@
 # CADASTRAMENTO
 
-Após entrar no sistema, clique no menu "Convênios" e na opção de "Cadastrar Nova Proposta de Plano de Trabalho"
+Após entrar no sistema, clique no menu "Convênios" e na opção de "Cadastrar Nova Proposta"
 
 ![](../.gitbook/assets/manual_conventes_menu_cadastro.jpg)
 
-## Agora, você está na criação da proposta.
+## Agora, vamos cadastrar uma proposta
 
-Concedente é o órgão ou entidade pertencente à Administração Pública Estadual de Minas Gerais responsável pela liberação dos recursos e análise da viabilidade técnica e jurídica do convênio. Ele também é o responsável pelo acompanhamento e fiscalização da execução do objeto conveniado, bem como pela aprovação da prestação de contas dos recursos utilizados
+### 1º passo
+
+1. Escolha o concedente/órgão ou entidade parceira.  
+2. Na aba de "Identificação do Convenente/OSC Parceira", insira o CNPJ da instituição que irá receber os recursos. Caso não saiba o CNPJ, faça uma pesquisa clicando no ícone de ![](../.gitbook/assets/image%20%28377%29.png) 
+
+{% hint style="info" %}
+**Concedente** é o órgão ou entidade pertencente à Administração Pública Estadual de Minas Gerais responsável pela liberação dos recursos e análise da viabilidade técnica e jurídica do convênio. Ele também é o responsável pelo acompanhamento e fiscalização da execução do objeto conveniado, bem como pela aprovação da prestação de contas dos recursos utilizados
+{% endhint %}
 
 ![](../.gitbook/assets/manual_convenentes_proposta_cadastro%20%281%29.jpg)
-
-> **Passo-a-passo**
->
-> 1. Escolha o concedente/órgão ou entidade parceira.
-> 2. Na aba de "Identificação do Convenente/OSC Parceira", insira o CNPJ da instituição que irá receber os recursos. Caso não saiba o CNPJ, faça uma pesquisa clicando no ícone de
 
 ### Pesquisa de CNPJ do CONVENENTE
 
