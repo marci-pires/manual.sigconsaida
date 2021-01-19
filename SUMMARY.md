@@ -72,4 +72,6 @@
 ## PROCESSO ELETRÔNICO
 
 * [Processo Eletrônico](processo-eletronico/processo-eletronico.md)
+* [Como protocolar?](processo-eletronico/como-protocolar.md)
+* [Cadastro de Usuário Externo](processo-eletronico/cadastro-de-usuario-externo.md)
 
