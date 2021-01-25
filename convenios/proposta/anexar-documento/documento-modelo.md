@@ -24,7 +24,11 @@ Para edição do Documento inserido basta você localizar o Documento na Listage
 
 Na tela que se abre basta você realizar as alterações necessárias e clicar em ![](../../../.gitbook/assets/botao_salvar.png) para salvar suas alterações.
 
-> OBS: Somente é permitido **EDITAR** um documento anexado em Proposta quando a mesma encontra-se no Status de **Cadastramento**
+> OBS 1: Somente é permitido **EDITAR** um documento anexado em Proposta quando a mesma encontra-se no Status de **Cadastramento.**
+>
+> OBS 2: Caso o Documento  tenha sido Assinado \([Assinar Documento](assinar-documento.md)\) anteriormente, o sistema irá perguntar, ao SALVAR, se você deseja que as Assinaturas sejam Invalidadas; sempre que você edita um Documento ja Assinado o mesmo perde as Assinaturas realizadas anteriormente.
+
+## EXCLUIR DOCUMENTO
 
 
 

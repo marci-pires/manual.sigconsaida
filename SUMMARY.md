@@ -81,4 +81,5 @@
     * [Documento Digitalizado](convenios/proposta/anexar-documento/documento-digitalizado.md)
     * [Documento Modelo](convenios/proposta/anexar-documento/documento-modelo.md)
     * [Documento em Branco](convenios/proposta/anexar-documento/documento-em-branco.md)
+    * [Assinar Documento](convenios/proposta/anexar-documento/assinar-documento.md)
 
