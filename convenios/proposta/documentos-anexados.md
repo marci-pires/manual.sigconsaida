@@ -32,11 +32,15 @@
 
 ## Documento Digitalizado
 
+![](../../.gitbook/assets/processo_eletronico_documento_digitalizado_1.png)
 
+![](../../.gitbook/assets/processo_eletronico_documento_digitalizado_tipo_confere-ncia.png)
 
 ## Documento Modelo
 
+![](../../.gitbook/assets/processo_eletronico_documento_modelo.png)
+
 ## Documento em Branco
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/processo_eletronico_documento_em_branco.png)
 
