@@ -80,4 +80,5 @@
     * [Documento Nato-Digital](convenios/proposta/anexar-documento/documento-nato-digital.md)
     * [Documento Digitalizado](convenios/proposta/anexar-documento/documento-digitalizado.md)
     * [Documento Modelo](convenios/proposta/anexar-documento/documento-modelo.md)
+    * [Documento em Branco](convenios/proposta/anexar-documento/documento-em-branco.md)
 
