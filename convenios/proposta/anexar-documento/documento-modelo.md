@@ -6,6 +6,8 @@ description: >-
 
 # Documento Modelo
 
+## INSERIR DOCUMENTO DE UM MODELO
+
 ![Inserir Documento de um Modelo](../../../.gitbook/assets/processo_eletronico_documento_modelo.png)
 
 Selecionar a opção de **Documento Modelo.**
@@ -13,4 +15,16 @@ Selecionar a opção de **Documento Modelo.**
 Na opção de Inserir documento proveniente de um **Modelo** basta você selecionar o Modelo que deseja que ele será carregado para posterior edição, podendo ser alterado na maneira que desejar.
 
 Após o preenchimento dos campos obrigatórios clicar em ![](../../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) . Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
+
+## EDITAR DOCUMENTO MODELO
+
+Para edição do Documento inserido basta você localizar o Documento na Listagem de Documentos anexados, Clicar no botão de **AÇÃO** e **EDITAR DOCUMENTO** ![](../../../.gitbook/assets/processo_eletronico_documento_modelo_editar.png) 
+
+![](../../../.gitbook/assets/processo_eletronico_documento_modelo_editar_editar.png)
+
+Na tela que se abre basta você realizar as alterações necessárias e clicar em ![](../../../.gitbook/assets/botao_salvar.png) para salvar suas alterações.
+
+> OBS: Somente é permitido **EDITAR** um documento anexado em Proposta quando a mesma encontra-se no Status de **Cadastramento**
+
+
 
