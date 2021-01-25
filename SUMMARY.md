@@ -78,4 +78,6 @@
   * [Auditoria](convenios/proposta/auditoria.md)
   * [Anexar Documento \(Processo Eletrônico\)](convenios/proposta/anexar-documento/README.md)
     * [Documento Nato-Digital](convenios/proposta/anexar-documento/documento-nato-digital.md)
+    * [Documento Digitalizado](convenios/proposta/anexar-documento/documento-digitalizado.md)
+    * [Documento Modelo](convenios/proposta/anexar-documento/documento-modelo.md)
 
