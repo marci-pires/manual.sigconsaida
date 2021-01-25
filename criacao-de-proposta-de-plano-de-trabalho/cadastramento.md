@@ -1,6 +1,6 @@
 # CADASTRAMENTO
 
-Após entrar no sistema, clique no menu "Convênios" e na opção de "Cadastrar Nova Proposta"
+Após entrar no sistema, clique no menu "Convênios / Parcerias" e na opção de "Cadastrar Nova Proposta"
 
 ![](../.gitbook/assets/manual_conventes_menu_cadastro.jpg)
 
@@ -38,9 +38,9 @@ Após realizar a pesquisa, serão carregadas as instituições
 > **Passo-a-passo**
 >
 > 1. Após o carregamento das entidades, selecione a desejada. A linha ficará azul, assim como na imagem acima
-> 2. Clique no botão ![](../.gitbook/assets/icone_adicionar%20%281%29.jpg)
+> 2. Clique no botão ![](../.gitbook/assets/selecionar.png) para definir a Instituição a ser feito o convênio
 
-Para iniciar o preenchimento dos dados, é necessário que o Convenente já esteja cadastrado e com status REGULAR no CAGEC.
+Para iniciar o preenchimento dos dados, é necessário que o Convenente já esteja cadastrado e com status **REGULAR** no CAGEC.
 
 {% hint style="warning" %}
 A mensagem de atenção na imagem acima é muito importante. 
@@ -50,7 +50,7 @@ Poderá ser cadastrada uma Proposta mesmo o Concedente estando BLOQUEADO no CAGE
 
 A única informação que não é obrigatória e que pode ser alterada ao ser importada do CAGEC é a data de vencimento do mandato do Responsável Legal e o Cargo.
 
-Complete essas informações e prossiga
+Complete essas informações, caso necessário, e prossiga
 
 ![](../.gitbook/assets/manual_convenentes_proposta_identificacao%20%281%29.jpg)
 
@@ -60,15 +60,23 @@ Caso algum dado esteja incorreto, siga as orientações do Manual de Utilizaçã
 Após a atualização voltar nessa tela e clicar novamente na lupa para carregar os dados novamente 
 {% endhint %}
 
-Por fim, selecione o "Tipo de Instrumento" e Clique em ![](../.gitbook/assets/image%20%28128%29.png) 
+Selecione o "Tipo de Instrumento"   
 
-![](../.gitbook/assets/manual_convenentes_proposta_caracterizacao.jpg)
+![](../.gitbook/assets/caracterizacao-proposta_tipo-de-instrumento.png)
 
 ### Caso o Convenente permita Repasse de Natureza Especial e for o caso da proposta a ser gerada, selecione o tipo de instrumento e marque "sim" na opção de repasse e selecione, em seguida, a natureza especial. 
 
+{% hint style="info" %}
 #### É muito importante, também, digitar a Fundamentação Legal
+{% endhint %}
 
 ![](../.gitbook/assets/manual_convenentes_proposta_caracterizacao_repasse-especial.jpg)
 
-Seguiremos para o preenchimento da proposta!
+Depois, é só clicar em ![](../.gitbook/assets/image%20%28128%29.png)
+
+Seguiremos para o **preenchimento da proposta**!
+
+{% page-ref page="../convenios/proposta/" %}
+
+
 
