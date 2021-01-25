@@ -2,6 +2,8 @@
 
 ![](../../../.gitbook/assets/processo_eletronico_documento_digitalizado_1.png)
 
+Necessário selecionar a opção de **Documento Digitalizado.**
+
 1 - Clicar em ![](../../../.gitbook/assets/processo_eletronico_botao_escolher_arquivo.png) 
 
 2 - Ira abrir uma janela para que você possa escolher o arquivo a ser Carregado.
@@ -28,5 +30,5 @@
 
 8 - Caso necessário você pode adicionar alguma observação ao Documento a ser carregado.
 
-9 - Após o preenchimento dos campos obrigatórios clicar em ![](../../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) 
+9 - Após o preenchimento dos campos obrigatórios clicar em ![](../../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) . Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
 

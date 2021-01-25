@@ -4,6 +4,9 @@
 
 ![Incluir Documento Nato-Digital](../../../.gitbook/assets/processo_eletronico_tela_escolha_tipo_documento.png)
 
+  
+Necessário selecionar a opção de **Documento Nato-Digital.**
+
 1 - Clicar em ![](../../../.gitbook/assets/processo_eletronico_botao_escolher_arquivo.png) 
 
 2 - Ira abrir uma janela para que você possa escolher o arquivo a ser Carregado.
@@ -24,5 +27,5 @@
 
 ![Campos](../../../.gitbook/assets/processo_eletronico_preenchimento_campos.png)
 
-8 - Após o preenchimento dos campos obrigatórios clicar em ![](../../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) 
+8 - Após o preenchimento dos campos obrigatórios clicar em ![](../../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) . Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
 
