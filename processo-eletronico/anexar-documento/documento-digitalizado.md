@@ -45,5 +45,5 @@ Caso você não encontre o Tipo que deseja, entre em contato com o Concedente qu
 
 ![](../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png)
 
-10 - Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
+10 - Após exibir a mensagem de Sucesso você já pode voltar ao fluxo anterior que o Documento aparecerá na aba [**Documentos Anexados**](../../convenios/proposta/documentos-anexados.md)**.**
 
