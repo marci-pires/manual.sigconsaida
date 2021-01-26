@@ -19,27 +19,23 @@ Ao clicar em ![](../../.gitbook/assets/incluir-documento.png) selecione a opçã
 
 ![Escolher arquivo a ser carregado](../../.gitbook/assets/processo_eletronico_carregar_arquivo.png)
 
-4 - Clicar em ![](../../.gitbook/assets/carregar-arquivo.png) para que o arquivo possa ser carregado. Para verificar se o arquivo foi carregado corretamente basta ver se em **Nome do Documento** existe o nome do arquivo carregado, veja exemplo na imagem abaixo
+4 - Clique em ![](../../.gitbook/assets/carregar-arquivo.png) para que o arquivo possa ser carregado. Para verificar se o arquivo foi carregado corretamente basta ver se em **Nome do Documento** existe o nome do arquivo carregado. Veja um exemplo na imagem abaixo
 
 ![Arquivo carregado](../../.gitbook/assets/processo_eletronico_carregar_arquivo2.png)
 
-5 - Escolher o Tipo de Documento que você esta Carregando, caso você não encontre o Tipo que deseja por gentileza entrar em contato com o Concedente que deseja propor ou encaminhar e-mail para atendimento@sigconsaida.mg.gov.br.
+5 - Escolha o Tipo de Documento que você carregou
 
-6 - Dê um Título para o Documento.
+{% hint style="info" %}
+Caso você não encontre o Tipo que deseja, entre em contato com o Concedente que deseja propor ou encaminhar a proposta por e-mail para atendimento@sigconsaida.mg.gov.br.
+{% endhint %}
 
-7 - Caso necessário você pode adicionar alguma observação ao Documento a ser carregado.
+6 - Dê um Título para o Documento
 
-![Campos](../../.gitbook/assets/processo_eletronico_preenchimento_campos.png)
+7 - Caso necessário, você pode adicionar alguma observação ao Documento
 
-8 - Após o preenchimento dos campos obrigatórios clicar em ![](../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) . Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
+![Campos dispon&#xED;veis para edi&#xE7;&#xE3;o](../../.gitbook/assets/processo_eletronico_preenchimento_campos.png)
 
-{% tabs %}
-{% tab title="First Tab" %}
+8 - Após o preenchimento dos campos obrigatórios clicar em ![](../../.gitbook/assets/salvar%20%281%29.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) 
 
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+9 -  Após exibir a mensagem de Sucesso você já pode voltar ao fluxo anterior que o Documento aparecerá na aba [**Documentos Anexados**](../../convenios/proposta/documentos-anexados.md)**.**
 
