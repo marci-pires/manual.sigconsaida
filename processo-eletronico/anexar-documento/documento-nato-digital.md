@@ -1,21 +1,25 @@
 # Documento Nato-Digital
 
+## PASSO-A-PASSO
 
+{% hint style="info" %}
+Para a definição de documento Nato-digital, acesse [aqui](https://manual.sigconsaida.mg.gov.br/processo-eletronico/processo-eletronico#documento-nato-digital)
+{% endhint %}
+
+Ao clicar em ![](../../.gitbook/assets/incluir-documento.png) selecione a opção de **Documento Nato-Digital.**
 
 ![Incluir Documento Nato-Digital](../../.gitbook/assets/processo_eletronico_tela_escolha_tipo_documento.png)
 
   
-Necessário selecionar a opção de **Documento Nato-Digital.**
+1 - Clique em ![](../../.gitbook/assets/escolher-arquivo.png) 
 
-1 - Clicar em ![](../../.gitbook/assets/processo_eletronico_botao_escolher_arquivo.png) 
+2 - Irá abrir uma janela para que você escolha o arquivo a ser carregado.
 
-2 - Ira abrir uma janela para que você possa escolher o arquivo a ser Carregado.
-
-3 - Após a escolha do arquivo ele sera exibido na página para sua conferência, caso não seja o arquivo que deseja pode ser excluído clicando no ![](../../.gitbook/assets/processo_eletronico_x.png)ao lado do arquivo.
+3 - Após a escolha do arquivo, ele será exibido na página para sua conferência. Caso não seja o arquivo que deseja pode ser excluído clicando no ![](../../.gitbook/assets/x.png)ao lado do arquivo.
 
 ![Escolher arquivo a ser carregado](../../.gitbook/assets/processo_eletronico_carregar_arquivo.png)
 
-4 - Clicar em ![](../../.gitbook/assets/processo_eletronico_botao_carregar_arquivo.png) para que o arquivo possa ser carregado. Para verificar se o arquivo foi carregado corretamente basta ver se em **Nome do Documento** existe o nome do arquivo carregado, veja exemplo na imagem abaixo
+4 - Clicar em ![](../../.gitbook/assets/carregar-arquivo.png) para que o arquivo possa ser carregado. Para verificar se o arquivo foi carregado corretamente basta ver se em **Nome do Documento** existe o nome do arquivo carregado, veja exemplo na imagem abaixo
 
 ![Arquivo carregado](../../.gitbook/assets/processo_eletronico_carregar_arquivo2.png)
 
