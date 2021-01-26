@@ -26,9 +26,19 @@ Documentos produzidos por programas como Microsoft Office e LibreOffice, por uma
 
 O **documento digitalizado** é ****aquele que já existe em formato físico e é posteriormente convertido em digital, por meio da digitalização. Esse processo é a conversão fiel do documento físico existente para o código digital, usando um aparelho Scanner ou até fotografando o documento.
 
-Para atestar a autenticidade desses documentos, 
+Para atestar a autenticidade desses documentos, é necessário que esses sejam conferidos e assinados por um Agente autorizado a utilizar o sistema.
 
+{% hint style="info" %}
+O  [Decreto nº10.278, de março de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10278.htm) define **Documento Digitalizado** como: representante digital do processo de digitalização do documento físico e seus metadados
+{% endhint %}
 
+### Cópia Autenticada Administrativamente
+
+Será sempre uma fotocópia ou impressão de um documento que já teve a conferência com o documento original, realizada por servidor público que mediante a fé pública inseriu um carimbo institucional e sua própria assinatura, atestando que o documento foi conferido com o original em determinada data.
+
+{% hint style="info" %}
+Para cópia autenticada em cartório, cópia autenticada administrativamente ou cópia simples \(ocasião na qual os documentos digitalizados dessas três últimas formas, terão valor de cópia simples\)
+{% endhint %}
 
 ## **Assinaturas Digitais**
 
@@ -49,4 +59,11 @@ Para garantir a validade desses documentos é necessário assinar esses document
 Peticionar é o ato de ingressar com algum pedido
 
 
+
+## Referências para consultas
+
+* [https://pelli.jusbrasil.com.br/artigos/913193435/documentos-digitais-e-nato-digitais-uma-breve-abordagem-acerca-das-novas-legislacoes](https://pelli.jusbrasil.com.br/artigos/913193435/documentos-digitais-e-nato-digitais-uma-breve-abordagem-acerca-das-novas-legislacoes%29)
+* [https://portalsei.uffs.edu.br/imagens/processos/manual-do-documento-externo/view/++widget++form.widgets.arquivo/@@download/Manual+do+Documento+Externo+do+SEI+-+29-10-18.pdf](https://portalsei.uffs.edu.br/imagens/processos/manual-do-documento-externo/view/++widget++form.widgets.arquivo/@@download/Manual+do+Documento+Externo+do+SEI+-+29-10-18.pdf%29%20)
+* [https://portalsei.uffs.edu.br/apresentacao/o-que-e-um-documento-nato-digital](https://portalsei.uffs.edu.br/apresentacao/o-que-e-um-documento-nato-digital%29)
+* [Decreto nº10.278, de março de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10278.htm)
 
