@@ -61,7 +61,7 @@
 
 ## PROCESSO ELETRÔNICO
 
-* [DEFINIÇÕES GERAIS](processo-eletronico/processo-eletronico.md)
+* [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
 * [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
