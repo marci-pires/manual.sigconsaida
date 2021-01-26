@@ -10,11 +10,39 @@ As informações registradas, codificada de forma acessível e interpretável po
 
 ### **Documento Nato-Digital**
 
-\*\*\*\*
+**Um documento nato-digital se refere a um criado originalmente em meio eletrônico ou digital.**
+
+Ou seja, ****já “nasceram” digitais, possuem validade legal equiparando-os aos documentos físicos
+
+Porém, para que essa equiparação seja legal existem algumas regras, entre elas a certificação e a **assinatura digital**.
+
+{% hint style="success" %}
+Documentos produzidos por programas como Microsoft Office e LibreOffice, por uma câmera digital ou outros sistemas computacionais são considerados **Nato-digitais**
+{% endhint %}
+
+### Documento Digitalizado
+
+**É um documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital**
+
+O **documento digitalizado** é ****aquele que já existe em formato físico e é posteriormente convertido em digital, por meio da digitalização. Esse processo é a conversão fiel do documento físico existente para o código digital, usando um aparelho Scanner ou até fotografando o documento.
+
+Para atestar a autenticidade desses documentos, 
+
+
 
 ## **Assinaturas Digitais**
 
-Uma parte importante dessa tramitação é a assinatura
+Para garantir a validade desses documentos é necessário assinar esses documentos digitalmente, o que atesta a autenticidade desses documentos eletrônicos.
+
+### Assinatura Eletrônica Avançada
+
+
+
+### Assinatura Eletrônica Qualificada
+
+
+
+### 
 
 ### Peticionamento
 
