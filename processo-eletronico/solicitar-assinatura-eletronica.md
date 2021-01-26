@@ -1,4 +1,4 @@
-# Solicitar Assinatura Eletrônica
+# SOLICITAR ASSINATURA ELETRÔNICA
 
 1- Para Solicitar Assinatura eletrônica no SIGCON-Saída você deve clicar no _**Seu Nome**_ localizado na parte superior direita da tela, ir para Minha Conta e clicar no botão de **SUA CONTA**.
 

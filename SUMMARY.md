@@ -61,14 +61,14 @@
 
 ## PROCESSO ELETRÔNICO
 
-* [PROCESSO ELETRÔNICO](processo-eletronico/processo-eletronico.md)
-* [Anexar Documento \(Processo Eletrônico\)](processo-eletronico/anexar-documento/README.md)
+* [DEFINIÇÕES GERAIS](processo-eletronico/processo-eletronico.md)
+* [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
 * [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
-* [Solicitar Assinatura Eletrônica](processo-eletronico/solicitar-assinatura-eletronica.md)
+* [SOLICITAR ASSINATURA ELETRÔNICA](processo-eletronico/solicitar-assinatura-eletronica.md)
 
 ## CONVÊNIOS
 

@@ -1,4 +1,4 @@
-# PROCESSO ELETRÔNICO
+# DEFINIÇÕES GERAIS
 
 O Processo Eletrônico, no contexto do SIGCON-SAÍDA, é uma funcionalidade que permite ao usuário inserir documentos diretamente no sistema e assiná-los digitalmente.
 
