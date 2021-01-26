@@ -16,11 +16,7 @@ Na tela que se abre você deve verificar se é seu nome e o Perfil correto para 
 
 Clicar em **ASSINAR ELETRONICAMENTE**.
 
-
-
-
-
-## ASSINATRUA ELETRÔNICA QUALIFICADA \(Token\)
+## ASSINATURA ELETRÔNICA QUALIFICADA \(Token\)
 
 1 - Selecionar o Documento que você deseja Assinar, clicar no botão de Ações e em seguida **Assinatura Digital.**
 
