@@ -62,7 +62,13 @@
 ## PROCESSO ELETRÔNICO
 
 * [Processo Eletrônico](processo-eletronico/processo-eletronico.md)
-* [Como protocolar?](processo-eletronico/como-protocolar.md)
+* [Anexar Documento \(Processo Eletrônico\)](processo-eletronico/anexar-documento/README.md)
+  * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
+  * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
+  * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
+  * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
+* [Assinar Documento](processo-eletronico/assinar-documento.md)
+* [Solicitar Assinatura Eletrônica](processo-eletronico/solicitar-assinatura-eletronica.md)
 * [Cadastro de Usuário Externo](processo-eletronico/cadastro-de-usuario-externo.md)
 
 ## CONVÊNIOS
@@ -76,10 +82,4 @@
   * [Plano de Aplicação de Recursos](convenios/proposta/plano-de-aplicacao-de-recursos.md)
   * [Cronograma de Desembolso dos Recursos](convenios/proposta/cronograma-de-desembolso-dos-recursos.md)
   * [Auditoria](convenios/proposta/auditoria.md)
-  * [Anexar Documento \(Processo Eletrônico\)](convenios/proposta/anexar-documento/README.md)
-    * [Documento Nato-Digital](convenios/proposta/anexar-documento/documento-nato-digital.md)
-    * [Documento Digitalizado](convenios/proposta/anexar-documento/documento-digitalizado.md)
-    * [Documento Modelo](convenios/proposta/anexar-documento/documento-modelo.md)
-    * [Documento em Branco](convenios/proposta/anexar-documento/documento-em-branco.md)
-    * [Assinar Documento](convenios/proposta/anexar-documento/assinar-documento.md)
 
