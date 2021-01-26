@@ -60,8 +60,6 @@ São as que utilizam certificado digital e estão de acordo com o processo de ce
 
 ![](../.gitbook/assets/image%20%28381%29.png)
 
-### 
-
 ### Peticionamento
 
 Peticionar é o ato de ingressar com algum pedido
