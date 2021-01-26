@@ -29,3 +29,13 @@ Necessário selecionar a opção de **Documento Nato-Digital.**
 
 8 - Após o preenchimento dos campos obrigatórios clicar em ![](../../.gitbook/assets/botao_salvar.png)  e verificar se o sistema exibe mensagem de sucesso. ![](../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png) . Após exibir a mensagem de Sucesso você ja pode voltar ao fluxo anterior que o Documento ja aparecerá em **Documentos Anexados.**
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+

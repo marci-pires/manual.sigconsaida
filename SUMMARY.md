@@ -61,7 +61,8 @@
 
 ## PROCESSO ELETRÔNICO
 
-* [Processo Eletrônico](processo-eletronico/processo-eletronico.md)
+* [PROCESSO ELETRÔNICO](processo-eletronico/processo-eletronico.md)
+* [Como protocolar/peticionar?](processo-eletronico/como-protocolar.md)
 * [Anexar Documento \(Processo Eletrônico\)](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
