@@ -22,6 +22,8 @@ Ao clicar em ![](../../.gitbook/assets/incluir-documento.png) selecione a opçã
 4 - Clique em ![](../../.gitbook/assets/carregar-arquivo.png) para que o arquivo possa ser carregado. Para verificar se o arquivo foi carregado corretamente basta ver se em **Nome do Documento** existe o nome do arquivo carregado. Veja um exemplo na imagem abaixo
 
 > Extensões de Documentos aceitos: doc\|docx\|xls\|xlsx\|pdf\|txt\|png\|jpeg
+>
+> Tamanho máximo do arquivo permitido: 15M
 
 ![Arquivo carregado](../../.gitbook/assets/processo_eletronico_carregar_arquivo2.png)
 
