@@ -16,7 +16,7 @@ Selecione a caixa para solicitar assinatura eletrônica e clique em ![](../.gitb
 
 Será necessário Anexar os documentos para completar a solicitação.
 
-![](../.gitbook/assets/documentos-obrigatorios-assinatura-eletronica.png)
+![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
 Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas, bastando você acompanhar pelo e-mail cadastrado no sistema que será encaminhado para você.
 
