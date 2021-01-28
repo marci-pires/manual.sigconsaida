@@ -8,7 +8,9 @@ description: >-
 
 ## Atualização Jan/2021
 
-![](../.gitbook/assets/diagram.svg)
+Caso seu usuário esteja INATIVO no SIGCON, é necessário que o CNPJ esteja regular! Prossiga para 
+
+![](../.gitbook/assets/diagram-1-.svg)
 
 ## Para começar, qual é o seu problema?
 
