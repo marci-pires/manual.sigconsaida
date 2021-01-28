@@ -1,48 +1,47 @@
 ---
 description: >-
   Procedimento para superação de impedimento com alteração de dotação
-  orçamentária (permitida a alteração da UO).
+  orçamentária (permitida a alteração da UO)
 ---
 
 # Remanejamento Constitucional
 
+## O remanejamento constitucional só pode ser feito no SIGCON-SAÍDA no período entre 05/07 a 31/07.
+
 {% hint style="info" %}
-**Precondições**
-
-O usuário deverá ter o perfil de **Parlamentar** ou **Administrador de Emenda Parlamentar**
+**Precondições:** O usuário deverá ter o perfil de **Parlamentar**
 {% endhint %}
 
-{% hint style="danger" %}
-**ATENÇÃO:** Nos termos do art. 160,§§ 4°e 18º, da Constituição do Estado de Minas Gerais, 50% das emendas parlamentares individuais deverão ser destinados a ações e serviços públicos de saúde e para o tipo de classificação Bloco / Bancada devem ser destinados a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino. Dessa forma, a escolha de saneamento e/ou remanejamento devem respeitar esse percentual.
-{% endhint %}
+Após definir o valor que será [sanado](saneamento.md) das indicações com impedimento de ordem técnica e o valor que será remanejado através do Remanejamento Constitucional, o parlamentar ainda deverá definir para quais dotações orçamentárias o remanejamento será realizado. 
 
-Após definir o valor que será sanado das indicações com impedimento de ordem técnica e o valor que será remanejado através do Remanejamento Constitucional, o parlamentar ainda deverá definir para quais dotações orçamentárias o remanejamento será realizado. Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu “Emendas &gt; Solucionar Impedimento de Ordem Técnica &gt; Remanejamento Constitucional”:
+Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Solucionar Impedimento de Ordem Técnica > Remanejamento Constitucional`
 
 ![](../.gitbook/assets/image%20%28292%29.png)
 
+{% hint style="danger" %}
+**ATENÇÃO:** Nos termos do art. 160,§§ 4°e 18º, da Constituição do Estado de Minas Gerais, **50% das emendas parlamentares individuais** deverão ser destinados a ações e serviços públicos de **saúde** e para o tipo de classificação **Bloco / Bancada** devem ser destinados a ações e serviços públicos de **saúde** ou à **manutenção e ao desenvolvimento do ensino**. 
+
+**Dessa forma, a escolha de saneamento e/ou remanejamento devem respeitar esse percentual.**
+{% endhint %}
+
+### **1º passo: Escolha as informações da dotação \(siga as orientações na imagem\)**
+
+![Tela de remanejamento constitucional](../.gitbook/assets/image%20%28291%29.png)
+
 A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exibidos quatro saldos:
 
-**Saldo Remanejamento Constitucional:** é a parcela do saldo com impedimento de ordem técnica para o qual o parlamentar indicou que fará o remanejamento da programação orçamentária, conforme as orientações da seção “[Saneamento de Indicações](saneamento.md)”;
-
-**Saldo disponível Remanejamento Constitucional:** parcela do saldo para o qual o parlamentar já informou o remanejamento da dotação orçamentária;
-
-**Valor mínimo Remanejamento Constitucional:** parcela do saldo cuja solicitação da reprogramação orçamentária deverá ser feita obrigatoriamente para as Unidades Orçamentárias relacionada à Saúde, a fim de cumprir o disposto no art. 160, §4° e §18°, da Constituição Estadual. 
-
-**Valor Saúde Remanejamento Constitucional:** parcela do saldo para o qual o parlamentar solicitou a reprogramação da dotação orçamentária para uma das Unidades Orçamentárias da Saúde.
+1. **Saldo Remanejamento Constitucional:** é a parcela do saldo com impedimento de ordem técnica para o qual o parlamentar indicou que fará o remanejamento da programação orçamentária, conforme as orientações da seção “[Saneamento de Indicações](saneamento.md)”;
+2. **Saldo disponível Remanejamento Constitucional:** parcela do saldo para o qual o parlamentar já informou o remanejamento da dotação orçamentária;
+3. **Valor mínimo Remanejamento Constitucional:** parcela do saldo cuja solicitação da reprogramação orçamentária deverá ser feita obrigatoriamente para as Unidades Orçamentárias relacionada à Saúde, a fim de cumprir o disposto no art. 160, §4° e §18°, da Constituição Estadual.  
+4. **Valor Saúde Remanejamento Constitucional:** parcela do saldo para o qual o parlamentar solicitou a reprogramação da dotação orçamentária para uma das Unidades Orçamentárias da Saúde.
 
 {% hint style="danger" %}
 **ATENÇÃO:** Mesmo que o usuário tenha apontado quais recursos serão remanejados através do Remanejamento Constitucional, é imprescindível que ele inclua para quais Unidades Orçamentárias esse remanejamento será realizado.  Senão,  o montante remanescente do “Saldo Disponível Remanejamento Constitucional” perderá a impositividade, nos termos do art. 160, § 11°, da Constituição Estadual.
 {% endhint %}
 
-**Escolha as informações da dotação:**
+### **2º passo: Depois que o remanejamento for salvo o usuário poderá editar, excluir ou refazer o saneamento.**
 
-![](../.gitbook/assets/image%20%28291%29.png)
-
-**Depois que o remanejamento for salvo o mesmo poderá ser editado, excluído  ou refazer o saneamento.**
-
-![](../.gitbook/assets/image%20%28290%29.png)
-
-
+![Op&#xE7;&#xF5;es de edi&#xE7;&#xE3;o do remanejamento](../.gitbook/assets/image%20%28290%29.png)
 
 Caso o usuário deseje alterar as informações do saneamento e do montante direcionado para o remanejamento, conforme preenchido orientado na seção [Saneamento](saneamento.md), é necessário que ele clique no comando “Refazer Saneamento”. Contudo, essa opção irá apagar os registros das programações orçamentárias que o usuário já preencheu no remanejamento.
 
@@ -52,5 +51,5 @@ Caso o usuário deseje alterar as informações do saneamento e do montante dire
 
 ![](../.gitbook/assets/image%20%28289%29.png)
 
-Após clicar no botão SIM o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.
+Após clicar no botão![](../.gitbook/assets/sim.png) o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.
 

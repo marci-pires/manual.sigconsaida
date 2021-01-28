@@ -1,9 +1,7 @@
 # Table of contents
 
 * [MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA](README.md)
-* [🤔 O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio/README.md)
-  * [🔄INTEGRAÇÃO ENTRE SISTEMAS CORPORATIVOS DO ESTADO DE MINAS GERAIS](prefacio/integracao-entre-sistemas-corporativos-do-estado-de-minas-gerais.md)
-  * [📫 CONTATO](prefacio/contato.md)
+* [🤔 O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
 * [🔑 LOGIN E SENHA](login-e-senha/README.md)
   * [🖊 NOVO USUÁRIO](login-e-senha/novo-usuario.md)
   * [💻 PROBLEMAS COM LOGIN](login-e-senha/problemas-com-login.md)
