@@ -12,7 +12,7 @@ Você deve manter seus dados atualizados.
 
 **PASSO 3 -** Selecione a caixa para solicitar assinatura eletrônica e clique em ![](../.gitbook/assets/enviar.png) 
 
-![](../.gitbook/assets/image%20%28382%29.png)
+![](../.gitbook/assets/assinatura_eletronica_solicitacao_usuario_interno.png)
 
 ### **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
