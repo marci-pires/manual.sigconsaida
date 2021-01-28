@@ -16,11 +16,11 @@ Você deve manter seus dados atualizados.
 
 **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
-Você necessitará baixar o **Termo de Declaração de Concordância e veracidade** que
+Você necessitará baixar o **Termo de Declaração de Concordância e veracidade** que esta no Íten 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
-PASSO 5 - 
+**PASSO 5 -** Após ter anexado os documentos você deve clicar em  **Enviar para Aprovação.**
 
 Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas, bastando você acompanhar pelo e-mail cadastrado no sistema que será encaminhado para você.
 
