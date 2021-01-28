@@ -10,7 +10,7 @@ Para utilização da funcionalidade de reprovação, acessar o Controle de Execu
 
 ###  1º passo
 
-Acessar o menu `Emendas >> Gerenciar Indicações >> Controle de Execução`
+Acessar o menu `Emendas > Gerenciar Indicações > Controle de Execução`
 
 ![](../.gitbook/assets/image%20%28369%29.png)
 
