@@ -32,6 +32,14 @@
 O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 {% endhint %}
 
+### Novo Pré-Cadastro
+
+![](../.gitbook/assets/pre-cadastro-cpf.jpg)
+
+
+
+![](../.gitbook/assets/pre-cadastro-cpf.jpg)
+
 **Passo 6** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
 
 ![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30._M3VpJdDX0Oty_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)  
@@ -54,7 +62,7 @@ O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 
 ## REPRESENTANTE LEGAL
 
-> Colocar significado
+>
 
 {% hint style="danger" %}
  **ANTES DE SOLICITAR O CADASTRO, CONFIRA SE O CAGEC ESTÁ COM O NOME DO REPRESENTANTE LEGAL ATUALIZADO** [**http://www.cagec.mg.gov.br/convenente-web/consultaParceiros**](http://www.cagec.mg.gov.br/convenente-web/consultaParceiros)\*\*\*\*
