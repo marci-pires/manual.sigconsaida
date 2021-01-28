@@ -16,15 +16,22 @@ Você deve manter seus dados atualizados.
 
 ### **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
-Para cada um dos itens, siga as orientações
+Para cada um dos itens, siga as orientações abaixo
 
-Você necessitará baixar o  que esta no item 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
-
-1. Baixe o **Termo de Declaração de Concordância e veracidade,** imprima o Termo, assine, digitalize e anexe o documento no
+1. Para emitir o documento  **Termo de Declaração de Concordância e veracidade CLIQUE NO TEXTO** _**SUBLINHADO e**_ **baixe o documento.** Depois**,** imprima o Termo, assine, digitalize e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png) 
+2. Digitalize a FRENTE de um documento de identificação civil com CPF e  anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+3. Digitalize o VERSO de um documento de identificação civil com CPF e  anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+4. Digitalize um comprovante de endereço e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+5. Caso necessário, digitalize ou insira um documento \(de acordo com as orientações do SIGCON\) que comprove os poderes de exercício e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+6. Tire uma foto \(selfie\) segurando o documento de identificação anexado anteriormente e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
-![](../.gitbook/assets/icone_pasta.png)
+{% hint style="success" %}
+**Algumas dicas para digitalização dos documentos**
+
+* Procure digitalizar com boa qualidade e contraste
+{% endhint %}
 
 **PASSO 5 -** Após ter anexado os documentos você deve clicar em  **Enviar para Aprovação.**
 
