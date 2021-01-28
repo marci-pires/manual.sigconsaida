@@ -4,19 +4,23 @@
 
 ![MINHA CONTA](../.gitbook/assets/processo_eletronico_assinatura_sua_conta.png)
 
-Clique na Aba de Lista solicitação Assinatura Eletrônica e clicar em ![](../.gitbook/assets/solicitar-assinatura.png) 
+**PASSO 2 -** Clique na Aba de Lista solicitação Assinatura Eletrônica e clicar em ![](../.gitbook/assets/solicitar-assinatura.png) 
 
 {% hint style="warning" %}
 Você deve manter seus dados atualizados.
 {% endhint %}
 
-Selecione a caixa para solicitar assinatura eletrônica e clique em ![](../.gitbook/assets/enviar.png) 
+**PASSO 3 -** Selecione a caixa para solicitar assinatura eletrônica e clique em ![](../.gitbook/assets/enviar.png) 
 
 ![](../.gitbook/assets/image%20%28382%29.png)
 
-Será necessário Anexar os documentos para completar a solicitação.
+**PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
+
+Vo
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
+
+PASSO 5 - 
 
 Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas, bastando você acompanhar pelo e-mail cadastrado no sistema que será encaminhado para você.
 
