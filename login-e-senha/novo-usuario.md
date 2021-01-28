@@ -4,9 +4,18 @@
 
 #### Para acessar os sub-menus dessa página, clique nas opções ao lado direito
 
-## LOGIN CPF
+## CADASTRO COM CPF
 
-> Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Organização da Sociedade Civil\)
+{% hint style="danger" %}
+PRÉ CONDIÇÕES PARA O CADASTRO
+
+* PRECISA ESTAR REGULAR NO CAGEC \(LINK\)
+* O REPRESENTANTE LEGAL PRECISA ESTAR CADASTRADO NO SIGCON
+{% endhint %}
+
+{% hint style="info" %}
+Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Organização da Sociedade Civil\)
+{% endhint %}
 
 ### **Passo 1 -** O usuário deverá abrir uma nova janela no Google Chrome![](../.gitbook/assets/image%20%287%29.png) , Mozilla Firefox ![](../.gitbook/assets/image%20%28108%29.png) ou Internet Explorer ![](../.gitbook/assets/image%20%2845%29%20%281%29.png); Depois disso, deverá digitar na barra de endereço [www.sigconsaida.mg.gov.br](http://www.sigconsaida.mg.gov.br/) e clicar em ENTRAR \(no canto superior direito da tela\)
 
@@ -24,12 +33,14 @@
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro.png)
 
-### **Passo 5 -** O usuário deve preencher os campos corretamente:
+### **Passo 5 -** O usuário deve preencher o CPF \(que deve ser do usuário\) e o CNPJ \(da Prefeitura ou OSC Parceira\)
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro2.png)
 
 {% hint style="info" %}
-O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
+### 
+
+### 
 {% endhint %}
 
 ### Passo 6 - Novo Pré-Cadastro
