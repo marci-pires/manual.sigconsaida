@@ -5,7 +5,7 @@ description: Procedimento para superação de impedimento de ordem técnica.
 # Saneamento
 
 {% hint style="info" %}
-**Precondições:** O usuário deverá ter o\(s\) perfil\(is\) de **Parlamentar** ou **Administrador de Emenda Parlamentar**
+**Precondições:** O usuário deverá ter o perfil de **Parlamentar**
 {% endhint %}
 
 {% hint style="danger" %}
