@@ -6,6 +6,10 @@ description: O que é?
 
 É o descumprimento dos procedimentos e prazos estabelecidos na Constituição do Estado, na LDO, na Lei, e na resolução SEGOV  do ano corrente que pode ser conferida no portal  [Sigcon Saida](http://www.sigconsaida.mg.gov.br/emendas/) , inviabilizam à execução orçamentária das emendas parlamentares individuais, de bloco ou de bancada, configurando impedimento de ordem técnica insuperável, nos termos do art. 160, § 9º, da Constituição do Estado.
 
+O processo que é realizado no SIGCON SAÍDA segue o fluxo abaixo
+
+![](../../.gitbook/assets/image%20%28391%29.png)
+
 **Por Exemplo:**
 
 O Executivo analisa a compatibilidade da **indicação de emenda** com as **políticas públicas** correspondentes às programações orçamentárias e os requisitos legais para a execução do orçamento público. 
