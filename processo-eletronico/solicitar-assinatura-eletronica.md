@@ -30,5 +30,5 @@ Você necessitará baixar o  que esta no item 1 dos documentos, imprimir o Termo
 
 Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas, bastando você acompanhar pelo e-mail cadastrado no sistema que será encaminhado para você.
 
-Caso a análise seja retornada para 
+Caso a análise seja retornada com alguma pendência você receberá um e-mail de alerta.
 
