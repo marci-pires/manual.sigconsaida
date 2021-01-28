@@ -16,7 +16,11 @@ Você deve manter seus dados atualizados.
 
 ### **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
-Você necessitará baixar o **Termo de Declaração de Concordância e veracidade** que esta no Íten 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
+Para cada um dos itens, siga as orientações
+
+Você necessitará baixar o  que esta no item 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
+
+1. Baixe o **Termo de Declaração de Concordância e veracidade,** imprima o Termo, assine, digitalize e anexe o documento no
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
