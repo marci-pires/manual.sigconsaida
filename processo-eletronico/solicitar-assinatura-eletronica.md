@@ -16,15 +16,34 @@ Você deve manter seus dados atualizados.
 
 ### **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
-Para cada um dos itens, siga as orientações
+Para cada um dos itens, siga as orientações abaixo
 
-Você necessitará baixar o  que esta no item 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
+1. Para emitir o documento  **Termo de Declaração de Concordância e veracidade CLIQUE NO TEXTO** _**SUBLINHADO e**_ **baixe o documento.** Depois**,** imprima o Termo, assine, digitalize e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png) 
+2. Digitalize a FRENTE de um documento de identificação civil com CPF e  anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+3. Digitalize o VERSO de um documento de identificação civil com CPF e  anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+4. Digitalize um comprovante de endereço e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+5. Caso necessário, digitalize ou insira um documento \(de acordo com as orientações do SIGCON\) que comprove os poderes de exercício e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
+6. Tire uma foto \(selfie\) segurando o documento de identificação anexado anteriormente e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
 
-1. Baixe o **Termo de Declaração de Concordância e veracidade,** imprima o Termo, assine, digitalize e anexe o documento no
+![Documentos obrigat&#xF3;rios](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
-![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
+{% hint style="success" %}
+**Algumas dicas para digitalização dos documentos**
 
-![](../.gitbook/assets/icone_pasta.png)
+* Retire clipes e grampos para evitar problemas com a legibilidade dos documentos digitalizados
+
+**Cuide das configurações**
+
+Alguns detalhes de configuração dos equipamentos utilizados para escanear os arquivos podem solucionar problemas no processo de digitalização que, às vezes, fazem com que os documentos digitalizados não fiquem bem legíveis ao serem escaneados. Veja quais são eles!
+
+* **Brilho**
+
+Muitas vezes, o ajuste em 50% funciona bem para os documentos. No entanto, se as letras saírem muito falhas e finas, é preciso reduzir o brilho para que a imagem fique mais escura. Já se o problema estiver nas letras pouco legíveis e muito escuras, basta aumentar o brilho
+
+* **Qualidade da imagem**
+
+O mais indicado é que a qualidade da imagem seja de 300dpi. Caso o texto da página tenha caracteres bem pequenos, configure a qualidade para que fique entre 400dpi e 600dpi. Dessa forma, os arquivos vão ficar perfeitos e todos conseguirão visualizar claramente as informações desejadas
+{% endhint %}
 
 **PASSO 5 -** Após ter anexado os documentos você deve clicar em  **Enviar para Aprovação.**
 
