@@ -39,6 +39,8 @@ Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Org
 
 ### Passo 6 - Preencha os dados corretamente.
 
+![](../.gitbook/assets/image%20%28385%29.png)
+
 Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ passos para anexar os documentos](../processo-eletronico/solicitar-assinatura-eletronica.md#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao)
 
 ### **Passo 7** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
@@ -62,8 +64,6 @@ Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ pass
 {% endhint %}
 
 ## REPRESENTANTE LEGAL
-
->
 
 {% hint style="danger" %}
  **ANTES DE SOLICITAR O CADASTRO, CONFIRA SE O CAGEC ESTÁ COM O NOME DO REPRESENTANTE LEGAL ATUALIZADO** [**http://www.cagec.mg.gov.br/convenente-web/consultaParceiros**](http://www.cagec.mg.gov.br/convenente-web/consultaParceiros)\*\*\*\*
