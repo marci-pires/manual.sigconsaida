@@ -6,7 +6,7 @@ description: >-
 
 # Remanejamento Constitucional
 
-## O remanejamento constitucional só pode ser feito no SIGCON-SAÍDA no período entre 05/07 a 31/07.
+## O remanejamento constitucional só pode ser feito no SIGCON-SAÍDA no período de escolha entre saneamento ou remanejamento constitucional pelo parlamentar/bloco, definido na LDO
 
 {% hint style="info" %}
 **Precondições:** O usuário deverá ter o perfil de **Parlamentar**
