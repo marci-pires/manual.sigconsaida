@@ -16,7 +16,7 @@ Você deve manter seus dados atualizados.
 
 **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
-Vo
+Você necessitará baixar o **Termo de Declaração de Concordância e veracidade** que
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
