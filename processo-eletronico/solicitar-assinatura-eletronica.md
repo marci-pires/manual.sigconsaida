@@ -30,7 +30,19 @@ Para cada um dos itens, siga as orientações abaixo
 {% hint style="success" %}
 **Algumas dicas para digitalização dos documentos**
 
-* Procure digitalizar com boa qualidade e contraste
+* Retire clipes e grampos para evitar problemas com a legibilidade dos documentos digitalizados
+
+**Cuide das configurações**
+
+Alguns detalhes de configuração dos equipamentos utilizados para escanear os arquivos podem solucionar problemas no processo de digitalização que, às vezes, fazem com que os documentos digitalizados não fiquem bem legíveis ao serem escaneados. Veja quais são eles!
+
+* **Brilho**
+
+Muitas vezes, o ajuste em 50% funciona bem para os documentos. No entanto, se as letras saírem muito falhas e finas, é preciso reduzir o brilho para que a imagem fique mais escura. Já se o problema estiver nas letras pouco legíveis e muito escuras, basta aumentar o brilho
+
+* **Qualidade da imagem**
+
+O mais indicado é que a qualidade da imagem seja de 300dpi. Caso o texto da página tenha caracteres bem pequenos, configure a qualidade para que fique entre 400dpi e 600dpi. Dessa forma, os arquivos vão ficar perfeitos e todos conseguirão visualizar claramente as informações desejadas
 {% endhint %}
 
 **PASSO 5 -** Após ter anexado os documentos você deve clicar em  **Enviar para Aprovação.**
