@@ -25,7 +25,7 @@ Para cada um dos itens, siga as orientações abaixo
 5. Caso necessário, digitalize ou insira um documento \(de acordo com as orientações do SIGCON\) que comprove os poderes de exercício e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
 6. Tire uma foto \(selfie\) segurando o documento de identificação anexado anteriormente e anexe o documento no botão ![](../.gitbook/assets/icone_pasta.png)
 
-![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
+![Documentos obrigat&#xF3;rios](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
 {% hint style="success" %}
 **Algumas dicas para digitalização dos documentos**
