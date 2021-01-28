@@ -4,6 +4,8 @@ description: Procedimento para superação de impedimento de ordem técnica.
 
 # Saneamento
 
+## O saneamento só pode ser feito no SIGCON-SAÍDA no período de escolha entre saneamento ou remanejamento constitucional pelo parlamentar/bloco, definido na LDO
+
 {% hint style="info" %}
 **Precondições:** O usuário deverá ter o perfil de **Parlamentar**
 {% endhint %}
