@@ -8,23 +8,23 @@
 
 > Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Organização da Sociedade Civil\)
 
-**Passo 1 -** O usuário deverá abrir uma nova janela no Google Chrome![](../.gitbook/assets/image%20%287%29.png) , Mozilla Firefox ![](../.gitbook/assets/image%20%28108%29.png) ou Internet Explorer ![](../.gitbook/assets/image%20%2845%29%20%281%29.png); Depois disso, deverá digitar na barra de endereço [www.sigconsaida.mg.gov.br](http://www.sigconsaida.mg.gov.br/) e clicar em ENTRAR \(no canto superior direito da tela\)
+### **Passo 1 -** O usuário deverá abrir uma nova janela no Google Chrome![](../.gitbook/assets/image%20%287%29.png) , Mozilla Firefox ![](../.gitbook/assets/image%20%28108%29.png) ou Internet Explorer ![](../.gitbook/assets/image%20%2845%29%20%281%29.png); Depois disso, deverá digitar na barra de endereço [www.sigconsaida.mg.gov.br](http://www.sigconsaida.mg.gov.br/) e clicar em ENTRAR \(no canto superior direito da tela\)
 
 ![](../.gitbook/assets/sigcon-pag-inicial.png)
 
-**Passo 2 -** Depois de ser redirecionado para a página de login, o usuário deverá clicar em ![](../.gitbook/assets/image%20%28111%29.png) 
+### **Passo 2 -** Depois de ser redirecionado para a página de login, o usuário deverá clicar em ![](../.gitbook/assets/image%20%28111%29.png) 
 
 ![](../.gitbook/assets/sigcon-login_novo-usuario.png)
 
-**Passo 3 -** O usuário deverá clicar em "Prefeituras e Organizações da Sociedade Civil"
+### **Passo 3 -** O usuário deverá clicar em "Prefeituras e Organizações da Sociedade Civil"
 
 ![](../.gitbook/assets/login_prefeitura.png)
 
-**Passo 4 -** Então, o usuário deve clicar em ![](../.gitbook/assets/image%20%28165%29.png) 
+### **Passo 4 -** Então, o usuário deve clicar em ![](../.gitbook/assets/image%20%28165%29.png) 
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro.png)
 
-**Passo 5 -** O usuário deve preencher os campos corretamente:
+### **Passo 5 -** O usuário deve preencher os campos corretamente:
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro2.png)
 
@@ -32,7 +32,7 @@
 O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 {% endhint %}
 
-### Novo Pré-Cadastro
+### Passo 6 - Novo Pré-Cadastro
 
 ![](../.gitbook/assets/pre-cadastro-cpf.jpg)
 
