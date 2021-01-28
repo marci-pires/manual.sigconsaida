@@ -6,12 +6,6 @@ description: >-
 
 # 🔑 LOGIN E SENHA
 
-## Atualização Jan/2021
-
-Caso seu usuário esteja INATIVO no SIGCON, é necessário que o CNPJ esteja regular! Prossiga para 
-
-![](../.gitbook/assets/diagram-1-.svg)
-
 ## Para começar, qual é o seu problema?
 
 {% page-ref page="novo-usuario.md" %}
