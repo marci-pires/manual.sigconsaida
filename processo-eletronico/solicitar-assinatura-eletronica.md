@@ -14,7 +14,7 @@ Você deve manter seus dados atualizados.
 
 ![](../.gitbook/assets/image%20%28382%29.png)
 
-**PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
+### **PASSO 4 -** Será necessário Anexar os documentos para completar a solicitação.
 
 Você necessitará baixar o **Termo de Declaração de Concordância e veracidade** que esta no Íten 1 dos documentos, imprimir o Termo, assiná-lo e anexar através do Botão de Ação do item 1
 
