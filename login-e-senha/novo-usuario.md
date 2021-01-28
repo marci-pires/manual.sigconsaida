@@ -43,13 +43,13 @@ Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Org
 ### 
 {% endhint %}
 
-### Passo 6 - Novo Pré-Cadastro
+### Passo 6 - Preencha os dados corretamente.
+
+Caso você deseje solicitar a assinatura digital, marque a caixa e siga os passos 
 
 ![](../.gitbook/assets/pre-cadastro-cpf.jpg)
 
 
-
-![](../.gitbook/assets/pre-cadastro-cpf.jpg)
 
 ### **Passo 7** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
 
