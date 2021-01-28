@@ -24,6 +24,8 @@ Você necessitará baixar o  que esta no item 1 dos documentos, imprimir o Termo
 
 ![](../.gitbook/assets/assinatura_eletronica_solicitacao_envio_documento.png)
 
+![](../.gitbook/assets/icone_pasta.png)
+
 **PASSO 5 -** Após ter anexado os documentos você deve clicar em  **Enviar para Aprovação.**
 
 Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas, bastando você acompanhar pelo e-mail cadastrado no sistema que será encaminhado para você.
