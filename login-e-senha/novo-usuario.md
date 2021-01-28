@@ -40,25 +40,25 @@ O CPF deve ser do usuário e o CNPJ da Prefeitura ou OSC Parceira
 
 ![](../.gitbook/assets/pre-cadastro-cpf.jpg)
 
-**Passo 6** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
+### **Passo 7** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
 
-![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30._M3VpJdDX0Oty_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)  
-****
+![image](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30._M3VpJdDX0Oty_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)
 
-**Passo 7 -** O usuário deverá digitar sua senha atendendo aos seguintes critérios de segurança:     
+### **Passo 8 -** O usuário deverá digitar sua senha atendendo aos seguintes critérios de segurança
 
-> **- Mínimo de 6 caracteres alfanuméricos \(inclui letras maiúscula/minúscula e caracteres especiais\)**
->
->  **- A senha deve conter pelo menos uma letra e um número.**
+{% hint style="danger" %}
+ **Mínimo de 6 caracteres alfanuméricos \(inclui letras maiúscula/minúscula e caracteres especiais\)**
 
-  
-**Passo 8 -**  O usuário deverá repetir a nova senha criada.
+**A senha deve conter pelo menos uma letra e um número.**
+{% endhint %}
 
-**Passo 9 -** Clicar em “Salvar”. 
+###  **Passo 9 -**  O usuário deverá repetir a nova senha criada.
 
-\*\*\*\*
+### **Passo 10 -** Clicar em “Salvar”. 
 
-> **ATENÇÃO:** O login de acesso só é liberado para o usuário após a aprovação do Responsável Legal da entidade. O usuário passará a acessar a nova versão com o NOVO login \(seu CPF\) e com a nova senha criada.
+{% hint style="danger" %}
+**ATENÇÃO:** O login de acesso só é liberado para o usuário após a aprovação do Responsável Legal da entidade. O usuário passará a acessar a nova versão com o NOVO login \(seu CPF\) e com a nova senha criada.
+{% endhint %}
 
 ## REPRESENTANTE LEGAL
 
