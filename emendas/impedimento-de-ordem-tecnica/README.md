@@ -40,9 +40,7 @@ Somente é permitido reprovar uma indicação até o processo de assinatura conf
 
 ![Status permitido para Impedimento de Ordem T&#xE9;cnica](../../.gitbook/assets/image%20%28223%29.png)
 
- 
-
-**A reprovação da indicação pode ser efetuada de duas formas:**
+ **A reprovação da indicação pode ser efetuada de duas formas:**
 
 Clique no quadro desejado para ser encaminhado para a tela correspondente.
 
