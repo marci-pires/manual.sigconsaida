@@ -45,7 +45,7 @@ Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Org
 
 ### Passo 6 - Preencha os dados corretamente.
 
-Caso você deseje solicitar a assinatura digital, marque a caixa e siga os passos 
+Caso você deseje solicitar a assinatura digital, marque a caixa e siga os [passos para anexar os documentos](https://manual.sigconsaida.mg.gov.br/processo-eletronico/solicitar-assinatura-eletronica#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao)
 
 ![](../.gitbook/assets/pre-cadastro-cpf.jpg)
 
