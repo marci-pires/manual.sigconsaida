@@ -62,7 +62,7 @@
 ## PROCESSO ELETRÔNICO
 
 * [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
-* [SOLICITAR ASSINATURA ELETRÔNICA](processo-eletronico/solicitar-assinatura-eletronica.md)
+* [SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha.md)
 * [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
