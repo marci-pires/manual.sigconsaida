@@ -6,6 +6,10 @@ description: >-
 
 # 🔑 LOGIN E SENHA
 
+## Atualização Jan/2021
+
+![](../.gitbook/assets/diagram-1-.svg)
+
 ## Para começar, qual é o seu problema?
 
 {% page-ref page="novo-usuario.md" %}
