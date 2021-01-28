@@ -37,19 +37,9 @@ Usuários que utilizam seu CPF como login pertencem à prefeituras ou OSCs \(Org
 
 ![](../.gitbook/assets/login_prefeitura_pre-cadastro2.png)
 
-{% hint style="info" %}
-### 
-
-### 
-{% endhint %}
-
 ### Passo 6 - Preencha os dados corretamente.
 
-Caso você deseje solicitar a assinatura digital, marque a caixa e siga os [passos para anexar os documentos](https://manual.sigconsaida.mg.gov.br/processo-eletronico/solicitar-assinatura-eletronica#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao)
-
-![](../.gitbook/assets/pre-cadastro-cpf.jpg)
-
-
+Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ passos para anexar os documentos](../processo-eletronico/solicitar-assinatura-eletronica.md#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao)
 
 ### **Passo 7** - O usuário receberá um email com o link para criação da senha. Clicar nele: ****
 
