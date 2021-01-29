@@ -1,4 +1,4 @@
-# PROCESSO DE ASSINTURA - Convenente
+# PROCESSO DE ASSINATURA - Convenente
 
 Prezados, agora com o **PROCESSO ELETRÔNICO** sendo cadastrado no SIGCON - Saída é necessário que o **REPRESENTANTE LEGAL** e uma **TESTEMUNHA** assine com Login e Senha o Plano de Trabalho \(Celebração e Alterações dos Instrumentos\).
 

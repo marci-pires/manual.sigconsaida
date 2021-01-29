@@ -67,7 +67,8 @@
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
 * [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
-* [PROCESSO DE ASSINTURA - Convenente](processo-eletronico/assinatura-convenente.md)
+* [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente.md)
+* [ASSINATURA - Concedente](processo-eletronico/assinatura-concedente.md)
 
 ## CONVÊNIOS
 
