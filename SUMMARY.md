@@ -70,7 +70,7 @@
 * [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
   * [Assinatura \(Testemunha\)](processo-eletronico/assinatura-convenente/assinatura-testemunha.md)
   * [Assinatura \(Representante Legal - Covenente\)](processo-eletronico/assinatura-convenente/assinatura-representante-legal-covenente.md)
-* [ASSINATURA - Concedente](processo-eletronico/assinatura-concedente.md)
+* [PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente.md)
 
 ## CONVÊNIOS
 
