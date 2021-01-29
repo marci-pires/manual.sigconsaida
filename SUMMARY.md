@@ -82,4 +82,5 @@
   * [Documentos Anexados](convenios/proposta/documentos-anexados.md)
 * [PLANO DE TRABALHO](convenios/plano-de-trabalho/README.md)
   * [PROCESSO DE ASSINTURA - Convenente](convenios/plano-de-trabalho/assinatura-convenente.md)
+* [ALTERAÇÃO](convenios/alteracao.md)
 

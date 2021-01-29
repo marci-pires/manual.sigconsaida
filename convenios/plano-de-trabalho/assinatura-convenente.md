@@ -20,5 +20,11 @@ O usuário também deve ter permissão de Assinar com Login e Senha \([SOLICITAR
 
 ## ASSINAR COMO RESPONSÁVEL LEGAL
 
+{% hint style="info" %}
+**PRÉ-REQUISITO:** O usuário deve ter o Perfil de Responsável Legal do Convenente e o Plano de Trabalho deve estar em Status de PROCESSO DE ASSINATURA - CONVENENTE.
+{% endhint %}
+
+**PASSO 1** - Após entra no Plano de Trabalho que esta no Status de **PROCESSO DE ASSINATURA - CONVENENTE**, você deve ira para parte inferior da tela e clicar no botão \[**ASSINAR CONVÊNIO/PARCERIA - Convenente\]**
+
 
 
