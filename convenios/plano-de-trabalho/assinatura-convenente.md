@@ -26,5 +26,5 @@ O usuário também deve ter permissão de Assinar com Login e Senha \([SOLICITAR
 
 **PASSO 1** - Após entra no Plano de Trabalho que esta no Status de **PROCESSO DE ASSINATURA - CONVENENTE**, você deve ira para parte inferior da tela e clicar no botão \[**ASSINAR CONVÊNIO/PARCERIA - Convenente\]**
 
-
+Após a assinatura no Instrumento o Plano será encaminhado para o **Concedente** para assinatura e continuidade do processo.
 
