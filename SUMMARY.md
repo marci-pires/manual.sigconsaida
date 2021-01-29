@@ -57,20 +57,20 @@
     * [Alteração Simples](alteracoes/manual-convenente-alteracao/alteracao-simples.md)
     * [Termo Aditivo](alteracoes/manual-convenente-alteracao/termo-aditivo.md)
 
-## PROCESSO ELETRÔNICO
+## 🟢PROCESSO ELETRÔNICO
 
-* [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
-* [SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha.md)
-* [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
+* [🟢DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
+* [🟢SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha.md)
+* [🟢ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
-* [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
-* [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
+* [🟢ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
+* [🟢PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
   * [Assinatura \(Testemunha\)](processo-eletronico/assinatura-convenente/assinatura-testemunha.md)
   * [Assinatura \(Representante Legal - Covenente\)](processo-eletronico/assinatura-convenente/assinatura-representante-legal-covenente.md)
-* [PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente/README.md)
+* [🟢PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente/README.md)
   * [Assinatura \(Representante Legal - Concedente\)](processo-eletronico/assinatura-concedente/assinatura-representante-legal-concedente.md)
 
 ## CONVÊNIOS
