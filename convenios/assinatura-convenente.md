@@ -14,3 +14,5 @@ O usuário também deve ter permissão de Assinar com Login e Senha \([SOLICITAR
 
 **PASSO 2** - Na tela que se abre você deve digitar novamente sua senha e clicar em **ASSINAR COM USUÁRIO E SENHA.**
 
+![](../.gitbook/assets/assinando_como_testemunha.png)
+
