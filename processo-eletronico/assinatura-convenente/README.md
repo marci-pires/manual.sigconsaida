@@ -4,3 +4,9 @@ Prezados, agora com o **PROCESSO ELETRÔNICO** sendo cadastrado no SIGCON - Saí
 
 
 
+{% page-ref page="assinatura-testemunha.md" %}
+
+{% page-ref page="assinatura-representante-legal-covenente.md" %}
+
+
+
