@@ -12,7 +12,11 @@ O usuário também deve ter permissão de Assinar com Login e Senha \([SOLICITAR
 
 **PASSO 1** - Após entra no Plano de Trabalho que esta no Status de **PROCESSO DE ASSINATURA - CONVENENTE**, você deve ira para parte inferior da tela e clicar no botão ![](../.gitbook/assets/botao_assinar_testemunha_01.png) .
 
+> Você somente poderá assinar como testemunha apenas uma vez.
+
 **PASSO 2** - Na tela que se abre você deve digitar novamente sua senha e clicar em **ASSINAR COM USUÁRIO E SENHA.**
 
 ![](../.gitbook/assets/assinando_como_testemunha.png)
+
+
 
