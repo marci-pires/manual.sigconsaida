@@ -80,6 +80,6 @@
   * [Cronograma de Desembolso dos Recursos](convenios/proposta/cronograma-de-desembolso-dos-recursos.md)
   * [Auditoria](convenios/proposta/auditoria.md)
   * [Documentos Anexados](convenios/proposta/documentos-anexados.md)
-* [PLANO DE TRABALHO](convenios/plano-de-trabalho.md)
-* [PROCESSO DE ASSINTURA - Convenente](convenios/assinatura-convenente.md)
+* [PLANO DE TRABALHO](convenios/plano-de-trabalho/README.md)
+  * [PROCESSO DE ASSINTURA - Convenente](convenios/plano-de-trabalho/assinatura-convenente.md)
 
