@@ -67,6 +67,7 @@
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
 * [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
+* [PROCESSO DE ASSINTURA - Convenente](processo-eletronico/assinatura-convenente.md)
 
 ## CONVÊNIOS
 
@@ -80,7 +81,6 @@
   * [Cronograma de Desembolso dos Recursos](convenios/proposta/cronograma-de-desembolso-dos-recursos.md)
   * [Auditoria](convenios/proposta/auditoria.md)
   * [Documentos Anexados](convenios/proposta/documentos-anexados.md)
-* [PLANO DE TRABALHO](convenios/plano-de-trabalho/README.md)
-  * [PROCESSO DE ASSINTURA - Convenente](convenios/plano-de-trabalho/assinatura-convenente.md)
+* [PLANO DE TRABALHO](convenios/plano-de-trabalho.md)
 * [ALTERAÇÃO](convenios/alteracao.md)
 
