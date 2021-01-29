@@ -57,11 +57,9 @@ Caso a análise seja retornada com alguma pendência você receberá um e-mail d
 
 ![Regulariza Pend&#xEA;ncias de Solicita&#xE7;&#xF5;es de Assinatura](../.gitbook/assets/processo_eletronico_assinatura_sua_conta.png)
 
-**PASSO 7** - Na aba de **Lista solicitação Assinatura de Usuário e Senha** verifique o status de sua solicitação,  caso esteja em **Análise Aguardando Solução** é porque existe alguma pendência a ser solucionada.
+**PASSO 7** - Na aba de **Lista solicitação Assinatura de Usuário e Senha** verifique o status de sua solicitação,  caso esteja em **Análise Aguardando Solução** é porque existe alguma pendência a ser solucionada, basta clicar em![](../.gitbook/assets/botao_editar.png) **ANÁLISE** para entrar na solicitação e verificar quais documentos estão como **REPROVADO**.
 
-**PASSO  8** - Clicar em ![](../.gitbook/assets/botao_editar.png) para verificar qual pendência a ser solucionada.
+**PASSO  8** - Na listagem dos documentos você pode verificar o status do documento, podendo ser APROVADO ou REPROVADO, os documentos que estiverem sido **REPROVADO**, você deve clicar em **Análise** para verificar qual Justificativa de reprovação e proceder a alteração e atualização do documento.
 
-**PASSO 9** - Você será direcionado para a página contendo os documentos encaminhados anteriormente, devendo clicar no botão ![](../.gitbook/assets/botao_observacoes.png) **Justificativa**, e verificar qual a pendência que o analista retornou.
-
-**PASSO 10** - Você deve realizar a correção conforme solicitado e encaminhar novamente para análise.
+**PASSO 9**  - Você deve realizar a correção conforme solicitado e encaminhar novamente para análise.
 
