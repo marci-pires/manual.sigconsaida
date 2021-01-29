@@ -42,19 +42,9 @@ Caso deseje excluir um item, clique na ![](../../.gitbook/assets/image%20%28154%
 
 ![](../../.gitbook/assets/image%20%2844%29.png)
 
-Clique em ![](../../.gitbook/assets/image%20%2893%29.png) e adicione o documento desejado
+{% page-ref page="../../processo-eletronico/anexar-documento/documento-nato-digital.md" %}
 
-![](../../.gitbook/assets/image%20%28121%29.png)
 
-Selecione um arquivo no seu computador e clique em "abrir"
-
-![](../../.gitbook/assets/image%20%2825%29.png)
-
-Depois disso, o arquivo será carregado no sistema.
-
-Em seguida, clique em ![](../../.gitbook/assets/icone_salvar.jpg) 
-
-![](../../.gitbook/assets/image%20%2848%29%20%281%29.png)
 
 Na tela do Plano de Aplicações, o arquivo aparecerá na Lista de Anexos. O usuário pode visualizar o arquivo clicando na ![](../../.gitbook/assets/image%20%2877%29.png) ou excluir-lo clicando no ![](../../.gitbook/assets/image%20%28173%29.png) 
 
