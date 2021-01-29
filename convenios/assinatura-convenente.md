@@ -5,7 +5,7 @@ Prezados, agora com o **PROCESSO ELETRÔNICO** sendo cadastrado no SIGCON - Saí
 ## ASSINAR COMO TESTEMUNHA
 
 {% hint style="info" %}
-**PRÉ-REQUISITO:** O usuário pode ter qualquer perfil no sistema desde que não seja Responsável Legal do Convenente nem Representante Legal do Concedente.
+**PRÉ-REQUISITO:** O usuário pode ter qualquer perfil no sistema desde que não seja Responsável Legal do Convenente nem Representante Legal do Concedente e o Plano de Trabalho deve estar em Status de PROCESSO DE ASSINATURA - CONVENENTE
 {% endhint %}
 
 PASSO 1 - Após entra no Plano de Trabalho que esta no Status de **PROCESSO DE ASSINATURA - CONVENENTE**, você deve ira para parte inferior da tela e clicar no botão ![](../.gitbook/assets/botao_assinar_testemunha_01.png) 
