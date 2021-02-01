@@ -18,7 +18,7 @@ Uma vez que os instrumentos e saldos de órgãos e entidades extintos foram migr
 Portanto, **as alterações no Sigcon-MG – Módulo Saída devem ser realizadas em conformidade com a conversão já realizada no SIAFI** \(Tabela de Conversão de Unidades\), sob pena de inviabilizar a posterior publicação de termos aditivos e outras alterações, empenhos, liquidações e pagamentos.
 {% endhint %}
 
-{% file src="../../../.gitbook/assets/conversao-unidades-2019-2020.xlsx" caption="Tabela de Conversão de Unidades" %}
+{% file src="../../../../.gitbook/assets/conversao-unidades-2019-2020.xlsx" caption="Tabela de Conversão de Unidades" %}
 
 {% hint style="warning" %}
  Essa funcionalidade deverá ser **utilizada exclusivamente para instrumentos que ainda estão em órgãos/entidades que foram extintos** na Reforma Administrativa.
