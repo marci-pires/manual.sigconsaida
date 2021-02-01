@@ -38,7 +38,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 7. Clique na aba `ANÁLISE TÉCNICA` e edite a análise técnica padrão, caso queira. Se você entende que análise técnica está de acordo, clique em `SALVAR`:
 
-![](../../.gitbook/assets/image%20%28395%29.png)
+![](../../.gitbook/assets/image%20%28399%29.png)
 
 8. Caso queira, gere o **Termo de Prorrogação de Ofício**, _após a inserção da análise técnica,_ clicando no botão `TERMO DE PRORROGAÇÃO DE OFÍCIO COVID 19`:
 
@@ -56,7 +56,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 ![Assinatura com Usu&#xE1;rio e Senha](../../.gitbook/assets/image%20%28392%29.png)
 
-![Assinatura com Certificado Digital](../../.gitbook/assets/image%20%28393%29.png)
+![Assinatura com Certificado Digital](../../.gitbook/assets/image%20%28395%29.png)
 
 12. Após a assinatura, clique no botão `ENCAMINHAR PARA A SEGOV`.
 
