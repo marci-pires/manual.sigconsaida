@@ -40,20 +40,20 @@
 * [CRIAÇÃO DE PROPOSTA DE PLANO DE TRABALHO](criacao-de-proposta-de-plano-de-trabalho/README.md)
   * [CADASTRAMENTO](criacao-de-proposta-de-plano-de-trabalho/cadastramento.md)
 
-## 🟢PROCESSO ELETRÔNICO
+## 🟢 PROCESSO ELETRÔNICO
 
 * [🟢DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
-* [🟢SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha.md)
-* [🟢ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
+* [🟢 SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha.md)
+* [🟢 ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
-* [🟢ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
-* [🟢PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
+* [🟢 ASSINAR DOCUMENTO](processo-eletronico/assinar-documento.md)
+* [🟢 PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
   * [Assinatura \(Testemunha\)](processo-eletronico/assinatura-convenente/assinatura-testemunha.md)
   * [Assinatura \(Representante Legal - Covenente\)](processo-eletronico/assinatura-convenente/assinatura-representante-legal-covenente.md)
-* [🟢PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente/README.md)
+* [🟢 PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente/README.md)
   * [Assinatura \(Representante Legal - Concedente\)](processo-eletronico/assinatura-concedente/assinatura-representante-legal-concedente.md)
 
 ## CONVÊNIOS
@@ -67,8 +67,8 @@
   * [Plano de Aplicação de Recursos](convenios/proposta/plano-de-aplicacao-de-recursos.md)
   * [Cronograma de Desembolso dos Recursos](convenios/proposta/cronograma-de-desembolso-dos-recursos.md)
   * [Auditoria](convenios/proposta/auditoria.md)
-  * [🟢Documentos Anexados](convenios/proposta/documentos-anexados.md)
-* [PLANO DE TRABALHO](convenios/plano-de-trabalho.md)
+  * [🟢 Documentos Anexados](convenios/proposta/documentos-anexados.md)
+* [🟢 PLANO DE TRABALHO](convenios/plano-de-trabalho.md)
 * [ALTERAÇÕES](convenios/alteracoes/README.md)
   * [Concedente / Órgão ou Entidade Estadual Parceiro](convenios/alteracoes/manual-concedente-alteracao/README.md)
     * [Adequação](convenios/alteracoes/manual-concedente-alteracao/adequacao/README.md)
