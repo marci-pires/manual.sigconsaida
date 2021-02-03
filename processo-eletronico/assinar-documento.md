@@ -4,7 +4,7 @@
 
 ## Assinatura Eletrônica
 
-> A assinatura eletrônica do SIGCON-SAÍDA, é a definida como [Assinatura Eletrônica Avançada](https://manual.sigconsaida.mg.gov.br/processo-eletronico/processo-eletronico#assinatura-eletronica-avancada). Para que você possa utilizar essa modalidade você deve ter permissão \(veja como [Solicitar Assinatura Eletrônica](solicitar-assinatura-login-senha.md)\)
+> A assinatura eletrônica do SIGCON-SAÍDA, é a definida como [Assinatura Eletrônica Avançada](https://manual.sigconsaida.mg.gov.br/processo-eletronico/processo-eletronico#assinatura-eletronica-avancada). Para que você possa utilizar essa modalidade você deve ter permissão \(veja como [Solicitar Assinatura Eletrônica](solicitar-assinatura-login-senha/)\)
 
 PASSO-A-PASSO para assinar documentos 
 
