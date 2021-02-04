@@ -1,4 +1,4 @@
-# Cancelar uma indicação
+# Cancelar Indicação
 
 O cancelamento da indicação pode ser acessado a partir do menu “Emendas” &gt; “Gerenciar Indicações”&gt; "Indicação de Recursos", conforme a imagem abaixo:
 

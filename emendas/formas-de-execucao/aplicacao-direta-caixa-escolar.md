@@ -1,10 +1,10 @@
-# 🗂Aplicação Direta - Caixa Escolar
+# Aplicação Direta - Caixa Escolar
 
 A indicação do tipo “Caixa Escolar” consiste na aplicação dos recursos de emenda parlamentar na gestão de infraestrutura das escolas do ensino médio e fundamental de Minas Gerais. Por esse motivo, essa opção de indicação só estará disponível nos incisos cuja unidade orçamentária for referente à Secretaria de Estado de Educação.
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas:
+**1.** A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas:
 
 1. A **escolha da escola** que receberá os recursos;
 2. **Como** os recursos serão aplicados;
@@ -12,7 +12,7 @@ A indicação de recursos do tipo “Caixa Escolar” é realizada em três etap
 
 A escolha da escola receberá os recursos é feita pelo preenchimento do código da escola.
 
-![](../../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_lista-de-indicacoes.jpg)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_lista-de-indicacoes.jpg)
 
 > **Passo-a-passo**
 >
@@ -21,9 +21,9 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 #### Pesquisa de Código da Escola
 
-Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município ou nome da escola
+**2.** Caso o usuário não saiba previamente o código da escola, é possível realizar uma pesquisa através do município ou nome da escola
 
-![](../../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_pesquisa-escola.jpg)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_pesquisa-escola.jpg)
 
 > **Passo-a-passo**
 >
@@ -34,7 +34,7 @@ Caso o usuário não saiba previamente o código da escola, é possível realiza
 
 ### As escolas selecionadas são exibidas na tabela “Entrada”, na qual deverão ser preenchidas as informações referente ao tipo de aplicação e ao valor de cada indicação**.**
 
-![](../../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_selecao-cx-escolar.jpg)
+![](../../.gitbook/assets/manual_parlamentares_indicacao_cx-escolar_selecao-cx-escolar.jpg)
 
 > **Passo-a-passo**
 >
@@ -42,11 +42,15 @@ Caso o usuário não saiba previamente o código da escola, é possível realiza
 > 2. Preencha o valor da indicação
 > 3. Clique em “Enviar Indicações”
 
-{% hint style="danger" %}
-Atenção quanto ao grupo de despesa do inciso!
+{% hint style="success" %}
+**Ao selecionar o Tipo de Aplicação, serão exibidos somente os tipos de acordo com o Grupo de Despesas \(Outras Despesas Correntes ou Investimento\).**
 {% endhint %}
 
-Após o preenchimento correto, o sistema irá gerar uma mensagem como a abaixo
+**3.** Após o preenchimento correto, o sistema irá gerar uma mensagem como a abaixo:
 
-![](../../../.gitbook/assets/24.png)
+![](../../.gitbook/assets/24.png)
+
+{% hint style="info" %}
+A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.
+{% endhint %}
 

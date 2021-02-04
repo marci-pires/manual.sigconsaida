@@ -1,4 +1,4 @@
-# 🤔O que são emendas?
+# O que são emendas?
 
 O orçamento público é o instrumento pelo qual se prevê a arrecadação das receitas e fixa-se a execução das despesas, para o período de um exercício financeiro, necessárias para o funcionamento e implementação dos serviços e políticas públicas.
 
@@ -10,10 +10,10 @@ Por meio das emendas os parlamentares procuram aperfeiçoar a proposta encaminha
 
 A Constituição Estadual, por meio das Emendas Constitucionais nºs 96/2018, 100/2019 e 101/2019, dispõe sobre os parâmetros para a realização das emendas parlamentares individuais e de bloco ou bancada, as quais são de execução orçamentária e financeira obrigatória pelo Poder Executivo
 
-### Para o exercício de 2020, ressalta-se:
+### Para o exercício de 2021, ressalta-se:
 
-*  O Ato de Disposições Constitucionais Transitórias \(ADCT\) estabeleceu o **limite de 0,8% da Receita Corrente Liquida** para a **aprovação de emendas individuais** para o exercício de 2020, sendo que **50%** \(cinquenta por cento\) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
-* O ADCT estabeleceu, ainda, o **limite de 0,0017% da Receita Corrente Liquida** para a **aprovação de emendas de blocos e bancadas**, por deputado integrante do bloco ou da bancada, sendo **no mínimo 50%** \(cinquenta por cento\) desse percentual destinado a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino;
+*  O [Ato de Disposições Constitucionais Transitórias \(ADCT\)](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=ADT&num=1989&comp=&ano=1989&texto=consolidado#texto) estabeleceu o **limite de 0,9% da Receita Corrente Líquida \(RCL\)** para a **aprovação de emendas individuais** para o exercício de 2020, sendo que **50%** \(cinquenta por cento\) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
+* O ADCT estabeleceu, ainda, o **limite de 0,0033% da Receita Corrente Liquida** para a **aprovação de emendas de blocos e bancadas**, por deputado integrante do bloco ou da bancada, sendo **no mínimo 50%** \(cinquenta por cento\) desse percentual destinado a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino;
 * **É vedado** o cômputo de qualquer percentual de restos a pagar das programações orçamentárias para o cumprimento da execução orçamentária e financeira das emendas individuais;
 * Para emendas de **bloco ou bancada**, poderão ser consideradas, para o cômputo da execução orçamentária, as despesas inscritas em restos a pagar relativas às emendas de aplicação direta, até o limite de 50% \(cinquenta por cento\) do valor dessas emendas;
 * **Exceção à exigência** de adimplência dos municípios com o Estado para receber recursos de transferência voluntária de emendas impositivas.

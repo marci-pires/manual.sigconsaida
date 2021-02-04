@@ -1,14 +1,10 @@
----
-description: Ajuste do tipo de Atendimento
----
-
 # Parlamentar
 
 ## Realizando o ajuste de indicações no SIGCON-SAÍDA
 
 Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela é alterado para `Aguardando ajuste parlamentar`, no qual será possível editar o seu tipo de atendimento. Além disso, é enviado um e-mail de notificação para que o parlamentar saiba que há uma indicação que deve ser ajustada.
 
-**1.** A alteração do tipo de atendimento é realizada na tela de visualização das indicações do inciso. Primeiramente, o usuário deverá acessar o menu `Emendas > Gerenciar Indicações > Indicação de Recursos`.
+**1.** A alteração do tipo de aplicação é realizada na tela de visualização das indicações do inciso. Primeiramente, o usuário deverá acessar o menu `Emendas > Gerenciar Indicações > Indicação de Recursos`.
 
 ![](../../.gitbook/assets/indicar_recursos.png)
 
@@ -24,23 +20,19 @@ Os campos de pesquisa do inciso e da indicação podem facilitar a localização
 
 ![](../../.gitbook/assets/visualizar_justificativa_tipo.png)
 
-**4.** Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.
+**4.** Ao clicar sobre o ícone `Editar` é exibida uma janela para alteração do `Tipo de Aplicação`.
 
-![](../../.gitbook/assets/image%20%28202%29.png)
+![](../../.gitbook/assets/image%20%28436%29.png)
 
+**5.** Após a alteração do tipo de aplicação, clicar em `Salvar` . 
 
+![](../../.gitbook/assets/image%20%28418%29.png)
 
-{% hint style="info" %}
-Após a alteração do tipo de atendimento é só clicar em **“Enviar para Aprovação do Órgão”.**
-{% endhint %}
+**6.** O status da indicação alterará de **`Aguardando Ajuste Parlamentar`** para **`Em Análise Órgão`**.
 
-{% hint style="info" %}
-Após o ajuste da indicação é necessário que o órgão para qual ela foi indicada aprove a alteração.
-{% endhint %}
+![](../../.gitbook/assets/image%20%28429%29.png)
 
 {% hint style="danger" %}
-**Prazo para ajuste de Tipo de Atendimento Completo \(Gênero - Categoria - Especificação\): `02/02/2021 à 30/04/2021`**
-
-**Prazo para ajuste de Categoria e Especificação \(sem alterar grupo de despesas\): `02/02/2021 à 15/06/2021`**
+**Após o ajuste da indicação, é necessário que o órgão para qual ela foi indicada aprove novamente.**
 {% endhint %}
 

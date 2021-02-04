@@ -1,8 +1,4 @@
----
-description: Reprovar Indicação - Impedimento de ordem técnica
----
-
-# Na tela de aprovação de indicação órgão
+# Tela Aprovação de Indicação - Órgão
 
 1. Para reprovar uma indicação o usuário deve acessar o menu  `Emendas > Gerenciar Indicações > Aprovação de indicação - órgão`, conforme a imagem abaixo:
 
