@@ -12,53 +12,49 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
                          [Decreto 48.114](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48114&comp=&ano=2020&aba=js_textoOriginal#texto) de 30 de dezembro de 2020.
 {% endhint %}
 
-1. Acessar o instrumento a ser prorrogado, clicar na aba `ALTERAÇÕES DO CONVÊNIO/PARCERIA`e depois no botão `PRORROGAÇÃO DE OFÍCIO - COVID 19`:
+**1.** Acessar o instrumento a ser prorrogado, clicar na aba `ALTERAÇÕES DO CONVÊNIO/PARCERIA`e depois no botão `PRORROGAÇÃO DE OFÍCIO - COVID 19`:
 
 ![](../../../.gitbook/assets/image%20%28358%29.png)
 
-2. Clicar na aba `PRORROGAÇÃO DE OFÍCIO - COVID` 19  e inserir o número de dias para prorrogação após calamidade:
+**2.** Acessar a aba `PRORROGAÇÃO DE OFÍCIO - COVID` 19  e clicar em `Salvar` O sistema irá ajustar a nova data de término do instrumento:
 
-![](../../../.gitbook/assets/image%20%28343%29.png)
+![](../../../.gitbook/assets/image%20%28443%29.png)
 
-3. Após a inserção, clicar em `SALVAR` e então o sistema calculará a nova data de término do instrumento:
-
-![](../../../.gitbook/assets/image%20%28353%29.png)
-
-4. Preencha a aba `JUSTIFICATIVA DA ALTERAÇÃO`e clicar em `SALVAR`:
+**3.** Preencha a aba `JUSTIFICATIVA DA ALTERAÇÃO`e clicar em `SALVAR`:
 
 ![](../../../.gitbook/assets/image%20%28359%29.png)
 
-5. Clique no botão `SALVAR ALTERAÇÕES E ENCAMINHAR PARA APROVAÇÃO`:
+**4.** Clique no botão `SALVAR ALTERAÇÕES E ENCAMINHAR PARA APROVAÇÃO`:
 
 ![](../../../.gitbook/assets/image%20%28344%29.png)
 
-6. Será exibido um aviso de alteração. Verifique se o tipo de alteração a ser criada é **Prorrogação de Ofício**. Em caso afirmativo, clique em `Sim`.
+**5.** Será exibido um aviso de alteração. Verifique se o tipo de alteração a ser criada é **Prorrogação de Ofício**. Em caso afirmativo, clique em `Sim`.
 
 ![](../../../.gitbook/assets/image%20%28360%29.png)
 
-7. Clique na aba `ANÁLISE TÉCNICA` e edite a análise técnica padrão, caso queira. Se você entende que análise técnica está de acordo, clique em `SALVAR`:
+**6.** Clique na aba `ANÁLISE TÉCNICA` e edite a análise técnica padrão, caso queira. Se você entende que análise técnica está de acordo, clique em `SALVAR`:
 
 ![](../../../.gitbook/assets/image%20%28399%29.png)
 
-8. Caso queira, gere o **Termo de Prorrogação de Ofício**, _após a inserção da análise técnica,_ clicando no botão `TERMO DE PRORROGAÇÃO DE OFÍCIO COVID 19`:
+**7.** Caso queira, gere o **Termo de Prorrogação de Ofício**, _após a inserção da análise técnica,_ clicando no botão `TERMO DE PRORROGAÇÃO DE OFÍCIO COVID 19`:
 
 ![](../../../.gitbook/assets/image%20%28348%29.png)
 
-9. Preencha a aba `ALTERAÇÃO DE CLÁUSULA` e clique em `SALVAR`:
+**8.** Preencha a aba `ALTERAÇÃO DE CLÁUSULA` e clique em `SALVAR`:
 
 ![](../../../.gitbook/assets/image%20%28349%29.png)
 
-10. Clique no Botão `ENVIAR PARA O ENCAMINHADOR`:
+**9.** Clique no Botão `ENVIAR PARA O ENCAMINHADOR`:
 
 ![](../../../.gitbook/assets/image%20%28342%29.png)
 
-11. O usuário com o perfil **Encaminhador** deve assinar a Prorrogação de Ofício. Essa assinatura pode ser feita **com usuário e senha** \(`Assinar com Usuário e Senha`\) ou **com certificado digital** \(`Assinar com Certificado Digital`\)  :
+**10.** O usuário com o perfil **Encaminhador** deve assinar a Prorrogação de Ofício. Essa assinatura pode ser feita **com usuário e senha** \(`Assinar com Usuário e Senha`\) ou **com certificado digital** \(`Assinar com Certificado Digital`\)  :
 
 ![Assinatura com Usu&#xE1;rio e Senha](../../../.gitbook/assets/image%20%28392%29.png)
 
 ![Assinatura com Certificado Digital](../../../.gitbook/assets/image%20%28395%29.png)
 
-12. Após a assinatura, clique no botão `ENCAMINHAR PARA A SEGOV`.
+**11.** Após a assinatura, clique no botão `ENCAMINHAR PARA A SEGOV`.
 
 
 
