@@ -1,4 +1,4 @@
-# Inserir documento para peticionar Proposta
+# Inserir documento para peticionar Proposta de Plano de Trabalho
 
 {% hint style="info" %}
 A proposta deve estar no Status de ANÁLISE - CHECKLIST DE CELEBRAÇÃO

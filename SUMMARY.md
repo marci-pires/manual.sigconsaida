@@ -50,7 +50,7 @@
 * [🟢 SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/README.md)
   * [ANÁLISE DA SOLICITAÇÃO DE ASSINATURA com LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/analise-da-solicitacao-de-assinatura-com-login-e-senha.md)
 * [🟢 ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
-  * [Inserir documento para peticionar Proposta](processo-eletronico/anexar-documento/inserir-documento-para-peticionar-proposta.md)
+  * [Inserir documento para peticionar Proposta de Plano de Trabalho](processo-eletronico/anexar-documento/inserir-documento-para-peticionar-proposta.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
   * [Documento Digitalizado](processo-eletronico/anexar-documento/documento-digitalizado.md)
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
