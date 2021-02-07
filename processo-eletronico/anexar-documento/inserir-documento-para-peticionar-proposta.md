@@ -14,5 +14,5 @@
 
 **PASSO 4** - Clique em ![](../../.gitbook/assets/carregar-arquivo.png) ou **UPLOAD** para que o arquivo possa ser carregado. 
 
-**PASSO 5** - Após ter adicionado todos os Documentos Necessários você terá que clicar em **SALVAR** na parte inferior do Checklist.
+**PASSO 5** - Após ter adicionado todos os Documentos Necessários você terá que clicar em ![](../../.gitbook/assets/salvar%20%281%29.png)na parte inferior do Checklist.
 
