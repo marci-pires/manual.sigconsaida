@@ -1,7 +1,7 @@
 # Assinatura \(Representante Legal - Concedente\)
 
 {% hint style="warning" %}
-**PRÉ-REQUISITO**: O Representante Legal do Convenente quanto as Duas Testemunhas devem ter assinado.
+**PRÉ-REQUISITO**: O Representante Legal do Convenente e as Duas Testemunhas devem ter assinado.
 
 O perfil para assinar como Representante legal do Concedente deve ser Ordenador de Despesas.
 {% endhint %}
