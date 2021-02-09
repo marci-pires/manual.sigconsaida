@@ -9,7 +9,6 @@
   * [🔏 RECUPERAR LOGIN/SENHA PARLAMENTARES](login-e-senha/recuperar-login-senha-parlamentares.md)
   * [✒️CADASTRO DE USUÁRIOS - PARLAMENTARES](login-e-senha/cadastro-de-usuarios.md)
 * [🖥EMENDAS](emendas/README.md)
-  * [Prazos - Emendas 2021](emendas/prazos-emendas-2021.md)
   * [O que são emendas?](emendas/introducao.md)
   * [Indicação de Recursos](emendas/indicacao-de-recursos.md)
   * [Remanejamento Inicial \(LDO\)](emendas/remanejar-recursos.md)
