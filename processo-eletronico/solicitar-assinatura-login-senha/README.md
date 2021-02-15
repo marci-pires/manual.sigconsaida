@@ -1,5 +1,11 @@
 # 🟢 SOLICITAR ASSINATURA LOGIN e SENHA
 
+{% hint style="danger" %}
+PARA **REPRESENTANTES LEGAIS** COM CADASTRO **REGULAR** NO **CAGEC**
+
+O processo de autorização de assinatura de "usuário e senha" é **automático**
+{% endhint %}
+
 **PASSO 1 -** Para Solicitar Assinatura eletrônica no SIGCON-Saída você deve clicar no _**Seu Nome**_ localizado na parte superior direita da tela, ir para Minha Conta e clicar no botão de **SUA CONTA**.
 
 ![MINHA CONTA](../../.gitbook/assets/processo_eletronico_assinatura_sua_conta.png)
