@@ -26,5 +26,5 @@ Você deverá digitar sua senha e clicar em **Assinar Digitalmente**.
 
 ![](../.gitbook/assets/processo_eletronico_assinatura_digital_token_chamando_certificacao-digital.png)
 
-Você será solicitado, caso não tenha, a instalação do Componente SIGMA da PRODEMGE. Clicar no link [https://wwws.prodemge.gov.br/suporte/instalacao-token-cartao](https://wwws.prodemge.gov.br/suporte/instalacao-token-cartao) para saber como proceder com a Instalação e Assinatura via Token.
+Você será solicitado, caso não tenha, a instalação do Componente SIGNA da PRODEMGE. Clicar no link [https://wwws.prodemge.gov.br/suporte/instalacao-token-cartao](https://wwws.prodemge.gov.br/suporte/instalacao-token-cartao) para saber como proceder com a Instalação e Assinatura via Token.
 
