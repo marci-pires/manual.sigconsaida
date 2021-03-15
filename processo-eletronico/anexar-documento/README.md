@@ -8,7 +8,7 @@ Somente é permitido **incluir** documentos em:
 
 ## TAMANHO DOS ARQUIVOS
 
-### ATUALMENTE, o SIGCON-SAÍDA permite anexar arquivos de até 20MB. Caso você precise de compactar arquivos para inserir no sistema, por favor siga algum dos passo-a-passo abaixo
+### ATUALMENTE, o SIGCON-SAÍDA permite anexar arquivos de até 20MB. Caso você precise de compactar arquivos para inserir no sistema, por favor siga algum dos procedimentos abaixo
 
 * **DWG:** [Para reduzir o tamanho dos projetos do AutoCad](https://knowledge.autodesk.com/pt-br/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/how-to-reduce-the-size-of-a-dwg-file-in-autocad.html)
 * **PDF:** [Site da Adobe que permite compactar arquivos PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html)
