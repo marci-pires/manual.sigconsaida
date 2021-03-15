@@ -12,6 +12,7 @@ Somente é permitido **incluir** documentos em:
 
 * DWG: [Para reduzir o tamanho dos projetos do AutoCad](https://knowledge.autodesk.com/pt-br/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/how-to-reduce-the-size-of-a-dwg-file-in-autocad.html)
 * PDF: [Site da Adobe que permite compactar arquivos PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html)
+* ZIP ou RAR: uma outra possibilidade é comprimir vários arquivos em uma pasta compactada \(ou _zipada_\), para isso, [acesse o passo-a-passo no site da Microsoft para uma forma de compactar arquivos](https://support.microsoft.com/pt-br/windows/compactar-e-descompactar-arquivos-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Para%20compactar%20%28zipar%29%20um%20arquivo%20ou%20uma%20pasta&text=Pressione%20e%20segure%20%28ou%20clique,%C3%A9%20criada%20no%20mesmo%20local.)
 
 ## TIPOS DE DOCUMENTO 
 
