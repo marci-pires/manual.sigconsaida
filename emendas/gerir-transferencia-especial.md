@@ -89,13 +89,11 @@ Se o envio ocorrer com sucesso o status será alterado para **"VIGENTE"** caso c
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-7.  Gerar cheque
+7.  Gerar Declaração
 
 {% hint style="info" %}
-Selecione uma transferência e clique no botão Ações e no menu Gerar Cheque
+Selecione uma transferência e clique no botão `Ações` e no menu `Gerar Declaração`
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2857%29.png)
-
-
+![](../.gitbook/assets/image%20%28445%29.png)
 
