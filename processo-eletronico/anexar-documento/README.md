@@ -8,9 +8,11 @@ Somente é permitido **incluir** documentos em:
 
 ## TAMANHO DOS ARQUIVOS
 
-**ATUALMENTE**, o **SIGCON-SAÍDA** permite anexar arquivos de até 20MB para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg
+**ATUALMENTE**, o **SIGCON-SAÍDA** permite anexar arquivos de até **20MB** para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg
 
-**SOMENTE** Projetos Básicos ou Executivos em **.dwg** podem ter **até 40MB** 
+{% hint style="info" %}
+No item 16 do Checklist "Projeto Básico ou Executivo", os arquivos **.dwg e semelhantes** podem ter até 40MB
+{% endhint %}
 
 ### Caso você precise de compactar arquivos para inserir no sistema, por favor siga algum dos procedimentos abaixo
 
