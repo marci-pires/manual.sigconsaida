@@ -1,6 +1,6 @@
 # Aplicação Direta - Execução Direta
 
-A indicação do tipo “Execução Direta” consiste na alocação de recursos da emenda parlamentar para a execução de um determinado objeto pelo próprio Estado, como a doação de bens móveis, por exemplo.
+A indicação do tipo “Execução Direta” consiste na alocação de recursos da emenda parlamentar para a execução de um determinado objeto pelo próprio Poder Executivo Estadual, como a doação de bens móveis, por exemplo.
 
 **1.**  A indicação de recursos para a Execução Direta é realizada em duas etapas:
 
@@ -14,7 +14,7 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 **Para indicação do tipo Aplicação Direta - Execução Direta, o beneficiário será o próprio órgão do inciso.**
 {% endhint %}
 
-**2.** Para Emendas 2021, temos como novidade a seleção da unidade administrativa do órgão indicado. Caso o órgão possua mais de 1 unidade administrativa, é necessário informar o destino dos recursos. É possível indicar para mais de unidade administrativa na mesma operação:
+**2.** Para Emendas 2021, temos como novidade a seleção da unidade administrativa \(formal ou informal\)/regional do órgão indicado. Caso o órgão possua mais de 1 unidade administrativa, é necessário informar o destino dos recursos. É possível indicar para mais de unidade administrativa na mesma operação:
 
 ![](../../.gitbook/assets/image%20%28419%29.png)
 
@@ -33,6 +33,10 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 **3.** Se houver algum engano ao adicionar uma unidade administrativa, é possível excluir a mesma. Para isso, selecione o registro a ser removido e clique no botão `Excluir`conforme tela abaixo:
 
 ![](../../.gitbook/assets/image%20%28417%29.png)
+
+> O Sigcon-MG-Módulo Saída preenche automaticamente o campo CNPJ com o dado da sede/matriz do órgão indicado.
+>
+> A destinação do recurso indicado para uma unidade administrativa \(formal ou informal\)/regional específica, ocorre com a seleção do "nome dessa unidade" no campo "Unidade Administrativa" e o sua localização no campo "Município da Unidade Administrativa".
 
 **4.** Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações. 
 
