@@ -86,7 +86,7 @@
     * [Convalidação](convenios/alteracoes/manual-concedente-alteracao/convalidacao.md)
     * [Prorrogação de Ofício](convenios/alteracoes/manual-concedente-alteracao/prorrogacao-de-oficio.md)
     * [Prorrogação de Ofício - COVID 19](convenios/alteracoes/manual-concedente-alteracao/prorrogacao-de-oficio-covid-19.md)
-    * [PO de Covid 19 em Lote](convenios/alteracoes/manual-concedente-alteracao/gerar-po-de-covid-19-em-lote.md)
+    * [Prorrogação de Ofício - Covid 19 em Lote](convenios/alteracoes/manual-concedente-alteracao/gerar-po-de-covid-19-em-lote.md)
     * [Retificação por Erro Humano](convenios/alteracoes/manual-concedente-alteracao/retificacao-por-erro-humano.md)
     * [Termo Aditivo](convenios/alteracoes/manual-concedente-alteracao/termo-aditivo-1.md)
   * [Convenente / OSC Parceira](convenios/alteracoes/manual-convenente-alteracao/README.md)
