@@ -1,4 +1,4 @@
-# Gerar PO de Covid 19 em Lote
+# PO de Covid 19 em Lote
 
 
 
@@ -12,6 +12,8 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
                         [Resolução 5.554](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=5554&ano=2020&tipo=RAL) de 17 de julho de 2020. 
 
                          [Decreto 48.114](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48114&comp=&ano=2020&aba=js_textoOriginal#texto) de 30 de dezembro de 2020.
+
+                         [Decreto 48.162](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48162&comp=&ano=2021) de 25 de março de 2021.
 {% endhint %}
 
 1. Acessar o Menu `Convênios/Parcerias` . Selecionar o filtro `Convênio/Parceria` e o Status `SEM ALTERAÇÃO EM ANDAMENTO`. Clicar em `Pesquisar`.
