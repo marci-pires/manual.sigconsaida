@@ -1,6 +1,6 @@
 # Inserir documento para peticionar Proposta de Plano de Trabalho
 
-
+## Atenção! A anexação de documentos a ser realizada pelo convenente deve ser executada, necessariamente, pela aba de "Documentos Anexados" 
 
 {% hint style="info" %}
 A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL LEGAL**
