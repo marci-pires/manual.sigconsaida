@@ -8,6 +8,12 @@ Confira o [Decreto 48.138, de 17 de fevereiro de 2021](https://www.almg.gov.br/c
 
 De acordo com a [Resolução conjunta SEPLAG/SEC nº9.921, de 2 de  outubro de 2018](http://planejamento.mg.gov.br/sites/default/files/documentos/gestao-governamental/gestao-de-ti/sei_1500010014958_2018_97.pdf), **processo** é o "conjunto de documentos oficialmente reunidos no decurso de uma ação administrativa" e **processo eletrônico** "aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico"
 
+{% hint style="warning" %}
+Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
+
+**O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+{% endhint %}
+
 ## Sobre documentos digitais
 
 As informações registradas, codificada de forma acessível e interpretável por sistemas computacionais são os **Documentos Digitais**

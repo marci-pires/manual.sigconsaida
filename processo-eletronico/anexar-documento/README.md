@@ -3,8 +3,14 @@
 Somente é permitido **incluir** documentos em: 
 
 * **Propostas** que estejam no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL LEGAL** Anexar Documentos Pelo Checklist**;**
-* **Planos de Trabalho** no Status de Adequação tanto Beneficiário como Concedente podem incluir;
-* **Planos de Trabalho** no Status de Análises por parte do Concedente, somente usuários do Concedente podem incluir documentação.
+* **Planos de Trabalho** no Status de **Adequação** tanto Beneficiário como Concedente podem incluir;
+* **Planos de Trabalho** no Status de **Análises por parte do Concedente**, somente usuários do Concedente podem incluir documentação.
+
+{% hint style="warning" %}
+Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
+
+**O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+{% endhint %}
 
 ## TAMANHO DOS ARQUIVOS
 
