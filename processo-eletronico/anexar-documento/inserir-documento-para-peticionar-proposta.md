@@ -1,5 +1,11 @@
 # Inserir documento para peticionar Proposta de Plano de Trabalho
 
+{% hint style="warning" %}
+Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
+
+**O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+{% endhint %}
+
 {% hint style="info" %}
 A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL LEGAL**
 {% endhint %}
