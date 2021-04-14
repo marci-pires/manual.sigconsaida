@@ -1,10 +1,6 @@
 # Inserir documento para peticionar Proposta de Plano de Trabalho
 
-{% hint style="warning" %}
-Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
 
-**O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
-{% endhint %}
 
 {% hint style="info" %}
 A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL LEGAL**
@@ -15,6 +11,12 @@ A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL L
 **PASSO 2** - Cada item do check-list tem a opção de inserir os arquivos solicitados, bastando clicar no botão ![](../../.gitbook/assets/image%20%28444%29.png) 
 
 **PASSO 3** - Agora vc deve selecionar a Classificação \([Documento Nato-Digital](documento-nato-digital.md), [Documento Digitalizado](documento-digitalizado.md), [Documento Modelo](documento-modelo.md) ou [Documento em Branco](documento-em-branco.md) \) 
+
+{% hint style="warning" %}
+Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
+
+**O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+{% endhint %}
 
 {% page-ref page="documento-nato-digital.md" %}
 
