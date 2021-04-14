@@ -12,6 +12,8 @@ De acordo com a [Resolução conjunta SEPLAG/SEC nº9.921, de 2 de  outubro de 2
 Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
 
 **O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+
+### Atenção! A anexação de documentos a ser realizada pelo _convenente_ deve ser executada, necessariamente, pela aba de "Documentos Anexados" 
 {% endhint %}
 
 ## Sobre documentos digitais

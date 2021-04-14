@@ -1,7 +1,5 @@
 # Inserir documento para peticionar Proposta de Plano de Trabalho
 
-## Atenção! A anexação de documentos a ser realizada pelo convenente deve ser executada, necessariamente, pela aba de "Documentos Anexados" 
-
 {% hint style="info" %}
 A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL LEGAL**
 {% endhint %}
@@ -16,6 +14,8 @@ A proposta deve estar no Status de **VALIDAÇÃO DA PROPOSTA PELO RESPONSÁVEL L
 Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização. 
 
 **O convenente só pode realizar alterações em um plano de trabalho no status de “Adequação”.**
+
+### Atenção! A anexação de documentos a ser realizada pelo convenente deve ser executada, necessariamente, pela aba de "Documentos Anexados" 
 {% endhint %}
 
 {% page-ref page="documento-nato-digital.md" %}
