@@ -19,7 +19,7 @@ Importante
 
 1. Somente pode atualizar a data de publicação quando o status for **"NÃO CADASTRADO"** ou **"CADASTRADO"**
 2. Somente pode enviar para o SIAFI quando o status for **"CADASTRADO"** ou **"NÃO ENVIADO"**
-3. Somente pode gerar o cheque quando o status for **"VIGENTE"** ou "**ENCERRADO"**
+3. Somente pode gerar a declaração quando o status for **"REGISTRADO NO SIAFI"** ou "**ENCERRADO"**
 {% endhint %}
 
 ### Gerir transferência
@@ -84,7 +84,7 @@ Somente pode enviar para o SIAFI quando o status for **"CADASTRADO"** ou **"NÃO
 Selecione uma transferência e clique no botão Ações e no menu Enviar para o SIAFI
 
 {% hint style="danger" %}
-Se o envio ocorrer com sucesso o status será alterado para **"VIGENTE"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
+Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIAFI"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2812%29.png)
