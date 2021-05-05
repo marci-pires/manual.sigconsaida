@@ -31,12 +31,17 @@ Importante
      2.  Na próxima tela as seguintes funcionalidades estarão disponíveis:
 
 {% hint style="info" %}
-1. Aplicar a data de publicação para todas as indicações 
-2. Pesquisar transferência Especial
-3. Cadastrar uma data de publicação para uma ou mais indicações selecionadas
-4. Enviar para o SIAFI
-5. Gerar a declaração de transferência
-6. Visualizar as transferências
+a. Aplicar a data de publicação para todas as indicações 
+
+b. Pesquisar Transferência Especial
+
+c. Cadastrar uma data de publicação para uma ou mais indicações selecionadas
+
+d. Enviar para o SIAFI
+
+e. Gerar a declaração de transferência
+
+f. Visualizar as transferências
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2834%29.png)
@@ -54,13 +59,19 @@ Se a data da publicação for igual para todas as transferências e para facilit
 {% hint style="info" %}
 Disponibilizamos os seguintes campos para pesquisa:
 
-1. Número da indicação
-2. Ano de exercício
-3. Órgão
-4. Município
-5. Beneficiário
-6. Parlamentar
-7. Status
+a. Número da indicação
+
+b. Ano de exercício
+
+c. Órgão
+
+d. Município
+
+e. Beneficiário
+
+f. Parlamentar
+
+g. Status
 {% endhint %}
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
@@ -89,6 +100,10 @@ Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIA
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
+{% hint style="success" %}
+**ATENÇÃO: Item 7 - Orientações para emissão da Declaração pelo Parlamentar**
+{% endhint %}
+
 7.  Gerar Declaração
 
 {% hint style="info" %}
@@ -96,4 +111,8 @@ Selecione uma transferência e clique no botão `Ações` e no menu `Gerar Decla
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%28445%29.png)
+
+{% hint style="success" %}
+A Declaração só é emitida se o status da Transferência Especial for **Registrado no SIAFI.**
+{% endhint %}
 
