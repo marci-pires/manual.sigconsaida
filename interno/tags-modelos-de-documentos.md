@@ -32,7 +32,9 @@ Para o mutirão que ocorrerá no próximo dia 19/05/2021, vocês deverão de aco
 
 ![Bom trabalho a todos](../.gitbook/assets/image%20%28454%29.png)
 
+{% hint style="danger" %}
 **CASO NÃO EXISTA A TAG PARA O ITEM, MANTER O ITEM EM VERMELHO!**
+{% endhint %}
 
 Bom trabalho a todos. Marcela, quando tiver tempo coloca isso no formato certo e em uma aba certa, sem meus comentários.
 
