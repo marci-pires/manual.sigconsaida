@@ -35,7 +35,7 @@ Após ter clicado em Expandir abrirá tela onde conterá a lista de Valores a se
 
 Para sair basta clicar no ícone de SAIR no campo superior direito.
 
-Somente aparecerá recursos de emendas caso o próprio recurso já esteja APROVADO e DISPONÍVEL para utlização. Você podera consultar em quais Propostas ou Planos de Trabalhos tenham sido utilizados os recursos da Emenda específica bastando clicar na lupa da Coluna de Saldo
+Somente aparecerão recursos de emendas caso o ele já esteja APROVADO e DISPONÍVEL para utilização. Você pode consultar em quais Propostas ou Planos de Trabalhos foram utilizados os recursos da Emenda específica, clicando na lupa da Coluna de Saldo
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
