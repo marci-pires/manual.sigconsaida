@@ -1,4 +1,4 @@
-# 🟢 ANEXAR DOCUMENTOS
+# ANEXAR DOCUMENTOS
 
 Somente é permitido **incluir** documentos em: 
 
