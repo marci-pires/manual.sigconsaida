@@ -2,9 +2,11 @@
 description: Instruções voltadas para usuários com perfis de Convenente/OSCs parceiras
 ---
 
-# 🟢 FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceias
+# 🟢 FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras
 
+Foi disponibilizado no Sigcon-MG - Módulo Saída, a funcionalidade de Fluxo de Documentos. Tal funcionalidade permite que documentos sejam anexados durante diversas fases do plano de trabalho, bem como exista um fluxo de aprovação destes pelo concedente.
 
+Abaixo temos a imagem de como ficou a aba de "Documentos Anexados", na visão de usuário CONVENENTE/OSC Parceira, após a implementação da funcionalidade aqui descrita:
 
 ![](../.gitbook/assets/image%20%28467%29.png)
 

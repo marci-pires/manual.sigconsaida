@@ -48,7 +48,7 @@
 * [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
 * [SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/README.md)
   * [ANÁLISE DA SOLICITAÇÃO DE ASSINATURA com LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/analise-da-solicitacao-de-assinatura-com-login-e-senha.md)
-* [🟢 FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceias](processo-eletronico/untitled.md)
+* [🟢 FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras](processo-eletronico/untitled.md)
 * [🟢 FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP](processo-eletronico/fluxo-de-documentos-concedente.md)
 * [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Inserir documento para peticionar Proposta de Plano de Trabalho](processo-eletronico/anexar-documento/inserir-documento-para-peticionar-proposta.md)
