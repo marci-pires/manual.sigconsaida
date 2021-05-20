@@ -1,36 +1,38 @@
 ---
-description: página para usuários com perfil em órgãos estaduais e entidades parceiras
+description: Manual para órgãos e entidades públicas estaduais
 ---
 
-# 🟢 FLUXO DE DOCUMENTOS - CONCEDENTE
+# 🟢 FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP
 
-Primeiro Subtítulo para introduzir funcionalidade
+Foi disponibilizado no Sigcon-MG - Módulo Saída, a funcionalidade de Fluxo de Documentos. Tal funcionalidade permite que documentos sejam anexados durante diversas fases do plano de trabalho, bem como exista um fluxo de aprovação destes pelo concedente.
 
-Texto da funcionalidade
+Abaixo temos a imagem de como ficou a aba de "Documentos Anexados" após a implementação da funcionalidade aqui descrita:
 
 ![Tela da aba &quot;Documentos Anexados&quot;](../.gitbook/assets/image%20%28470%29.png)
 
 ### Permissão para que o convenente encaminhe documentos
 
-Falar sobre "Permitir o convenente encaminhar documentos?"
+O primeiro ponto que os concedentes/OEEPs devem ter cuidado é com a imagem abaixo. Sempre que este item estiver com a marcação de "Sim", o convenente/OSC parceira poderá encaminhar novas documentações para análise. Caso esteja marcado como não, o convenente/OSC parceira pode até anexar a documentação, porém não conseguirá encaminhar para aprovação do órgão ou entidade pública estadual.
 
 ![](../.gitbook/assets/image%20%28468%29.png)
 
-Inserir um desenho de fluxo de aprovação de documentos
+O fluxo de validação de um documento funciona conforme o seguinte modelo:
 
-Botão de alterar status de documentos
+![](../.gitbook/assets/image%20%28473%29.png)
+
+Para realizar a etapa do fluxo de análise do documento apresentado, o usuário do concedente deverá clicar no item da coluna "Alterar Status" referente ao documento e escolher as opções "Aprovado" para quando ele estiver apto, "Reprovado" para quando não estiver apto e "Não se aplica" para quando o documento entregue não se aplicar ao processo de celebração a que o objeto se trata.
 
 ![](../.gitbook/assets/image%20%28471%29.png)
 
 ## Filtrar por status
 
+Agora, para facilitar a gestão documental para as análises técnicas e jurídicas dos órgãos e entidades estaduais, o sistema permite que seja filtrado os documentos de acordo com os status que estes possuem conforme imagem abaixo:
+
 ![Filtros que permitem a organiza&#xE7;&#xE3;o dos documentos anexados](../.gitbook/assets/image%20%28469%29.png)
 
-Possibilidade de exclusão de documentos \(descobrir quando\)
+## Documentos anexados por usuários internos
 
-## Reprovação de documentos
-
-Documentos anexados por usuários internos já aparecem como aprovados, sendo possível a reprovação do mesmo
+Os documentos anexados por usuários internos já aparecem como aprovados, sendo possível a reprovação do mesmo ou então a sua não aplicação:
 
 ![](../.gitbook/assets/image%20%28472%29.png)
 
