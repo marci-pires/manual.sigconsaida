@@ -4,7 +4,7 @@ description: Manual para órgãos e entidades públicas estaduais
 
 # 🟢 FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP
 
-Foi disponibilizado no Sigcon-MG - Módulo Saída, a funcionalidade de Fluxo de Documentos. Tal funcionalidade permite que documentos sejam anexados durante diversas fases do plano de trabalho, bem como exista um fluxo de aprovação destes pelo concedente.
+Foi disponibilizado no Sigcon-MG - Módulo Saída, a funcionalidade de Fluxo de Documentos. Tal funcionalidade permite que documentos sejam anexados durante diversas fases do plano de trabalho, bem como exista um fluxo de aprovação destes pelo concedente/OEEP. Este fluxo funciona para todos os status de plano de trabalho no Sigcon, exceto os status que envolvem a aprovação do plano de trabalho pela Segov \(análise técnica, análise jurídica, aguardando envio para a Segov\).
 
 Abaixo temos a imagem de como ficou a aba de "Documentos Anexados", na visão de usuário CONCEDENTE/OEEP, após a implementação da funcionalidade aqui descrita:
 
