@@ -2,7 +2,7 @@
 description: Instruções voltadas para usuários com perfis de Convenente/OSCs parceiras
 ---
 
-# 🟢 FLUXO DE DOCUMENTOS - CONVENENTE
+# 🟢 FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceias
 
 
 
