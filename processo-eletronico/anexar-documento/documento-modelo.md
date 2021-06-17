@@ -34,7 +34,7 @@ Após realizar as alterações necessárias e clicar em ![](../../.gitbook/asset
 
 > OBS 1: Somente é permitido **EDITAR** um documento anexado em Proposta quando a mesma encontra-se no Status de **Cadastramento.**
 >
-> OBS 2: Caso o Documento  tenha sido Assinado \([Assinar Documento](../assinar-documento.md)\) anteriormente, o sistema irá perguntar, ao SALVAR, se você deseja que as Assinaturas sejam Invalidadas;
+> OBS 2: Caso o Documento  tenha sido Assinado \([Assinar Documento](../assinar-documento/)\) anteriormente, o sistema irá perguntar, ao SALVAR, se você deseja que as Assinaturas sejam Invalidadas;
 
 {% hint style="warning" %}
 Sempre que você edita um Documento já Assinado, ele perde as Assinaturas realizadas anteriormente.
