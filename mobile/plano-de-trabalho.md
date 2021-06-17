@@ -4,7 +4,7 @@ description: >-
   trabalho e também permite gerar o relatório de convênio.
 ---
 
-# 🟢 Plano de trabalho
+# Plano de trabalho
 
 {% hint style="info" %}
 **Precondições**

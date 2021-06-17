@@ -2,7 +2,7 @@
 description: Como logar no sistema
 ---
 
-# 🟢 Login
+# Login
 
 {% hint style="danger" %}
 **Precondições**

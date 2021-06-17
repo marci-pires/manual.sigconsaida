@@ -57,7 +57,7 @@
   * [Documento Modelo](processo-eletronico/anexar-documento/documento-modelo.md)
   * [Documento em Branco](processo-eletronico/anexar-documento/documento-em-branco.md)
 * [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento/README.md)
-  * [🟢 Restrições para Assinatura de Documentos](processo-eletronico/assinar-documento/restricoes-para-assinatura-de-documentos.md)
+  * [🟢 Limitação para Assinatura de Documentos](processo-eletronico/assinar-documento/restricoes-para-assinatura-de-documentos.md)
 * [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
   * [Assinatura \(Testemunha\)](processo-eletronico/assinatura-convenente/assinatura-testemunha.md)
   * [Assinatura \(Representante Legal - Covenente\)](processo-eletronico/assinatura-convenente/assinatura-representante-legal-covenente.md)
@@ -98,10 +98,10 @@
 
 ## Mobile
 
-* [🟢 Sigcon - Mobile](mobile/sigcon-mobile.md)
-* [🟢 Login](mobile/login.md)
-* [🟢 Plano de trabalho](mobile/plano-de-trabalho.md)
-* [🟢 Fiscalização](mobile/fiscalizacao/README.md)
+* [Sigcon - Mobile](mobile/sigcon-mobile.md)
+* [Login](mobile/login.md)
+* [Plano de trabalho](mobile/plano-de-trabalho.md)
+* [Fiscalização](mobile/fiscalizacao/README.md)
   * [Sincronizar](mobile/fiscalizacao/sincronizar.md)
 
 ---

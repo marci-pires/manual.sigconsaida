@@ -4,7 +4,7 @@ description: >-
   convênio.
 ---
 
-# 🟢 Fiscalização
+# Fiscalização
 
 {% hint style="danger" %}
 **Precondições**
