@@ -59,6 +59,7 @@
 * [ASSINAR DOCUMENTO](processo-eletronico/assinar-documento/README.md)
   * [🟢 Limitação para Assinatura de Documentos](processo-eletronico/assinar-documento/restricoes-para-assinatura-de-documentos.md)
   * [🟢Verificação do Cagec](processo-eletronico/assinar-documento/verificacao-do-cagec.md)
+  * [🟢 Assinatura de Instrumentos em Lote](processo-eletronico/assinar-documento/assinatura-de-instrumentos-em-lote.md)
 * [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente/README.md)
   * [Assinatura \(Testemunha\)](processo-eletronico/assinatura-convenente/assinatura-testemunha.md)
   * [Assinatura \(Representante Legal - Covenente\)](processo-eletronico/assinatura-convenente/assinatura-representante-legal-covenente.md)
