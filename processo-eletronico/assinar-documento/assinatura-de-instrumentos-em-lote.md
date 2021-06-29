@@ -4,7 +4,7 @@ Para assinar instrumentos em lote, navegue pelo menu `Convênios/Parcerias > Pes
 
 Selecione uma situação do instrumento e um status \(atenção para a lista abaixo\) para prosseguir
 
-![](../../.gitbook/assets/image%20%28478%29.png)
+![](../../.gitbook/assets/image%20%28479%29.png)
 
 {% hint style="success" %}
 **Lista de Situação e Status para assinatura de instrumento em lote**
@@ -22,11 +22,13 @@ Selecione uma situação do instrumento e um status \(atenção para a lista aba
   * PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP
 {% endhint %}
 
-**Depois disso, você poderá selecionar cada um dos instrumentos na caixa seleção na lateral esquerda e depois clique em** ![](../../.gitbook/assets/image%20%28477%29.png)\*\*\*\*
+**Depois disso, você poderá selecionar cada um dos instrumentos na caixa seleção na lateral esquerda e depois clique em** ![](../../.gitbook/assets/image%20%28478%29.png)\*\*\*\*
+
+![](../../.gitbook/assets/image%20%28477%29.png)
+
+Por fim, você será redirecionado para uma tela com o resultado das assinaturas. Preste sempre atenção nas quantidades assinadas com sucesso e nas rejeitadas.
 
 ![](../../.gitbook/assets/image%20%28476%29.png)
-
-Por fim, você será redirecionado para uma tela com um resumo das assinaturas e 
 
 {% hint style="warning" %}
 Para cada momento da celebração existem documentos específicos que serão assinados nesse momento, portanto, somente prossiga com a assinatura de instrumentos em lote caso esses instrumentos já estejam prontos para seguir para o próximo passo!
