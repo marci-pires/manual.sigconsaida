@@ -26,5 +26,25 @@ Selecione uma situação do instrumento e um status \(atenção para a lista aba
 
 ![](../../.gitbook/assets/image%20%28476%29.png)
 
+{% hint style="warning" %}
+Para cada momento da celebração existem documentos específicos que serão assinados nesse momento, portanto, somente prossiga com a assinatura de instrumentos em lote caso esses instrumentos já estejam prontos para seguir para o próximo passo!
+{% endhint %}
 
+{% tabs %}
+{% tab title="Plano de Trabalho" %}
+Se o processo está na fase de _Plano de Trabalho_ no status **“PROCESSO DE ASSINATURA - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos: 
+
+*  Para o instrumento do tipo “Convênio”: TERMO DO CONVÊNIO
+* Para o instrumento do tipo “Termo de Fomento”: TERMO DE FOMENTO
+* Para o instrumento do tipo “Termo de Colaboração”: TERMO DE COLABORAÇÃO
+{% endtab %}
+
+{% tab title="Alteração" %}
+Se o processo está no processo de Alteração __no status **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos: 
+
+*  Para o instrumento do tipo “Convênio”: TERMO DO CONVÊNIO
+* Para o instrumento do tipo “Termo de Fomento”: TERMO DE FOMENTO
+* Para o instrumento do tipo “Termo de Colaboração”: TERMO DE COLABORAÇÃO
+{% endtab %}
+{% endtabs %}
 
