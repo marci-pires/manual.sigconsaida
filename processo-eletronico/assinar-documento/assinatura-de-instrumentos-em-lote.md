@@ -22,16 +22,36 @@ Selecione uma situação do instrumento e um status \(atenção para a lista aba
   * PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP
 {% endhint %}
 
-**Depois disso, você poderá selecionar cada um dos instrumentos na caixa seleção na lateral esquerda e depois clique em** ![](../../.gitbook/assets/image%20%28478%29.png)\*\*\*\*
+Após essa seleção, o resultado da pesquisa irá trazer dois botões e uma coluna com caixas de seleção para marcar os instrumentos desejados.
 
-![](../../.gitbook/assets/image%20%28477%29.png)
+![](../../.gitbook/assets/image%20%28480%29.png)
 
-Por fim, você será redirecionado para uma tela com o resultado das assinaturas. Preste sempre atenção nas quantidades assinadas com sucesso e nas rejeitadas.
+A assinatura sem e com tramitação segue a mesma lógica da assinatura de documentos na aba de "Documentos Anexados".
 
-![](../../.gitbook/assets/image%20%28476%29.png)
+### ASSINATURA SEM TRAMITAÇÃO
+
+Após selecionar os filtros, de acordo com a orientação acima, marque as caixas de seleção do\(s\) instrumento\(s\) desejado\(s\)  e clique no botão ![](../../.gitbook/assets/image%20%28483%29.png) e coloque suas credenciais \(órgão assinante, usuário, perfil e senha\) para prosseguir com a assinatura.
 
 {% hint style="warning" %}
-Para cada momento da celebração existem documentos específicos que serão assinados nesse momento, portanto, somente prossiga com a assinatura de instrumentos em lote caso esses instrumentos já estejam prontos para seguir para o próximo passo!
+Ao ![](../../.gitbook/assets/image%20%28483%29.png) você vai somente assinar os documentos, sem mudar o status do instrumento.
+{% endhint %}
+
+### ASSINATURA COM TRAMITAÇÃO
+
+Após selecionar os filtros, de acordo com a orientação acima, marque as caixas de seleção do\(s\) instrumento\(s\) desejado\(s\)  e clique no botão ![](../../.gitbook/assets/image%20%28481%29.png) e coloque suas credenciais \(órgão assinante, usuário, perfil e senha\) para prosseguir com a assinatura.
+
+{% hint style="warning" %}
+Ao ![](../../.gitbook/assets/image%20%28481%29.png) o usuário irá assinar todos os documentos e o instrumento, **MODIFICANDO O STATUS** do instrumento
+{% endhint %}
+
+## Por fim, você será redirecionado para uma tela com o resultado das assinaturas. Preste atenção na quantidade assinada com sucesso e nas rejeitadas.
+
+![Na imagem, podemos ver no status da assinatura.](../../.gitbook/assets/image%20%28482%29.png)
+
+{% hint style="success" %}
+Para cada momento da celebração existem documentos específicos que serão assinados nesse momento.
+
+Portanto, **somente prossiga com a assinatura de instrumentos em lote** caso **esses instrumentos já estejam prontos para seguir para o próximo passo!**
 {% endhint %}
 
 ### Cenários de assinatura em lote
@@ -40,7 +60,8 @@ Para cada momento da celebração existem documentos específicos que serão ass
 {% tab title="Plano de Trabalho" %}
 Se o processo está na fase de _Plano de Trabalho_ no status **“PROCESSO DE ASSINATURA - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos: 
 
-*  Para o instrumento do tipo “Convênio”: TERMO DO CONVÊNIO
+* Para qualquer tipo: PLANO DE TRABALHO 
+* Para o instrumento do tipo “Convênio”: TERMO DO CONVÊNIO
 * Para o instrumento do tipo “Termo de Fomento”: TERMO DE FOMENTO
 * Para o instrumento do tipo “Termo de Colaboração”: TERMO DE COLABORAÇÃO
 {% endtab %}
