@@ -130,7 +130,9 @@ Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ pass
 
 > O Prefeito/Representante Legal passará a acessar a nova versão do SIGCON-MG - Módulo Saída com o novo login \(seu CPF\) e com a nova senha criada.
 
-## **ÓRGÃO**
+## USUÁRIOS INTERNOS \(OEEPs\)
+
+Caso você seja um funcionário de algum órgão ou entidade parceira que irá participar do processo como concedente, é necessário entrar em contato com o [administrador setorial do seu órgão](http://sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/).
 
 \*\*\*\*
 
