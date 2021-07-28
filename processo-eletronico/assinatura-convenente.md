@@ -32,5 +32,3 @@ Você somente poderá assinar como testemunha apenas uma vez
 
 Após a assinatura, o Instrumento será encaminhado para o **CONCEDENTE/OEEP** para dar andamento no Processo.
 
-
-
