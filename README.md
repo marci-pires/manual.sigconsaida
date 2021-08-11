@@ -1,5 +1,5 @@
 ---
-description: Manual do Usuário
+description: Manual do Usuário do SIGCON-SAÍDA
 ---
 
 # MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA
