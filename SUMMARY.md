@@ -48,8 +48,9 @@
 * [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
 * [SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/README.md)
   * [ANÁLISE DA SOLICITAÇÃO DE ASSINATURA com LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/analise-da-solicitacao-de-assinatura-com-login-e-senha.md)
-* [FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras](processo-eletronico/fluxo-de-documentos-convenente.md)
-* [FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP](processo-eletronico/fluxo-de-documentos-concedente.md)
+* [FLUXO DE DOCUMENTOS](processo-eletronico/fluxo-de-documentos/README.md)
+  * [FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-concedente.md)
+  * [FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-convenente.md)
 * [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Inserir documento para peticionar Proposta de Plano de Trabalho](processo-eletronico/anexar-documento/inserir-documento-para-peticionar-proposta.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
@@ -60,9 +61,10 @@
   * [🟢 Limitação para Assinatura de Documentos](processo-eletronico/assinar-documento/restricoes-para-assinatura-de-documentos.md)
   * [🟢Verificação do Cagec](processo-eletronico/assinar-documento/verificacao-do-cagec.md)
   * [🟢 Assinatura de Instrumentos em Lote](processo-eletronico/assinar-documento/assinatura-de-instrumentos-em-lote.md)
-* [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/assinatura-convenente.md)
-* [PROCESSO DE ASSINATURA - Concedente](processo-eletronico/assinatura-concedente/README.md)
-  * [Assinatura \(Representante Legal - Concedente\)](processo-eletronico/assinatura-concedente/assinatura-representante-legal-concedente.md)
+* [PROCESSO DE ASSINATURA](processo-eletronico/processo-de-assinatura/README.md)
+  * [PROCESSO DE ASSINATURA - Concedente](processo-eletronico/processo-de-assinatura/assinatura-concedente/README.md)
+    * [Assinatura \(Representante Legal - Concedente\)](processo-eletronico/processo-de-assinatura/assinatura-concedente/assinatura-representante-legal-concedente.md)
+  * [PROCESSO DE ASSINATURA - Convenente](processo-eletronico/processo-de-assinatura/assinatura-convenente.md)
 
 ## CONVÊNIOS
 
