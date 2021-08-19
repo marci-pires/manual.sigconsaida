@@ -98,6 +98,11 @@
     * [Alteração Simples](convenios/alteracoes/manual-convenente-alteracao/alteracao-simples.md)
     * [Termo Aditivo](convenios/alteracoes/manual-convenente-alteracao/termo-aditivo.md)
 
+## PLANO DE SERVIÇOS - SEDESE \(FMAS E CMAS\)
+
+* [Preenchimento](plano-de-servicos-sedese-fmas-e-cmas/preenchimento.md)
+* [Vinculação CPF Gestor FMAS](plano-de-servicos-sedese-fmas-e-cmas/vinculacao-cpf-gestor-fmas.md)
+
 ## Mobile
 
 * [Sigcon - Mobile](mobile/sigcon-mobile.md)
@@ -110,9 +115,4 @@
 
 * [Interno](interno/README.md)
   * [TAGs - Modelos de Documentos](interno/tags-modelos-de-documentos.md)
-
-## PLANO DE SERVIÇOS - SEDESE \(FMAS E CMAS\)
-
-* [Preenchimento](plano-de-servicos-sedese-fmas-e-cmas/preenchimento.md)
-* [Vinculação CPF Gestor FMAS](plano-de-servicos-sedese-fmas-e-cmas/vinculacao-cpf-gestor-fmas.md)
 
