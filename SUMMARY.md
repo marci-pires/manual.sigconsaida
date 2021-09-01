@@ -51,6 +51,7 @@
 * [FLUXO DE DOCUMENTOS](processo-eletronico/fluxo-de-documentos/README.md)
   * [FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-concedente.md)
   * [FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-convenente.md)
+* [EXCLUIR DOCUMENTOS](processo-eletronico/excluir-documentos.md)
 * [ANEXAR DOCUMENTOS](processo-eletronico/anexar-documento/README.md)
   * [Inserir documento para peticionar Proposta de Plano de Trabalho](processo-eletronico/anexar-documento/inserir-documento-para-peticionar-proposta.md)
   * [Documento Nato-Digital](processo-eletronico/anexar-documento/documento-nato-digital.md)
