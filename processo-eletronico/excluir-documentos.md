@@ -50,3 +50,7 @@ Depois que o sistema salvar, você verá que o na coluna "Status Atual" o status
 
 ![](../.gitbook/assets/image%20%28491%29.png)
 
+{% hint style="warning" %}
+Caso necessário, atualize a página para que as alterações sejam refletidas corretamente
+{% endhint %}
+
