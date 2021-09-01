@@ -47,7 +47,9 @@
 
 * [DEFINIÇÕES GERAIS](processo-eletronico/definicoes-gerais.md)
 * [SOLICITAR ASSINATURA LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/README.md)
-  * [ANÁLISE DA SOLICITAÇÃO DE ASSINATURA com LOGIN e SENHA](processo-eletronico/solicitar-assinatura-login-senha/analise-da-solicitacao-de-assinatura-com-login-e-senha.md)
+  * [Usuário externo](processo-eletronico/solicitar-assinatura-login-senha/usuario-externo.md)
+  * [Usuário interno](processo-eletronico/solicitar-assinatura-login-senha/usuario-interno.md)
+  * [Análise da solicitação de assinatura com Login e Senha](processo-eletronico/solicitar-assinatura-login-senha/analise-da-solicitacao-de-assinatura-com-login-e-senha.md)
 * [FLUXO DE DOCUMENTOS](processo-eletronico/fluxo-de-documentos/README.md)
   * [FLUXO DE DOCUMENTOS - CONCEDENTE/OEEP](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-concedente.md)
   * [FLUXO DE DOCUMENTOS - CONVENENTE/OSC Parceiras](processo-eletronico/fluxo-de-documentos/fluxo-de-documentos-convenente.md)

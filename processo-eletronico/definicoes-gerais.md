@@ -44,6 +44,24 @@ Para atestar a autenticidade desses documentos, é necessário que esses sejam c
 O  [Decreto nº10.278, de março de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10278.htm) define **Documento Digitalizado** como: representante digital do processo de digitalização do documento físico e seus metadados
 {% endhint %}
 
+{% hint style="success" %}
+**Algumas dicas para digitalização dos documentos**
+
+* Retire clipes e grampos para evitar problemas com a legibilidade dos documentos digitalizados
+
+**Cuide das configurações**
+
+Alguns detalhes de configuração dos equipamentos utilizados para escanear os arquivos podem solucionar problemas no processo de digitalização que, às vezes, fazem com que os documentos digitalizados não fiquem bem legíveis ao serem escaneados. Veja quais são eles!
+
+* **Brilho**
+
+Muitas vezes, o ajuste em 50% funciona bem para os documentos. No entanto, se as letras saírem muito falhas e finas, é preciso reduzir o brilho para que a imagem fique mais escura. Já se o problema estiver nas letras pouco legíveis e muito escuras, basta aumentar o brilho
+
+* **Qualidade da imagem**
+
+O mais indicado é que a qualidade da imagem seja de 300dpi. Caso o texto da página tenha caracteres bem pequenos, configure a qualidade para que fique entre 400dpi e 600dpi. Dessa forma, os arquivos vão ficar perfeitos e todos conseguirão visualizar claramente as informações desejadas
+{% endhint %}
+
 ### Cópia Autenticada Administrativamente
 
 Será sempre uma fotocópia ou impressão de um documento que já teve a conferência com o documento original, realizada por servidor público que mediante a fé pública inseriu um carimbo institucional e sua própria assinatura, atestando que o documento foi conferido com o original em determinada data.
