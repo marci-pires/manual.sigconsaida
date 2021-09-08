@@ -1,14 +1,14 @@
 # Table of contents
 
 * [MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA](README.md)
-* [🤔 O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
+* [O QUE É O SIGCON-MG – MÓDULO SAÍDA?](prefacio.md)
 * [🔑 LOGIN E SENHA](login-e-senha/README.md)
   * [🖊 NOVO USUÁRIO](login-e-senha/novo-usuario.md)
   * [💻 PROBLEMAS COM LOGIN](login-e-senha/problemas-com-login.md)
   * [🔑 PROBLEMAS COM A SENHA](login-e-senha/problemas-com-a-senha.md)
   * [🔏 RECUPERAR LOGIN/SENHA PARLAMENTARES](login-e-senha/recuperar-login-senha-parlamentares.md)
   * [✒️CADASTRO DE USUÁRIOS - PARLAMENTARES](login-e-senha/cadastro-de-usuarios.md)
-* [🖥EMENDAS](emendas/README.md)
+* [EMENDAS PARLAMENTARES](emendas/README.md)
   * [O que são emendas?](emendas/introducao.md)
   * [Indicação de Recursos](emendas/indicacao-de-recursos.md)
   * [Remanejamento Inicial \(LDO\)](emendas/remanejar-recursos.md)

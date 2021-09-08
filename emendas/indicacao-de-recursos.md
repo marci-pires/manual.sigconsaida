@@ -4,6 +4,14 @@ description: Indicar Recursos Individuais e Bloco
 
 # Indicação de Recursos
 
+Para realizar indicações no SIGCON-SAÍDA, é necessário entender os tipos de inciso existentes. A figura abaixo ilustra as possibilidades.
+
+![Fluxo de incisos. Elaborado por Marcela Pires](../.gitbook/assets/teste-metodologia-agil-2x-2-.png)
+
+* INCISO S: Inciso inicial que vem da LOA
+* INCISO R: Inciso de remanejamento LDO
+* INCISO P: Inciso de remanejamento constitucional; não pode ser remanejado novamente
+
 {% hint style="info" %}
 **Perfil necessário**
 
