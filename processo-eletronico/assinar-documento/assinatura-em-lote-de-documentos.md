@@ -8,9 +8,11 @@ Para assinar vários documentos de uma vez, o usuário pode selecionar os docume
 
 ![](../../.gitbook/assets/image%20%28507%29.png)
 
-Simples assim!
+**Simples assim!**
 
 {% hint style="info" %}
-Lembrando que todas as regras relacionadas às assinaturas se aplicam nesse caso, exceto as assinaturas de Instrumento em Lote com e sem Tramitação
+Lembrando que todas as regras relacionadas às assinaturas se aplicam nesse caso, exceto as assinaturas de Instrumento em Lote[ com Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-com-tramitacao) e [sem Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-sem-tramitacao)
 {% endhint %}
+
+
 
