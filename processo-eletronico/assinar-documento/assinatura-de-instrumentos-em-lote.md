@@ -1,4 +1,4 @@
-# 🟢 Assinatura de Instrumentos em Lote
+# ✳ Assinatura de Instrumentos em Lote
 
 Para assinar instrumentos em lote, navegue pelo menu `Convênios/Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/ Parceria`
 
@@ -28,7 +28,7 @@ Após essa seleção, o resultado da pesquisa irá trazer dois botões e uma col
 
 A assinatura sem e com tramitação segue a mesma lógica da assinatura de documentos na aba de "Documentos Anexados".
 
-### ASSINATURA SEM TRAMITAÇÃO
+## ASSINATURA SEM TRAMITAÇÃO
 
 Após selecionar os filtros, de acordo com a orientação acima, marque as caixas de seleção do\(s\) instrumento\(s\) desejado\(s\)  e clique no botão ![](../../.gitbook/assets/image%20%28483%29.png) e coloque suas credenciais \(órgão assinante, usuário, perfil e senha\) para prosseguir com a assinatura.
 
@@ -36,7 +36,7 @@ Após selecionar os filtros, de acordo com a orientação acima, marque as caixa
 Ao ![](../../.gitbook/assets/image%20%28483%29.png) você vai somente assinar os documentos, sem mudar o status do instrumento.
 {% endhint %}
 
-### ASSINATURA COM TRAMITAÇÃO
+## ASSINATURA COM TRAMITAÇÃO
 
 Após selecionar os filtros, de acordo com a orientação acima, marque as caixas de seleção do\(s\) instrumento\(s\) desejado\(s\)  e clique no botão ![](../../.gitbook/assets/image%20%28481%29.png) e coloque suas credenciais \(órgão assinante, usuário, perfil e senha\) para prosseguir com a assinatura.
 
