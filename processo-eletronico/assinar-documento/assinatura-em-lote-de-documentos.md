@@ -11,7 +11,7 @@ Para assinar vários documentos de uma vez, o usuário pode selecionar os docume
 **Simples assim!**
 
 {% hint style="info" %}
-Lembrando que todas as regras relacionadas às assinaturas se aplicam nesse caso, exceto as assinaturas de Instrumento em Lote[ com Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-com-tramitacao) e [sem Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-sem-tramitacao)
+Lembrando que todas as regras relacionadas às assinaturas de documentos se aplicam nesse caso. Lembrando que  as assinaturas de **Instrumento** em Lote[ com Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-com-tramitacao) e [sem Tramitação](assinatura-de-instrumentos-em-lote.md#assinatura-sem-tramitacao) são realizadas na tela de pesquisa e não na aba de documentos anexados
 {% endhint %}
 
 
