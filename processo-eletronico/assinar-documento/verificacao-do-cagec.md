@@ -1,4 +1,4 @@
-# 🟢Verificação do Cagec
+# Verificação do Cagec
 
 ## No momento da assinatura dos tipos de documentos PLANO DE TRABALHO, TERMO DE FOMENTO, TERMO DE COLABORAÇÃO e TERMO DE CONVÊNIO, a regularidade do CAGEC será exigida de acordo com a regra abaixo:
 

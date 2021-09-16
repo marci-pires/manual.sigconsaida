@@ -1,4 +1,4 @@
-# ✳ Assinatura de Instrumentos em Lote
+# Assinatura de Instrumentos em Lote
 
 Para assinar instrumentos em lote, navegue pelo menu `Convênios/Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/ Parceria`
 

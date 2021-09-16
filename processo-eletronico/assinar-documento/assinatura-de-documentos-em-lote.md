@@ -2,7 +2,7 @@
 description: Funcionalidade que permite assinar vários documentos de uma só vez
 ---
 
-# Assinatura de Documentos em Lote
+# 🟢 Assinatura de Documentos em Lote
 
 Para assinar vários documentos de uma vez, o usuário pode selecionar os documentos desejados no lado esquerdo da tela \(nas caixinhas de seleção\). Depois, clique em ![](../../.gitbook/assets/image%20%28506%29.png)
 

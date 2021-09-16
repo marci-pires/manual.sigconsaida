@@ -2,7 +2,7 @@
 description: Página atualizada em 17/06/2021
 ---
 
-# 🟢 Limitação para Assinatura de Documentos
+# Limitação para Assinatura de Documentos
 
 ## Orientações para pesquisar os documentos nesta página
 
