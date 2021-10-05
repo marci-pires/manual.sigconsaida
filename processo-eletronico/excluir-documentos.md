@@ -7,14 +7,25 @@ A opção de excluir documento SOMENTE estará disponível quando o status do do
 {% endhint %}
 
 {% hint style="info" %}
-Não poderão ser excluídos os documentos tipo:
+**Não poderão ser excluídos os documentos tipo:**
 
 * PROPOSTA DE PLANO DE TRABALHO
 * PLANO DE TRABALHO
 * ALTERAÇÃO DO INSTRUMENTO
 * ANÁLISE TÉCNICA
 * ANÁLISE JURÍDICA
+* CANCELAMENTO CONVÊNIO
+* EQUIPE DE TRABALHO
+* IMAGEM DA FISCALIZAÇÃO
+* TERMO DE DESIGNAÇÃO DO GESTOR DE PARCERIA
+* RESOLUÇÃO PARA DESIGNAÇÃO DE COMISSÃO DE MONITORAMENTO E AVALIAÇÃO
+* TERMO ATUAÇÃO EM REDE
+* ATO ESPECIFICO DO DIRIGENTE MAXIMO
+* PUBLICAÇÃO DO INSTRUMENTO JURÍDICO
+* EXTRATO DO INSTRUMENTO GERADO PELO SISTEMA
+{% endhint %}
 
+{% hint style="info" %}
 Esses são documentos gerados pelo sistema e para modificar qualquer um deles é necessário fazer isso direto na aba correspondente.
 {% endhint %}
 
