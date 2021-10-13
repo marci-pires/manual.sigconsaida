@@ -1,7 +1,7 @@
 ---
 description: >-
-  Você também poderá inserir um Documento baseado em um Modelo já existente no
-  sistema.
+  Você também poderá inserir um Documento em Branco relacionado a um tipo de
+  documento existente no sistema
 ---
 
 # Documento em Branco
@@ -20,11 +20,10 @@ Caso você não encontre o Tipo que deseja, entre em contato com o Concedente qu
 
 3 - Caso necessário, você pode adicionar alguma observação ao Documento
 
-![Campos dispon&#xED;veis para edi&#xE7;&#xE3;o](../../.gitbook/assets/processo_eletronico_preenchimento_campos.png)
+![Campos disponíveis para edição](../../.gitbook/assets/processo_eletronico_preenchimento_campos.png)
 
-4 - Após o preenchimento dos campos obrigatórios clicar em ![](../../.gitbook/assets/salvar%20%281%29.png)  e verificar se o sistema exibe mensagem de sucesso.  
+4 - Após o preenchimento dos campos obrigatórios clicar em ![](<../../.gitbook/assets/salvar (1).png>)  e verificar se o sistema exibe mensagem de sucesso.  
 
 ![](../../.gitbook/assets/processo_eletronico_arquivo_anexado_sucesso.png)
 
-5 -  Após exibir a mensagem de Sucesso você já pode voltar ao fluxo anterior que o Documento aparecerá na aba [**Documentos Anexados**](../../convenios/proposta/documentos-anexados.md)\*\*\*\*
-
+5 -  Após exibir a mensagem de Sucesso você já pode voltar ao fluxo anterior que o Documento aparecerá na aba [**Documentos Anexados**](../../convenios/proposta/documentos-anexados.md)****
