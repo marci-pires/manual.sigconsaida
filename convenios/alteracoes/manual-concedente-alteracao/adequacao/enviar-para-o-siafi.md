@@ -10,29 +10,36 @@ Essa opção deve ser utilizada SOMENTE para os órgãos e entidades estaduais q
 
 Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e no SIAFI. Portanto, para realização das alterações no Sigcon-MG – Módulo Saída e no SIAFI, os instrumentos devem estar registrados nos dois sistemas nas mesmas UOs e UEs, sob pena de inviabilizar a própria Adequação do Concedente.
 
-## FASE 1 - CADASTRAMENTO DA ADEQUAÇÃO
+## Cadastramento
 
-Passo 1 - O usuário \(**perfil de Analista Técnico e Responsável pela Publicação no órgão de origem e de destino do instrumento**\) vai acessar o convênio, clicar na aba “Alterações do Convênio/Parceria” e clicar no Botão “Adequação do Convênio/Parceria”
+{% hint style="danger" %}
+**Perfil necessário:** Analista Técnico e Responsável pela Publicação no órgão de origem e de destino do instrumento.
+{% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+**1.** Expanda a aba “Alterações do Convênio/Parceria” e clique em `“Adequação do Convênio/Parceria”`
 
-Passo 2 - O Usuário irá lançar os dados como já era feito anteriormente e clicar em “Salvar e Encaminhar para Aprovação”:
+![](<../../../../.gitbook/assets/image (424).png>)
 
-![](../../../../.gitbook/assets/image%20%28151%29.png)
+**2.** Preencha os dados e clique em `“Salvar e Encaminhar para Aprovação”`
 
-Passo 3 - O usuário clicará em “Sim” no _popup_ de confirmação
+![](<../../../../.gitbook/assets/image (285).png>)
 
-![](../../../../.gitbook/assets/image%20%28116%29.png)
+**3.** Clique em `“Sim”` no _popup_ de confirmação
 
-## FASE 2 - APROVAÇÃO DA ADEQUAÇÃO
+![](<../../../../.gitbook/assets/image (420).png>)
 
-Passo 4 - Para a aprovação da Adequação, o usuário irá clicar no botão “Enviar para o SIAFI”. **Lembrando que para essa ação de aprovação da Adequação do Convênio, é necessário ter o perfil de Encaminhador ou Ordenador do órgão de origem e de destino do instrumento**
+## Aprovação
 
-![](../../../../.gitbook/assets/image%20%28109%29%20%281%29.png)
+{% hint style="danger" %}
+**Perfil necessário:** Encaminhador ou Ordenador do órgão de origem e de destino do instrumento.
+{% endhint %}
 
-Passo 5 - O usuário deverá clicar no “Sim”
+**1.** Clique em `“Enviar para o SIAFI”`
 
-![](../../../../.gitbook/assets/image%20%2867%29.png)
+![](<../../../../.gitbook/assets/image (355).png>)
 
-Passo 6 - A alteração se tornará VIGENTE
+**2.** Clique em `“Sim”` no _popup_ de confirmação
 
+![](<../../../../.gitbook/assets/image (278).png>)
+
+**3.** O status mudará para **“VIGENTE”** e o processo será concluído.

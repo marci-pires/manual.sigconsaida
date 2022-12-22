@@ -1,54 +1,59 @@
 # Alteração de Dotação Orçamentária
 
-{% hint style="success" %}
-ATENÇÃO: O instrumento deve estar no status **vigente**.
+{% hint style="info" %}
+**Precondição**: o instrumento deve estar no status **"Vigente"**.
 {% endhint %}
 
-1. Buscar pelo instrumento. Entrar e clicar na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`**. Clicar no botão **`Alteração`**:
+**1.** Para que a alteração seja classificada como **"Alteração de Dotação Orçamentária"**, os campos alterados poderão ser <mark style="color:red;">**somente**</mark>:
 
-![](../../../.gitbook/assets/image%20%28301%29.png)
+* Título da Alteração - aba "Caracterização da Proposta";&#x20;
+* Aba "Reservado ao Concedente";&#x20;
+* Aba "Justificativa da Alteração".
 
-2. Para que a alteração seja classificada como Alteração de Dotação Necessária, só pode ser alterado os campo: **`Título da Alteração (aba CARACTERIZAÇÃO DA PROPOSTA), aba RESERVADO AO CONCEDENTE e aba JUSTIFICATIVA DA ALTERAÇÃO:`**
+**2.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração"
 
-3. Preencha o campo **`Título da Alteração`** na aba **`CARACTERIZAÇÃO DA PROPOSTA`**:
+![](<../../../.gitbook/assets/image (21).png>)
 
-![](../../../.gitbook/assets/image%20%28317%29.png)
+**3.** Preencha o campo **"Título da Alteração"** na aba "Caracterização da Proposta"
 
-4. Clique no botão **`Salvar Caracterização da Proposta`**:
+![](<../../../.gitbook/assets/image (637).png>)
 
-![](../../../.gitbook/assets/image%20%28318%29.png)
+**4.** Clique em `"Salvar Caracterização da Proposta"`
 
-5. Na aba **`RESERVADO AO CONCEDENTE`**, inclua a nova dotação e remova a dotação cadastrada anteriormente. O valor \(R$\) tem que ser o mesmo:
+![](<../../../.gitbook/assets/image (737).png>)
 
-![](../../../.gitbook/assets/image%20%28339%29.png)
+**5.** Na aba "Reservado ao Concedente", inclua a nova dotação (1) e remova (2) a dotação cadastrada anteriormente. O valor (R$) das Dotações deve ser o mesmo.
 
-6. Vá para a aba **`JUSTIFICATIVA DA ALTERAÇÃO`**, preencha o campo solicitado e clique em **`Salvar`**:
+![](<../../../.gitbook/assets/image (5).png>)
 
-![](../../../.gitbook/assets/image%20%28334%29.png)
+**6.** Na aba "Justificativa da Alteração", preencha o campo solicitado e clique em `"Salvar"`
 
-7. Clique em **`Salvar Alterações e Encaminhar para Aprovação`**:
+![](<../../../.gitbook/assets/image (572).png>)
 
-![](../../../.gitbook/assets/image%20%28313%29.png)
+**7.** Após realizar corretamente as devidas alterações, clique em `“Salvar e encaminhar alterações”` no final da página
 
-8. Será exibida a mensagem abaixo. Vejam que o tipo de alteração é **`DOTAÇÃO ORÇAMENTÁRIA`**. Clique em **`Sim`** e prossiga:
+![](<../../../.gitbook/assets/image (88).png>)
 
-![](../../../.gitbook/assets/image%20%28331%29.png)
+**8.** Será exibida uma mensagem de "Tipo de Alteração: **DOTAÇÃO ORÇAMENTÁRIA"**. Clique em `"Sim"`
 
-9. A alteração está no status **`Validação da Alteração pelo Responsável Legal`**. Nesse status é necessário a assinatura da alteração com o login e senha do Representante Legal do Convenente/OSC Parceira:
+![](<../../../.gitbook/assets/image (624).png>)
 
-![](../../../.gitbook/assets/image%20%28330%29.png)
+**9.** A alteração passará para o status de "Validação da Alteração pelo Responsável Legal". É necessário **Representante Legal do Convenente/OSC Parceira assine a alteração**, clicando em `"Assinar Alteração"`
 
-10. Na próxima tela é realizada a **`Assinatura Manual`**, inserindo os dados o Representante Legal e a senha do SIGCON:
+![](<../../../.gitbook/assets/image (749).png>)
 
-![](../../../.gitbook/assets/image%20%28302%29.png)
+**10.** O Representante Legal deve inserir seus dados, senha do SIGCON Saída e clicar em `"Enviar"` para realizar a assinatura manual
 
-11. Agora é necessária realizar a **`Análise Técnica`** pelo Concedente/Órgão Estadual/Entidade Parceira. Ao término, é necessário clicar em **`Salvar`**:
+![](<../../../.gitbook/assets/image (703).png>)
 
-![](../../../.gitbook/assets/image%20%28310%29.png)
+**11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`
+
+![](<../../../.gitbook/assets/image (683).png>)
 
 
 
-12. Após a Análise Técnica, é feita a aprovação da alteração, clicando no botão **`Aprovar Alteração`**. Será exibido a mensagem de sucesso e a alteração irá para o status **`VIGENTE`**. Você pode gerar o PDF ou a Imagem clicando nos botões conforme tela abaixo:
+**12.** Após a Análise Técnica, é feita a aprovação da alteração.
 
-![](../../../.gitbook/assets/image%20%28333%29.png)
+**13.** Uma mensagem de sucesso será exibida e a alteração apresentará o status "**VIGENTE".** Para gerar o PDF/Imagem, clique nos botões correspondentes
 
+![](<../../../.gitbook/assets/image (555).png>)

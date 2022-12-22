@@ -15,6 +15,3 @@ O usuário deverá possuir perfil de **Vistoriador** ou **Coordenador** associad
 
 O dispositivo deverá possui conexão com a internet para autenticar e sincronizar.
 {% endhint %}
-
-![](../.gitbook/assets/smartselect_20210427-093748_sigcon.jpg)
-

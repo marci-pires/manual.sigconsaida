@@ -4,59 +4,54 @@ description: Somente para Termo de Colaboração ou Termo de Fomento
 
 # Alteração de Comissão de Monitoramento
 
-`Essa alteração só está disponível para instrumentos do tipo` **`Termo de Colaboração`** `ou` **`Termo de Fomento`**`.`
-
 {% hint style="success" %}
-O instrumento \(Termo de Colaboração ou Termo de Fomento\) deve estar no status **vigente**.
+O instrumento (Termo de Colaboração ou Termo de Fomento) deve estar no status **vigente**.
 {% endhint %}
 
-1. Acessar o instrumento, clicar na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`** e clicar no botão **`Comissão de Monitoramento e Avaliação`**:
+**1.** Acesse o instrumento, expanda a aba **ALTERAÇÕES DO CONVÊNIO/PARCERIA** e clique em `"Comissão de Monitoramento e Avaliação"`
 
-![](../../../.gitbook/assets/image%20%28308%29.png)
+![](<../../../.gitbook/assets/image (739).png>)
 
-2. Digitar o nº do Ato \(Deliberação, Portaria ou Resolução\) que Instituiu a Comissão e clicar em **`Salvar`**:
+**2.** Digite o nº do Ato (Deliberação, Portaria ou Resolução) que Instituiu a Comissão e clique em `"Salvar"`
 
-![](../../../.gitbook/assets/image%20%28340%29.png)
+![](<../../../.gitbook/assets/image (705).png>)
 
-3. Clicar em  **`Anexar`**  e inserir a publicação do Ato no Minas Gerais.
+**3.** Clique em `"Anexar"` e insira a publicação do Ato no Minas Gerais.
 
-4. Clicar em **`Procurar documento`** e buscar pelo anexo a ser inserido: 
+**4.** Clique em `"Procurar documento"` e busque o anexo a ser inserido
 
-![](../../../.gitbook/assets/image%20%28336%29.png)
+![](<../../../.gitbook/assets/image (746).png>)
 
-5. Após inserido, clicar em **`Upload`**:
+**5.** Após inserido, clique em `"Upload"`
 
-![](../../../.gitbook/assets/image%20%28323%29.png)
+![](<../../../.gitbook/assets/image (616).png>)
 
-6. Se estiver tudo ok, o documento aparecerá na linha **`Nome do Documento`** da tabela conforme tela abaixo. Após isso clique em **`Salvar`**:
+**6.** Seguido os passos corretamente, o documento aparecerá na linha **Nome do Documento** da tabela. Clique em `"Salvar"`
 
-![](../../../.gitbook/assets/image%20%28324%29.png)
+![](<../../../.gitbook/assets/image (659).png>)
 
-7. Para finalizar é necessário clicar em **`Enviar para Publicação`**:
+**7.** Para finalizar, clique em `"Enviar para Publicação"`
 
-![](../../../.gitbook/assets/image%20%28332%29.png)
+**8.** Digite a **Data de Publicação** e insira a publicação do **Extrato no Minas Gerais** em `"Anexar"`
 
-8. Inserir a **`Data de Publicação`**. Nessa tela você **deve** inserir a publicação do Extrato no Minas Gerais. Para isso clicar no botão **`Anexar`**:
+![](<../../../.gitbook/assets/image (657).png>)
 
-![](../../../.gitbook/assets/image%20%28321%29.png)
+**9.** Buscar pelo extrato clicando em `"Procurar documento"`, clique em `"Upload"` e, para finalizar, clique em `"Salvar"`
 
-9. Buscar pelo extrato clicando em **`Procurar documento`**. Após isso, clicar em **`Upload`**. Para finalizar clicar em **`Salvar`**:
+![](<../../../.gitbook/assets/image (706).png>)
 
-![](../../../.gitbook/assets/image%20%28309%29.png)
+**10.** Na tela inicial, o extrato da Publicação estará disponibilizado na tabela conforme tela abaixo. Se estiver tudo correto, inserir a data de publicação e clicar no botão Publicar Alteração:
 
-10. Na tela inicial, o extrato da Publicação estará disponibilizado na tabela conforme tela abaixo. Se estiver tudo correto, inserir a **data de publicação** e clicar no botão **`Publicar Alteração`**:
+![](<../../../.gitbook/assets/image (666).png>)
 
-![](../../../.gitbook/assets/image%20%28315%29.png)
+**11.** Alteração publicada com sucesso, conforme mensagem exibida
 
-11. Alteração publicada com sucesso:
+![](<../../../.gitbook/assets/image (626).png>)
 
-![](../../../.gitbook/assets/image%20%28304%29.png)
+**12.** Você pode conferir na aba Alterações do Convênio/Parceria que a mesma está no status VIGENTE:
 
-12. Você pode conferir na aba **`Alterações do Convênio/Parceria`** que a mesma está no status **VIGENTE**:
+![](<../../../.gitbook/assets/image (602).png>)
 
-![](../../../.gitbook/assets/image%20%28328%29.png)
+**13.** É possível gerar o arquivo PDF da Alteração ou em formato imagem (PNG) clicando nos **ícones correspondentes da coluna** `"Ação"`
 
-13. Caso queira, você pode gerar o arquivo PDF da Alteração ou em formato imagem \(PNG\) conforme botões abaixo:
-
-![](../../../.gitbook/assets/image%20%28335%29.png)
-
+![](<../../../.gitbook/assets/image (676).png>)

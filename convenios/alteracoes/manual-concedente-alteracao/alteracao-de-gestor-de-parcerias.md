@@ -4,49 +4,52 @@ description: Somente para Termo de Colaboração ou Termo de Fomento
 
 # Alteração de Gestor de Parcerias
 
-`Essa alteração só está disponível para instrumentos do tipo` **`Termo de Colaboração`** `ou` **`Termo de Fomento`**`.`
-
 {% hint style="success" %}
-O instrumento \(Termo de Colaboração ou Termo de Fomento\) deve estar no status **vigente**.
+O instrumento (Termo de Colaboração ou Termo de Fomento) deve estar no status **vigente**.
 {% endhint %}
 
-1. Acessar o instrumento, clicar na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`**  e clicar no botão **`Gestor de Parceria`**:
+**1.** Acesse o instrumento, expanda a aba **ALTERAÇÕES DO CONVÊNIO/PARCERIA**  e clique em `"Gestor de Parceria"`
 
-![](../../../.gitbook/assets/image%20%28325%29.png)
+![](<../../../.gitbook/assets/image (738).png>)
 
-2. Será exibido na próxima tela os dados do Gestor Atual:
+**2.** Será exibido na tela seguinte os dados do **Gestor Atual**
 
-![](../../../.gitbook/assets/image%20%28306%29.png)
+![](<../../../.gitbook/assets/image (622).png>)
 
-3. Alterar os dados do Gestor e clicar em **`Salvar`**:
+**3.** Altere os dados do Gestor e clique em `"Salvar"`
 
-![](../../../.gitbook/assets/image%20%28326%29.png)
+![](<../../../.gitbook/assets/image (564).png>)
 
-4. Clicar no botão **`Gerar Termo de Designação de Gestor da Parceria`**. Esse documento deve ser assinado pelo novo Gestor da Parceria e pelo Responsável Legal do Órgão Estadual/Entidade Parceira \(OEEP\) - Concedente:
+**4.** Clique em `"Gerar Termo de Designação de Gestor da Parceria"`
 
-![](../../../.gitbook/assets/image%20%28311%29.png)
+{% hint style="danger" %}
+Esse documentao deve ser assinado pelo **novo Gestor da Parceria** e pelo **Responsável Legal do Órgão Estadual/Entidade Parceira (OEEP) - Concedente**
+{% endhint %}
 
-5. Após a assinatura, clicar no botão **`Anexar`** e inserir o documento. Clicar em **`Upload`** e inserir a **`Data de Assinatura do Termo`**. Após isso clicar em **`Salvar`**:
+![](<../../../.gitbook/assets/image (696).png>)
 
-![](../../../.gitbook/assets/image%20%28319%29.png)
+**5.** Após a assinatura, clique em `"Anexar e inserir o documento"`, insira o documento, clique em `"Upload",` digite a **Data de Assinatura do Termo** e clique em `"Salvar"`
 
-6. Após a inserção, clicar em **`Enviar para Publicação`**:
+![](<../../../.gitbook/assets/image (583).png>)
 
-![](../../../.gitbook/assets/image%20%28337%29.png)
+**6**. Após a inserção, clique em `"Enviar para Publicação"`
 
-7. Nessa tela, é **obrigatório** a  inserção do Extrato da Publicação no Minas Gerais, além da data de Publicação. Clicar no botão **`Anexar`** e buscar pelo Extrato. Após a inserção do mesmo, clicar em **`Salvar`**:
+![](<../../../.gitbook/assets/image (577).png>)
 
-![](../../../.gitbook/assets/image%20%28316%29.png)
+**7.** É **obrigatório** a inserir o Extrato da Publicação no Minas Gerais e a data de Publicação.&#x20;
 
-8. Ao retornar para a tela inicial, inserir a **`data de publicação`** e clicar em **`Publicar Alteração`**:
+Clique em `"Anexar"`, busque o Extrato e clique em `"Salvar"`
 
-![](../../../.gitbook/assets/image%20%28312%29.png)
+![](<../../../.gitbook/assets/image (560).png>)
 
-9. Se estiver ok, será exibido a tela abaixo:
+**8.** Ao retornar para a tela inicial, insira a data de publicação e clique em `"Publicar Alteração"`
 
-![](../../../.gitbook/assets/image%20%28305%29.png)
+![](<../../../.gitbook/assets/image (767).png>)
 
-10. Você pode conferir a alteração clicando na aba **`ALTERAÇÕES DO CONVÊNIO/PARCERIA`**. Nela é possível também gerar o arquivo em PDF ou formado imagem \(PNG\):
+**9.** Alteração publicada com sucesso, conforme mensagem exibida
 
-![](../../../.gitbook/assets/image%20%28314%29.png)
+![](<../../../.gitbook/assets/image (598).png>)
 
+**10.** É possível gerar o arquivo PDF da Alteração ou em formato imagem (PNG) clicando nos **ícones correspondentes da coluna** `"Ação"`
+
+![](<../../../.gitbook/assets/image (713).png>)

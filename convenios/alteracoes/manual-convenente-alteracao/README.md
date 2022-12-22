@@ -1,5 +1,5 @@
 ---
-description: 'Convenente é o órgão, ente ou entidade que vai receber o recurso'
+description: Convenente é o órgão, ente ou entidade que vai receber o recurso
 ---
 
 # Convenente / OSC Parceira
@@ -8,22 +8,22 @@ Os convênios poderão ser alterados por meio de termo aditivo, desde que dentro
 
 Existem duas modalidades de alteração **para Convenentes**
 
-### Termo aditivo
+### 1. Termo aditivo
 
-* 
-### Alteração Simples
+### 2. Alteração Simples
 
-*  Dotação orçamentária;
-* Membros da equipe executora; 
-* Conta bancária específica;  
+*  Dotação orçamentária;
+* Membros da equipe executora;&#x20;
+* Conta bancária específica; &#x20;
 * Duração das etapas no cronograma de execução;
 * Demonstrativo de recursos contido no plano de aplicação.
 
 Clique nos links abaixo para acessar o passo a passo correspondente
 
-{% page-ref page="../manual-concedente-alteracao/termo-aditivo-1.md" %}
+{% content-ref url="../manual-concedente-alteracao/termo-aditivo.md" %}
+[termo-aditivo.md](../manual-concedente-alteracao/termo-aditivo.md)
+{% endcontent-ref %}
 
-{% page-ref page="alteracao-simples.md" %}
-
-
-
+{% content-ref url="alteracao-simples.md" %}
+[alteracao-simples.md](alteracao-simples.md)
+{% endcontent-ref %}
