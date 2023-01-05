@@ -8,7 +8,7 @@ description: Página atualizada em 17/06/2021
 
 **1.**  Aperte `"CTRL+F"` no **seu teclado** para pesquisar documentos com facilidade nesta página
 
-![Demonstração de Teclado para acionar a opção de Pesquisar na Página](<../../../.gitbook/assets/image (684).png>)
+![Demonstração de Teclado para acionar a opção de Pesquisar na Página](<../../../.gitbook/assets/image (475).png>)
 
 **2.** No canto direito do topo da página, uma caixinha irá aparecer para digitar. Utilize as setinhas para pesquisar.&#x20;
 
@@ -16,7 +16,7 @@ Como exemplo, pesquisamos a palavra **"CONTA"** e a pesquisa gerou 7 resultados 
 
 Você será direcionado para o local da página que contenha a pesquisa realizada.
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (339).png>)
 
 ## Atenção:
 

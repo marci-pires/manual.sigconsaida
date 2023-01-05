@@ -12,13 +12,13 @@ Para utilização da funcionalidade de reprovação, acessar o Controle de Execu
 
 Acessar o menu `Emendas > Gerenciar Indicações > Controle de Execução`
 
-![](<../../.gitbook/assets/image (633).png>)
+![](<../../.gitbook/assets/image (369) (1).png>)
 
 ### 2º passo
 
 Acessar o Controle de Execução onde contenha a indicação desejada para operacionalização da **Reprovação Parcial** e ir para a aba `Vinculação Indicação`:
 
-![](<../../.gitbook/assets/image (628).png>)
+![](<../../.gitbook/assets/image (373) (1).png>)
 
 {% hint style="warning" %}
 **Importante:** A reprovação parcial é feita de maneira individual. Ou seja: se no mesmo controle de execução houver mais de 1 indicação a ser reprovada parcialmente, a operação tem que ser realizada para cada indicação.
@@ -28,13 +28,13 @@ Acessar o Controle de Execução onde contenha a indicação desejada para opera
 
 &#x20;A **Reprovação Parcial** só pode ser realizada se a indicação estiver no status Aprovada ou Enviada para a SEE (status de indicação do Tipo Aplicação Direta - Caixa Escolar):
 
-![](<../../.gitbook/assets/image (638).png>)
+![](<../../.gitbook/assets/image (371) (1).png>)
 
 ### 4º passo&#x20;
 
 Para que haja a **Reprovação Parcial** é necessário que o `Valor Empenhado < Valor Utilizado`.  Clicar no botão com a imagem de um lápis para prosseguir com a operação:&#x20;
 
-![](<../../.gitbook/assets/image (634).png>)
+![](<../../.gitbook/assets/image (366) (1).png>)
 
 {% hint style="danger" %}
 **Importante:** O saldo da diferença entre (Valor Utilizado - Valor Empenhado) que será reprovado parcialmente retornará para o inciso como **valor não impositivo**.
@@ -44,25 +44,25 @@ Para que haja a **Reprovação Parcial** é necessário que o `Valor Empenhado <
 
 Na próxima tela dê o aceite no `Termo de Aceite para o Encerramento da Indicação no Processo de Controle de Execução`:
 
-![](<../../.gitbook/assets/image (614).png>)
+![](<../../.gitbook/assets/image (372) (1).png>)
 
 ### 6º passo
 
 Clique em `Encerrar o Processo de Execução`:
 
-![](<../../.gitbook/assets/image (663).png>)
+![](<../../.gitbook/assets/image (374) (1).png>)
 
 ### 7º passo
 
 Confirme a **Reprovação Parcial** clicando na tela conforme abaixo:
 
-![](<../../.gitbook/assets/image (664).png>)
+![](<../../.gitbook/assets/image (370) (1).png>)
 
 ### 8º passo
 
 Será exibida a mensagem de Operação Realizada com Sucesso:
 
-![](<../../.gitbook/assets/image (693).png>)
+![](<../../.gitbook/assets/image (363) (1).png>)
 
 {% hint style="danger" %}
 **ATENÇÃO:** A operação de Reprovação Parcial é um processo **IRREVERSÍVEL**. Antes de realizar a mesma, confirme se os valores lançados estão corretos.
@@ -72,4 +72,4 @@ Será exibida a mensagem de Operação Realizada com Sucesso:
 
 Após a **Reprovação Parcial**, o ícone de lápis se transformará em uma lupa onde é possível acessar os dados da **Reprovação Parcial**
 
-![](<../../.gitbook/assets/image (698).png>)
+![](<../../.gitbook/assets/image (368) (1).png>)

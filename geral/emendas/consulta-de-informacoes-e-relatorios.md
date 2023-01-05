@@ -2,13 +2,13 @@
 
 Os remanejamentos e indicações realizados podem ser consultados nas próprias telas em que foram solicitados, mas o SIGCON-SAÍDA permite a visualização concisa dessas informações em relatórios. Os relatórios podem ser acessados a partir do menu `Emendas > Relatórios`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/image (217).png>)
+![](<../../.gitbook/assets/image (431) (1).png>)
 
 ## **Incisos**
 
 O relatório de `Incisos` exibe todos os incisos do parlamentar, discriminando o seu valor inicial, o seu valor após os remanejamentos para outros incisos, e o montante indicado. Diversos filtros podem ser utilizados na geração do relatório, caso o usuário deseje visualizar somente os incisos de um determinado órgão, por exemplo.
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (428) (1).png>)
 
 > **O usuário pode gerar o relatório em PDF, para impressão, ou em CSV, caso deseje trabalhar os dados no excel.**
 
@@ -16,7 +16,7 @@ O relatório de `Incisos` exibe todos os incisos do parlamentar, discriminando o
 
 O relatório `Remanejamento de Incisos` exibe as solicitações de remanejamento realizadas, exibindo as informações tanto do inciso de origem e quanto da solicitação. O relatório em CSV também apresenta os dados do usuário que solicitou o remanejamento e da data e horário em que as solicitações foram realizadas.
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../../.gitbook/assets/image (434).png>)
 
 ## **Totalização**
 
@@ -40,7 +40,7 @@ O `Relatório de Valores Indicados` é muito útil para acompanhar o andamento d
 
 Na tela do `Relatório de Valores Utilizados` é possível visualizar de forma rápida os instrumentos tipo Convênio, Termo de Fomento ou Termo de Colaboração que estão vinculados às indicações. É possível visualizar também em que status encontra-se o instrumento.
 
-![](<../../.gitbook/assets/image (197).png>)
+![](<../../.gitbook/assets/image (422) (1).png>)
 
 É possível nessa tela também, gerar o relatório em formato CSV, onde contém informações mais detalhadas e que  possibilita a análise de dados de forma mais detalhada.
 
@@ -48,7 +48,7 @@ Na tela do `Relatório de Valores Utilizados` é possível visualizar de forma r
 
 Nesse relatório, é possível a visualização das indicações que não são do tipo CONVÊNIO.&#x20;
 
-![](<../../.gitbook/assets/image (175).png>)
+![](<../../.gitbook/assets/image (411).png>)
 
 É possível acompanhar a execução financeira das indicações, uma vez que há dados dos valores utilizado, empenhado e pago (**a atualização do controle de execução é de responsabilidade do órgão a qual foi feito a indicação**).
 
@@ -58,13 +58,13 @@ No `Relatório de Encerramento de Execução` é exibido todas as indicações d
 
 **Esse relatório é disponibilizado somente para os órgãos e entidades estaduais.**
 
-![](<../../.gitbook/assets/image (206).png>)
+![](<../../.gitbook/assets/image (415).png>)
 
 ## Saneamento / Remanejamento
 
 Nesse relatório, é exibido as informações de Saneamento / Remanejamento do Parlamentar.&#x20;
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (433).png>)
 
 O relatório contém informações dos valores de Impedimento de Ordem Técnica (caso tenha), remanejamento constitucional e indicações sanadas.
 
@@ -74,4 +74,4 @@ Há uma aba onde há todo detalhamento das indicações que foram remanejadas, c
 
 No relatório de `Impedimento de Ordem Técnica` é exibido os detalhes da indicação que foi reprovada pelo órgão: nº da indicação, inciso, UO, tipo de indicação, data de reprovação, categoria do IOT e justificativa de reprovação.
 
-![](<../../.gitbook/assets/image (201).png>)
+![](<../../.gitbook/assets/image (426).png>)

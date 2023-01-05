@@ -6,23 +6,23 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 
 **1.** Como Prefeito/Representante Legal do convenente, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../../.gitbook/assets/image (794).png>)
+![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (324).png>)
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
-![](<../../../.gitbook/assets/image (801).png>)
+![](<../../../.gitbook/assets/image (514).png>)
 
 **4.** Então, clique em `"Pré Cadastro"`
 
-![](<../../../.gitbook/assets/image (811).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 
 **5.** Como Prefeito/Representante Legal do convenente, preencha o CPF e CNPJ e clique em `"Enviar"`
 
-![](<../../../.gitbook/assets/image (785).png>)
+![](<../../../.gitbook/assets/image (538).png>)
 
 **6.** Preencha todos os campos (CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail) e clique em `"Enviar"`
 
@@ -36,7 +36,7 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 
 **9.**  Como Prefeito/Representante Legal do convenente, acesse o e-mail cadastrado no CAGEC e  clique link contido na mensagem
 
-![](<../../../.gitbook/assets/image (818).png>)
+![](<../../../.gitbook/assets/image (513).png>)
 
 **10.** Será exibida tela com o CPF do Prefeito/Representante Legal como usuário.
 

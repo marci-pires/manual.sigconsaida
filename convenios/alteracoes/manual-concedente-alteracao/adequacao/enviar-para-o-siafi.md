@@ -18,15 +18,15 @@ Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e
 
 **1.** Expanda a aba “Alterações do Convênio/Parceria” e clique em `“Adequação do Convênio/Parceria”`
 
-![](<../../../../.gitbook/assets/image (424).png>)
+![](<../../../../.gitbook/assets/image (14).png>)
 
 **2.** Preencha os dados e clique em `“Salvar e Encaminhar para Aprovação”`
 
-![](<../../../../.gitbook/assets/image (285).png>)
+![](<../../../../.gitbook/assets/image (151).png>)
 
 **3.** Clique em `“Sim”` no _popup_ de confirmação
 
-![](<../../../../.gitbook/assets/image (420).png>)
+![](<../../../../.gitbook/assets/image (116).png>)
 
 ## Aprovação
 
@@ -36,10 +36,10 @@ Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e
 
 **1.** Clique em `“Enviar para o SIAFI”`
 
-![](<../../../../.gitbook/assets/image (355).png>)
+![](<../../../../.gitbook/assets/image (109) (1).png>)
 
 **2.** Clique em `“Sim”` no _popup_ de confirmação
 
-![](<../../../../.gitbook/assets/image (278).png>)
+![](<../../../../.gitbook/assets/image (67).png>)
 
 **3.** O status mudará para **“VIGENTE”** e o processo será concluído.

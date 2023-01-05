@@ -16,7 +16,7 @@ A definição de como os recursos serão utilizados é feita através do preench
 
 Se o grupo de despesa do inciso for **Investimentos**, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
 
-![](../../../.gitbook/assets/MANUAL\_PARLAMENTARES\_INDICAÇÃO\_INCISO.jpg)
+![](../../../.gitbook/assets/manual\_parlamentares\_indicacao\_inciso.jpg)
 
 {% hint style="info" %}
 **As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso. As opções de escolha da Categoria variam conforme o Gênero selecionado. As opções de escolha da Especificação variam conforme a Categoria selecionada.**
@@ -26,7 +26,7 @@ Se o grupo de despesa do inciso for **Investimentos**, não será possível sele
 
 Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão `PESQUISAR`.
 
-![](<../../../.gitbook/assets/image (587).png>)
+![](<../../../.gitbook/assets/image (194) (1).png>)
 
 > **Passo-a-passo**
 >
@@ -38,7 +38,7 @@ Os resultados são exibidos na tabela. Para selecionar um beneficiário é neces
 
 Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual também são dispostos os dados do tipo de atendimento, e na qual é preenchido o valor da indicação de recursos. Após preencher o valor das indicações é necessário marcar a checkbox e depois clicar em “Enviar Indicações”.
 
-![](<../../../.gitbook/assets/image (742).png>)
+![](<../../../.gitbook/assets/image (231) (1).png>)
 
 > **Passo-a-passo**
 >
@@ -47,7 +47,7 @@ Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual tam
 
 **4.** O sistema verifica se todas as informações foram preenchidas corretamente e exibe uma mensagem confirmando que a operação foi realizada com sucesso.
 
-![](<../../../.gitbook/assets/9 (1).png>)
+![](<../../../.gitbook/assets/9 (2).png>)
 
 {% hint style="danger" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.
@@ -59,6 +59,6 @@ A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pe
 
 Para que a indicação seja dividida em mais de 1 especificação, a mesma tem que ser realizada somente com Gênero e Categoria conforme tela abaixo:
 
-![](<../../../.gitbook/assets/image (179).png>)
+![](<../../../.gitbook/assets/image (440).png>)
 
 Conforme tela acima, só foi detalhado a indicação em Gênero e Categoria. No momento da vinculação da mesma  no plano ou proposta será feito a divisão das especificações, discriminando o valor individualmente de cada especificação.

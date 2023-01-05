@@ -16,7 +16,7 @@ Após definir o valor que será [sanado](saneamento.md) das indicações com imp
 
 Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Solucionar Impedimento de Ordem Técnica > Remanejamento Constitucional`
 
-![](<../../.gitbook/assets/image (709).png>)
+![](<../../.gitbook/assets/image (292) (1).png>)
 
 {% hint style="danger" %}
 **ATENÇÃO:** Nos termos do art. 160,§§ 4°e 18º, da Constituição do Estado de Minas Gerais, **50% das emendas parlamentares individuais** deverão ser destinados a ações e serviços públicos de **saúde** e para o tipo de classificação **Bloco / Bancada** devem ser destinados a ações e serviços públicos de **saúde** ou à **manutenção e ao desenvolvimento do ensino**.&#x20;
@@ -26,7 +26,7 @@ Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Soluci
 
 ### **1º passo: Escolha as informações da dotação (siga as orientações na imagem)**
 
-![Tela de remanejamento constitucional](<../../.gitbook/assets/image (691).png>)
+![Tela de remanejamento constitucional](<../../.gitbook/assets/image (291) (1).png>)
 
 A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exibidos quatro saldos:
 
@@ -41,7 +41,7 @@ A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exib
 
 ### **2º passo: Depois que o remanejamento for salvo o usuário poderá editar, excluir ou refazer o saneamento.**
 
-![Opções de edição do remanejamento](<../../.gitbook/assets/image (768).png>)
+![Opções de edição do remanejamento](<../../.gitbook/assets/image (290) (1).png>)
 
 Caso o usuário deseje alterar as informações do saneamento e do montante direcionado para o remanejamento, conforme preenchido orientado na seção [Saneamento](saneamento.md), é necessário que ele clique no comando “Refazer Saneamento”. Contudo, essa opção irá apagar os registros das programações orçamentárias que o usuário já preencheu no remanejamento.
 
@@ -49,6 +49,6 @@ Caso o usuário deseje alterar as informações do saneamento e do montante dire
 **Atenção:** Ao escolher REFAZER SANEAMENTO, todas as indicações de programação de remanejamento constitucional serão perdidas e você deve iniciar novamente o processo de saneamento.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (753).png>)
+![](<../../.gitbook/assets/image (289) (1).png>)
 
 Após clicar no botão<img src="../../.gitbook/assets/sim.png" alt="" data-size="original"> o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.

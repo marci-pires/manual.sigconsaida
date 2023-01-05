@@ -19,17 +19,17 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 **1.** O retorno do tipo de atendimento é realizada na tela de Aprovação de Indicações Órgão. Primeiramente, o usuário deverá acessar o menu **Emendas > Gerenciar Indicações > Aprovação de Indicações - Órgão**.
 
-![](<../../../.gitbook/assets/image (322).png>)
+![](<../../../.gitbook/assets/image (225).png>)
 
 &#x20; **2.** Na próxima tela você vai selecionar a indicação desejada e clicar no botão `Retornar Indicação(ões) para Ajuste Parlamentar`.
 
-![](<../../../.gitbook/assets/image (721).png>)
+![](<../../../.gitbook/assets/image (199) (1).png>)
 
-![](<../../../.gitbook/assets/image (556).png>)
+![](<../../../.gitbook/assets/image (195) (1).png>)
 
 **3.** Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo:
 
-![](<../../../.gitbook/assets/image (656).png>)
+![](<../../../.gitbook/assets/image (196) (1).png>)
 
 **4.** As indicações retornadas para ajuste do tipo de atendimento os status passará  a  **"Aguardando ajuste parlamentar"**&#x20;
 
@@ -37,27 +37,27 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 1. Acesse o menu `Convênios / Parcerias >> Pesquisar Proposta/ Plano de Trabalho / Convênio / Parceria`
 
-![](<../../../.gitbook/assets/image (308).png>)
+![](<../../../.gitbook/assets/image (220).png>)
 
 &#x20; ****  2. Pesquise a **proposta** ou **plano de trabalho**.
 
-![Digite o nº da proposta ou plano desejado e clique em Pesquisar  ](<../../../.gitbook/assets/image (414).png>)
+![Digite o nº da proposta ou plano desejado e clique em Pesquisar  ](<../../../.gitbook/assets/image (209).png>)
 
 3\.  Clique sobre o nº da proposta ou do plano de trabalho para abri-lo:
 
-![](<../../../.gitbook/assets/image (379).png>)
+![](<../../../.gitbook/assets/image (217).png>)
 
 4\. No plano de trabalho expande a Aba "Caracterização da Proposta " e localize as indicações vinculadas e clique no botão `Expandir`,  conforme imagem abaixo.
 
-![](<../../../.gitbook/assets/image (629).png>)
+![](<../../../.gitbook/assets/image (203) (1).png>)
 
 5\.  Na próxima tela clique no botão <img src="../../../.gitbook/assets/lixeira.png" alt="" data-size="line"> conforme imagem abaixo:
 
-![](<../../../.gitbook/assets/image (119).png>)
+![](<../../../.gitbook/assets/image (430) (1).png>)
 
 6\. Caso queira, retorne à tela de vinculação/desvinculação e verifique a indicação foi desvinculada:
 
-![](<../../../.gitbook/assets/image (138).png>)
+![](<../../../.gitbook/assets/image (438).png>)
 
 7\. A indicação desvinculada e estará disponível para ser retornada para ajuste do tipo de atendimento.
 

@@ -8,7 +8,7 @@ description: O que é?
 
 O processo que é realizado no SIGCON SAÍDA segue o fluxo abaixo
 
-![](<../../../.gitbook/assets/image (199).png>)
+![](<../../../.gitbook/assets/image (391) (1).png>)
 
 **Por Exemplo:**
 
@@ -38,7 +38,7 @@ O impedimento de ordem técnica não poderá ser informado se o instrumento já 
 Somente é permitido reprovar uma indicação até o processo de assinatura conforme imagem abaixo.
 {% endhint %}
 
-![Status permitido para Impedimento de Ordem Técnica](<../../../.gitbook/assets/image (365).png>)
+![Status permitido para Impedimento de Ordem Técnica](<../../../.gitbook/assets/image (223).png>)
 
 &#x20;**A reprovação da indicação pode ser efetuada de duas formas:**
 

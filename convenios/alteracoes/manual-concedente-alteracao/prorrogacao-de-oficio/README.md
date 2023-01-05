@@ -6,7 +6,7 @@ A Prorrogação de Ofício é uma prorrogação de vigência decorrente do atras
 Na Prorrogação de Ofício há uma aba específica para o preenchimento da prorrogação de vigência, diferentemente do que ocorre no termo aditivo, no qual a prorrogação é realizada na aba Caracterização da Proposta.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (348).png>)
+![](<../../../../.gitbook/assets/image (139).png>)
 
 
 

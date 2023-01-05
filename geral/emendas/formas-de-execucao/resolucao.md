@@ -12,7 +12,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **2.** A escolha de quem receberá os recursos é feita através da seleção de beneficiários:
 
-![](<../../../.gitbook/assets/image (574).png>)
+![](<../../../.gitbook/assets/image (198) (1).png>)
 
 > **Passo-a-passo**
 >
@@ -24,7 +24,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **3.** Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual devem ser preenchidas as informações relativas à finalidade na qual os recursos serão aplicados e o montante que será indicado para isso.
 
-![](<../../../.gitbook/assets/image (710).png>)
+![](<../../../.gitbook/assets/image (186) (1).png>)
 
 > **Passo-a-passo**
 >
@@ -40,7 +40,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **5.** Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio:
 
-![](<../../../.gitbook/assets/18 (1).png>)
+![](../../../.gitbook/assets/18.png)
 
 {% hint style="info" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.

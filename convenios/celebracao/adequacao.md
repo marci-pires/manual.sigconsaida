@@ -8,11 +8,11 @@ Para retornar um plano de trabalho para Adequação, o usuário deve ter o perfi
 
 **1.** Para retornar um plano de trabalho com status de "Análise Técnica" ou "Análise Jurídica", clique `"Retornar para Adequação"`
 
-![](<../../.gitbook/assets/image (458).png>)
+![](<../../.gitbook/assets/image (247).png>)
 
 **2.** Insira a justificativa para o retorno e confirme a ação clicando em `"Confirmar Retorno"`
 
-![](<../../.gitbook/assets/image (494).png>)
+![](<../../.gitbook/assets/image (235).png>)
 
 **3.** Um e-mail será enviado para o Responsável pela documentação de celebração e termos aditivos e para o parlamentar responsável pela indicação vinculada, se houver.
 
@@ -24,6 +24,6 @@ Para realizar a adequação de um plano de trabalho, o usuário deve ter o perfi
 
 **1.** Após realizar as adequações sugeridas, clique em `"Encaminhar para Análise Técnica"`
 
-![](<../../.gitbook/assets/image (455).png>)
+![](<../../.gitbook/assets/image (254).png>)
 
 **2.** O status do plano mudará para "**Análise técnica**"

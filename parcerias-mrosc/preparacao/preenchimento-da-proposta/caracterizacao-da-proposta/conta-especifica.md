@@ -2,7 +2,7 @@
 
 **1.** Preencha os campos com a conta específica&#x20;
 
-![](<../../../../.gitbook/assets/image (99).png>)
+![](<../../../../.gitbook/assets/image (61) (1).png>)
 
 {% hint style="danger" %}
 **Não** é possível repetir a conta já utilizada em outra proposta no sistema.&#x20;

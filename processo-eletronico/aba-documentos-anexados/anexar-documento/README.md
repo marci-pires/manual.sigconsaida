@@ -12,7 +12,7 @@ Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalh
 
 ### O convenente só pode realizar alterações em um plano de trabalho no status de **“Adequação”.**
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (355).png>)
 
 {% hint style="danger" %}
 A anexação de documentos a ser realizada pelo convenente deve ser executada, **necessariamente**, pela aba de "Documentos Anexados"&#x20;

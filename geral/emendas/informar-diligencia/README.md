@@ -32,4 +32,4 @@ A diligência não poderá ser informada se o instrumento já estiver em Process
 Somente é permitido informar diligência até o processo de assinatura conforme imagem abaixo.
 {% endhint %}
 
-![Status permitido para informar diligência](<../../../.gitbook/assets/image (365).png>)
+![Status permitido para informar diligência](<../../../.gitbook/assets/image (223).png>)

@@ -8,7 +8,7 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 
 &#x20;    b. O **montante** que será indicado.
 
-![](<../../../.gitbook/assets/image (202).png>)
+![](<../../../.gitbook/assets/image (437) (1).png>)
 
 {% hint style="warning" %}
 **Para indicação do tipo Aplicação Direta - Execução Direta, o beneficiário será o próprio órgão do inciso.**
@@ -16,7 +16,7 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 
 **2.** Para Emendas 2021, temos como novidade a seleção da unidade administrativa (formal ou informal)/regional do órgão indicado. Caso o órgão possua mais de 1 unidade administrativa, é necessário informar o destino dos recursos. É possível indicar para mais de unidade administrativa na mesma operação:
 
-![](<../../../.gitbook/assets/image (128).png>)
+![](<../../../.gitbook/assets/image (419).png>)
 
 {% hint style="success" %}
 **Ao selecionar o Tipo de Aplicação, serão exibidos somente os tipos de acordo com o Grupo de Despesas (Outras Despesas Correntes ou Investimento).**
@@ -32,7 +32,7 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 
 **3.** Se houver algum engano ao adicionar uma unidade administrativa, é possível excluir a mesma. Para isso, selecione o registro a ser removido e clique no botão `Excluir`conforme tela abaixo:
 
-![](<../../../.gitbook/assets/image (191).png>)
+![](<../../../.gitbook/assets/image (417).png>)
 
 > O Sigcon-MG-Módulo Saída preenche automaticamente o campo CNPJ com o dado da sede/matriz do órgão indicado.
 >
@@ -40,11 +40,11 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 
 **4.** Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações.&#x20;
 
-![](../../../.gitbook/assets/13.png)
+![](<../../../.gitbook/assets/13 (2).png>)
 
 **5.** Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
 
-![](<../../../.gitbook/assets/14 (2).png>)
+![](<../../../.gitbook/assets/14 (1).png>)
 
 {% hint style="info" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.

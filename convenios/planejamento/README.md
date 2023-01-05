@@ -2,7 +2,7 @@
 
 O Planejamento é a primeira **fase** do [Fluxo Simplificado](broken-reference) de [Convênios de Saída](broken-reference) e possui um sub-processo próprio, conforme o fluxo abaixo:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (327).png>)
 
 Um convênio de saída se inicia com o diagnóstico da realidade que se quer modificar. Considere as seguintes perguntas para orientá-lo:
 

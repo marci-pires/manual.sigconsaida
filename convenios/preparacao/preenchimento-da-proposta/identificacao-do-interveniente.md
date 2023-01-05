@@ -10,14 +10,14 @@ Podem ser **intervenientes:** órgão, autarquia, fundação pública, empresa p
 
 **1.** Expanda a aba **"Identificação do Interveniente"** e identifique-o, preenchendo os dados
 
-<figure><img src="../../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Clique em `"Salvar"`
 
-<figure><img src="../../../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Os Intervenientes Cadastrados serão mostrados na tabela abaixo do dados do interveniente cadastrado&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>

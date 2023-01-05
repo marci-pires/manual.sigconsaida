@@ -164,7 +164,7 @@ Caso não tenha  dolo ou fraude e não seja caso de restituição integral de re
 
 ### Fluxos resumidos
 
-![](<../../.gitbook/assets/image (218).png>)
+![](<../../.gitbook/assets/image (430).png>)
 
 ## DECISÃO DO ADMINISTRADOR PÚBLICO
 
@@ -186,7 +186,7 @@ Em caso de irregularidades graves e insanáveis – que apresentem potencialidad
 
 Se a prestação de contas for rejeitada pelo administrador público ou em caso de omissão, o OEEP iniciará o PACE-Parcerias, regulamentado pelo [Decreto nº 46.830, de 2015.](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=46830\&comp=\&ano=2015\&aba=js\_textoAtualizado#texto)
 
-![](<../../.gitbook/assets/image (221).png>)
+![](<../../.gitbook/assets/image (467).png>)
 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;

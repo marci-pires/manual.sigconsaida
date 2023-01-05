@@ -22,23 +22,23 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../.gitbook/assets/image (782).png>)
+![](<../../.gitbook/assets/image (536).png>)
 
 **2**. Como representante legal, informe o usuário e senha e clique em `"Acessar"`
 
-![](<../../.gitbook/assets/image (806).png>)
+![](<../../.gitbook/assets/image (529).png>)
 
 **3**. Acesse o menu `"Administração > Perfil de Usuário"`
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (317).png>)
 
 **4**. Utilize o filtro de pesquisa para encontrar o usuário desejado e clique em `"Pesquisar"`
 
-![](<../../.gitbook/assets/6 (2).png>)
+![](<../../.gitbook/assets/6 (3).png>)
 
 **5**. O sistema mostrará os usuários que atendem ao filtro utilizado. Clique no ícone da coluna `"Ação"` correspondente ao usuário desejado
 
-![](<../../.gitbook/assets/7 (3).png>)
+![](../../.gitbook/assets/7.png)
 
 {% hint style="success" %}
 Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerenciar quais  usuários continuarão a ter permissão no CNPJ.&#x20;
@@ -46,7 +46,7 @@ Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerencia
 
 **6**. Confira os dados e inseridos e os campos editáveis
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (366).png>)
 
 **7**. Selecione o perfil a ser desempenhado pelo usuario em `"Perfil Disponível"` e, com o uso da **seta** central, encaminhe a seleção para o `"Perfil Selecionado"`
 
@@ -54,7 +54,7 @@ Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerencia
 Se for o primeiro cadastro, a Situação Cadastral estará em **ANÁLISE** e o Status **INATIVO**. Portanto **APROVE**, **ATIVE** o usuário e clique em **SALVAR**.
 {% endhint %}
 
-![](<../../.gitbook/assets/9 (2).png>)
+![](../../.gitbook/assets/9.png)
 
 {% hint style="info" %}
 O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x20;
@@ -62,7 +62,7 @@ O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x2
 
 **8**. Todos os Representantes Legais terão sua Assinatura Eletrônica aprovada automaticamente depois de ativos no sistema
 
-![](<../../.gitbook/assets/10 (2).png>)
+![](<../../.gitbook/assets/10 (1).png>)
 
 {% hint style="warning" %}
 Caso não apareça na `"Lista de Solicitação de Assinatura com Usuário e Senha"`, saia do sistema e entre novamente.&#x20;

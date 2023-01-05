@@ -12,7 +12,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
-![](<../../../.gitbook/assets/image (720).png>)
+![](<../../../.gitbook/assets/image (227) (1).png>)
 
 > Na tela de indicações do inciso, a indicação será exibida com o status `Aguardando Ajuste Parlamentar`.
 
@@ -22,15 +22,15 @@ Os campos de pesquisa do inciso e da indicação podem facilitar a localização
 
 **4.** Ao clicar sobre o ícone `Editar` é exibida uma janela para alteração do `Tipo de Aplicação`.
 
-![](<../../../.gitbook/assets/image (108).png>)
+![](<../../../.gitbook/assets/image (436) (1).png>)
 
 **5.** Após a alteração do tipo de aplicação, clicar em `Salvar` .&#x20;
 
-![](<../../../.gitbook/assets/image (151).png>)
+![](<../../../.gitbook/assets/image (418).png>)
 
 **6.** O status da indicação alterará de **`Aguardando Ajuste Parlamentar`** para **`Em Análise Órgão`**.
 
-![](<../../../.gitbook/assets/image (141).png>)
+![](<../../../.gitbook/assets/image (429).png>)
 
 {% hint style="danger" %}
 **Após o ajuste da indicação, é necessário que o órgão para qual ela foi indicada aprove novamente.**

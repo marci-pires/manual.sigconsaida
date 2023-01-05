@@ -4,16 +4,16 @@
    \
    `Emendas > Gerenciar Indicações > Aprovação de indicação - órgão`, conforme a imagem abaixo:
 
-![](<../../../.gitbook/assets/image (367).png>)
+![](<../../../.gitbook/assets/image (120).png>)
 
 2\.  Na próxima tela será listado todas as indicações do órgão.
 
 Selecione uma indicação e clique no botão de Impedimento de Ordem Técnica, conforme instruções na imagem abaixo.
 
-![](<../../../.gitbook/assets/image (317).png>)
+![](<../../../.gitbook/assets/image (182).png>)
 
 3\. Na próxima tela que será exibida, o usuário deverá selecionar a classificação do impedimento e colocar a justificativa, conforme instruções na imagem abaixo.
 
-![](<../../../.gitbook/assets/image (432).png>)
+![](<../../../.gitbook/assets/image (181).png>)
 
 4\. Após o impedimento de ordem técnica o status da indicação será alterado para **"Reprovado"** e  um e-mail será enviado para o Parlamentar com informações sobre a reprovação.

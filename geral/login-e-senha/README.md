@@ -1,6 +1,6 @@
 # Login e Senha
 
-![](<../../.gitbook/assets/diagram (1).svg>)
+![](../../.gitbook/assets/diagram-1-.svg)
 
 Nessa seção, apresentaremos as formas de acesso no [SIGCON Saída](https://sigconsaida.mg.gov.br/) e recuperação de dados de segurança.
 

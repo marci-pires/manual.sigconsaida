@@ -6,8 +6,8 @@ Na fase anterior foi inserido o Convenente/OSC Parceira, beneficiários do Conv�
 
 **1.** Expanda a aba **"Identificação do Convenente/OSC Parceira"** e insira o CNPJ
 
-![](<../../../.gitbook/assets/image (639).png>)
+![](<../../../.gitbook/assets/image (379) (1).png>)
 
 **2.** Clique em `"Salvar"`
 
-![](<../../../.gitbook/assets/salvar (1).png>)
+![](../../../.gitbook/assets/salvar.png)

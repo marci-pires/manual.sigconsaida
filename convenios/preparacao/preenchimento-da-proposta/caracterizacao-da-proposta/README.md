@@ -2,7 +2,7 @@
 
 **1.** Expanda a aba **"Caracterização da Proposta"** e preencha o Título do Convênio/Parceria.&#x20;
 
-![](<../../../../.gitbook/assets/image (290).png>)
+![](<../../../../.gitbook/assets/image (85).png>)
 
 **2.** Caso o convênio a ser celebrado seja **"Repasse de Natureza Especial",** selecione a opção `"sim"` e a natureza especial correspondente.&#x20;
 
@@ -12,7 +12,7 @@ Insira a Fundamentação Legal
 Verifique o Parágrafo 3º Art. 25 da LRF.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (28).png>)
+![](<../../../../.gitbook/assets/image (368).png>)
 
 **3.** Selecione a "**Origem dos recursos**"
 
@@ -20,7 +20,7 @@ Verifique o Parágrafo 3º Art. 25 da LRF.
 É permitido assinalar mais de uma opção.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (47).png>)
+![](<../../../../.gitbook/assets/image (331).png>)
 
 ## Navegação
 

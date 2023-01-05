@@ -6,11 +6,11 @@ Para **Representantes Legais** com o cadastro **regular** no **CAGEC o** process
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) com seu usuário e senha. No canto superior direito da tela, clique no **SEU NOME**
 
-![](<../../../.gitbook/assets/image (109).png>)
+![](<../../../.gitbook/assets/image (414).png>)
 
 **2.** Clique em `"Solicitar Assinatura com Usuário e Senha"`&#x20;
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (361).png>)
 
 {% hint style="success" %}
 Mantenha seus dados sempre **atualizados**.
@@ -52,7 +52,7 @@ Caso a análise seja **retornada com pendência,** você receberá um e-mail de 
 
 **1.** No canto superior direito da tela, clique no **SEU NOME**
 
-![](<../../../.gitbook/assets/image (161).png>)
+![](<../../../.gitbook/assets/image (409).png>)
 
 **2.** Na aba "Solicitação de Assinatura com Usuário e Senha", a tabela **Lista solicitação Assinatura de Usuário e Senha** apresenta os `"Status"` da solicitação.
 
@@ -60,7 +60,7 @@ Se o Status estiver como **"Análise Aguardando Solução",** significa que há 
 
 Clique no ícone de lápis da coluna `"Ação"`<img src="../../../.gitbook/assets/botao_editar.png" alt="" data-size="original"> para abrir a solicitação e verificar quais documentos estão como **"REPROVADO"**
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (333).png>)
 
 **3.** Verifique a **Justificativa** dos documentos que estiverem como "**REPROVADO"** para proceder com a alteração e atualização do documento.
 

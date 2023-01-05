@@ -10,9 +10,9 @@ O cancelamento da indicação pode ser acessado a partir do menu “Emendas” >
 A busca pode ser feita pelo nome do responsável (_1, no lado esquerdo da tela_), por número do inciso ou número da indicação (_2, canto direto da tela_) &#x20;
 {% endhint %}
 
-![Relação de Inciso do Parlamentar](<../../.gitbook/assets/MANUAL\_PARLAMENTARES\_INDICAÇÃO\_TELA DE INDICAÇÃO (1).jpg>)
+![Relação de Inciso do Parlamentar](<../../.gitbook/assets/manual\_parlamentares\_indicacao\_tela-de-indicacao (1).jpg>)
 
-### **Clique no ícone** <img src="../../.gitbook/assets/ÍCONE_EXPANDIR.jpg" alt="" data-size="line"> **em expandir inciso**&#x20;
+### **Clique no ícone** <img src="../../.gitbook/assets/icone_expandir.jpg" alt="" data-size="line"> **em expandir inciso**&#x20;
 
 {% hint style="info" %}
 Na próxima tela serão exibidas todas as indicações para o inciso selecionado.

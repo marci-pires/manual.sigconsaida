@@ -188,10 +188,3 @@
 ## OUTROS INSTRUMENTOS
 
 * [Plano de Serviços - SEDESE (FMAS E CMAS)](outros-instrumentos/plano-de-servicos-sedese-fmas-e-cmas.md)
-
-## Mobile
-
-* [Download](mobile/sigcon-mobile.md)
-* [Login](mobile/login.md)
-* [Plano de trabalho](mobile/plano-de-trabalho.md)
-* [Fiscalização](mobile/fiscalizacao.md)

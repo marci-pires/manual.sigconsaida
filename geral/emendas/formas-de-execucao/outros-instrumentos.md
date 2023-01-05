@@ -12,23 +12,23 @@
 
 &#x20;  **2.** Digite o nº do inciso ou busque pelo inciso na lista e clique em `Indicar`:&#x20;
 
-![](<../../../.gitbook/assets/image (601).png>)
+![](<../../../.gitbook/assets/image (352) (1).png>)
 
 &#x20; **3.** Na próxima tela, selecione o tipo de indicação `Outros Instrumentos`:
 
-![](<../../../.gitbook/assets/image (551).png>)
+![](<../../../.gitbook/assets/image (355) (1).png>)
 
 **4.** Selecione o `Beneficiário` da indicação. Busque pelo `CNPJ`, `Razão Social` OU `Município` e clique em `Pesquisar`:
 
-![](<../../../.gitbook/assets/image (704).png>)
+![](<../../../.gitbook/assets/image (350) (1).png>)
 
 **5.** Selecione os beneficiários na tabela e clique em `Adicionar`:
 
-![](<../../../.gitbook/assets/image (562).png>)
+![](<../../../.gitbook/assets/image (347) (1).png>)
 
 **6.** Escolha um valor no campo `Tipo de Aplicação`, preencha a `Descrição` e insira o `Valor` da indicação:
 
-![](<../../../.gitbook/assets/image (690).png>)
+![](<../../../.gitbook/assets/image (351) (1).png>)
 
 {% hint style="success" %}
 **Ao selecionar o Tipo de Aplicação, serão exibidos somente os tipos de acordo com o Grupo de Despesas (Outras Despesas Correntes ou Investimento).**
@@ -36,15 +36,15 @@
 
 **7.** Clique em `Enviar Indicações`:
 
-![](<../../../.gitbook/assets/image (605).png>)
+![](<../../../.gitbook/assets/image (357) (1).png>)
 
 **8.** Clique em `OK`:
 
-![](<../../../.gitbook/assets/image (559).png>)
+![](<../../../.gitbook/assets/image (354) (1).png>)
 
 **9.** Indicações realizada com sucesso!
 
-![](<../../../.gitbook/assets/image (654).png>)
+![](<../../../.gitbook/assets/image (362) (1).png>)
 
 
 

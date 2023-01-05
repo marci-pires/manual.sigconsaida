@@ -6,7 +6,7 @@ Devido ao cenário de insegurança jurídica em relação às regras de parceriz
 
 De acordo com a nova legislação, a parceria entre a Administração Pública e as OSCs, em regime de mútua cooperação, para a consecução de finalidades de interesse público e recíproco, será realizada por meio de: Termo de Colaboração, Termo de Fomento ou Acordo de Cooperação.
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (408).png>)
 
 Os novos instrumentos de pactuação devem ser adotados a partir da característica de cada parceria.
 

@@ -10,25 +10,25 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 
 **1.** Como usuário externo do convenente, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../../.gitbook/assets/image (794).png>)
+![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (311).png>)
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
-![](<../../../.gitbook/assets/image (801).png>)
+![](<../../../.gitbook/assets/image (514).png>)
 
 **4.** Então, clique em `"Pré Cadastro"`
 
-![](<../../../.gitbook/assets/image (811).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 
 **5.** Como usuário externo do convenente, preencha o CPF e CNPJ e clique em `"Enviar"`
 
-![](<../../../.gitbook/assets/image (785).png>)
+![](<../../../.gitbook/assets/image (538).png>)
 
-![](<../../../.gitbook/assets/image (807).png>)
+![](<../../../.gitbook/assets/image (535).png>)
 
 {% hint style="info" %}
 Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ passos para anexar os documentos](../../../processo-eletronico/solicitar-assinatura-login-senha/#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao).

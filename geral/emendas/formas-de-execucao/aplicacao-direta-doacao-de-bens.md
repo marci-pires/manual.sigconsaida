@@ -12,11 +12,11 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 **1.** Na página seguinte, preencha os campos de acordo com o passo-a-passo abaixo!
 
-![](<../../../.gitbook/assets/image (620).png>)
+![](<../../../.gitbook/assets/image (201) (1).png>)
 
-![](<../../../.gitbook/assets/image (661).png>)
+![](<../../../.gitbook/assets/image (193) (1).png>)
 
-![](<../../../.gitbook/assets/image (673).png>)
+![](<../../../.gitbook/assets/image (229) (1).png>)
 
 > **Passo-a-passo**
 >
@@ -40,11 +40,11 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 **2.** Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações.&#x20;
 
-![](../../../.gitbook/assets/13.png)
+![](<../../../.gitbook/assets/13 (2).png>)
 
 **3.** Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
 
-![](<../../../.gitbook/assets/14 (2).png>)
+![](<../../../.gitbook/assets/14 (1).png>)
 
 {% hint style="info" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.

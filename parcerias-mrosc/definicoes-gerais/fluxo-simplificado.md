@@ -2,7 +2,7 @@
 
 Tanto a Lei Federal n° 13.019, de 2014 quanto o Decreto n° 47.132, de 2017 apresentam uma lógica processual, sendo possível identificar 5 fases principais:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (381).png>)
 
 É seguindo esta lógica que este manual tratará as regras dispostas nas referidas normas.
 
