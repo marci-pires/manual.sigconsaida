@@ -1,6 +1,6 @@
 # Alteração Simples
 
-É dispensada a alteração do convênio via formalização de termo aditivo nos casos em que houver mudanças apenas na
+É dispensada a alteração do convênio via formalização de termo aditivo nos casos em que houver mudanças nos seguintes elementos:
 
 *  Dotação orçamentária;
 * Membros da equipe executora;&#x20;
@@ -35,8 +35,6 @@ Excepcionalmente, nas hipóteses elencadas no art. 51, §5°, do Decreto Estadua
 >> &#x20;Art. 51, § 5º – Fica dispensada a formalização de termo aditivo quando a alteração do convênio de saída estiver relacionada à **dotação orçamentária**, aos **membros da equipe executora**, à **conta bancária específica**, bem como à **duração das etapas e ao demonstrativo de recursos contidos no plano de aplicação**, mediante proposta de alteração devidamente justificada
 
 Portanto, caso o usuário altere somente os campos mencionados no dispositivo supracitado, ao clicar em “Salvar e Encaminhar Alteração” o SIGCON Saída reconhecerá essa alteração como uma “Alteração Simples”. Caso contrário, a alteração será reconhecida como um “[Termo Aditivo](termo-aditivo.md)”. O tramite da “Alteração Simples” é menor e mais célere do que o tramite do “Termo Aditivo”, conforme o fluxo abaixo
-
-![Trâmite do Termo Aditivo](<../../../.gitbook/assets/image (66) (1).png>)
 
 ![Trâmite de Alteração Simples](<../../../.gitbook/assets/image (122).png>)
 
