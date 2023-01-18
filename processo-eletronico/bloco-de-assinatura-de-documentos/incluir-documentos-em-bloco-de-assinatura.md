@@ -26,4 +26,4 @@ Para incluir um documento em um bloco de assinatura, é necessário [CADASTRAR ]
 
 **6.** Clique em `"Sim"` para confirmar a associação
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
