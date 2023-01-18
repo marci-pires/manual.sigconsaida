@@ -46,7 +46,7 @@ Após a retificação dos campos desejados, preencha o campo de "Justificativa",
 
 **4.** O sistema irá exibir um comparativo entre as informações do Convênio **antes e após** a conclusão da **“Retificação Por Erro Humano”**
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ## **Análise e Aprovação SEGOV**
 
