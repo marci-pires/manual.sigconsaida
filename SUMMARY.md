@@ -188,3 +188,7 @@
 ## OUTROS INSTRUMENTOS
 
 * [Plano de Serviços - SEDESE (FMAS E CMAS)](outros-instrumentos/plano-de-servicos-sedese-fmas-e-cmas.md)
+
+## Aplicativo Sigcon-Saída
+
+* [Acessar o Sigcon-Saída](aplicativo-sigcon-saida/acessar-o-sigcon-saida.md)
