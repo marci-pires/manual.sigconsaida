@@ -100,7 +100,7 @@ Selecione uma transferência e clique no botão Ações e no menu Enviar para o 
 Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIAFI"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 {% hint style="success" %}
 **ATENÇÃO: Item 7 - Orientações para emissão da Declaração pelo Parlamentar**

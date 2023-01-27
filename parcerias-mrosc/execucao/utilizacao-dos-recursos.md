@@ -101,8 +101,8 @@ Na próxima sessão iremos abordar a fase de monitoramento e os procedimentos qu
 
 Caso haja necessidade de alteração da parceria, seja para alterar o objeto, reduzir ou acrescentar contrapartida, favor verificar a seção abaixo:
 
-{% content-ref url="../alteracao.md" %}
-[alteracao.md](../alteracao.md)
+{% content-ref url="../alteracao/" %}
+[alteracao](../alteracao/)
 {% endcontent-ref %}
 
 {% hint style="warning" %}

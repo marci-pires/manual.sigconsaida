@@ -29,6 +29,6 @@ Os recursos de emendas só aparecerão se estiverem **APROVADOS e DISPONÍVEIS**
 
 **6.** Clique em `"Visualizar Indicações"`, caso queira verificar as emendas disponíveis para o Convenente específico da Proposta:
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para mais informações sobre recursos de “Emenda Parlamentares”, procure o **Parlamentar** que indicou o recurso.
