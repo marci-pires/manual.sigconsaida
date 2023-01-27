@@ -14,7 +14,7 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
@@ -26,7 +26,7 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 Para usuários externos do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5.**  Após a aprovação do responsável legal, clique no link enviado por e-mail para criação de senha&#x20;
 

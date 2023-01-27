@@ -144,7 +144,7 @@
   * [Requisitos para celebração](parcerias-mrosc/celebracao/requisitos-para-celebracao.md)
   * [Análise Técnica / Jurídica](parcerias-mrosc/celebracao/analise-tecnica-juridica.md)
   * [Formalização](parcerias-mrosc/celebracao/formalizacao.md)
-  * [Plano Autorizado](parcerias-mrosc/celebracao/plano-autorizado.md)
+  * [Plano Autorizado](convenios/celebracao/plano-autorizado.md)
 * [Alteração](parcerias-mrosc/alteracao.md)
 * [Execução](parcerias-mrosc/execucao/README.md)
   * [Liberação de Recursos](parcerias-mrosc/execucao/liberacao-de-recursos.md)

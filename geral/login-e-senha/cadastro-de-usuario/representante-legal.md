@@ -40,7 +40,7 @@ Para Prefeito/Representante Legal do convenente.
 
 **9.** Digite sua nova senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**

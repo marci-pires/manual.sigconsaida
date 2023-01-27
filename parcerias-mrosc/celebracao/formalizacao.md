@@ -1,6 +1,6 @@
 # Formalização
 
-O instrumento de formalização da parceria deverá conter a descrição do objeto pactuado, as obrigações e direitos dos partícipes (em formato de cláusulas) e demais requisitos previstos no art. 42 da Lei Federal nº 13.019/2014 e no art. 40 do Decreto nº 47.132/2017.&#x20;
+O instrumento de formalização da parceria deverá conter a descrição do objeto pactuado, as obrigações e direitos dos partícipes (em formato de cláusulas) e demais requisitos previstos no art. 42 da Lei Federal nº 13.019/2014 e no art. 40 do Decreto Estadual nº 47.132/2017.&#x20;
 
 {% hint style="warning" %}
 Algumas cláusulas previstas no art. 40 do Decreto nº 47.132, de 2017 são dispensadas para acordos de cooperação.
@@ -8,7 +8,7 @@ Algumas cláusulas previstas no art. 40 do Decreto nº 47.132, de 2017 são disp
 
 A área técnica também deverá elaborar a minuta do instrumento de parceria considerando as características do caso concreto, apontando em seu parecer as alterações realizadas na minuta-padrão elaborada pela Secretaria de Estado de Governo (Segov) e pela Advocacia-Geral do Estado (AGE).&#x20;
 
-Após a aprovação da minuta do instrumento pela área jurídica do OEEP, o Plano de Trabalho Eletrônico do Termo de Colaboração ou de Fomento deverá ser encaminhado, no SIGCON-MG – Módulo Saída, para a Segov, nos termos do art. 6º do Decreto nº 46.281/2013.013.&#x20;
+Após a aprovação da minuta do instrumento pela área jurídica do OEEP, o Plano de Trabalho Eletrônico do Termo de Colaboração ou de Fomento deverá ser encaminhado, no SIGCON-MG – Módulo Saída, para a Segov, nos termos do art. 6º do Decreto Estadual nº 48.138/2021.&#x20;
 
 A Segov terá o prazo de três dias úteis para a análise do Plano de Trabalho do Termo de Colaboração ou de Fomento. Após a autorização da Segov no sistema, o OEEP pode providenciar as assinaturas.&#x20;
 
@@ -52,7 +52,7 @@ A transparência ativa contribui para o controle social das parcerias!
 {% endhint %}
 
 {% hint style="info" %}
-Arts. 10 e 11 da Lei Federal nº 13.019/2014. Arts. 7º a 9º do Decreto nº 47.132/2017
+Arts. 10 e 11 da Lei Federal nº 13.019/2014 e arts. 7º a 9º do Decreto nº 47.132/2017
 {% endhint %}
 
 {% hint style="info" %}
