@@ -52,6 +52,6 @@ Um bom plano de trabalho deve permitir ao convenente executar um projeto com **p
 [auditoria.md](auditoria.md)
 {% endcontent-ref %}
 
-{% content-ref url="documento-anexados.md" %}
-[documento-anexados.md](documento-anexados.md)
+{% content-ref url="../preenchimento-da-proposta/documento-anexados.md" %}
+[documento-anexados.md](../preenchimento-da-proposta/documento-anexados.md)
 {% endcontent-ref %}

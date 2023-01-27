@@ -73,7 +73,7 @@
     * [Plano de Aplicação de Recursos](convenios/preparacao/preenchimento-da-proposta-de-plano-de-trabalho/plano-de-aplicacao-de-recursos.md)
     * [Cronograma de Desembolso dos Recursos](convenios/preparacao/preenchimento-da-proposta-de-plano-de-trabalho/cronograma-de-desembolso-dos-recursos.md)
     * [Auditoria](convenios/preparacao/preenchimento-da-proposta-de-plano-de-trabalho/auditoria.md)
-    * [Documento Anexados](convenios/preparacao/preenchimento-da-proposta-de-plano-de-trabalho/documento-anexados.md)
+    * [Documento Anexados](convenios/preparacao/preenchimento-da-proposta/documento-anexados.md)
   * [Anexar Documentos no Checklist](convenios/preparacao/anexar-documentos-no-checklist.md)
   * [Enviar Proposta](convenios/preparacao/enviar-proposta.md)
 * [Celebração](convenios/celebracao/README.md)
@@ -172,6 +172,10 @@
 ## OUTROS INSTRUMENTOS
 
 * [Plano de Serviços - SEDESE (FMAS E CMAS)](outros-instrumentos/plano-de-servicos-sedese-fmas-e-cmas.md)
+
+## REFERÊNCIAS
+
+* [Bibliografia](referencias/bibliografia.md)
 
 ## Aplicativo SIGCON Saída
 
