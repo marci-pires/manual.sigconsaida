@@ -14,7 +14,7 @@
 
 **2.** Clique em `"Esqueci senha/login"`
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique no botão correspondente a sua situação
 
@@ -22,7 +22,7 @@
 O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Informe seu usuário e clique em "enviar"
 
