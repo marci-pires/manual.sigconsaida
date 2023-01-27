@@ -6,7 +6,7 @@ Com o Plano de Trabalho pactuado contendo as informações necessárias acerca d
 
 Nesse momento a OSC deverá seguir a risca o que foi pactuado no Plano de Trabalho, considerando o objeto, a forma de execução e utilização dos recursos bem como o cumprimento das metas pactuadas dentro do prazo pactuado.
 
-O gestor da parceria será o interlocutor da OSC junto ao Órgão ou Entidade Estadual Parceiro, a OSC, havendo qualquer dúvida na execução, seja ela sobre a legalidade ou eventual mudança ou imprevisto que ocorra, deve conversar com o gestor da parceria e formalizar as dúvidas para chegar a melhor solução.&#x20;
+O gestor da parceria será o interlocutor da OSC junto ao Órgão ou Entidade Estadual Parceiro. Havendo qualquer dúvida na execução, seja ela sobre a legalidade ou eventual mudança ou imprevisto que ocorra, a OSC deve conversar com o gestor da parceria e formalizar as dúvidas para chegar a melhor solução.&#x20;
 
 {% hint style="success" %}
 Ler a minuta da parceria pactuada e seguir o Plano de Trabalho pactuado são práticas importantes para a boa execução da parceria.
