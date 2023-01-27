@@ -16,19 +16,15 @@ Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https:
 
 **2.** Clique em `"Trocar Senha"`
 
-![](<../../../.gitbook/assets/image (543).png>)
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Em seguida, clique em `"Assembleia Legislativa do Governo de Minas"`
 
 ``![](<../../../.gitbook/assets/image (542).png>)``
 
-**4.** Então, clique em `"Realizar troca de Senha"`.
+**4.** Preencha o Formulário com a nova senha e clique em `"Alterar"`
 
-![](<../../../.gitbook/assets/image (551).png>)
-
-**6.** Preencha o Formulário com a nova senha e clique em `"Alterar"`
-
-![](<../../../.gitbook/assets/image (518).png>)
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**

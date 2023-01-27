@@ -6,8 +6,8 @@
 
 **2.** A tabela **"Histórico de Alterações"** apresenta todas as modificações realizadas anteriormente
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (11) (1).png>)
 
 **3.** Se necessário, insira a data inicial e final e clique em `"Filtrar..."` para filtras as modificações por usuário apresentadas na tela
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)

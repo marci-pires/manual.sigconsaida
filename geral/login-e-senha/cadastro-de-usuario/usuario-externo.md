@@ -8,33 +8,27 @@ Usuários que utilizam seu CPF como _login_ **pertencem à prefeituras, OSCs** (
 O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON.
 {% endhint %}
 
-**1.** Como usuário externo do convenente, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
+**1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
 ![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-![](<../../../.gitbook/assets/image (311).png>)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
 ![](<../../../.gitbook/assets/image (514).png>)
 
-**4.** Então, clique em `"Pré Cadastro"`
+**4.** Preencha o CPF e CNPJ e clique em `"Enviar"`
 
-![](<../../../.gitbook/assets/image (526).png>)
-
-**5.** Como usuário externo do convenente, preencha o CPF e CNPJ e clique em `"Enviar"`
-
-![](<../../../.gitbook/assets/image (538).png>)
-
-![](<../../../.gitbook/assets/image (535).png>)
-
-{% hint style="info" %}
-Caso você deseje solicitar a assinatura digital, marque a caixa e siga os[ passos para anexar os documentos](../../../processo-eletronico/solicitar-assinatura-login-senha/#passo-4-sera-necessario-anexar-os-documentos-para-completar-a-solicitacao).
+{% hint style="warning" %}
+Para usuários externos do convenente.
 {% endhint %}
 
-**7.** O link para criação de senha só é liberado após a aprovação do responsável legal. Clique no link enviado
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+**5.**  Após a aprovação do responsável legal, clique no link enviado por e-mail para criação de senha&#x20;
 
 {% hint style="danger" %}
 **ATENÇÃO**
@@ -44,9 +38,9 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 
 ![](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.\_M3VpJdDX0Oty\_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)
 
-**8.** Digite sua senha atendendo aos seguintes critérios de segurança:
+**6.** Digite sua senha atendendo aos seguintes critérios de segurança
 
-![](<../../../.gitbook/assets/tela nova senha.png>)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**&#x20;
@@ -55,4 +49,4 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 * A senha deve conter pelo menos uma letra e um número.
 {% endhint %}
 
-**9.**  Repita a nova senha criada e clique em `"Salvar"`
+**7.**  Repita a nova senha criada e clique em `"Salvar"`

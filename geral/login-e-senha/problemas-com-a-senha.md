@@ -24,11 +24,15 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 
 ![](<../../.gitbook/assets/image (536).png>)
 
-**2**. Como representante legal, informe o usuário e senha e clique em `"Acessar"`
+**2**. Informe o usuário e senha e clique em `"Acessar"`
 
-![](<../../.gitbook/assets/image (529).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **3**. Acesse o menu `"Administração > Perfil de Usuário"`
+
+{% hint style="warning" %}
+Restrito ao representante legal.
+{% endhint %}
 
 ![](<../../.gitbook/assets/image (317).png>)
 
@@ -38,7 +42,7 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 
 **5**. O sistema mostrará os usuários que atendem ao filtro utilizado. Clique no ícone da coluna `"Ação"` correspondente ao usuário desejado
 
-![](../../.gitbook/assets/7.png)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerenciar quais  usuários continuarão a ter permissão no CNPJ.&#x20;
