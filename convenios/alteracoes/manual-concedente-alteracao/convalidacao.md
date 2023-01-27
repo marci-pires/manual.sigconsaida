@@ -30,13 +30,13 @@ O correto seria preencher neste campo o período entre a data em que a vigência
 
 Após salvas as informações da convalidação, esta é exibida na tabela “Lista de Convalidações Cadastradas”. Além de cadastrar a convalidação, o usuário com o perfil de “Encaminhador” também deverá realizar a assinatura da convalidação e em seguida encaminhá-la para que o ordenador de despesas também a assine:
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 Finalmente, após a assinatura do ordenador de despesas, a convalidação assume o status de “Aprovada”, habilitando o cadastro de alterações no convênio.
 
 Abaixo o fluxo de tramitação da convalidação de convênios no SIGCON-SAÍDA:
 
-![](<../../../.gitbook/assets/image (79) (1).png>)
+![](<../../../.gitbook/assets/image (79).png>)
 
 *  **Aguardando Convalidação**: o usuário com o perfil de encaminhador deve assinar a convalidação.
 * **Convalidação Registrada**: o usuário com o perfil de encaminhador deve enviar a convalidação para o ordenador de despesas.

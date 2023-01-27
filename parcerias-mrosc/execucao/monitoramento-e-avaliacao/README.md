@@ -8,7 +8,7 @@ Para subsidiar o monitoramento e avaliação, o OEEP poderá realizar visita té
 
 De modo semelhante, nas parcerias com vigência superior a um ano, o OEEP realizará, quando possível, pesquisa de satisfação dos beneficiários, visando a contribuir com o cumprimento dos objetivos pactuados e ajuste das metas e ações definidas
 
-![](<../../../.gitbook/assets/image (146).png>)
+![](<../../../.gitbook/assets/image (394).png>)
 
 ## GESTOR DA PARCERIA
 

@@ -6,7 +6,7 @@
 
 **1.** Ao clicar em [`"Incluir Documento"`](broken-reference) , selecione a opção **"Documento Modelo"**
 
-<figure><img src="../../../.gitbook/assets/image (203) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Selecione o modelo que deseja para edição
 

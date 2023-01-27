@@ -12,7 +12,7 @@ Insira a Fundamentação Legal
 Verifique o Parágrafo 3º Art. 25 da LRF.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (106).png>)
+![](<../../../../.gitbook/assets/image (368).png>)
 
 **3.** Selecione a "**Origem dos recursos**"
 
@@ -20,7 +20,7 @@ Verifique o Parágrafo 3º Art. 25 da LRF.
 É permitido assinalar mais de uma opção.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (12).png>)
+![](<../../../../.gitbook/assets/image (331).png>)
 
 ## Navegação
 

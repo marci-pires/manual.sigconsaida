@@ -10,7 +10,7 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../../.gitbook/assets/image (93).png>)
+![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
@@ -18,7 +18,7 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
-![](<../../../.gitbook/assets/image (409).png>)
+![](<../../../.gitbook/assets/image (514).png>)
 
 **4.** Preencha o CPF e CNPJ e clique em `"Enviar"`
 
@@ -40,7 +40,7 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 
 **6.** Digite sua senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**&#x20;

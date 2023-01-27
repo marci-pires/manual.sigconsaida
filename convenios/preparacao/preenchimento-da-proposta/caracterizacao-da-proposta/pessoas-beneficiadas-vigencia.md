@@ -6,4 +6,4 @@
 
 **2.** Na aba de "Vigência", insira o número de dias necessários para a execução completa do objeto do Convênio
 
-![](<../../../../.gitbook/assets/image (159).png>)
+![](<../../../../.gitbook/assets/image (159) (1).png>)

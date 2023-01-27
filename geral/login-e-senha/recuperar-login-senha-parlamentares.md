@@ -10,7 +10,7 @@
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (297).png>)
 
 **2.** Clique em `"Esqueci senha/login"`
 

@@ -14,7 +14,7 @@ Selecione o **tipo de despesa (5)** - Custos Indiretos, despesa com pessoal, di�
 
 Clique no **ícone de "+" (6)** da coluna "Vincular Etapa"
 
-![](<../../../.gitbook/assets/image (37) (1).png>)
+![](<../../../.gitbook/assets/image (37).png>)
 
 {% hint style="info" %}
 Vincular uma etapa no item é **fundamental** para deixar evidente como serão gastos os recursos no decorrer do período de vigência do convênio.
@@ -28,11 +28,11 @@ Clique em `"+ Vincular"` (2)&#x20;
 
 **4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convênio
 
-![](<../../../.gitbook/assets/image (44) (1).png>)
+![](<../../../.gitbook/assets/image (44).png>)
 
 **5.** A tela apresentará as aplicações dos recursos. Clique em `"Salvar"`
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (350).png>)
 
 **6.** É fundamental que o **Valor Total** do Demonstrativo de recursos seja equivalente ao total do **"Valor total da proposta / Contrapartida",** do contrário o sistema irá mostrar uma mensagem de <mark style="color:red;">**Erro**</mark>
 
@@ -44,5 +44,5 @@ Na coluna "Ação", clique no `ícone de LUPA` para visualizar.&#x20;
 
 Para excluir, clique no `ícone de "X"`
 
-![](<../../../.gitbook/assets/image (127) (1).png>)
+![](<../../../.gitbook/assets/image (127).png>)
 

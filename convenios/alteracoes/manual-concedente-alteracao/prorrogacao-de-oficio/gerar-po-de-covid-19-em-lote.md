@@ -16,29 +16,29 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 1. Acessar o Menu `Convênios/Parcerias` . Selecionar o filtro `Convênio/Parceria` e o Status `SEM ALTERAÇÃO EM ANDAMENTO`. Clicar em `Pesquisar`.
 
-![](<../../../../.gitbook/assets/image (396).png>)
+![](<../../../../.gitbook/assets/image (396) (1).png>)
 
 2\. Será exibir os Instrumentos aptos a serem gerados as Prorrogações de Ofício em Lote:
 
-![](<../../../../.gitbook/assets/image (397).png>)
+![](<../../../../.gitbook/assets/image (397) (1).png>)
 
 3\. Selecionar os instrumentos e clicar em `Gerar Prorrogação de Ofício em Lote`:
 
-![](<../../../../.gitbook/assets/image (403).png>)
+![](<../../../../.gitbook/assets/image (403) (1).png>)
 
 > **IMPORTANTE: Anote os números dos instrumentos. Após clicar no Botão `Gerar Prorrogação de Ofício em Lote` os instrumentos saem da pesquisa.**
 
 4\. Acesse os instrumentos que foram selecionados e conclua a Prorrogação de Ofício. As mesmas estarão no status **Processo de Assinatura da Alteração**. Caso, queira, poderá ser filtrado na Pesquisa Avançada, selecionando os filtros `Convênio/Parceria`, **Status** `Processo de Alteração,` **Tipo Alteração** `Prorrogação de Ofício` e **Status Alteração** `Processo de Assinatura da Alteração`:
 
-![](<../../../../.gitbook/assets/image (404).png>)
+![](<../../../../.gitbook/assets/image (404) (1).png>)
 
 5\. Após o acesso ao instrumento, clique em Editar na Prorrogação de Ofício que encontra-se no status `Processo de Assinatura da Alteração`:
 
-![](<../../../../.gitbook/assets/image (394).png>)
+![](<../../../../.gitbook/assets/image (394) (1).png>)
 
 6\. Clique em `Assinar Alteração - Órgão`. Essa assinatura deve ser feita pelo Representante Legal do Órgão:
 
-![](<../../../../.gitbook/assets/image (405).png>)
+![](<../../../../.gitbook/assets/image (405) (1).png>)
 
 7\. Assine a Prorrogação de Ofício. A assinatura pode ser com `Usuário e Senha` ou `Certificado Digital`:
 
@@ -46,7 +46,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 8\. Após a assinatura, insira a data de publicação do extrato da Prorrogação de Ofício no Jornal Minas Gerais:
 
-![](<../../../../.gitbook/assets/image (393).png>)
+![](<../../../../.gitbook/assets/image (393) (1).png>)
 
 9\. Após o lançamento, a alteração irá para o status **`VIGENTE`**.
 

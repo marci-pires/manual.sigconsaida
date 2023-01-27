@@ -2,7 +2,7 @@
 
 **1.** Para cadastrar um Bloco de Assinatura de Documentos, acesse o menu `"Administração > Blocos e Setores > Cadastrar Bloco"`
 
-<figure><img src="../../.gitbook/assets/image (148) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Preencha os campos "Tipo, Órgão, Sigla, Nome, Ativo
 
@@ -14,7 +14,7 @@ A seleção de **Ativo** ou **Inativo** serve para controle, caso o Bloco de Doc
 
 **2.**  Para vincular os usuários ao Bloco de Assinaturas, clique no `nome desejado (1)` e depois na `seta azul (2)` central para inserir o usuário no bloco
 
-<figure><img src="../../.gitbook/assets/image (236) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Após preencher todos campos corretamente, clique em `"Novo"`
 

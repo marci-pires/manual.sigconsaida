@@ -12,7 +12,7 @@ Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https:
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (533).png>)
 
 **2.** Clique em `"Trocar Senha"`
 
@@ -20,7 +20,7 @@ Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https:
 
 **3.** Em seguida, clique em `"Assembleia Legislativa do Governo de Minas"`
 
-``![](<../../../.gitbook/assets/image (138).png>)``
+``![](<../../../.gitbook/assets/image (542).png>)``
 
 **4.** Preencha o Formulário com a nova senha e clique em `"Alterar"`
 
@@ -52,20 +52,20 @@ O procedimento para cadastro dos **Usuários Assessores** é igual ao cadastro d
 
 **2.** Em seguida, como parlamentar, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e o menu `"Emendas > Administração > Associar Assessor"`
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (532).png>)
 
 **3.** Na tela para associar o assessor, preencha o usuário do assessor que será associado.&#x20;
 
 Se o cadastro do usuário do assessor <mark style="color:red;">**não estiver concluído**</mark>, será exibida uma mensagem de erro.
 
-![](<../../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (516).png>)
 
 Se o usuário do assessor estiver <mark style="color:green;">**devidamente cadastrado**</mark>, o sistema exibirá o **nome dele na tela**.&#x20;
 
 Clique em `“Associar Usuário”`
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (527).png>)
 
 **4.** O sistema exibirá a mensagem de sucesso, e os assessores associados podem ser visualizados na tabela “**Assessores Cadastrados**”.&#x20;
 
-![](<../../../.gitbook/assets/image (80).png>)
+![](<../../../.gitbook/assets/image (515).png>)

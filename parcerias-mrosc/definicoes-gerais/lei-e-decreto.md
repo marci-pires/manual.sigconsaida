@@ -55,7 +55,7 @@ Além disso, é essencial verificar se o ajuste a ser celebrado entre as partes 
 
 Assim sendo, as parcerias regidas pela Lei Federal nº 13.019, de 2014 e pelo Decreto nº 47.132, de 2017 mesclam as seguintes condições:
 
-![](<../../.gitbook/assets/image (324).png>)
+![](<../../.gitbook/assets/image (390).png>)
 
 Segundo o Dicionário Online de Português, [cooperação](https://www.dicio.com.br/cooperacao/) é a forma de auxiliar e colaborar prestando ajuda para atingir/executar algo;  Já [mútua ](https://www.dicio.com.br/mutua/)significa o que é exercido por ambas as partes de forma recíproca, que, por sua vez, significa . Por outro lado, [recíproco](https://www.dicio.com.br/reciproca/) é aquilo que se vale da mesma maneira para ambos.
 

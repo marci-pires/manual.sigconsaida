@@ -2,19 +2,19 @@
 
 **1.** Acesse o menu `"Documentos > Bloco de Documentos Disponíveis para Assinatura"`
 
-<figure><img src="../../.gitbook/assets/image (164) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 **2**. A página seguinte apresenta todos os documentos relacionados aos blocos que o usuário está vinculado
 
-<figure><img src="../../.gitbook/assets/image (279) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Se desejar, utilize o filtro de pesquisa, selecionando o `bloco desejado`**`(1)`** e clicando em `"Filtrar"`**`(2)`**` ```&#x20;
 
-<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**` ```&#x20;
 
-<figure><img src="../../.gitbook/assets/image (274) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Selecione corretamente os campos de órgão, usuário, perfil de assinatura, digite a senha do SIGCON Saída e clique em `"Assinar com Usuário e Senha"`
 
@@ -26,6 +26,6 @@ Ao selecionar vários documentos e acionar a assinatura, **TODOS** terão o mesm
 
 ## Opções de Assinatura
 
-* ![](<../../.gitbook/assets/image (105).png>) **TODOS** terão o mesmo perfil de assinatura. Caso deseje perfis diferentes para os documentos, faça **seleções separadas**.
-* ![](<../../.gitbook/assets/image (133).png>)o status do instrumento <mark style="color:green;">**SERÁ**</mark> alterado.
-* ![](<../../.gitbook/assets/image (195).png>) o status do instrumento <mark style="color:red;">**NÃO SERÁ**</mark> alterado.
+* ![](<../../.gitbook/assets/image (413).png>) **TODOS** terão o mesmo perfil de assinatura. Caso deseje perfis diferentes para os documentos, faça **seleções separadas**.
+* ![](<../../.gitbook/assets/image (401).png>)o status do instrumento <mark style="color:green;">**SERÁ**</mark> alterado.
+* ![](<../../.gitbook/assets/image (424).png>) o status do instrumento <mark style="color:red;">**NÃO SERÁ**</mark> alterado.

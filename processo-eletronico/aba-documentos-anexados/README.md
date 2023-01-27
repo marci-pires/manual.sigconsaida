@@ -4,7 +4,7 @@ O processo eletrônico do [SIGCON Saída](http://sigconsaida.mg.gov.br/) permite
 
 Estes documentos serão inseridos por meio da aba "Documentos Anexados", localizada no instrumento. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (192) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 Essa ferramenta apresenta funções como anexar, excluir e assinar documentos. Utilize o menu ao lado esquerdo, ou clique no link desejado para acessar o tutorial da funcionalidade correspondente.
 

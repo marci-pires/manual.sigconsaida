@@ -26,7 +26,7 @@ Tabela de Conversão de Unidades
 
 **2.** Preencha os dados e clique em `“Salvar e Encaminhar para Aprovação”`:
 
-![](<../../../../.gitbook/assets/image (141) (1).png>)
+![](<../../../../.gitbook/assets/image (141).png>)
 
 **3.** Clique em `“Sim”` no _pop-up_ de confirmação:
 
@@ -44,7 +44,7 @@ Tabela de Conversão de Unidades
 
 **2.** Clique em `“Sim”` no _pop-up_ de confirmação:
 
-![](<../../../../.gitbook/assets/image (90) (1).png>)
+![](<../../../../.gitbook/assets/image (90).png>)
 
 **3.** A Adequação do Convênio mudará para o status **“VIGENTE”** e o processo será concluído:
 
