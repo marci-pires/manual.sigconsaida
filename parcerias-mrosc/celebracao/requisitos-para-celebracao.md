@@ -141,9 +141,9 @@ A respeito deste ponto, há que se observar os conceitos de “Dirigente de OSC�
 
 Quanto às formas e graus de parentesco a serem observados para que não se incorra nas vedações do art. 39 da Lei, o quadro e a figura a seguir são elucidativos:
 
-![](<../../.gitbook/assets/image (463).png>)
+![](<../../.gitbook/assets/image (299).png>)
 
-![](<../../.gitbook/assets/image (410).png>)
+![](<../../.gitbook/assets/image (500).png>)
 
 {% hint style="info" %}
 O modelo de declaração do responsável legal atestando que a OSC não incorre nas vedações do art. 39 da Lei Federal nº 13.019, de 2014 está disponível em: [http://sigconsaida.mg.gov.br/padronizacoes/](http://sigconsaida.mg.gov.br/padronizacoes/)

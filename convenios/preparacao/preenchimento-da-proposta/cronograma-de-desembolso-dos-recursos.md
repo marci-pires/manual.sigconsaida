@@ -4,7 +4,7 @@
 
 Clique em `"Salvar"`(5)
 
-![](<../../../.gitbook/assets/image (60).png>)
+![](<../../../.gitbook/assets/image (60) (1).png>)
 
 {% hint style="info" %}
 O valor do desembolso não pode exceder o valor Total do Concedente/órgão ou entidade estadual parceiro
@@ -12,4 +12,4 @@ O valor do desembolso não pode exceder o valor Total do Concedente/órgão ou e
 
 **2.** O valor estará disponível na **"Lista de Desembolsos Cadastrados"**. Na coluna "Ação", clique no **ícone de lápis (1)** para editar ou no **ícone de lixeira (2)** para excluir
 
-![](<../../../.gitbook/assets/image (364).png>)
+![](<../../../.gitbook/assets/image (127).png>)

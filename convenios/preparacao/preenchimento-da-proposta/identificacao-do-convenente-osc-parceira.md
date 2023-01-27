@@ -10,4 +10,4 @@ Na fase anterior foi inserido o Convenente/OSC Parceira, benefici√°rios do Conv√
 
 **2.** Clique em `"Salvar"`
 
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (194) (1).png" alt=""><figcaption></figcaption></figure>

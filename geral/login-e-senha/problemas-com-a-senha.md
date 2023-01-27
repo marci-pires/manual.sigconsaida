@@ -22,11 +22,11 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../.gitbook/assets/image (536).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 **2**. Informe o usuário e senha e clique em `"Acessar"`
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3**. Acesse o menu `"Administração > Perfil de Usuário"`
 
@@ -34,11 +34,11 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 Restrito ao representante legal.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (317).png>)
+![](<../../.gitbook/assets/image (81).png>)
 
 **4**. Utilize o filtro de pesquisa para encontrar o usuário desejado e clique em `"Pesquisar"`
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](<../../.gitbook/assets/6 (1).png>)
 
 **5**. O sistema mostrará os usuários que atendem ao filtro utilizado. Clique no ícone da coluna `"Ação"` correspondente ao usuário desejado
 
@@ -50,7 +50,7 @@ Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerencia
 
 **6**. Confira os dados e inseridos e os campos editáveis
 
-![](<../../.gitbook/assets/image (366).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 **7**. Selecione o perfil a ser desempenhado pelo usuario em `"Perfil Disponível"` e, com o uso da **seta** central, encaminhe a seleção para o `"Perfil Selecionado"`
 
@@ -66,7 +66,7 @@ O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x2
 
 **8**. Todos os Representantes Legais terão sua Assinatura Eletrônica aprovada automaticamente depois de ativos no sistema
 
-![](<../../.gitbook/assets/10 (1).png>)
+![](../../.gitbook/assets/10.png)
 
 {% hint style="warning" %}
 Caso não apareça na `"Lista de Solicitação de Assinatura com Usuário e Senha"`, saia do sistema e entre novamente.&#x20;

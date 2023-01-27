@@ -6,7 +6,7 @@ Para acessar a definição de **Documento Nato-Digital**, clique [aqui](broken-r
 
 **1.** Ao clicar em [`"Incluir Documento"`](broken-reference) , selecione a opção **"Documento Nato-Digital".**
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (128) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Escolha o "Tipo de Documento", um "Título" e, caso necessário, adicione alguma observação sobre o documento&#x20;
 
@@ -16,7 +16,7 @@ Caso você não encontre o Tipo de Documento que deseja, entre em contato com o 
 
 **3**. Clique em `"Escolher Arquivo"`
 
-<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (232) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Escolha o documento a ser carregado dentro da janela de arquivos.
 
@@ -32,7 +32,7 @@ Tamanho máximo do arquivo permitido: 15MB
 
 **6.** Caso o documento anexado esteja correto, clique em `"Carregar Arquivo"`
 
-<figure><img src="../../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (278) (1).png" alt=""><figcaption></figcaption></figure>
 
 **7.** Para verificar se o arquivo foi carregado corretamente, verifique o **"Nome do Documento"** possui o nome **** do arquivo que foi carregado
 
@@ -40,6 +40,6 @@ Tamanho máximo do arquivo permitido: 15MB
 
 **8.** Após o preenchimento dos campos obrigatórios clicar em `"Salvar"` e verifique se o sistema exibe a seguinte mensagem de sucesso
 
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (200) (1).png" alt=""><figcaption></figcaption></figure>
 
 **9.** O documento anexado aparecerá na aba [Documentos Anexados](../)**.**

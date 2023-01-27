@@ -16,7 +16,7 @@ Como exemplo, pesquisamos a palavra **"CONTA"** e a pesquisa gerou 7 resultados 
 
 Você será direcionado para o local da página que contenha a pesquisa realizada.
 
-![](<../../../.gitbook/assets/image (339).png>)
+![](<../../../.gitbook/assets/image (504).png>)
 
 ## Atenção:
 

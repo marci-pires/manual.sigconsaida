@@ -6,7 +6,7 @@
 
 **2.** Escolha o "Tipo de Documento", um "Título" e, caso necessário, adicione alguma observação sobre o documento&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Caso você não encontre o Tipo **** de Documento que deseja, entre em contato com o Concedente que deseja propor ou encaminhar a proposta por e-mail para atendimento@sigconsaida.mg.gov.br.

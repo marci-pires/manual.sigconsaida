@@ -8,15 +8,15 @@ Para utilizar essa modalidade, é necessário ter **permissão** para assinar. A
 
 **1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`
 
-<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (252) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`
 
-<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (251) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**` ```&#x20;
 
@@ -34,19 +34,19 @@ Ao selecionar vários documentos e acionar a assinatura, **TODOS** terão o mesm
 
 **1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`
 
-<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (252) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`
 
-<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (251) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Selecione o documento que você deseja assinar e clique em `"Ações"` e em `"Assinar com Certificado Digital"`
 
-<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (197) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Digite sua senha e clique em `"Assinar Digitalmente"`
 

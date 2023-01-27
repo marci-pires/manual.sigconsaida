@@ -14,7 +14,7 @@ As alterações cadastradas serão exibidas na "Lista de Alterações", informan
 Veja mais sobre as “Status de Alterações” do Termo Aditivo na seção de [**Tramite do Termo Aditivo**](termo-aditivo.md#undefined).&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (534).png>)
+![](<../../../.gitbook/assets/image (63).png>)
 
 {% hint style="danger" %}
 O sistema só permitirá a **criação de uma nova alteração** do Convênio se não houver outra alteração cadastrada, ou se as alterações anteriores tiverem sido concluídas ou canceladas.
@@ -26,7 +26,7 @@ O sistema só permitirá a **criação de uma nova alteração** do Convênio se
 **Altere somente as informações que necessitam de modificação** e mantenha inalteradas as que não precisarem.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (517).png>)
+![](<../../../.gitbook/assets/image (156).png>)
 
 
 
@@ -48,11 +48,11 @@ Embora o sistema não identifique se a alteração provoca ou não a modificaç�
 
 **1.** Expanda a aba "Caracterização da Proposta" da Alteração do Convênio e encontre a seção "Tipo de Atendimento". Selecione os campos de Gênero, categoria e especificação. Clique em `"+ Incluir"`
 
-![](<../../../.gitbook/assets/image (510).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 **2.** A "Lista de tipos de atendimento" deve ser modificada se for necessário alterar os valores do Convênio, como para aumentar ou diminuir o repasse do Concedente, a Contrapartida ou incluir valores de saldo em conta e rendimentos. Clique no ícone de lápis da coluna `"Editar"`
 
-![](<../../../.gitbook/assets/image (549).png>)
+![](<../../../.gitbook/assets/image (110).png>)
 
 **3**. Será exibida a tela para edição dos valores. Preencha os campos conforme e a necessidade e clique em `"Salvar"`
 
@@ -62,19 +62,19 @@ Para **reduzir** algum valor, digite o valor com o símbolo de "-"
 
 **4.** Se necessário alterar a "Vigência" do Convênio, preencha o campo “Proposta de vigência” com o total de dias que o Convênio terá **após** o aditivo, ou seja, o número de dias da **vigência inicial do MAIS o número de dias que serão acrescidos**.&#x20;
 
-![](<../../../.gitbook/assets/image (519).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 ## **Alterar vigência**
 
 Se necessário alterar a "Vigência" do Convênio, preencha o campo “Proposta de vigência” com o total de dias que o Convênio terá **após** o aditivo, ou seja, o número de dias da **vigência inicial do MAIS o número de dias que serão acrescidos**.&#x20;
 
-![](<../../../.gitbook/assets/image (545).png>)
+![](<../../../.gitbook/assets/image (252).png>)
 
 ## **Salvar e Encaminhar Alterações**
 
 **1.** Após realizar corretamente as devidas alterações, clique em `“Salvar e encaminhar alterações”` no final da página
 
-![](<../../../.gitbook/assets/image (522).png>)
+![](<../../../.gitbook/assets/image (90).png>)
 
 
 
@@ -92,9 +92,9 @@ Para que o concedente/OEEP analise o checklist, é essencial que o Responsável 
 
 1. **Cadastramento:** Situação inicial do termo aditivo, no qual o usuário alterará os campos desejados. Nesse momento, a alteração ainda não é um termo aditivo, pois o sistema só identifica a alteração do convênio como um termo aditivo após o encaminhamento para validação do responsável legal, e somente se for alterado algum campo que não esteja incluído no rol de exceções que configuram alterações simples. Veja quais são esses campos na seção [**Alteração Simples**](../manual-convenente-alteracao/alteracao-simples.md).
 2. **Preenchimento de Checklist de Termo Aditivo**
-   * O usuário deve inserir todos os documentos obrigatórios e outros (quando orientado dessa forma). Depois, <img src="../../../.gitbook/assets/image (257).png" alt="" data-size="original">
+   * O usuário deve inserir todos os documentos obrigatórios e outros (quando orientado dessa forma). Depois, <img src="../../../.gitbook/assets/image (533).png" alt="" data-size="original">
 3. **Validação da Alteração:** É na análise pelo Responsável Legal do convenente (Prefeitos ou Presidentes de entidades), para que eles estejam cientes da proposta de alteração e a encaminhem para o órgão concedente. É a última etapa de responsabilidade do convenente, as demais etapas são executadas pelo órgão concedente.
-   * O Responsável Legal deve acessar o termo aditivo e <img src="../../../.gitbook/assets/image (261).png" alt="" data-size="original">
+   * O Responsável Legal deve acessar o termo aditivo e <img src="../../../.gitbook/assets/image (174).png" alt="" data-size="original">
 4. **Análise do Checklist de Termo Aditivo:** Nesta etapa o órgão concedente verificará se o convenente encaminhou todos os documentos necessários para a alteração do convênio. A documentação exigida varia conforme o objeto do convênio – se é uma obra, ou a aquisição de bens, ou a execução de um serviço, ou a realização de um evento – e o tipo de convenente – prefeitura ou entidade. Você pode consultar os checklists para a alteração de convênios no portal.&#x20;
 5. **Análise Técnica:** Análise técnica do concedente sobre os critérios técnicos da alteração do convênio proposta pelo convenente.
 6. **Anexação do Instrumento**: caso ainda não tenha sido inserido o Termo do Instrumento, neste status isso deve ser feito

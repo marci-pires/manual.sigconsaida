@@ -73,7 +73,7 @@ Além disso, é essencial verificar se o ajuste a ser celebrado entre as partes 
 
 Assim sendo, as parcerias regidas pela Lei Federal nº 13.019, de 2014 e pelo Decreto nº 47.132, de 2017 mesclam as seguintes condições:
 
-![](<../../.gitbook/assets/image (390).png>)
+![](<../../.gitbook/assets/image (324).png>)
 
 Segundo o Dicionário Online de Português, [cooperação](https://www.dicio.com.br/cooperacao/) é a forma de auxiliar e colaborar prestando ajuda para atingir/executar algo;  Já [mútua ](https://www.dicio.com.br/mutua/)significa o que é exercido por ambas as partes de forma recíproca, que, por sua vez, significa . Por outro lado, [recíproco](https://www.dicio.com.br/reciproca/) é aquilo que se vale da mesma maneira para ambos.
 
@@ -193,7 +193,7 @@ Devido ao cenário de insegurança jurídica em relação às regras de parceriz
 
 De acordo com a nova legislação, a parceria entre a Administração Pública e as OSCs, em regime de mútua cooperação, para a consecução de finalidades de interesse público e recíproco, será realizada por meio de: Termo de Colaboração, Termo de Fomento ou Acordo de Cooperação.
 
-![](<../../.gitbook/assets/image (408).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 Os novos instrumentos de pactuação devem ser adotados a partir da característica de cada parceria.
 

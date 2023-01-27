@@ -6,15 +6,15 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
 
-![](<../../../.gitbook/assets/image (525).png>)
+![](<../../../.gitbook/assets/image (93).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
-![](<../../../.gitbook/assets/image (514).png>)
+![](<../../../.gitbook/assets/image (409).png>)
 
 **4.** Preencha o CPF e CNPJ e clique em `"Enviar"`
 
@@ -22,7 +22,7 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 Para Prefeito/Representante Legal do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Preencha todos os campos (CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail) e clique em `"Enviar"`
 
@@ -34,13 +34,13 @@ Para Prefeito/Representante Legal do convenente.
 
 **7.** O Prefeito/Representante Legal receberá no e-mail registrado no CAGEC mensagem com o link para a geração de **** uma nova senha. Clique link contido na mensagem
 
-![](<../../../.gitbook/assets/image (513).png>)
+![](<../../../.gitbook/assets/image (317).png>)
 
 **8.** Será exibida tela com o CPF do Prefeito/Representante Legal como usuário.
 
 **9.** Digite sua nova senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**

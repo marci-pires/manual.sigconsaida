@@ -12,11 +12,11 @@ Podem ser **intervenientes:** órgão, autarquia, fundação pública, empresa p
 
 <figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Clique em `"Salvar"`
 
-<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Os Intervenientes Cadastrados serão mostrados na tabela abaixo do dados do interveniente cadastrado&#x20;
 

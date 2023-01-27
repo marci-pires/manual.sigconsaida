@@ -12,7 +12,7 @@
 
 **1.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração"
 
-![](<../../../.gitbook/assets/image (341).png>)
+![](<../../../.gitbook/assets/image (416).png>)
 
 **2.** O [SIGCON Saída](http://sigconsaida.mg.gov.br/) irá criar novo registro de alteração com uma cópia idêntica às informações já preenchidas no Convênio. Após as modificações, clique em `"Salvar Alterações e Encaminhar Proposta para Aprovação"`
 
@@ -20,7 +20,7 @@
 **Altere somente as informações que necessitam de modificação** e mantenha inalteradas as que não precisarem.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (329).png>)
+![](<../../../.gitbook/assets/image (34).png>)
 
 
 

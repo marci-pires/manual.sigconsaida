@@ -34,6 +34,54 @@ Celebração de convênios sem o exame técnico e jurídico. É essencial realiz
 
 Dependendo da estrutura orgânica de cada concedente, a análise técnica pode ser realizada por um único setor ou por mais de um setor, considerando as competências de cada unidade (Setor de Convênios, Setor de Engenharia e/ou Área Finalística).
 
+## Realizar análise técnica
+
+{% hint style="info" %}
+Perfil: Analista Técnico
+{% endhint %}
+
+![](<../../.gitbook/assets/image (534).png>)
+
+1. Escolha do tipo de análise
+2. Preenche o campo observação
+3. Define o parecer
+4. Salvar
+5. Assinar o documento de análise técnica
+
+## Alterar análise
+
+1.No botão ações, clicar em editar análise
+
+2\. Alerta de quebra de assinatura
+
+![](<../../.gitbook/assets/image (528).png>)
+
+## Invalidar análise
+
+1. Edita análise desejada
+2. Seleciona a opção de invalidar análise
+3. Clica em salvar
+
+## Encaminhar para análise Jurídica
+
+O usuário aciona o comando **\[ENCAMINHAR ANÁLISE JURÍDICA]**
+
+(olhar regras)
+
+## Desvincular indicação
+
+## Retornar para adequação
+
+
+
+## Informar diligência
+
+
+
+## Reprovar indicação
+
+
+
 ## Análise Jurídica
 
 Após manifestação da área técnica, o processo deve ser submetido à área jurídica, que elaborará parecer acerca da constitucionalidade, legalidade e juridicidade da celebração do convênio e sobre a minuta do instrumento que deverá ser inserida no SIGCON Saída.&#x20;

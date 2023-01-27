@@ -41,3 +41,13 @@ Por parte da OSC, também é devida a mesma atenção às exigências da Lei. Ca
 {% hint style="info" %}
 Arts. 35 a 39 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
+
+## Gestor de Parceria
+
+* _**Anexar Arquivo Gestor de Parceria**_
+
+
+
+## Comissão de Monitoramento e Avaliação
+
+* _**Anexar Arquivo Comissão de Monitoramento e Avaliação**_&#x20;

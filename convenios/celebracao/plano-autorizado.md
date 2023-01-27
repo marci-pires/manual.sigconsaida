@@ -6,16 +6,16 @@
 
 **1.** Após ter o **Plano Autorizado**, o status seguinte será de "Anexação do Instrumento":
 
-![](<../../.gitbook/assets/image (298).png>)
+![](<../../.gitbook/assets/image (141).png>)
 
 **2.** Para encaminhar o Plano de Trabalho para assinatura, é necessário enviar o documento de Termo de Convênio:
 
-![](<../../.gitbook/assets/image (363).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 **3.** Na [Aba Documentos Anexados](../../processo-eletronico/aba-documentos-anexados/), inclua o **Termo de Convênio** e clique em `"salvar"`:
 
-![](<../../.gitbook/assets/image (309).png>)
+![](<../../.gitbook/assets/image (523).png>)
 
 **4.** Após enviar e salvar o documento, clique em `"Encaminhar para Processo de Assinatura Convenente/OSC"` no final da página:
 
-![](<../../.gitbook/assets/image (315).png>)
+![](<../../.gitbook/assets/image (493).png>)

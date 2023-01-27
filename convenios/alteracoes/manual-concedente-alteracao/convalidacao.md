@@ -6,7 +6,7 @@ Em regra, apenas convênios vigentes podem ser aditados. Nessa perspectiva, em p
 
 A convalidação deve ser cadastrada pelo usuário com o perfil de `Encaminhador`, e só estará habilitada se o convênio estiver com a vigência encerrada.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 A opção de convalidação só estará disponível se o convênio estiver vencido. O restante das opções para alterações estarão disponíveis quando a convalidação for aprovada, mesmo com a vigência encerrada.
 
@@ -16,7 +16,7 @@ A opção de convalidação só estará disponível se o convênio estiver venci
 * O campo "Data atual" exibe a data final da vigência do convênio, na qual tem o início o período de convalidação;
 * O valor preenchido pelo usuário no "nº Dias" é acrescido à "Data Atual" e o resultado dessa soma é exibido no campo "Data Final";
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após o preenchimento dos campos obrigatórios o usuário deve clicar em "Salvar".
 
@@ -30,13 +30,13 @@ O correto seria preencher neste campo o período entre a data em que a vigência
 
 Após salvas as informações da convalidação, esta é exibida na tabela “Lista de Convalidações Cadastradas”. Além de cadastrar a convalidação, o usuário com o perfil de “Encaminhador” também deverá realizar a assinatura da convalidação e em seguida encaminhá-la para que o ordenador de despesas também a assine:
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 Finalmente, após a assinatura do ordenador de despesas, a convalidação assume o status de “Aprovada”, habilitando o cadastro de alterações no convênio.
 
 Abaixo o fluxo de tramitação da convalidação de convênios no SIGCON-SAÍDA:
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (79) (1).png>)
 
 *  **Aguardando Convalidação**: o usuário com o perfil de encaminhador deve assinar a convalidação.
 * **Convalidação Registrada**: o usuário com o perfil de encaminhador deve enviar a convalidação para o ordenador de despesas.
