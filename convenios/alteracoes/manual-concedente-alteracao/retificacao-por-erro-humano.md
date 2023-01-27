@@ -34,7 +34,7 @@ Após a retificação dos campos desejados, preencha o campo de "Justificativa",
 
 **1.** Será solicitado a assinatura do **Ordenador** que deverá acessar a alteração e clicar em `"Assinar Ordenador":`
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.** A assinatura deverá ser realizada pelo usuário com o perfil **Ordenador de Despesas**, clicando em "Assinar com Usuário e Senha":
 

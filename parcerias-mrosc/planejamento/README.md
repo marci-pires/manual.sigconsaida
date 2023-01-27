@@ -4,12 +4,12 @@
 
 Essa é uma fase essencial para o bom andamento da parceria, que acontece antes do processo de celebração da parceria. Sem ele, não é possível saber os resultados pretendidos, quais recursos serão efetivamente utilizados, os agentes necessários e demais definições importantes para a boa execução da parceria.&#x20;
 
-&#x20;O art. 8° da referida Lei dispõe que ao decidir sobre a celebração de parcerias, o administrador público (aquele que possui poderes para assinar o instrumento jurídico):&#x20;
+&#x20;O art. 8° da Lei Federal nº 13.019/14 dispõe que ao decidir sobre a celebração de parcerias, o administrador público (aquele que possui poderes para assinar o instrumento jurídico):&#x20;
 
-* considerará, obrigatoriamente, a capacidade operacional da Administração Pública para celebrar a parceria, cumprir as obrigações dela decorrentes e assumir as respectivas responsabilidades;&#x20;
-* avaliará as propostas de parceria com o rigor técnico necessário;&#x20;
-* designará gestores habilitados a controlar e fiscalizar a execução em tempo hábil e de modo eficaz;&#x20;
-* apreciará as prestações de contas na forma e nos prazos determinados na Lei e na legislação específica. Para tanto, a Administração Pública deve adotar as medidas necessárias: capacitar pessoal, prover recursos materiais e tecnológicos necessários e assegurar a capacidade técnica e operacional.
+* Considerará, obrigatoriamente, a capacidade operacional da Administração Pública para celebrar a parceria, cumprir as obrigações dela decorrentes e assumir as respectivas responsabilidades;&#x20;
+* Avaliará as propostas de parceria com o rigor técnico necessário;&#x20;
+* Designará gestores habilitados a controlar e fiscalizar a execução em tempo hábil e de modo eficaz;&#x20;
+* Apreciará as prestações de contas na forma e nos prazos determinados na Lei e na legislação específica. Para tanto, a Administração Pública deve adotar as medidas necessárias: capacitar pessoal, prover recursos materiais e tecnológicos necessários e assegurar a capacidade técnica e operacional.
 
 De outro lado, esse processo de reflexão e preparação deve ser adotado pela OSC antes da assunção dos compromissos previstos na parceira. Ora, como assumir responsabilidades sem haver capacidade operacional? Como pactuar a execução de determinado objeto sem o conhecimento prévio sobre os recursos necessários?&#x20;
 
@@ -34,7 +34,7 @@ Algumas perguntas para orientar esse planejamento:
 {% hint style="success" %}
 **SUGESTÃO**&#x20;
 
-OSC: faça o seu planejamento com antecedência e monte um “banco de propostas”. Assim, quando tiver ciência de um chamamento público ou receber a indicação de uma emenda parlamentar, o trabalho já estará adiantado!
+OSC faça o seu planejamento com antecedência e monte um “banco de propostas”. Assim, quando tiver ciência de um chamamento público ou receber a indicação de uma emenda parlamentar, o trabalho já estará adiantado!
 {% endhint %}
 
 A celebração de parceria é um compromisso sério e a inexecução sem justificativa plausível ou mesmo o mau uso do dinheiro público acarretam sanções legais, haja vista o art. 73 da Lei. Por isso, o planejamento é importante, resguardando a OSC de eventuais riscos durante a execução.&#x20;
@@ -42,12 +42,12 @@ A celebração de parceria é um compromisso sério e a inexecução sem justifi
 {% hint style="danger" %}
 **ATENÇÃO!**
 
-&#x20;O bom planejamento é essencial para o sucesso da parceria e o alcance dos resultados esperados pelas partes.
+O bom planejamento é essencial para o sucesso da parceria e o alcance dos resultados esperados pelas partes.
 {% endhint %}
 
 ## Escolha do modelo de parceria
 
-&#x20;Ao planejar a execução de determinado projeto ou atividade entre a Administração Pública e a Organização da Sociedade Civil, é importante que o agente público tenha em mente que a Lei Federal n° 13.019/2014 institui um modelo de formalização e execução dessa parceria que não é o único, ou seja, há outros normativos que estabelecem meios diferentes, devendo ser avaliada a necessidade do caso concreto.
+Ao planejar a execução de determinado projeto ou atividade entre a Administração Pública e a Organização da Sociedade Civil, é importante que o agente público tenha em mente que a Lei Federal n° 13.019/2014 institui um modelo de formalização e execução dessa parceria que não é o único, ou seja, há outros normativos que estabelecem meios diferentes, devendo ser avaliada a necessidade do caso concreto:
 
 | MODELO DE PARCERIA                                               | TIPO DE ENTIDADE                                         | NORMAS CORRESPONDENTES                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ A celebração de parceria é um compromisso sério e a inexecução sem justifi
 
 ### Procedimento de Manifestação de Interesse Social
 
-Na reflexão sobre as parcerias a serem celebradas, há que se considerar o Procedimento de Manifestação de Interesse Social (Pmis). Aqui, fala-se em cenários possíveis de execução de parcerias, baseados no conhecimento prévio das OSCs. A Administração Pública abre-se com vistas a ouvir propostas nascidas na sociedade e, a partir delas, pode melhor definir as políticas públicas que podem ser executadas por meio da cooperação com o Terceiro Setor
+Na reflexão sobre as parcerias a serem celebradas, há que se considerar o Procedimento de Manifestação de Interesse Social (Pmis). Aqui, fala-se em cenários possíveis de execução de parcerias, baseados no conhecimento prévio das OSCs. A Administração Pública abre-se com vistas a ouvir propostas nascidas na sociedade e, a partir delas, pode melhor definir as políticas públicas que podem ser executadas por meio da cooperação com o Terceiro Setor.
 
 {% hint style="info" %}
 Por meio do Procedimento de Manifestação de Interesse Social (Pmis), as OSCs, os cidadãos e os movimentos sociais podem provocar a Administração Pública a refletir sobre a possibilidade de realizar o chamamento público para execução de política pública.
@@ -83,12 +83,12 @@ Assim está previsto na [Lei Federal n° 13.019/14](http://www.planalto.gov.br/c
 
 > Art. 18. É instituído o Procedimento de Manifestação de Interesse Social como instrumento por meio do qual as Organizações da Sociedade Civil, movimentos sociais e cidadãos poderão apresentar propostas ao poder público para que este avalie a possibilidade de realização de um chamamento público objetivando a celebração de parceria.
 
-A proposta deverá ser enviada para o órgão ou entidade estadual responsável pela política pública a que se referir a manifestação de interesse, em formulário próprio disponível no site do Sigcon-MG - Módulo Saída. Cada OEEP é responsável pela análise da proposta recebida e pela divulgação em seu sítio eletrônico.
+A proposta deverá ser enviada para o órgão ou entidade estadual responsável pela política pública a que se referir a manifestação de interesse, em [formulário próprio disponível no site do Sigcon-MG - Módulo Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/). Cada OEEP é responsável pela análise da proposta recebida e pela divulgação em seu sítio eletrônico.
 
 {% hint style="info" %}
 **MODELOS**&#x20;
 
-A Secretaria de Estado de Governo elaborou modelo para encaminhamento de propostas do Pmis.
+A Secretaria de Estado de Governo elaborou [modelo para encaminhamento de propostas do Pmis](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/).
 {% endhint %}
 
 {% hint style="danger" %}

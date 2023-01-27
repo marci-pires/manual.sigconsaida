@@ -5,22 +5,22 @@ Para garantir igualdade de competição entre as OSCs na busca por recursos púb
 > O chamamento público é o procedimento destinado a selecionar a OSC para celebrar parceria com a Administração Pública e seu edital deve conter critérios de seleção claros e objetivos.
 
 {% hint style="warning" %}
-O chamamento deve observar os princípios:
+O chamamento deve observar os princípios da(o):
 
-* da isonomia;
-* da legalidade;
-* da impessoalidade;
-* da moralidade;
-* da igualdade;
-* da publicidade;
-* da probidade administrativa;
-* da vinculação ao instrumento convocatório;
-* do julgamento objetivo
+* isonomia;
+* legalidade;
+* impessoalidade;
+* moralidade;
+* igualdade;
+* publicidade;
+* probidade administrativa;
+* vinculação ao instrumento convocatório;
+* julgamento objetivo.
 
 E demais princípios específicos das políticas públicas setoriais.&#x20;
 {% endhint %}
 
-As propostas apresentadas no chamamento serão julgadas por comissão de seleção. A comissão de seleção deve observar os critérios do [art.22 do Decreto 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017), e ter atenção aos impedimentos abaixo:
+As propostas apresentadas no chamamento serão julgadas por comissão de seleção. A comissão de seleção deve observar os critérios do art.22 do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/), e ter atenção aos impedimentos abaixo:
 
 {% hint style="danger" %}
 O membro da comissão de seleção deverá se declarar impedido:
@@ -31,7 +31,7 @@ art.22 (...)
 
 I – ser ou ter sido associado, cooperado, dirigente, conselheiro ou trabalhador de OSC participante do processo seletivo;
 
-II – ser cônjuge ou parente, até segundo grau, inclusive por afinidade, dos dirigentes de OSC participante do processo seletivo
+II – ser cônjuge ou parente, até segundo grau, inclusive por afinidade, dos dirigentes de OSC participante do processo seletivo;
 
 III – ter recebido, como beneficiário, os serviços de qualquer OSC participante do processo seletivo;
 
@@ -105,9 +105,9 @@ O edital de chamamento público poderá prever requisito ou critério de valora�
 
 Também são permitidas cláusulas e condições que sejam amparadas em circunstância específica relativa aos programas e às políticas públicas setoriais, desde que consideradas pertinentes e relevantes.&#x20;
 
-O extrato será publicado no Minas Gerais e seu conteúdo completo será divulgado no sítio eletrônico do OEEP e no Portal de Convênios de Saída e Parcerias ([http://sigconsaida.mg.gov.br/editais/](http://sigconsaida.mg.gov.br/editais/)), no mínimo 30 dias antes da data marcada para a sessão de avaliação das propostas.&#x20;
+O extrato será publicado no Minas Gerais e seu conteúdo completo será divulgado no sítio eletrônico do OEEP e no [Portal de Convênios de Saída e Parcerias](http://sigconsaida.mg.gov.br/editais/) no mínimo 30 dias antes da data marcada para a sessão de avaliação das propostas.&#x20;
 
-O chamamento público será constituído, em regra, de uma etapa eliminatória e outra classificatória. Somente depois de encerradas as etapas eliminatória e classificatória, as OSCs selecionadas no chamamento serão convocadas para apresentarem a documentação de habilitação jurídica e fiscal e os requisitos de celebração, que serão apresentados mais adiante neste manual.
+O chamamento público será constituído, em regra, de uma etapa eliminatória e outra classificatória. Somente depois de encerradas as etapas eliminatória e classificatória, as OSCs selecionadas no chamamento serão convocadas para apresentarem a documentação de habilitação jurídica e fiscal e os requisitos de celebração.
 
 {% hint style="danger" %}
 Os requisitos de habilitação jurídica e fiscal das OSCs não podem ser solicitados nas etapas eliminatória e classificatória do chamamento público.&#x20;
@@ -120,12 +120,12 @@ A OSC precisa seguir todas as regras do edital para evitar a desclassificação.
 {% endhint %}
 
 {% hint style="info" %}
-Arts. 24 a 28 da[ Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2014/lei/l13019.htm). Arts. 18 a 24 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).
+Arts. 24 a 28 da[ Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2014/lei/l13019.htm) e arts. 18 a 24 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).
 {% endhint %}
 
 ## EXCEÇÕES AO CHAMAMENTO PÚBLICO
 
-Apesar do chamamento público ser a regra das parcerias regidas pelo marco regulatório, o art.29 da Lei Federal 13.019, de 2014 possibilita a celebração por meio de emendas parlamentares sem que haja chamamento público, vejamos:
+Apesar do chamamento público ser a regra das parcerias regidas pelo marco regulatório, o art. 29 da Lei Federal 13.019, de 2014 possibilita a celebração por meio de emendas parlamentares sem que haja chamamento público, vejamos:
 
 {% tabs %}
 {% tab title="NÃO APLICABILIDADE DE CHAMAMENTO" %}
@@ -134,7 +134,7 @@ Apesar do chamamento público ser a regra das parcerias regidas pelo marco regul
 {% endtab %}
 
 {% tab title="DISPENSA" %}
-Art. 30 da Lei Federal  13.019, de 2014
+A administração pública poderá dispensar a realização do chamamento público (art. 30 da Lei Federal  13.019, de 2014):
 
 * No caso de urgência decorrente de paralisação ou iminência de paralisação das atividades de relevante interesse público (até 180 dias);
 * &#x20;Nos casos de guerra, calamidade pública, grave perturbação da ordem pública ou ameaça à paz social;
@@ -145,11 +145,11 @@ Art. 30 da Lei Federal  13.019, de 2014
 {% endtab %}
 
 {% tab title="INEXIGIBILIDADE" %}
-Art. 31 da Lei Federal  13.019, de 2014
+Será considerado inexigível o chamamento público (art. 31 da Lei Federal  13.019, de 2014):
 
-* Objeto da parceria singular;
+* Natureza singular do objeto da parceria;
 * Quando as metas só puderem ser atingidas por determinada OSC, especialmente quando a OSC beneficiada estiver identificada em acordo internacional ou em lei específica (inclusive subvenção social);
-* &#x20;Extrato da justificativa de inexigibilidade deve ser publicado no Minas Gerais.
+* Extrato da justificativa de inexigibilidade deve ser publicado no Minas Gerais.
 {% endtab %}
 {% endtabs %}
 
@@ -160,11 +160,11 @@ A peça orçamentária define quanto dinheiro o Governo pretende arrecadar e gas
 As emendas individuais são propostas feitas por cada deputado estadual, muitas vezes para beneficiar suas bases eleitorais. Já as emendas coletivas são apresentadas por bancadas ou comissões permanentes (como a Comissão de Fiscalização Financeira e Orçamentária e Comissão de Participação Popular).
 
 {% hint style="info" %}
-Arts. 24, 29, 30, 31 e 32 da [Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2014/lei/l13019.htm).&#x20;
+Leitura recomendada:
 
-Art. 18 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).&#x20;
-
-Parcerias com OSCs de Assistência Social: [Lei nº 22.587, de 18 de junho de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=22587\&comp=\&ano=2017).
+* Arts. 24, 29, 30, 31 e 32 da [Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2014/lei/l13019.htm).&#x20;
+* Art. 18 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).&#x20;
+* Parcerias com OSCs de Assistência Social: [Lei nº 22.587, de 18 de junho de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=22587\&comp=\&ano=2017).
 {% endhint %}
 
 Importa observar que a dispensa, inexigibilidade e não aplicabilidade, evidenciadas no quadro de exceções ao chamamento público, não excluem a aplicabilidade da Lei e do Decreto.

@@ -117,7 +117,7 @@
   * [Plano de Aplicação de Recursos](parcerias-mrosc/definicoes-gerais/plano-de-aplicacao-de-recursos.md)
   * [Plano de Trabalho](parcerias-mrosc/definicoes-gerais/plano-de-trabalho.md)
 * [Planejamento](parcerias-mrosc/planejamento/README.md)
-  * [Cadastro Pré-SIGCON](parcerias-mrosc/planejamento/cadastro-pre-sigcon.md)
+  * [Cadastro da OSC](parcerias-mrosc/planejamento/cadastro-da-osc.md)
   * [Chamamento Público](parcerias-mrosc/planejamento/chamamento-publico.md)
 * [Preparação](parcerias-mrosc/preparacao/README.md)
   * [Cadastro da Proposta de Plano de Trabalho](convenios/preparacao/cadastro-da-proposta.md)

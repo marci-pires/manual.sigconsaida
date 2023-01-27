@@ -1,4 +1,4 @@
-# Cadastro Pré-SIGCON
+# Cadastro da OSC
 
 ## CHECKLIST DE DOCUMENTAÇÃO
 
@@ -6,12 +6,16 @@ Parte da documentação que comprova o atendimento dos arts. 33, 34 e 39 da Lei 
 
 Para celebração, há dois _checklists_ distintos, um para celebração de Acordo de Cooperação e outro para celebração de Termo de Fomento/Termo de Colaboração.
 
-Na hipótese de Termo de Colaboração ou de Fomento, o _checklist_ contém a Proposta de Plano de Trabalho (que será explicada em uma seção específica) e documentos complementares relativos ao objeto, tais como orçamento detalhado, planilha detalhada de itens e custos, planilha de despesas de pessoal, projeto básico da reforma ou obra, licenças ambientais pertinentes ou documento equivalente e, quando for o caso, aquiescência de institutos responsáveis pelo tombamento do imóvel.
+Na hipótese de Termo de Colaboração ou de Fomento, o _checklist_ contém a Proposta de Plano de Trabalho (explicada em seção específica) e documentos complementares relativos ao objeto, tais como: orçamento detalhado, planilha detalhada de itens e custos, planilha de despesas de pessoal, projeto básico da reforma ou obra, licenças ambientais pertinentes ou documento equivalente e, quando for o caso, aquiescência de institutos responsáveis pelo tombamento do imóvel.
 
 {% hint style="info" %}
-Os _checklists_ de celebração de Acordos de Cooperação e de Termos de Colaboração ou de Fomento estão disponíveis em: [http://www.sigconsaida.mg.gov.br/checklists-2/](http://www.sigconsaida.mg.gov.br/checklists-2/).&#x20;
+Os _checklists_ de celebração de Acordos de Cooperação e de Termos de Colaboração ou de Fomento estão disponíveis em:
 
-Os modelos de documentos estão disponíveis em: [http://www.sigconsaida.mg.gov.br/padronizacoes/](http://www.sigconsaida.mg.gov.br/padronizacoes/)
+[https://sigconsaida.mg.gov.br/checklists/](https://sigconsaida.mg.gov.br/checklists/)&#x20;
+
+Os modelos de documentos estão disponíveis em:
+
+[http://www.sigconsaida.mg.gov.br/padronizacoes/](http://www.sigconsaida.mg.gov.br/padronizacoes/)
 {% endhint %}
 
 ## CADASTRO NO CAGEC
@@ -24,7 +28,7 @@ No Cagec, em conformidade com a Lei Federal n° 13.019/2014 e o Decreto Estadual
 
 * habilitação jurídica;
 * credenciamento do representante legal;
-* &#x20;regularidade fiscal e trabalhista;&#x20;
+* regularidade fiscal e trabalhista;&#x20;
 * responsabilidade e transparência fiscal;
 * regularidade no uso de recursos públicos e adimplência com o Estado de Minas Gerais;
 * qualificação em política pública setorial.&#x20;
@@ -51,13 +55,13 @@ A OSC deve acompanhar a validade de cada documento no certificado do Cagec, apre
 
 No certificado de registro no Cagec (item 1 dos checklists), deve constar a situação normal no Sistema Integrado de Administração Financeira (Siafi-MG).
 
-&#x20;As Leis de Diretrizes Orçamentárias (LDO) anuais, sobre o tema, além de exigir a regularidade da OSC no Cagec, exige a situação normal no Siafi-MG:&#x20;
+As Leis de Diretrizes Orçamentárias (LDO) anuais, sobre o tema, além de exigir a regularidade da OSC no Cagec, exige a situação normal no Siafi-MG:&#x20;
 
 > São vedadas a celebração e a alteração de valor de convênio de saída, Termo de Fomento, Termo de Colaboração, Acordo de Cooperação ou instrumento congênere com pessoa jurídica que se apresentar em situação inapta no Cagec ou bloqueada na tabela de credores do Siafi-MG.&#x20;
 
 Da mesma forma, é importante entender o que é o sistema e nele estar regular para a celebração de parcerias com a Administração Pública. O Siafi-MG é de utilização obrigatória pelos órgãos do Poder Executivo Estadual e tem como objetivo buscar a gestão eficiente dos recursos públicos do Estado. Integra de forma automatizada os processos de elaboração e execução orçamentária, administração e execução financeira, registros contábeis e gestão de patrimônio público ([https://www.siafi.mg.gov.br](https://www.siafi.mg.gov.br/fcag/SIAFI/site\_siafi\_mg/siafi)).&#x20;
 
-A OSC que esteja omissa no dever de prestar contas de parceria anteriormente celebrada ou tenha tido as contas rejeitadas pela Administração Pública do Poder Executivo Estadual é bloqueada na tabela de credores do Siafi-MG, ficando impedida de celebrar novas parcerias do MROSC e de receber recursos estaduais, nos termos do art. 39 da Lei Federal nº 13.019/2014 e da LDO
+A OSC que esteja omissa no dever de prestar contas de parceria anteriormente celebrada ou tenha tido as contas rejeitadas pela Administração Pública do Poder Executivo Estadual é bloqueada na tabela de credores do Siafi-MG, ficando impedida de celebrar novas parcerias do MROSC e de receber recursos estaduais, nos termos do art. 39 da Lei Federal nº 13.019/2014 e da LDO:
 
 ![](<../../.gitbook/assets/image (392).png>)
 
@@ -81,7 +85,7 @@ A situação da OSC no Cadin pode ser consultada por meio do seguinte link: [htt
 
 Nos termos do art. 39 da Lei Federal nº 13.019/2014, não podem celebrar parcerias as OSCs punidas com suspensão, bem como com declaração de inidoneidade para participar em licitação ou chamamento público e impedimento de contratar ou celebrar parceria com a Administração Pública.&#x20;
 
-Nessa perspectiva, o art. 35 do Decreto nº 47.132/2017 e o art. 52 do [Decreto nº 45.902, de 27 de janeiro de 2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=Dec\&num=45902\&comp=\&ano=2012), dispõem que não podem celebrar parcerias OSCs com registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública do Poder Executivo Estadual (Cafimp).&#x20;
+Nessa perspectiva, o art. 35 do [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/) e o art. 52 do [Decreto nº 45.902, de 27 de janeiro de 2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=Dec\&num=45902\&comp=\&ano=2012), dispõem que não podem celebrar parcerias OSCs com registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública do Poder Executivo Estadual (Cafimp).&#x20;
 
 A situação da OSC no Cafimp pode ser consultada no [Portal de Compras MG](http://compras.mg.gov.br/):
 
