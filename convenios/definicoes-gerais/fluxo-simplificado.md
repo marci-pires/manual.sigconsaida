@@ -6,13 +6,13 @@
 
 ## Fase, Situação e Status
 
-É fundamental se atentar a fase, situação e status do instrumento para compreender o fluxo de Convênios de saída.&#x20;
+É fundamental se atentar para alguns conceitos que serão utilizados no decorrer deste Manual para compreender o fluxo de Convênios de saída:
 
-**Fase**: "[Planejamento](broken-reference)", "[Preparação](broken-reference)", "[Celebração](broken-reference)", "[Execução](broken-reference)" ou "[Prestação de Contas](broken-reference)".
+**Fases**: conceito aplicável à todo o ciclo de tramitação do convênio que vai desde a sua criação até o seu encerramento. As fases previstas para o ciclo de convênio são: "[Planejamento](broken-reference)", "[Preparação](broken-reference)", "[Celebração](broken-reference)", "[Execução](broken-reference)" ou "[Prestação de Contas](broken-reference)".
 
-**Situação**: "[Proposta de Plano de Trabalho](broken-reference)", "[Plano de Trabalho](broken-reference)" ou "[Convenio ](broken-reference)/ [Parceria MROSC](broken-reference)".
+**Situação**: este conceito aplica-se para identificação das fases preparatórias e de assinatura do instrumento propriamente dito. São elas: "[Proposta de Plano de Trabalho](broken-reference)", "[Plano de Trabalho](broken-reference)" ou "[Convenio ](broken-reference)/ [Parceria MROSC](broken-reference)".
 
-**Status**: as situações de Proposta ou Plano possuem status distintos, sendo:
+**Status**: enfoque no processo prévio à assinatura do convênio, conferindo maior detalhamento às situações de "Proposta de Plano de Trabalho" e do "Plano de Trabalho". Cada situação terá um status distinto, sendo:
 
 {% tabs %}
 {% tab title="Proposta de Plano de Trabalho" %}

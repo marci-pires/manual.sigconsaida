@@ -19,12 +19,10 @@ O objeto do convênio de saída deverá ser detalhado no plano de trabalho.
 
 ## Quem são os partícipes do convênio de saída?&#x20;
 
-No convênio de saída, existem, em regra, duas figuras: o **Concedente** e o **Convenente** e o **Interveniente**.
+No convênio de saída existe, em regra, três figuras: o **Concedente,** o **Convenente** e o **Interveniente**.
 
 {% hint style="info" %}
-**Concedente** é o órgão ou entidade pertencente à Administração Pública Estadual de Minas Gerais responsável pela liberação dos recursos e análise da viabilidade técnica e jurídica do convênio, acompanhamento e fiscalização da execução do objeto conveniado e pela aprovação da prestação de contas dos recursos utilizados;
-
-**Convenente** é a Administração Pública Municipal, a Entidade Sem Fins Lucrativos ou a Entidade Pública responsável pela execução do objeto conveniado.
-
-**Interveniente** pode participar do convênio auxiliando em sua execução, seja por meio do fornecimento de recursos ou assumindo obrigações de execução do convênio de forma indireta.&#x20;
+* **Concedente** é o órgão ou entidade pertencente à Administração Pública Estadual de Minas Gerais responsável pela liberação dos recursos e análise da viabilidade técnica e jurídica do convênio, acompanhamento e fiscalização da execução do objeto conveniado e pela aprovação da prestação de contas dos recursos utilizados;
+* **Convenente** é a Administração Pública Municipal, a Entidade Sem Fins Lucrativos ou a Entidade Pública responsável pela execução do objeto conveniado e por prestar contas dos recursos recebidos;
+* **Interveniente** pode participar do convênio auxiliando em sua execução, seja por meio do fornecimento de recursos ou assumindo obrigações de execução do convênio de forma indireta.&#x20;
 {% endhint %}

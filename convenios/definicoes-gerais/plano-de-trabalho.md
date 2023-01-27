@@ -6,7 +6,7 @@ O plano de trabalho é o documento que descreve o conteúdo da proposta aprovada
 
 É um instrumento que visa orientar a execução do convênio de saída. Ele deverá conter, de forma geral, elementos que descrevam todas as etapas, insumos e cronogramas do convênio de saída, dados que embasarão a prestação de contas.
 
-Um bom plano de trabalho deve permitir ao convenente executar um projeto com pouco recurso e, ao mesmo tempo, gerar grandes benefícios à comunidade.&#x20;
+Um bom plano de trabalho deve permitir ao convenente executar um projeto com poucos recursos e, ao mesmo tempo, gerar grandes benefícios à comunidade.&#x20;
 
 Um bom plano de trabalho significa que foi construído de forma planejada!&#x20;
 
@@ -16,7 +16,7 @@ Dúvidas com outros termos, consultar o Capítulo l do Decreto n° 46.319/2013.&
 
 ## Status do Plano de Trabalho
 
-* Análise Técnica ;
+* Análise Técnica;
 * Adequação;
 * Análise Jurídica;
 * Envio para o Encaminhador;

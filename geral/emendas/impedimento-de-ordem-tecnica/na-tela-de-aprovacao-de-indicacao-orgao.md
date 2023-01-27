@@ -10,7 +10,7 @@
 
 Selecione uma indicação e clique no botão de Impedimento de Ordem Técnica, conforme instruções na imagem abaixo.
 
-![](<../../../.gitbook/assets/image (182) (1).png>)
+![](<../../../.gitbook/assets/image (182).png>)
 
 3\. Na próxima tela que será exibida, o usuário deverá selecionar a classificação do impedimento e colocar a justificativa, conforme instruções na imagem abaixo.
 

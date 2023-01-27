@@ -6,7 +6,7 @@ Em regra, apenas convênios vigentes podem ser aditados. Nessa perspectiva, em p
 
 A convalidação deve ser cadastrada pelo usuário com o perfil de `Encaminhador`, e só estará habilitada se o convênio estiver com a vigência encerrada.
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (182) (1).png" alt=""><figcaption></figcaption></figure>
 
 A opção de convalidação só estará disponível se o convênio estiver vencido. O restante das opções para alterações estarão disponíveis quando a convalidação for aprovada, mesmo com a vigência encerrada.
 

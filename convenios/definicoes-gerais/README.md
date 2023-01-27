@@ -8,7 +8,7 @@ Dessa forma, os convênios são acordos entre duas partes (sendo uma delas públ
 
 ## Convênios são contratos?&#x20;
 
-De acordo com o Acórdão do Tribunal de Contas da União n°1.457/2009, a principal diferença entre convênios e contratos está no interesse dos participantes: "no contrato, os interesses das partes são divergentes e opostos, ao passo que nos convênios os partícipes têm interesses comuns e coincidentes" (TCU, 2009).&#x20;
+De acordo com o Acórdão do Tribunal de Contas da União n° 1.457/2009, a principal diferença entre convênios e contratos está no interesse dos participantes: "no contrato, os interesses das partes são divergentes e opostos, ao passo que nos convênios os partícipes têm interesses comuns e coincidentes" (TCU, 2009).&#x20;
 
 A Professora de Direito Administrativo Di Pietro (2012) aponta, ainda, outras características dos convênios que diferem estes dois instrumentos:&#x20;
 
@@ -21,11 +21,11 @@ Assim sendo, **convênios não são contratos**. É importante distinguir estes 
 {% hint style="danger" %}
 **Atenção**
 
-O art. 3° do Decreto n° 46.319/2013 lista todos os agentes que estão vedados de celebrar convênios. "E importante observar que a Lei Federal n° 13.019/2014, em seu art. 84 restringiu os convênios a entes federados Ou pessoas jurídicas a eles vinculadas e entidades filantrópicas e sem fins lucrativos que atuam de forma complementar ao Sistema Único de Saúde"&#x20;
+O art. 3° do Decreto n° 46.319/2013 lista todos os agentes que estão vedados de celebrar convênios. "É importante observar que a Lei Federal n° 13.019/2014, em seu art. 84 restringiu os convênios a entes federados ou pessoas jurídicas a eles vinculadas e entidades filantrópicas e sem fins lucrativos que atuam de forma complementar ao Sistema Único de Saúde"&#x20;
 {% endhint %}
 
 Excepcionalmente, em virtude do objeto do convênio, admite-se, ainda, uma terceira figura completamente distinta dos outros entes: o interveniente. Esta figura poderá participar do convênio auxiliando em sua execução, seja por meio do fornecimento de recursos, seja assumindo obrigações de execução do convênio de forma indireta.
 
-Podem ser intervenientes órgão, autarquia, fundação pública, empresa pública, sociedade de economia mista ou consórcio público.&#x20;
+Podem ser intervenientes órgão público, autarquia, fundação pública, empresa pública, sociedade de economia mista ou consórcio público.&#x20;
 
-Por exemplo, a empresa pública Minas Gerais Participações (MGI) celebrou diversos convênios de saída com os municípios. Nesses acordos, as secretarias (com papel de intervenientes) assumiam a obrigação de analisar tecnicamente e juridicamente a documentação para celebração, bem como de fiscalizar e analisar a prestação de contas do convênio.&#x20;
+Por exemplo, a Empresa pública Minas Gerais Participações (MGI) celebrou diversos convênios de saída com os municípios. Nesses acordos, as secretarias (com papel de intervenientes) assumiam a obrigação de analisar tecnicamente e juridicamente a documentação para celebração, bem como de fiscalizar e analisar a prestação de contas do convênio.&#x20;

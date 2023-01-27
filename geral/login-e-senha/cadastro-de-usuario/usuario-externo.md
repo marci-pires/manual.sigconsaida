@@ -40,7 +40,7 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 
 **6.** Digite sua senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**&#x20;
