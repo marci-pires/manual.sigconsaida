@@ -1,6 +1,6 @@
 # Plano de Aplicação de Recursos
 
-**1.** Expanda a aba **"Plano de Aplicação de Recursos"** e clique em `"Adicionar Demonstrativo de Recursos"`
+**1.** Expanda a aba **"Plano de Aplicação de Recursos"** e clique em `"Adicionar Demonstrativo de Recursos"`:
 
 ![](<../../../.gitbook/assets/image (142).png>)
 
@@ -12,7 +12,7 @@ Caso seja necessário **criar mais de um item**, clique quantas vezes forem nece
 
 Selecione o **tipo de despesa (5)** - Custos Indiretos, despesa com pessoal, diária de viagens, material, serviço ou outros.
 
-Clique no **ícone de "+" (6)** da coluna "Vincular Etapa"
+Clique no **ícone de "+" (6)** da coluna "Vincular Etapa":
 
 ![](<../../../.gitbook/assets/image (37).png>)
 
@@ -20,29 +20,23 @@ Clique no **ícone de "+" (6)** da coluna "Vincular Etapa"
 Vincular uma etapa no item é **fundamental** para deixar evidente como serão gastos os recursos no decorrer do período de vigência do convênio.
 {% endhint %}
 
-**3.** Na janela aberta, selecione (1) a etapa referente ao item (inserida anteriormente nas [**Metas do** **Cronograma de Execução**](broken-reference))
-
-Clique em `"+ Vincular"` (2)&#x20;
+**3.** Na janela aberta, selecione (1) a etapa referente ao item (inserida anteriormente nas [**Metas do** **Cronograma de Execução**](broken-reference)). Clique em `"+ Vincular"` (2):
 
 ![](<../../../.gitbook/assets/image (112).png>)
 
-**4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convênio
+**4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convênio:
 
 ![](<../../../.gitbook/assets/image (44).png>)
 
-**5.** A tela apresentará as aplicações dos recursos. Clique em `"Salvar"`
+**5.** Finalizadas as alterações a tela apresentará todas as aplicações dos recursos. Clique em `"Salvar"` para concluir o processo:
 
 ![](<../../../.gitbook/assets/image (350).png>)
 
-**6.** É fundamental que o **Valor Total** do Demonstrativo de recursos seja equivalente ao total do **"Valor total da proposta / Contrapartida",** do contrário o sistema irá mostrar uma mensagem de <mark style="color:red;">**Erro**</mark>
+**6.** É fundamental que o **Valor Total** do Demonstrativo de recursos seja equivalente ao total do **"Valor total da proposta / Contrapartida",** do contrário o sistema irá mostrar uma mensagem de <mark style="color:red;">**Erro**</mark>:
 
 ![](<../../../.gitbook/assets/image (107).png>)
 
-**7.** Os arquivos anexados aparecerão na **"Lista de Anexos"**.&#x20;
-
-Na coluna "Ação", clique no `ícone de LUPA` para visualizar.&#x20;
-
-Para excluir, clique no `ícone de "X"`
+**7.** Os arquivos anexados aparecerão na **"Lista de Anexos"**. Na coluna "Ação", clique no `ícone de LUPA` para visualizar. Para excluir, clique no `ícone de "X"`:
 
 ![](<../../../.gitbook/assets/image (127).png>)
 

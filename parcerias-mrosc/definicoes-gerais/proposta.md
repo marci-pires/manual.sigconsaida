@@ -30,8 +30,8 @@ Recomendamos acessar o link abaixo e ver as dicas contidas, para compreender mel
 
 Para ver o tutorial de como cadastrar a proposta no sistema Sigcon-saída acesse a aba abaixo.
 
-{% content-ref url="../../convenios/preparacao/cadastro-da-proposta.md" %}
-[cadastro-da-proposta.md](../../convenios/preparacao/cadastro-da-proposta.md)
+{% content-ref url="../../convenios/preparacao/cadastro-da-proposta-de-plano-de-trabalho.md" %}
+[cadastro-da-proposta-de-plano-de-trabalho.md](../../convenios/preparacao/cadastro-da-proposta-de-plano-de-trabalho.md)
 {% endcontent-ref %}
 
 Ao cadastrar a proposta, tenha todas as informações abaixo em mãos:

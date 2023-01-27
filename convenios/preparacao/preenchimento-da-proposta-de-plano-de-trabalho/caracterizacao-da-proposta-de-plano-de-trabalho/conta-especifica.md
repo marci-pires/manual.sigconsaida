@@ -1,6 +1,6 @@
 # Conta específica
 
-**1.** Preencha os campos com a conta específica&#x20;
+**1.** Preencha os campos com a conta específica:
 
 ![](<../../../../.gitbook/assets/image (61) (1).png>)
 

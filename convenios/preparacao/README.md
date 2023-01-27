@@ -1,10 +1,10 @@
 # Preparação
 
-A Preparação é uma **fase** do [Fluxo Simplificado](../definicoes-gerais/fluxo-simplificado.md) de [Convênios de Saída](../definicoes-gerais/convenios-de-saida.md) e possui um sub-processos próprios, conforme o fluxo abaixo:
+A Preparação é uma **fase** do [Fluxo Simplificado](../definicoes-gerais/fluxo-simplificado.md) de [Convênios de Saída](../definicoes-gerais/convenios-de-saida.md) e possui sub-processos próprios, conforme o fluxo abaixo:
 
 ![](<../../.gitbook/assets/image (369).png>)
 
-## Stauts de Proposta de Plano de Trabalho
+## Status de Proposta de Plano de Trabalho
 
 A proposta de plano de trabalho criada segue, de forma geral, o seguinte fluxo de status:
 

@@ -1,6 +1,6 @@
-# Preenchimento da Proposta
+# Preenchimento da Proposta de Plano de Trabalho
 
-**1.** Após o cadastro inicial, é necessário realizar o preenchimento da Proposta do Plano de Trabalho. O cabeçalho (em azul) apresenta as principais informações referentes à proposta
+**1.** Após o cadastro inicial, é necessário realizar o preenchimento da Proposta do Plano de Trabalho propriamente dita. O cabeçalho (em azul) apresenta as principais informações referentes à proposta:
 
 ![](<../../../.gitbook/assets/image (354).png>)
 
@@ -8,17 +8,17 @@
 **Problemas frequentes:**
 
 * Deficiência de detalhamento da proposta;
-* Imprecisão no orçamento (valores subestimado ou superestimados);
-* Falta de especificação da origem dos recursos de contrapartida .
+* Imprecisão no orçamento (valores subestimados ou superestimados);
+* Falta de especificação da origem dos recursos de contrapartida.
 
 **Preencha a proposta com atenção,  faça orçamentos e elabore os projetos.**
 {% endhint %}
 
 {% hint style="success" %}
-Um bom plano de trabalho deve permitir ao convenente executar um projeto com **pouco recurso** e, ao mesmo tempo, gerar **grandes benefícios** à comunidade. Para isso, é fundamental que seja construído de forma planejada.
+Um bom plano de trabalho deve permitir ao convenente executar um projeto com **poucos recursos** e, ao mesmo tempo, gerar **grandes benefícios** à comunidade. Para isso, é fundamental que seja construído de forma planejada.
 {% endhint %}
 
-**2.** O preenchimento da Proposta do Plano de Trabalho é realizado aba por aba. Siga as instruções correspondentes a cada uma
+**2.** O preenchimento da Proposta do Plano de Trabalho é realizado aba por aba. Siga as instruções correspondentes a cada uma:
 
 {% content-ref url="identificacao-do-concedente-orgao-ou-entidade-estadual-parceiro.md" %}
 [identificacao-do-concedente-orgao-ou-entidade-estadual-parceiro.md](identificacao-do-concedente-orgao-ou-entidade-estadual-parceiro.md)
@@ -32,8 +32,8 @@ Um bom plano de trabalho deve permitir ao convenente executar um projeto com **p
 [identificacao-do-interveniente.md](identificacao-do-interveniente.md)
 {% endcontent-ref %}
 
-{% content-ref url="caracterizacao-da-proposta/" %}
-[caracterizacao-da-proposta](caracterizacao-da-proposta/)
+{% content-ref url="caracterizacao-da-proposta-de-plano-de-trabalho/" %}
+[caracterizacao-da-proposta-de-plano-de-trabalho](caracterizacao-da-proposta-de-plano-de-trabalho/)
 {% endcontent-ref %}
 
 {% content-ref url="cronograma-de-execucao.md" %}

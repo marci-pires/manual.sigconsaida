@@ -4,15 +4,15 @@
 **Somente** o **Concedente/OEEP** pode inserir documentos.&#x20;
 {% endhint %}
 
-A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST".**
+A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST"**:
 
 ![](<../../.gitbook/assets/image (238).png>)
 
-**1.** Na tela da Proposta, desça a página e clique em `"Checklist - Anexar Documentação"`
+**1.** Na tela da Proposta, desça a página e clique em `"Checklist - Anexar Documentação"`:
 
 ![](<../../.gitbook/assets/image (348).png>)
 
-**2.** O **** Checklist possui uma lista com diversos tipos de arquivos solicitados. Para anexar estes arquivos, clique em "Incluir Documento"
+**2.** O **** Checklist possui uma lista com diversos tipos de arquivos solicitados. Para anexar estes arquivos, clique em "Incluir Documento":
 
 ![](<../../.gitbook/assets/image (370).png>)
 
@@ -24,7 +24,7 @@ Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalh
 ### Atenção! A anexação de documentos a ser realizada pelo convenente deve ser executada, necessariamente, pela aba de "Documentos Anexados"
 {% endhint %}
 
-**3.** Selecione o tipo de documento
+**3.** Selecione o tipo de documento:
 
 ![](<../../.gitbook/assets/image (318).png>)
 
@@ -46,6 +46,6 @@ As opções abaixo detalham o procedimento de cada tipo de documento:
 [documento-em-branco.md](../../processo-eletronico/aba-documentos-anexados/anexar-documento/documento-em-branco.md)
 {% endcontent-ref %}
 
-**4.** Após anexar todos os documentos necessários, clique em `"Salvar"`, na parte inferior da tela do Checklist
+**4.** Após anexar todos os documentos necessários, clique em `"Salvar"`, na parte inferior da tela do Checklist.
 
 ![](<../../.gitbook/assets/salvar (1).png>)
