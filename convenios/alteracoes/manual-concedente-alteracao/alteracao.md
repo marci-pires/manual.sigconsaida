@@ -1,10 +1,10 @@
 # Alteração Simples
 
-**1.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração"
+**1.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração":
 
 ![](<../../../.gitbook/assets/image (341).png>)
 
-**2.** O [SIGCON Saída](http://sigconsaida.mg.gov.br/) irá criar novo registro de alteração com uma cópia idêntica às informações já preenchidas no Convênio. Após as modificações, clique em `"Salvar Alterações e Encaminhar Proposta para Aprovação"`
+**2.** O [SIGCON Saída](http://sigconsaida.mg.gov.br/) irá criar novo registro de alteração com uma cópia idêntica às informações já preenchidas no Convênio. Após as modificações, clique em `"Salvar Alterações e Encaminhar Proposta para Aprovação"`:
 
 {% hint style="danger" %}
 **Altere somente as informações que necessitam de modificação** e mantenha inalteradas as que não precisarem.
@@ -16,21 +16,21 @@
 
 As alterações realizadas no registro da alteração são efetivadas apenas após a conclusão do tramite da alteração, quando esta assumir o status de “Vigente”. O trâmite da alteração varia conforme o tipo de alteração, que por sua vez é definido conforme os campos que o usuário edita na alteração.
 
-Via de regra, as alterações no plano de trabalho do convênio realizadas após a sua publicação são cadastradas como “Termo Aditivo”. Segundo o Art. 51, caput, do Decreto Estadual nº 46.319/2013
+Via de regra, as alterações no plano de trabalho do convênio realizadas após a sua publicação são cadastradas como “Termo Aditivo”. Segundo o Art. 51, caput, do Decreto Estadual nº 46.319/2013:
 
 >> Art. 51 – O convênio de saída e o respectivo plano de trabalho poderão ser alterados, **por termo aditivo**, mediante proposta de alteração de qualquer uma das partes e observadas as determinações da Lei de Diretrizes Orçamentárias.
 
-Excepcionalmente, nas hipóteses elencadas no art. 51, §5°, do Decreto Estadual nº 46.319/2013, dispensa-se a formalização de termo aditivo para alterar o convênio e o respectivo plano de trabalho, quais sejam
+Excepcionalmente, nas hipóteses elencadas no art. 51, §5°, do Decreto Estadual nº 46.319/2013, dispensa-se a formalização de termo aditivo para alterar o convênio e o respectivo plano de trabalho, quais sejam:
 
 >> &#x20;Art. 51, § 5º – Fica dispensada a formalização de termo aditivo quando a alteração do convênio de saída estiver relacionada à **dotação orçamentária**, aos **membros da equipe executora**, à **conta bancária específica**, bem como à **duração das etapas e ao demonstrativo de recursos contidos no plano de aplicação**, mediante proposta de alteração devidamente justificada
 
-Portanto, caso o usuário altere somente os campos mencionados no dispositivo supracitado, ao clicar em “Salvar e Encaminhar Alteração” o SIGCON Saída reconhecerá essa alteração como uma “Alteração Simples”. Caso contrário, a alteração será reconhecida como um “[Termo Aditivo](../manual-convenente-alteracao/termo-aditivo.md)”. O tramite da “Alteração Simples” é menor e mais célere do que o tramite do “Termo Aditivo”, conforme o fluxo abaixo
+Portanto, caso o usuário altere somente os campos mencionados no dispositivo supracitado, ao clicar em “Salvar e Encaminhar Alteração” o SIGCON Saída reconhecerá essa alteração como uma “Alteração Simples”. Caso contrário, a alteração será reconhecida como um “[Termo Aditivo](../manual-convenente-alteracao/termo-aditivo.md)”.&#x20;
 
-![Trâmite do Termo Aditivo](<../../../.gitbook/assets/image (66) (1).png>)
+O tramite da “Alteração Simples” é menor e mais célere do que o tramite do “Termo Aditivo”, conforme o fluxo abaixo:
 
 ![Trâmite de Alteração Simples](<../../../.gitbook/assets/image (122).png>)
 
-## Alguns pontos merecem ser ressaltados ao se cadastrar um termo aditivo ou uma alteração simples em um convênio
+## Alguns pontos merecem ser ressaltados ao se cadastrar um termo aditivo ou uma alteração simples em um convênio:
 
 1. Prorrogação da Vigência
 2. Apostila de dotação orçamentária
@@ -59,33 +59,33 @@ Caso seja proposta uma alteração que contenha um aumento de repasses, seja pel
 
 ![](<../../../.gitbook/assets/image (59).png>)
 
-Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimina o valor preenchido anteriormente e o valor que será acrescido com a alteração. Não obstante, é a edição dos valores é realizada da mesma forma que no plano de trabalho, clicando sobre o botão “Editar”
+Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimina o valor preenchido anteriormente e o valor que será acrescido com a alteração. Não obstante, a edição dos valores é realizada da mesma forma que no plano de trabalho, clicando sobre o botão “Editar”
 
 Caso haja um novo aporte de recursos por parte do concedente ou do convenente, também deve ser feito um reajuste na seção Cronograma de Desembolso, e no caso de um novo aporte pelo concedente também devem ser alteradas as informações da seção “Reservado ao Concedente”. O mesmo vale para a vinculação de indicações de emendas parlamentares.&#x20;
 
-Para incluir valores de emenda parlamentar em alterações, o procedimento é o mesmo realizado nas propostas de plano de trabalho, confira. Após a vinculação da indicação, o valor vinculado é utilizado na lista de tipos de atendimento da alteração
+Para incluir valores de emenda parlamentar, o procedimento é o mesmo realizado nas propostas de plano de trabalho. Após a vinculação da indicação, o valor vinculado é utilizado na lista de tipos de atendimento da alteração:
 
 ![](<../../../.gitbook/assets/image (58).png>)
 
 ### **Ampliação de metas**
 
-A ampliação de metas implica na edição das seções Cronograma de Execução e Plano de Aplicação de Recursos, e também está associada à utilização do saldo em conta. A título de exemplo, vejamos um determinado convênio cuja meta é a restauração de uma capela
+A ampliação de metas implica na edição das seções "Cronograma de Execução" e "Plano de Aplicação de Recursos", e também está associada à utilização do saldo em conta. A título de exemplo, vejamos um determinado convênio cuja meta é a restauração de uma capela:
 
 ![](<../../../.gitbook/assets/image (132).png>)
 
-Suponhamos que a execução do objeto foi finalizada e ainda restam recursos na conta bancária do convênio, e que o convenente perceba a necessidade de restaurar também a fachada da capela. Na proposta de alteração, deveria ser inserida uma nova etapa para a Meta 1 – Restauração da fachada
+Suponhamos que a execução do objeto foi finalizada e ainda restam recursos na conta bancária do convênio, e que o convenente perceba a necessidade de restaurar também a fachada da capela. Na proposta de alteração, deveria ser inserida uma nova etapa para a Meta 1 – Restauração da fachada:
 
 ![](<../../../.gitbook/assets/image (76).png>)
 
-Podemos supor também que o convenente pretenda fazer uma adaptação no acesso à capela, para facilitar a locomoção de cadeirantes. Nesse caso, deveria ser incluída outra meta (a descrição poderia ser “Melhorar a acessibilidade à capela”), cadastrado um novo tipo de atendimento para essa meta (como “Reforma ou Obra – Construção – Rampa de acesso”) e inseridas as etapas necessárias para a construção da rampa de acesso
+Podemos supor também que o convenente pretenda fazer uma adaptação no acesso à capela, para facilitar a locomoção de cadeirantes. Nesse caso, deveria ser incluída outra meta (a descrição poderia ser “Melhorar a acessibilidade à capela”), cadastrado um novo tipo de atendimento para essa meta (como “Reforma ou Obra – Construção – Rampa de acesso”) e inseridas as etapas necessárias para a construção da rampa de acesso:
 
 ![](<../../../.gitbook/assets/image (97).png>)
 
-O Plano de Aplicação de Recursos também deverá ser alterado caso o concedente e o convenente pretendam ampliar as metas do convênio. O saldo em conta e os rendimentos que serão utilizados para promover a ampliação de metas são provenientes de uma economia durante a execução do convênio, isto é, gastou-se menos do que se estimava necessário para executá-la. Assim, a utilização do saldo em conta e dos rendimentos implica necessariamente na correção dos valores que foram estimados durante a celebração do convênio. Por exemplo, suponhamos um único demonstrativo de recursos que representa as despesas previstas para a execução do objeto
+O "Plano de Aplicação de Recursos" também deverá ser alterado caso o concedente e o convenente pretendam ampliar as metas do convênio. O saldo em conta e os rendimentos que serão utilizados para promover a ampliação de metas são provenientes de uma economia durante a execução do convênio, isto é, gastou-se menos do que se estimava necessário para executá-la. Assim, a utilização do saldo em conta e dos rendimentos implica necessariamente na correção dos valores que foram estimados durante a celebração do convênio. Por exemplo, suponhamos um único demonstrativo de recursos que representa as despesas previstas para a execução do objeto:
 
 ![](<../../../.gitbook/assets/image (18).png>)
 
-Agora vamos imaginar que esse convênio possui um saldo remanescente na conta, o qual pretende-se utilizar para realizar novas despesas
+Agora vamos imaginar que esse convênio possui um saldo remanescente na conta, o qual pretende-se utilizar para realizar novas despesas:
 
 ![](<../../../.gitbook/assets/image (101).png>)
 

@@ -10,7 +10,7 @@
 * Aba "Reservado ao Concedente";&#x20;
 * Aba "Justificativa da Alteração".
 
-**2.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração"
+**2.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em situação de Convênio/Parceria e clique em "Alteração":
 
 ![](<../../../.gitbook/assets/image (343).png>)
 
@@ -22,7 +22,7 @@
 
 ![](<../../../.gitbook/assets/image (318) (1).png>)
 
-**5.** Na aba "Reservado ao Concedente", inclua a nova dotação (1) e remova (2) a dotação cadastrada anteriormente. O valor (R$) das Dotações deve ser o mesmo.
+**5.** Na aba "Reservado ao Concedente", inclua a nova dotação (1) e remova (2) a dotação cadastrada anteriormente. O valor (R$) das dotações deve ser o mesmo:
 
 ![](<../../../.gitbook/assets/image (332).png>)
 
@@ -30,23 +30,23 @@
 
 ![](<../../../.gitbook/assets/image (334) (1).png>)
 
-**7.** Após realizar corretamente as devidas alterações, clique em `“Salvar e encaminhar alterações”` no final da página
+**7.** Após realizar corretamente as devidas alterações, clique em `“Salvar e encaminhar alterações”` no final da página:
 
 ![](<../../../.gitbook/assets/image (352).png>)
 
-**8.** Será exibida uma mensagem de "Tipo de Alteração: **DOTAÇÃO ORÇAMENTÁRIA"**. Clique em `"Sim"`
+**8.** Será exibida uma mensagem de "Tipo de Alteração: **DOTAÇÃO ORÇAMENTÁRIA"**. Clique em `"Sim"`:
 
 ![](<../../../.gitbook/assets/image (331) (1).png>)
 
-**9.** A alteração passará para o status de "Validação da Alteração pelo Responsável Legal". É necessário **Representante Legal do Convenente/OSC Parceira assine a alteração**, clicando em `"Assinar Alteração"`
+**9.** A alteração passará para o status de "Validação da Alteração pelo Responsável Legal". É necessário **Representante Legal do Convenente/OSC Parceira assine a alteração**, clicando em `"Assinar Alteração"`:
 
 ![](<../../../.gitbook/assets/image (330) (1).png>)
 
-**10.** O Representante Legal deve inserir seus dados, senha do SIGCON Saída e clicar em `"Enviar"` para realizar a assinatura manual
+**10.** O Representante Legal deve inserir seus dados, senha do SIGCON Saída e clicar em `"Enviar"` para realizar a assinatura manual:
 
 ![](<../../../.gitbook/assets/image (302) (1).png>)
 
-**11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`
+**11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`:
 
 ![](<../../../.gitbook/assets/image (310) (1).png>)
 
