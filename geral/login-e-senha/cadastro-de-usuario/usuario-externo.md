@@ -14,7 +14,7 @@ O [REPRESENTANTE LEGAL](broken-reference) **PRECISA** ESTAR CADASTRADO NO SIGCON
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
@@ -40,7 +40,7 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 
 **6.** Digite sua senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**&#x20;

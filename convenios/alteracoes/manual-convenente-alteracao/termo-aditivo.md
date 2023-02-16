@@ -18,7 +18,7 @@ Caso chegue no status "Anexação do Instrumento" e já tenha anexado o document
 
 As alterações cadastradas serão exibidas na "Lista de Alterações", informando dados do cadastro, como data, usuário que cadastrou,  a situação da alteração do convênio e o tipo de alteração do convênio.&#x20;
 
-![](<../../../.gitbook/assets/image (534) (1).png>)
+![](<../../../.gitbook/assets/image (534).png>)
 
 {% hint style="danger" %}
 O sistema só permitirá a **criação de uma nova alteração** do Convênio se não houver outra alteração cadastrada, ou se as alterações anteriores tiverem sido concluídas ou canceladas.

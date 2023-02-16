@@ -8,7 +8,7 @@
 **Perfil necessário**: Cadastrador.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (534) (1).png>)
+![](<../../../.gitbook/assets/image (534).png>)
 
 As alterações cadastradas serão exibidas na "Lista de Alterações", informando dados do cadastro, data, usuário que cadastrou, o status da alteração do convênio e o tipo de alteração do convênio.&#x20;
 
