@@ -40,7 +40,7 @@ Dependendo da estrutura orgânica de cada concedente, a análise técnica pode s
 Perfil: Analista Técnico
 {% endhint %}
 
-![](<../../.gitbook/assets/image (534) (1).png>)
+![](<../../.gitbook/assets/image (534).png>)
 
 1. Escolha do tipo de análise
 2. Preenche o campo observação

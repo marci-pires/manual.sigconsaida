@@ -22,7 +22,7 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 Para Prefeito/Representante Legal do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Preencha todos os campos (CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail) e clique em `"Enviar"`
 
