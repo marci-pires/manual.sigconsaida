@@ -5,16 +5,16 @@ _Prorrogação de Vigência dos instrumentos jurídicos (convênios e parcerias)
 {% hint style="danger" %}
 Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=47890\&comp=\&ano=2020)de 19 de março de 2020.
 
-&#x20;                       [Decreto 47.891](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=47891\&comp=\&ano=2020) de 20 de março de 2020.
+&#x20;                   [Decreto 47.891](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=47891\&comp=\&ano=2020) de 20 de março de 2020.
 
-&#x20;                       [Resolução 5.554](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=5554\&ano=2020\&tipo=RAL) de 17 de julho de 2020.&#x20;
+&#x20;                   [Resolução 5.554](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=5554\&ano=2020\&tipo=RAL) de 17 de julho de 2020.&#x20;
 
-&#x20;                        [Decreto 48.114](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48114\&comp=\&ano=2020\&aba=js\_textoOriginal#texto) de 30 de dezembro de 2020.
+&#x20;                   [Decreto 48.114](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48114\&comp=\&ano=2020\&aba=js\_textoOriginal#texto) de 30 de dezembro de 2020.
 
-&#x20;                        [Decreto 48.162](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48162\&comp=\&ano=2021) de 25 de março de 2021.
+&#x20;                   [Decreto 48.162](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48162\&comp=\&ano=2021) de 25 de março de 2021.
 {% endhint %}
 
-1. Acessar o Menu `Convênios/Parcerias` . Selecionar o filtro `Convênio/Parceria` e o Status `SEM ALTERAÇÃO EM ANDAMENTO`. Clicar em `Pesquisar`.
+1. Acessar o Menu `Convênios/Parcerias` . Selecionar o filtro `Convênio/Parceria` e o Status `SEM ALTERAÇÃO EM ANDAMENTO`. Clicar em `Pesquisar`:
 
 ![](<../../../../.gitbook/assets/image (396) (1).png>)
 
@@ -53,7 +53,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 {% hint style="danger" %}
 **Regras:**
 
-1. Somente para instrumentos vencidos à partir de 16/03/2020.
+1. Aplicável somente para instrumentos vencidos à partir de 16/03/2020.
 2. Instrumentos que foram **convalidados** devem ser tramitados de **forma manual**.
 3. Instrumentos cujo gênero é EVENTOS devem ser tramitados de **forma manual**.
 4. Os instrumentos aptos tem que ter **fim da vigência** antes de 31/03/2021.

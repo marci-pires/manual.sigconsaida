@@ -6,7 +6,7 @@ Estes documentos serão inseridos por meio da aba "Documentos Anexados", localiz
 
 <figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-Essa ferramenta apresenta funções como anexar, excluir e assinar documentos. Utilize o menu ao lado esquerdo, ou clique no link desejado para acessar o tutorial da funcionalidade correspondente.
+Essa ferramenta apresenta funções como anexar, excluir e assinar documentos. Utilize o menu ao lado esquerdo ou clique no link desejado para acessar o tutorial da funcionalidade correspondente.
 
 {% content-ref url="anexar-documento/" %}
 [anexar-documento](anexar-documento/)
