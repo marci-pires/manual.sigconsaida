@@ -4,11 +4,11 @@
 Para **Representantes Legais** com o cadastro **regular** no **CAGEC o** processo de autorização de assinatura de "usuário e senha" é **automático**
 {% endhint %}
 
-**1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) com seu usuário e senha. No canto superior direito da tela, clique no **SEU NOME**:
+**1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) com seu usuário e senha. No canto superior direito da tela, clique no **SEU NOME**
 
 ![](<../../../.gitbook/assets/image (414).png>)
 
-**2.** Clique em `"Solicitar Assinatura com Usuário e Senha"`:
+**2.** Clique em `"Solicitar Assinatura com Usuário e Senha"`&#x20;
 
 ![](<../../../.gitbook/assets/image (361).png>)
 
@@ -16,7 +16,7 @@ Para **Representantes Legais** com o cadastro **regular** no **CAGEC o** process
 Mantenha seus dados sempre **atualizados**.
 {% endhint %}
 
-**3.** Selecione a caixa para solicitar assinatura eletrônica e clique em `"Enviar"`:
+**3.** Selecione a caixa para solicitar assinatura eletrônica e clique em `"Enviar"`&#x20;
 
 ![](../../../.gitbook/assets/assinatura\_eletronica\_solicitacao\_usuario\_interno.png)
 
@@ -40,9 +40,9 @@ Mantenha seus dados sempre **atualizados**.
 * **Qualidade da imagem.** O mais indicado é que a qualidade da imagem seja de 300dpi. Caso o texto da página tenha caracteres bem pequenos, configure a qualidade para que fique entre 400dpi e 600dpi. Dessa forma, os arquivos vão ficar perfeitos e todos conseguirão visualizar claramente as informações desejadas.
 {% endhint %}
 
-**5.** Após ter anexado os documentos, clique em `"Enviar para Aprovação"`.
+**5.** Após ter anexado os documentos, clique em `"Enviar para Aprovação"`
 
-Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas. Acompanhe pelo e-mail cadastrado no sistema.&#x20;
+Sua solicitação será encaminhada para análise e aprovação pelo Governo de Minas. Acompanhe pelo e-mail cadastro no sistema.&#x20;
 
 {% hint style="danger" %}
 Caso a análise seja **retornada com pendência,** você receberá um e-mail de alerta.
@@ -50,7 +50,7 @@ Caso a análise seja **retornada com pendência,** você receberá um e-mail de 
 
 ## Regularizar Pendência dos Documentos Anexados para Solicitação de Assinatura
 
-**1.** No canto superior direito da tela, clique no **SEU NOME**:
+**1.** No canto superior direito da tela, clique no **SEU NOME**
 
 ![](<../../../.gitbook/assets/image (409).png>)
 
@@ -58,7 +58,7 @@ Caso a análise seja **retornada com pendência,** você receberá um e-mail de 
 
 Se o Status estiver como **"Análise Aguardando Solução",** significa que há pendência precisando ser solucionada.
 
-Clique no ícone de lápis da coluna `"Ação"`<img src="../../../.gitbook/assets/botao_editar.png" alt="" data-size="original"> para abrir a solicitação e verificar quais documentos estão como **"REPROVADO"**:
+Clique no ícone de lápis da coluna `"Ação"`<img src="../../../.gitbook/assets/botao_editar.png" alt="" data-size="original"> para abrir a solicitação e verificar quais documentos estão como **"REPROVADO"**
 
 ![](<../../../.gitbook/assets/image (333).png>)
 
