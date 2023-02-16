@@ -3,7 +3,7 @@
 Para excluir documentos da aba de "Documentos Anexados" é necessário que aquele documento seja **REPROVADO** pelo usuário antes de prosseguir com a ação.
 
 {% hint style="danger" %}
-**Não poderão ser excluídos os documentos tipo:**
+**Não poderão ser excluídos os documentos de tipo:**
 
 * PROPOSTA DE PLANO DE TRABALHO
 * PLANO DE TRABALHO
@@ -19,19 +19,19 @@ Para excluir documentos da aba de "Documentos Anexados" é necessário que aquel
 * ATO ESPECIFICO DO DIRIGENTE MAXIMO
 * PUBLICAÇÃO DO INSTRUMENTO JURÍDICO
 * EXTRATO DO INSTRUMENTO GERADO PELO SISTEMA
-{% endhint %}
 
 #### Esses documentos são gerados pelo sistema e para modificar qualquer um deles é necessário fazer isso direto na aba correspondente.
+{% endhint %}
 
 {% hint style="info" %}
-Quando um instrumento passa de fase, **não é possível** mexer nos documentos anexados anteriormente.
+Quando um instrumento segue para a próxima fase, **não é possível** mexer nos documentos anexados anteriormente.
 {% endhint %}
 
 ## Fluxo para a exclusão dos documentos
 
 ![](../../.gitbook/assets/untitled-2x.png)
 
-**1.** Selecione o documento a ser excluído e na coluna `"Alterar Status"`, selecione a opção "**REPROVADO**"&#x20;
+**1.** Selecione o documento a ser excluído e na coluna `"Alterar Status"`, selecione a opção "**REPROVADO**":
 
 <figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,11 +41,11 @@ Quando um instrumento passa de fase, **não é possível** mexer nos documentos 
 
 <figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
-**3.** Salve as suas modificações clicando em `"Salvar alterações status"`
+**3.** Salve as suas modificações clicando em `"Salvar alterações status"`:
 
 <figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
-**4.** A coluna "Status Atual" o status estará como **"REPROVADO"**.  Em seguida, clique em `"Ações > Excluir documento"` e confirme a exclusão
+**4.** A coluna "Status Atual" o status estará como **"REPROVADO"**.  Em seguida, clique em `"Ações > Excluir documento"` e confirme a exclusão:
 
 <figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
