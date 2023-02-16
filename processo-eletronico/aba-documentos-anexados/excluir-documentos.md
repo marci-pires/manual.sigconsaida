@@ -33,21 +33,21 @@ Quando um instrumento passa de fase, **não é possível** mexer nos documentos 
 
 **1.** Selecione o documento a ser excluído e na coluna `"Alterar Status"`, selecione a opção "**REPROVADO**"&#x20;
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Clique em `"Justificativa de documento(s) reprovado(s)"` e preencha o campo. Em seguida, clique em `"Salvar justificativa"`&#x20;
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Salve as suas modificações clicando em `"Salvar alterações status"`
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 **4.** A coluna "Status Atual" o status estará como **"REPROVADO"**.  Em seguida, clique em `"Ações > Excluir documento"` e confirme a exclusão
 
-<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Se necessário, **atualize** a página para que as alterações sejam apresentadas corretamente.

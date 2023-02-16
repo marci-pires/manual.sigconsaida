@@ -63,13 +63,13 @@ Da mesma forma, é importante entender o que é o sistema e nele estar regular p
 
 A OSC que esteja omissa no dever de prestar contas de parceria anteriormente celebrada ou tenha tido as contas rejeitadas pela Administração Pública do Poder Executivo Estadual é bloqueada na tabela de credores do Siafi-MG, ficando impedida de celebrar novas parcerias do MROSC e de receber recursos estaduais, nos termos do art. 39 da Lei Federal nº 13.019/2014 e da LDO:
 
-![](<../../.gitbook/assets/image (392).png>)
+![](<../../.gitbook/assets/image (511).png>)
 
 {% hint style="success" %}
 Caso a OSC esteja bloqueada no Siafi-MG, o motivo do bloqueio poderá ser verificado no próprio Certificado de Registro Cadastral - CRC emitido pelo Cagec.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (462).png>)
+![](<../../.gitbook/assets/image (304).png>)
 
 ## Cadastro Informativo de Inadimplência em relação à Administração Pública do Estado de Minas - Cadin
 
@@ -79,7 +79,7 @@ O Cadin-MG tem a finalidade de fornecer à Administração Pública Estadual dir
 
 A situação da OSC no Cadin pode ser consultada por meio do seguinte link: [http://consultapublica.fazenda.mg.gov.br/ConsultaPublicaCADIN/](http://consultapublica.fazenda.mg.gov.br/ConsultaPublicaCADIN/)&#x20;
 
-![](<../../.gitbook/assets/image (457).png>)
+![](<../../.gitbook/assets/image (452).png>)
 
 ## Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública do Poder Executivo Estadual - Cafimp e Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas - Cepim
 
@@ -89,8 +89,8 @@ Nessa perspectiva, o art. 35 do [Decreto nº 47.132/2017](https://www.almg.gov.b
 
 A situação da OSC no Cafimp pode ser consultada no [Portal de Compras MG](http://compras.mg.gov.br/):
 
-![](<../../.gitbook/assets/image (470).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 Ao mesmo tempo, a OSC não pode estar registrada no Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas (Cepim), nos termos do inciso V do art. 39 da Lei Federal nº 13.019/2014, e do Decreto Federal nº 7.592, de 28 de outubro de 2011. Esse cadastro pode ser consultado no [Portal da Transparência - Controladoria Geral da União](https://www.portaltransparencia.gov.br/sancoes/cepim?ordenarPor=nome&-\&direcao=asc) :
 
-![](<../../.gitbook/assets/image (416).png>)
+![](<../../.gitbook/assets/image (518).png>)

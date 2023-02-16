@@ -25,29 +25,29 @@ description: >-
 \
 `Emendas > Gerenciar Indicações > Controle de Execução`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 #### **Nessa tela basta escolher o filtro para pesquisa e clicar no botão `Pesquisar`.**
 
 #### **É possível pesquisar utilizando como filtro: Ano Exercício, Parlamentar, Nº de Controle de Execução ou Nº da Indicação.**
 
-![](<../../.gitbook/assets/image (262) (1).png>)
+![](<../../.gitbook/assets/image (262).png>)
 
 #### **Cadastrar Controle de Execução**
 
 `Clique no botão "Cadastrar Controle Execução"`
 
-![](<../../.gitbook/assets/image (265) (1).png>)
+![](<../../.gitbook/assets/image (265).png>)
 
 `Na próxima tela selecione o Tipo de Indicação`
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (2).png>)
 
 ### 1. Aplicação Direta - Caixa Escolar
 
 **1.1.** Selecione o Tipo de Indicação `Aplicação Direta - Caixa Escolar`:
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 **1.2.** Vinculação da indicação:
 
@@ -61,7 +61,7 @@ description: >-
 
 &#x20;    **1.2.5.** Clique em `Salvar`
 
-![](<../../.gitbook/assets/image (237) (1).png>)
+![](<../../.gitbook/assets/image (237).png>)
 
 {% hint style="warning" %}
 **Atenção: O valor utilizado por padrão será o saldo da indicação**
@@ -103,7 +103,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 **2.5.** Informe o Nº do Processo de Compra / Nº do Registro de Preços (opcional) e a Data de Referência do Status, caso o mesmo tenha sido preenchido (obrigatório):
 
-![](<../../.gitbook/assets/image (250) (1).png>)
+![](<../../.gitbook/assets/image (250).png>)
 
 **2.6.** Os campos `Nº Contrato (SIAD)`, `Nº Autorização de (AF) ou Ordem de Serviço (OS)` , `Nº SEI Compras` e `Nº SEI Compras` são opcionais:
 
@@ -113,7 +113,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 **2.7.** Cadastrar o nº de Empenho:
 
-![](<../../.gitbook/assets/image (235) (1).png>)
+![](<../../.gitbook/assets/image (235).png>)
 
 > 1. **É possível o cadastro de mais de 1 empenho**
 > 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
@@ -128,7 +128,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 &#x20;    **2.8.4.** Clique em `Salvar`
 
-![](<../../.gitbook/assets/image (233) (1).png>)
+![](<../../.gitbook/assets/image (233).png>)
 
 {% hint style="warning" %}
 **Atenção: O valor utilizado por padrão será o saldo da indicação**
@@ -179,7 +179,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 &#x20;**3.1.5.** Cadastrar o `Nº de Empenho` :
 
-![](<../../.gitbook/assets/image (235) (1).png>)
+![](<../../.gitbook/assets/image (235).png>)
 
 > 1. **É possível o cadastro de mais de 1 empenho.**
 > 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
@@ -194,7 +194,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 &#x20;    **3.1.6.4.** Clique em `Salvar`
 
-![](<../../.gitbook/assets/image (236) (1).png>)
+![](<../../.gitbook/assets/image (236).png>)
 
 {% hint style="warning" %}
 **Atenção: O valor utilizado por padrão será o saldo da indicação**
@@ -220,11 +220,11 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 **3.2.** `Sem processo de compra`**:**
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (169) (2).png>)
 
 &#x20;    **3.2.1.** Cadastrar o `Nº de Empenho`:
 
-![](<../../.gitbook/assets/image (155).png>)
+![](<../../.gitbook/assets/image (155) (2).png>)
 
 > 1. **É possível o cadastro de mais de 1 empenho .**
 > 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
@@ -265,11 +265,11 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 ### 4. Outros Instrumentos
 
-![](<../../.gitbook/assets/image (252) (1).png>)
+![](<../../.gitbook/assets/image (252).png>)
 
 **4.1.** Caso o `Tipo de Instrumento` selecionado seja `Termo de Descentralização de Crédito Orçamentário (TDCO)` é obrigatório selecionar `SIM` ou `NÂO` para o campo `Processo de compras do órgão Gerenciador do Crédito`. Necessário também escolher o Órgão ou Entidade Estadual:
 
-![](<../../.gitbook/assets/image (375) (1).png>)
+![](<../../.gitbook/assets/image (375).png>)
 
 &#x20;**4.2.** Caso seja marcado `SIM` para Registro de Preços, informe o Status do Registro de Preços:
 
@@ -289,7 +289,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 **4.5.** Cadastrar o `Nº de Empenho`:
 
-![](<../../.gitbook/assets/image (248) (1).png>)
+![](<../../.gitbook/assets/image (248).png>)
 
 > 1. **É possível o cadastro de mais de 1 empenho .**
 > 2. **O nº de empenho é obrigatório se o Valor Empenhado for maior que 0.**
@@ -304,7 +304,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 &#x20;    **4.6.4.** Clique em `Salvar`
 
-![](<../../.gitbook/assets/image (234) (1).png>)
+![](<../../.gitbook/assets/image (234).png>)
 
 {% hint style="warning" %}
 **Atenção: O valor utilizado por padrão será o saldo da indicação**
@@ -342,7 +342,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 
 &#x20;    **5.1.4.** Clique em `Salvar`
 
-![](<../../.gitbook/assets/image (251) (1).png>)
+![](<../../.gitbook/assets/image (251).png>)
 
 {% hint style="warning" %}
 **Atenção: O valor utilizado por padrão será o saldo da indicação**
@@ -388,7 +388,7 @@ Caso o `Valor Utilizado` seja inferior ao `Valor Indicado`, será necessário o 
 
 6.1. Para todos os tipos de indicação, é possível o upload de dados em massa. Para isso, acesso o Controle de Execução, e clique na aba `Importação de dados`:
 
-![](<../../.gitbook/assets/image (365) (1).png>)
+![](<../../.gitbook/assets/image (365).png>)
 
 6.2. Faça a escolha no Tipo de Importação a ser realizada: `Empenho ou Indicação`:
 
@@ -398,7 +398,7 @@ Caso o `Valor Utilizado` seja inferior ao `Valor Indicado`, será necessário o 
 
 6.2.2. **Planilha Indicação:** com essa planilha é possível a importação do nº de indicação, valor empenhado e valor pago. O preenchimento pode ser realizado em somente uma planilha para todas indicações em diferentes Controles de Execução, mas a importação tem que ser realizada em cada Controle de Execução:
 
-![](<../../.gitbook/assets/image (367) (1).png>)
+![](<../../.gitbook/assets/image (367).png>)
 
 6.3. Após o preenchimento da planilha, faça o upload da mesma. Clique em `Procurar arquivo` e busque pela planilha a ser importada. Após isso, clique no botão `Importar`. Após a importação clique no Botão `Salvar` do Controle de Execução.
 

@@ -28,7 +28,7 @@ No menu de indicação de recursos são exibidos os incisos do parlamentar, assi
 
 **1.** A busca pode ser feita pelo nome do responsável (**1**), pelo n**º** do inciso ou nº da indicação (**2**).
 
-![](<../../.gitbook/assets/image (423) (1).png>)
+![](<../../.gitbook/assets/image (423).png>)
 
 **2.** Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
 
@@ -48,7 +48,7 @@ Se o parlamentar for o responsável pelo Bloco na tabela de resultados serão mo
 
 **2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis <img src="../../.gitbook/assets/icone_lapis.jpg" alt="" data-size="original"> na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
 
-![](<../../.gitbook/assets/11 (1).png>)
+![](../../.gitbook/assets/11.png)
 
 {% hint style="info" %}
 As **formas de execução** que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
@@ -66,11 +66,11 @@ Formas de Execução:&#x20;
 
 **3.** Como exemplo, após clicar em editar <img src="../../.gitbook/assets/icone_lapis.jpg" alt="" data-size="original">&#x20;
 
-![](<../../.gitbook/assets/12 (1).png>)
+![](../../.gitbook/assets/12.png)
 
 **4.** A seguinte tela aparece com as opções permitidas para o inciso S745
 
-![](<../../.gitbook/assets/image (414) (1).png>)
+![](<../../.gitbook/assets/image (414).png>)
 
 ## Forma de Execução
 

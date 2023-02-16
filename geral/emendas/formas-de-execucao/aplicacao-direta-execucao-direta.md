@@ -40,11 +40,11 @@ A indicação do tipo “Execução Direta” consiste na alocação de recursos
 
 **4.** Caso haja uma indicação sem os dados preenchidos, o sistema verificará que o preenchimento está incompleto e não permitirá que o usuário salve os dados das demais indicações.&#x20;
 
-![](<../../../.gitbook/assets/13 (2).png>)
+![](../../../.gitbook/assets/13.png)
 
 **5.** Por outro lado, se o preenchimento for realizado de forma correta, o sistema exibirá uma mensagem de confirmação do envio.
 
-![](<../../../.gitbook/assets/14 (1).png>)
+![](<../../../.gitbook/assets/14 (1) (1).png>)
 
 {% hint style="info" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.

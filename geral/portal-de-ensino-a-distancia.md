@@ -1,8 +1,8 @@
 # Portal de Ensino a Distância
 
-A Superintendência Central de Convênios e Parcerias (SCCP) disponibilizou um portal de cursos e e treinamentos realizados com o intuito de orientar o uso no sistema SIGCON Saída, sobre Emendas Parlamentares e Impositivas, atualização de decretos e mais.
+A Superintendência Central de Convênios e Parcerias (SCCP) disponibilizou um portal de cursos e treinamentos realizados com o intuito de orientar sobre as principais temáticas afetas à temática de transferência de recursos, contratos e parcerias. No portal é possível encontrar cursos sobre o uso do sistema SIGCON Saída, Emendas Parlamentares e Impositivas,  atualização de decretos, dentre outros.
 
-Acesse e inscreva-se gratuitamente.
+Acesse e inscreva-se gratuitamente!
 
 <details>
 

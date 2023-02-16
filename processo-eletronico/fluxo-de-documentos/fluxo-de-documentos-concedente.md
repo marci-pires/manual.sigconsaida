@@ -6,14 +6,14 @@ description: Manual para órgãos e entidades públicas estaduais
 
 **1.** Acesse a aba [Documentos Anexados](../aba-documentos-anexados/) com o perfil de Concedente / OEEP
 
-![Tela da aba "Documentos Anexados"](<../../.gitbook/assets/image (470) (1).png>)
+![Tela da aba "Documentos Anexados"](<../../.gitbook/assets/image (470).png>)
 
 ## ATENÇÃO: Permissão ao Convenente
 
 * Marcado como "<mark style="color:green;">**SIM**</mark>": o convenente/OSC parceira poderá encaminhar novas documentações para análise;
 * Marcado como "<mark style="color:red;">**NÃO**</mark>": o convenente/OSC parceira pode anexar a documentação, porém **não conseguirá encaminhar para aprovação** do órgão ou entidade pública estadual.
 
-![](<../../.gitbook/assets/image (468) (1).png>)
+![](<../../.gitbook/assets/image (468).png>)
 
 ## Fluxo de Validação de um Documento
 

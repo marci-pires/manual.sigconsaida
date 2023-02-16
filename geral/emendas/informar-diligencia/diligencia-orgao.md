@@ -16,7 +16,7 @@ description: >-
 
 2\. Na próxima tela será exiba a lista das Indicações do órgão:
 
-![](<../../../.gitbook/assets/image (188) (1).png>)
+![](<../../../.gitbook/assets/image (188).png>)
 
 3\. Selecione uma indicação e clique no botão "Informar Diligência"  para informar a diligência:
 
@@ -24,7 +24,7 @@ description: >-
 
 4\. Uma nova tela será aberta com as informações da indicação selecionada, um campo de texto para escrever e um botão para Enviar a diligência  conforme imagem abaixo:
 
-![](<../../../.gitbook/assets/image (191) (1).png>)
+![](<../../../.gitbook/assets/image (191).png>)
 
 5\. Após clicar no botão Enviar diligência um número de controle será gerado e exibido na coluna número da diligência na tabela com informações da indicação  conforme a imagem abaixo:
 
@@ -32,7 +32,7 @@ description: >-
 Nesse ponto sua diligência já foi registrada e um comunicado será enviado por e-mail ao parlamentar.&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (192) (1).png>)
+![](<../../../.gitbook/assets/image (192).png>)
 
 > Para fechar a janela clique no botão voltar&#x20;
 
@@ -42,7 +42,7 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 É permitido informar diligência nos seguintes status:
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (205).png>)
+![](<../../../.gitbook/assets/image (205) (1).png>)
 
 1. Acesse o submenu "Pesquisar Proposta/ Plano de Trabalho / Convênio / Parceria" no menu "Convênios / Parcerias".
 
@@ -50,7 +50,7 @@ Nesse ponto sua diligência já foi registrada e um comunicado será enviado por
 
 2\. Pesquise o plano de trabalho.
 
-![Digite o número do plano desejado e clique em pesquisar  ](<../../../.gitbook/assets/image (209).png>)
+![Digite o número do plano desejado e clique em pesquisar  ](<../../../.gitbook/assets/image (209) (1).png>)
 
 3\.  Clique sobre o número do plano de trabalho para abri-lo:
 
@@ -75,7 +75,7 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)
 
 ## Gerenciar a diligências
 
@@ -83,7 +83,7 @@ Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaix
    \
    `Emendas > Gerenciar Indicações > Gerenciar Diligência`, conforme a imagem abaixo:
 
-![](<../../../.gitbook/assets/image (213).png>)
+![](<../../../.gitbook/assets/image (213) (1).png>)
 
 1. O menu "Gerenciar diligências" também está disponível na tela de "Aprovação de Indicações - Órgão",  conforme imagem abaixo:
 
@@ -91,7 +91,7 @@ Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaix
 
 2\.  Após clicar no botão uma nova tela será aberta listando todas as diligencias informadas:
 
-![](<../../../.gitbook/assets/image (172).png>)
+![](<../../../.gitbook/assets/image (172) (1).png>)
 
 3\.  Utilização do filtro de pesquisa
 
@@ -113,17 +113,17 @@ Os seguintes campos estão habilitados para fazer o filtro:
 Para visualizar a justificativa da diligência clica no link "Abrir diligência" conforme imagem abaixo:
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40) (1).png>)
 
 > Um janela sera aberta com a justificativa
 
 5\.  Fechar um diligência
 
-| Para fechar uma diligência clica no seguinte botão![](<../../../.gitbook/assets/image (125).png>)correspondente a diligência a ser fechada                                     |
+| Para fechar uma diligência clica no seguinte botão![](<../../../.gitbook/assets/image (125) (1).png>)correspondente a diligência a ser fechada                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Depois que a diligencia é fechada um e-mail será enviado para o parlamentar com informações do fechamento da diligência  e o botão ficará desabilitado conforme imagem abaixo: |
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (74) (1).png>)
 
 6\. Visualizar Diligências no Plano de Trabalho
 
@@ -132,4 +132,4 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)

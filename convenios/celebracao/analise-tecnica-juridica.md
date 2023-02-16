@@ -54,7 +54,7 @@ Perfil: Analista Técnico
 
 2\. Alerta de quebra de assinatura
 
-![](<../../.gitbook/assets/image (528) (1).png>)
+![](<../../.gitbook/assets/image (528).png>)
 
 ## Invalidar análise
 

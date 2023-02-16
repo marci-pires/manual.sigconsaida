@@ -44,8 +44,8 @@ Tabela de Conversão de Unidades
 
 **2.** Clique em `“Sim”` no _pop-up_ de confirmação:
 
-![](<../../../../.gitbook/assets/image (90).png>)
+![](<../../../../.gitbook/assets/image (90) (1).png>)
 
 **3.** A Adequação do Convênio mudará para o status **“VIGENTE”** e o processo será concluído:
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (82) (1).png>)

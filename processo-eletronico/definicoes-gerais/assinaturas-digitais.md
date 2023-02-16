@@ -16,7 +16,7 @@ Ou seja, quando um cadastro é feito em algum sistema eletrônico e você utiliz
 
 São as que utilizam certificado digital e estão de acordo com o processo de certificação disponibilizado pela ICP-Brasil e presumem-se verdadeiros em relação aos signatários ( § 1o, Art.10  [MEDIDA PROVISÓRIA No 2.200-2, DE 24 DE AGOSTO DE 2001](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/mpv%202.200-2-2001?OpenDocument)**)**
 
-![](<../../.gitbook/assets/image (381) (1).png>)
+![](<../../.gitbook/assets/image (381).png>)
 
 ## Peticionamento
 

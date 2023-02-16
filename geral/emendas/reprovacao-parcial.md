@@ -12,13 +12,13 @@ Para utilização da funcionalidade de reprovação, acessar o Controle de Execu
 
 Acessar o menu `Emendas > Gerenciar Indicações > Controle de Execução`
 
-![](<../../.gitbook/assets/image (369) (1).png>)
+![](<../../.gitbook/assets/image (369).png>)
 
 ### 2º passo
 
 Acessar o Controle de Execução onde contenha a indicação desejada para operacionalização da **Reprovação Parcial** e ir para a aba `Vinculação Indicação`:
 
-![](<../../.gitbook/assets/image (373) (1).png>)
+![](<../../.gitbook/assets/image (373).png>)
 
 {% hint style="warning" %}
 **Importante:** A reprovação parcial é feita de maneira individual. Ou seja: se no mesmo controle de execução houver mais de 1 indicação a ser reprovada parcialmente, a operação tem que ser realizada para cada indicação.
@@ -28,7 +28,7 @@ Acessar o Controle de Execução onde contenha a indicação desejada para opera
 
 &#x20;A **Reprovação Parcial** só pode ser realizada se a indicação estiver no status Aprovada ou Enviada para a SEE (status de indicação do Tipo Aplicação Direta - Caixa Escolar):
 
-![](<../../.gitbook/assets/image (371) (1).png>)
+![](<../../.gitbook/assets/image (371).png>)
 
 ### 4º passo&#x20;
 
@@ -44,19 +44,19 @@ Para que haja a **Reprovação Parcial** é necessário que o `Valor Empenhado <
 
 Na próxima tela dê o aceite no `Termo de Aceite para o Encerramento da Indicação no Processo de Controle de Execução`:
 
-![](<../../.gitbook/assets/image (372) (1).png>)
+![](<../../.gitbook/assets/image (372).png>)
 
 ### 6º passo
 
 Clique em `Encerrar o Processo de Execução`:
 
-![](<../../.gitbook/assets/image (374) (1).png>)
+![](<../../.gitbook/assets/image (374).png>)
 
 ### 7º passo
 
 Confirme a **Reprovação Parcial** clicando na tela conforme abaixo:
 
-![](<../../.gitbook/assets/image (370) (1).png>)
+![](<../../.gitbook/assets/image (370).png>)
 
 ### 8º passo
 
@@ -72,4 +72,4 @@ Será exibida a mensagem de Operação Realizada com Sucesso:
 
 Após a **Reprovação Parcial**, o ícone de lápis se transformará em uma lupa onde é possível acessar os dados da **Reprovação Parcial**
 
-![](<../../.gitbook/assets/image (368) (1).png>)
+![](<../../.gitbook/assets/image (368).png>)

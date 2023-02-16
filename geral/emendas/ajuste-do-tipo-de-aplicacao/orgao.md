@@ -17,11 +17,11 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 **1.** O retorno do tipo de atendimento é realizada na tela de Aprovação de Indicações - Órgão. Primeiramente, o usuário deverá acessar o menu `Emendas > Gerenciar Indicações > Aprovação de Indicações - Órgão`.
 
-![](<../../../.gitbook/assets/image (441).png>)
+![](<../../../.gitbook/assets/image (441) (1).png>)
 
 &#x20; **2.** Na próxima tela você vai selecionar a indicação desejada e clicar no botão `Retornar Indicação(ões) para Ajuste Parlamentar`.
 
-![](<../../../.gitbook/assets/image (421) (1).png>)
+![](<../../../.gitbook/assets/image (421).png>)
 
 **3.** Na próxima tela o campo **Justificativa** precisa ser preenchido conforme imagem abaixo:
 

@@ -28,7 +28,7 @@ Importante
    \
    `Transferência Especial > Gerir transferência Especial`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../.gitbook/assets/image (144) (1).png>)
 
 &#x20;    2\.  Na próxima tela as seguintes funcionalidades estarão disponíveis:
 
@@ -46,7 +46,7 @@ e. Gerar a declaração de transferência
 f. Visualizar as transferências
 {% endhint %}
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 3\. Cadastrar data de publicação para todas as transferências
 
@@ -78,7 +78,7 @@ g. Status
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 5\.  Cadastrar data de publicação
 
@@ -86,7 +86,7 @@ Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 Selecione a transferência e digite a data no campo data de publicação e clique no botão salvar
 {% endhint %}
 
-![](<../../.gitbook/assets/image (137).png>)
+![](<../../.gitbook/assets/image (137) (1).png>)
 
 6\.  Enviar para o SIAFI
 
@@ -100,7 +100,7 @@ Selecione uma transferência e clique no botão Ações e no menu Enviar para o 
 Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIAFI"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (3).png>)
 
 {% hint style="success" %}
 **ATENÇÃO: Item 7 - Orientações para emissão da Declaração pelo Parlamentar**
@@ -112,7 +112,7 @@ Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIA
 Selecione uma transferência e clique no botão `Ações` e no menu `Gerar Declaração`
 {% endhint %}
 
-![](<../../.gitbook/assets/image (445).png>)
+![](<../../.gitbook/assets/image (445) (1).png>)
 
 {% hint style="success" %}
 A Declaração só é emitida se o status da Transferência Especial for **Registrado no SIAFI.**

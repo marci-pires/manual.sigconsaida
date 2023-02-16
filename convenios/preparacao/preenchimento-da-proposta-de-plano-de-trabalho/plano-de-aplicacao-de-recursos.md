@@ -14,7 +14,7 @@ Selecione o **tipo de despesa (5)** - Custos Indiretos, despesa com pessoal, di�
 
 Clique no **ícone de "+" (6)** da coluna "Vincular Etapa":
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 {% hint style="info" %}
 Vincular uma etapa no item é **fundamental** para deixar evidente como serão gastos os recursos no decorrer do período de vigência do convênio.
@@ -22,7 +22,7 @@ Vincular uma etapa no item é **fundamental** para deixar evidente como serão g
 
 **3.** Na janela aberta, selecione (1) a etapa referente ao item (inserida anteriormente nas [**Metas do** **Cronograma de Execução**](broken-reference)). Clique em `"+ Vincular"` (2):
 
-![](<../../../.gitbook/assets/image (112).png>)
+![](<../../../.gitbook/assets/image (112) (1).png>)
 
 **4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convênio:
 
@@ -30,13 +30,13 @@ Vincular uma etapa no item é **fundamental** para deixar evidente como serão g
 
 **5.** Finalizadas as alterações a tela apresentará todas as aplicações dos recursos. Clique em `"Salvar"` para concluir o processo:
 
-![](<../../../.gitbook/assets/image (350).png>)
+![](<../../../.gitbook/assets/image (517).png>)
 
 **6.** É fundamental que o **Valor Total** do Demonstrativo de recursos seja equivalente ao total do **"Valor total da proposta / Contrapartida",** do contrário o sistema irá mostrar uma mensagem de <mark style="color:red;">**Erro**</mark>:
 
-![](<../../../.gitbook/assets/image (107).png>)
+![](<../../../.gitbook/assets/image (107) (1).png>)
 
 **7.** Os arquivos anexados aparecerão na **"Lista de Anexos"**. Na coluna "Ação", clique no `ícone de LUPA` para visualizar. Para excluir, clique no `ícone de "X"`:
 
-![](<../../../.gitbook/assets/image (127).png>)
+![](<../../../.gitbook/assets/image (127) (1).png>)
 

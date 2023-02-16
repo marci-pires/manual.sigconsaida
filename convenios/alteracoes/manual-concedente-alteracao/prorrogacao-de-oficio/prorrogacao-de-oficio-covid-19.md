@@ -16,7 +16,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 **1.** Acessar o instrumento a ser prorrogado, clicar na aba `ALTERAÇÕES DO CONVÊNIO/PARCERIA`e depois no botão `PRORROGAÇÃO DE OFÍCIO - COVID 19`:
 
-![](<../../../../.gitbook/assets/image (358) (1).png>)
+![](<../../../../.gitbook/assets/image (358).png>)
 
 **2.** Acessar a aba `PRORROGAÇÃO DE OFÍCIO - COVID` 19  e clicar em `Salvar` O sistema irá ajustar a nova data de término do instrumento:
 
@@ -24,27 +24,27 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 **3.** Preencha a aba `JUSTIFICATIVA DA ALTERAÇÃO`e clicar em `SALVAR`:
 
-![](<../../../../.gitbook/assets/image (359) (1).png>)
+![](<../../../../.gitbook/assets/image (359).png>)
 
 **4.** Clique no botão `SALVAR ALTERAÇÕES E ENCAMINHAR PARA APROVAÇÃO`:
 
-![](<../../../../.gitbook/assets/image (344) (1).png>)
+![](<../../../../.gitbook/assets/image (344).png>)
 
 **5.** Será exibido um aviso de alteração. Verifique se o tipo de alteração a ser criada é **Prorrogação de Ofício**. Em caso afirmativo, clique em `Sim`.
 
-![](<../../../../.gitbook/assets/image (360) (1).png>)
+![](<../../../../.gitbook/assets/image (360).png>)
 
 **6.** Clique na aba `ANÁLISE TÉCNICA` e edite a análise técnica padrão, caso queira. Se você entende que análise técnica está de acordo, clique em `SALVAR`:
 
-![](<../../../../.gitbook/assets/image (399) (1).png>)
+![](<../../../../.gitbook/assets/image (399).png>)
 
 **7.** Caso queira, gere o **Termo de Prorrogação de Ofício**, _após a inserção da análise técnica,_ clicando no botão `TERMO DE PRORROGAÇÃO DE OFÍCIO COVID 19`:
 
-![](<../../../../.gitbook/assets/image (348) (1).png>)
+![](<../../../../.gitbook/assets/image (348).png>)
 
 **8.** Preencha a aba `ALTERAÇÃO DE CLÁUSULA` e clique em `SALVAR`:
 
-![](<../../../../.gitbook/assets/image (349) (1).png>)
+![](<../../../../.gitbook/assets/image (349).png>)
 
 **9.** Clique no Botão `ENVIAR PARA O ENCAMINHADOR`:
 
@@ -54,7 +54,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 
 ![Assinatura com Usuário e Senha](<../../../../.gitbook/assets/image (392) (1).png>)
 
-![Assinatura com Certificado Digital](<../../../../.gitbook/assets/image (395) (1).png>)
+![Assinatura com Certificado Digital](<../../../../.gitbook/assets/image (395).png>)
 
 **11.** Após a assinatura, clique no botão `ENCAMINHAR PARA A SEGOV`.
 

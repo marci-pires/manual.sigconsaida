@@ -26,7 +26,7 @@ Os campos de pesquisa do inciso e da indicação podem facilitar a localização
 
 **4.** Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.
 
-![](<../../../.gitbook/assets/image (202) (1).png>)
+![](<../../../.gitbook/assets/image (202).png>)
 
 
 

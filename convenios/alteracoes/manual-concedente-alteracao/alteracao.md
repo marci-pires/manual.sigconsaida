@@ -2,7 +2,7 @@
 
 **1.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em [situação](broken-reference) de Convênio/Parceria e clique em "Alteração":
 
-![](<../../../.gitbook/assets/image (341).png>)
+![](<../../../.gitbook/assets/image (521).png>)
 
 **2.** O [SIGCON Saída](http://sigconsaida.mg.gov.br/) irá criar novo registro de alteração com uma cópia idêntica às informações já preenchidas no Convênio. Após as modificações, clique em `"Salvar Alterações e Encaminhar Proposta para Aprovação"`:
 
@@ -10,7 +10,7 @@
 **Altere somente as informações que necessitam de modificação** e mantenha inalteradas as que não precisarem.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (329).png>)
+![](<../../../.gitbook/assets/image (68).png>)
 
 
 
@@ -28,7 +28,7 @@ Portanto, caso o usuário altere somente os campos mencionados no dispositivo su
 
 O tramite da “Alteração Simples” é menor e mais célere do que o tramite do “Termo Aditivo”, conforme o fluxo abaixo:
 
-![Trâmite de Alteração Simples](<../../../.gitbook/assets/image (122).png>)
+![Trâmite de Alteração Simples](<../../../.gitbook/assets/image (122) (1).png>)
 
 ## Alguns pontos merecem ser ressaltados ao se cadastrar um termo aditivo ou uma alteração simples em um convênio:
 
@@ -65,7 +65,7 @@ Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimin
 
 Para incluir valores de emenda parlamentar, o procedimento é o mesmo realizado nas propostas de plano de trabalho. Após a vinculação da indicação, o valor vinculado é utilizado na lista de tipos de atendimento da alteração:
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (58) (1).png>)
 
 ### **Ampliação de metas**
 
@@ -75,22 +75,22 @@ A ampliação de metas implica na edição das seções "Cronograma de Execuçã
 
 Suponhamos que a execução do objeto foi finalizada e ainda restam recursos na conta bancária do convênio, e que o convenente perceba a necessidade de restaurar também a fachada da capela. Na proposta de alteração, deveria ser inserida uma nova etapa para a Meta 1 – Restauração da fachada:
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76) (1).png>)
 
 Podemos supor também que o convenente pretenda fazer uma adaptação no acesso à capela, para facilitar a locomoção de cadeirantes. Nesse caso, deveria ser incluída outra meta (a descrição poderia ser “Melhorar a acessibilidade à capela”), cadastrado um novo tipo de atendimento para essa meta (como “Reforma ou Obra – Construção – Rampa de acesso”) e inseridas as etapas necessárias para a construção da rampa de acesso:
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (97) (1).png>)
 
 O "Plano de Aplicação de Recursos" também deverá ser alterado caso o concedente e o convenente pretendam ampliar as metas do convênio. O saldo em conta e os rendimentos que serão utilizados para promover a ampliação de metas são provenientes de uma economia durante a execução do convênio, isto é, gastou-se menos do que se estimava necessário para executá-la. Assim, a utilização do saldo em conta e dos rendimentos implica necessariamente na correção dos valores que foram estimados durante a celebração do convênio. Por exemplo, suponhamos um único demonstrativo de recursos que representa as despesas previstas para a execução do objeto:
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 Agora vamos imaginar que esse convênio possui um saldo remanescente na conta, o qual pretende-se utilizar para realizar novas despesas:
 
-![](<../../../.gitbook/assets/image (101).png>)
+![](<../../../.gitbook/assets/image (101) (1).png>)
 
 Enquanto a utilização dos rendimentos representa uma nova entrada de recursos no convênio, o saldo remanescente na conta é um recurso cuja utilização já estava prevista, e seu reaproveitamento em um termo aditivo não acresce o valor total do convênio, ao contrário do que ocorre com o valor dos rendimentos.&#x20;
 
 Portanto, na ampliação de metas, para discriminar os valores provenientes de uma economia realizada e os valores provenientes da aplicação financeira dos recursos, o valor da economia realizada deve ser subtraído do valor estimado inicialmente para as despesas previstas para a execução do objeto.
 
-![](<../../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (98) (1).png>)
