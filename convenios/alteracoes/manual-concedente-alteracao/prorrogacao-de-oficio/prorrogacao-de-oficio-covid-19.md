@@ -63,7 +63,7 @@ Legislação: [Decreto 47.890 ](https://www.almg.gov.br/consulte/legislacao/comp
 {% hint style="warning" %}
 **IMPORTANTE:**
 
-1. O prazo máximo de prorrogação de vigência dos instrumentos é de 31/08/2021 (Art. 1º do Decreto 48.162/2021), **exceto** para instrumentos cujo tipo de atendimento é de EVENTOS - cujo prazo máximo de prorrogação é até **31/08/2022** - conforme Art. 1º, § 1º, inciso I do Decreto 48.162/2021.
+1. O prazo máximo de prorrogação de vigência dos instrumentos é de 31/08/2021 (art. 1º do Decreto Estadual 48.162/2021), **exceto** para instrumentos cujo tipo de atendimento é de EVENTOS - cujo prazo máximo de prorrogação é até **31/08/2022** - conforme art. 1º, § 1º, inciso I, do Decreto Estadual 48.162/2021.
 2. Caso o instrumento tenha vencido antes de 16/03/2020, é necessário a **convalidação** do mesmo. Após a convalidação será possível cadastrar a Prorrogação de Ofício. Lembrando que nesse caso, será exigido Análise Jurídica da Prorrogação de Ofício - COVID 19.
-3. **É obrigatório a publicação do Extrato da Prorrogação de Ofício no Jornal Minas Gerais**
+3. **É obrigatório a publicação do Extrato da Prorrogação de Ofício no Jornal Minas Gerais.**
 {% endhint %}

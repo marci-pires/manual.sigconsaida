@@ -15,5 +15,5 @@ Ler a minuta da parceria e seguir o Plano de Trabalho pactuados são práticas i
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-[Art. 51 da Lei Federal nº 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e [art. 50 do Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/)[.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.)
+[Art. 51 da Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e [art. 50 do Decreto nº 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.)[.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.)
 {% endhint %}

@@ -1,6 +1,6 @@
 # Fluxo Simplificado
 
-Tanto a Lei Federal n° 13.019, de 2014 quanto o Decreto n° 47.132, de 2017 apresentam uma lógica processual, sendo possível identificar 5 fases principais:
+Tanto a Lei Federal n° 13.019/2014 quanto o Decreto Estadual n° 47.132/2017 apresentam uma lógica processual, sendo possível identificar 5 fases principais:
 
 ![](<../../.gitbook/assets/image (381).png>)
 

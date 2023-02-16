@@ -7,7 +7,7 @@
 **2.** Caso o convênio a ser celebrado seja **"Repasse de Natureza Especial",** selecione a opção `"sim"` e a natureza especial correspondente. Insira a "Fundamentação Legal" indicando o número da Lei e respectivo artigo/inciso:
 
 {% hint style="success" %}
-Verifique o Parágrafo 3º Art. 25 da LRF.
+Verifique o art. 25, § 3º, da [Lei de Responsabilidade Fiscal](http://www.planalto.gov.br/ccivil\_03/leis/lcp/lcp101.htm).
 {% endhint %}
 
 ![](<../../../../.gitbook/assets/image (368).png>)

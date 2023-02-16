@@ -13,7 +13,7 @@ O SIGCON Saída possui a funcionalidade de “Adequação de Concedente”. São
 A alteração do Concedente/OEEP é realizada somente no Sigcon-MG – Módulo Saída, _sem qualquer reflexo no SIAFI_:
 
 {% hint style="danger" %}
-Essa opção deve ser utilizada **SOMENTE para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei nº 23.304/2019**.&#x20;
+Essa opção deve ser utilizada **SOMENTE para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei Estadual nº 23.304/2019**.&#x20;
 
 Uma vez que os instrumentos e saldos de órgãos e entidades extintos foram migrados pelo SIAFI na mudança do exercício (Tabela de Conversão de Unidades anexa), os convênios e parcerias também precisam ser adequados no Sigcon-MG – Módulo Saída em conformidade com a migração já realizada no SIAFI.&#x20;
 
@@ -33,7 +33,7 @@ Tabela de Conversão de Unidades
 A alteração do Concedente/OEEP é realizada no Sigcon-MG – Módulo Saída e no SIAFI:
 
 {% hint style="danger" %}
-Essa opção deve ser utilizada **SOMENTE** **para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei nº 23.304/2019**. Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e no SIAFI. Portanto, para realização das alterações no Sigcon-MG – Módulo Saída e no SIAFI, os instrumentos devem estar registrados nos dois sistemas nas mesmas UOs e UEs, sob pena de inviabilizar a própria Adequação do Concedente.
+Essa opção deve ser utilizada **SOMENTE** **para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei Estadual nº 23.304/2019**. Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e no SIAFI. Portanto, para realização das alterações no Sigcon-MG – Módulo Saída e no SIAFI, os instrumentos devem estar registrados nos dois sistemas nas mesmas UOs e UEs, sob pena de inviabilizar a própria Adequação do Concedente.
 {% endhint %}
 
 Antes de seguirmos para o passo-a-passo, alguns exemplos (clique nas abas para acessar):

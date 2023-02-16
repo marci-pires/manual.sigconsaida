@@ -59,7 +59,7 @@ Caso seja proposta uma alteração que contenha um aumento de repasses, seja pel
 
 ![](<../../../.gitbook/assets/image (59).png>)
 
-Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimina o valor preenchido anteriormente e o valor que será acrescido com a alteração. Não obstante, a edição dos valores é realizada da mesma forma que no plano de trabalho, clicando sobre o botão “Editar”
+Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimina o valor preenchido anteriormente e o valor que será acrescido com a alteração. Não obstante, a edição dos valores é realizada da mesma forma que no plano de trabalho, clicando sobre o botão “Editar”.
 
 Caso haja um novo aporte de recursos por parte do concedente ou do convenente, também deve ser feito um reajuste na seção Cronograma de Desembolso, e no caso de um novo aporte pelo concedente também devem ser alteradas as informações da seção “Reservado ao Concedente”. O mesmo vale para a vinculação de indicações de emendas parlamentares.&#x20;
 

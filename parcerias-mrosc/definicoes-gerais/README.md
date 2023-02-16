@@ -8,7 +8,7 @@ Uma das principais conquistas do MROSC é a [Lei Federal n° 13.019, de 31 de ju
 
 Essa lei reconhece que as parcerias aproximam as políticas públicas das pessoas e das realidades locais, possibilitando a solução de problemas sociais específicos de forma criativa e inovadora. Por ter abrangência nacional, a lei deve ser cumprida por todos os Órgãos e Entidades Públicas Federais, Estaduais, Distrital e Municipais, dos Poderes Executivo, Legislativo e Judiciário.&#x20;
 
-No Poder Executivo Estado de Minas Gerais, o MROSC foi regulamentado pelo [Decreto n° 47.132, de 20 de janeiro de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017), em conformidade com a Lei Federal, mas considerando as especificidades deste Estado e detalhando procedimentos a serem seguidos nessas parcerias.
+No Poder Executivo Estado de Minas Gerais, o MROSC foi regulamentado pelo [Decreto Estadual n° 47.132, de 20 de janeiro de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017), em conformidade com a Lei Federal, mas considerando especificidades deste Estado e detalhando procedimentos a serem seguidos nessas parcerias.
 
 ## **O que é o Terceiro Setor?**&#x20;
 
@@ -24,9 +24,9 @@ Como identificar uma relação que se enquadra na Lei Federal e no Decreto? Para
 
 Então, as normas definem que a parceria ocorre entre os parceiros – Administração Pública e Organização da Sociedade Civil – que acordam determinado objeto para a consecução de finalidades de interesse público e recíproco, elucidado abaixo:
 
-| **ADMINISTRAÇÃO PÚBLICA**                                                                                                                                                                                                                                                                  | **OEEP**                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| União, os Estados, Distrito Federal e Municípios e respectivas autarquias e fundações Empresas Públicas e Sociedades de Economia Mista prestadoras de serviço público, e suas subsidiárias, alcançadas pelo disposto no § 9º do art. 37 da Constituição da República Federativa de 1988\*. | O Decreto nº 47.132/2017 conceitua como Órgão ou Entidade Estadual Parceiro (OEEP) o Órgão ou Entidade da Administração Pública do Poder Executivo Estadual que celebra a parceria. |
+| **ADMINISTRAÇÃO PÚBLICA**                                                                                                                                                                                                                                                                 | **OEEP**                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| União, os Estados, Distrito Federal e Municípios e respectivas autarquias e fundações Empresas Públicas e Sociedades de Economia Mista prestadoras de serviço público, e suas subsidiárias, alcançadas pelo disposto no § 9º do art. 37 da Constituição da República Federativa de 1988\* | O Decreto Estadual nº 47.132/2017 conceitua como Órgão ou Entidade Estadual Parceiro (OEEP) o Órgão ou Entidade da Administração Pública do Poder Executivo Estadual que celebra a parceria. |
 
 {% hint style="info" %}
 \*Aquelas que recebem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio geral.&#x20;
@@ -62,23 +62,23 @@ São exemplos de OSCs: creches, Associações de Pais e Amigos dos Excepcionais 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Art. 2°, incisos I e II, da[ Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e art. 2°, incisos I e II, do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017).&#x20;
+Art. 2°, incisos I e II, da [Lei Federal n° 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm). Art. 2°, incisos I e II, do [Decreto Estadual nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).&#x20;
 {% endhint %}
 
-Além disso, é essencial verificar se o ajuste a ser celebrado entre as partes está incluído no conceito de parceria trazido no Decreto 47.132, de 2017:&#x20;
+Além disso, é essencial verificar se o ajuste a ser celebrado entre as partes está incluído no conceito de parceria trazido no Decreto Estadual 47.132/2017:&#x20;
 
 > "art.2º (...)
 >
 > IV – parceria: conjunto de direitos, responsabilidades e obrigações decorrentes de relação jurídica estabelecida formalmente entre o órgão ou entidade estadual parceiro e a OSC, em regime de mútua cooperação, para a consecução de finalidades de interesse público e recíproco, mediante a execução de atividade ou de projeto previamente estabelecido em plano de trabalho anexo ao instrumento da parceria;"
 
-Assim sendo, as parcerias regidas pela Lei Federal nº 13.019, de 2014 e pelo Decreto nº 47.132, de 2017, mesclam as seguintes condições:
+Assim sendo, as parcerias regidas pela Lei Federal nº 13.019/2014 e pelo Decreto nº 47.132/2017 mesclam as seguintes condições:
 
 ![](<../../.gitbook/assets/image (390).png>)
 
 Segundo o Dicionário Online de Português, [cooperação](https://www.dicio.com.br/cooperacao/) é a forma de auxiliar e colaborar prestando ajuda para atingir/executar algo; a palavra [mútua ](https://www.dicio.com.br/mutua/)significa o que é exercido por ambas as partes de forma recíproca; e [recíproco](https://www.dicio.com.br/reciproca/) é aquilo que se vale da mesma maneira para ambos.
 
 {% hint style="info" %}
-Nas parcerias regidas pela [Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e pelo[ Decreto nº 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017), a Administração Pública e a OSC unem esforços para atingir uma finalidade de interesse comum a ambas as partes e de natureza pública.
+Nas parcerias regidas pela [Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e pelo[ Decreto Estadual nº 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017), a Administração Pública e a OSC unem esforços para atingir uma finalidade de interesse comum a ambas as partes e de natureza pública
 {% endhint %}
 
 A parceria em regime de mútua cooperação, voltada para o alcance de finalidades de interesse público e recíproco, entre a Administração Pública e as OSCs será realizada por meio de Termo de Colaboração, Termo de Fomento e Acordo de Cooperação. Falaremos sobre os instrumentos mais adiante neste material.
@@ -88,21 +88,21 @@ A parceria em regime de mútua cooperação, voltada para o alcance de finalidad
 Antes de prosseguirmos, é preciso abordar os casos de não aplicabilidade dos normativos sobre os quais estamos tratando aqui, ou seja, a própria norma excluiu sua aplicação determinadas relações, mesmo que nelas sejam identificadas as partes conceituadas no item anterior.
 
 {% hint style="warning" %}
-ATENÇÃO:
+ATENÇÃO&#x20;
 
-A própria Lei Federal nº 13.019/2014 prevê algumas situações nas quais a nova legislação não se aplica. Essas situações foram esclarecidas no Decreto nº 47.132/2017.
+A própria Lei Federal nº 13.019/2014 prevê algumas situações nas quais a nova legislação não se aplica. Essas situações foram esclarecidas no Decreto Estadual nº 47.132/2017
 {% endhint %}
 
 ### **Situações em que a legislação não se aplica**
 
 {% tabs %}
 {% tab title="PARTE NÃO INCLUÍDA NO CONCEITO DE OSC" %}
-Convênios, inclusive os que permanecem regidos pelo Decreto nº 46.319, de 26 de setembro de 2013, celebrados com:
+Convênios, inclusive os que permanecem regidos pelo Decreto Estadual nº 46.319, de 26 de setembro de 2013, celebrados com:
 
 * Órgão ou Entidade da Administração Pública;
 * Consórcio público constituído nos termos da[ Lei Federal nº 11.107, de 6 de abril de 2005](http://www.planalto.gov.br/ccivil\_03/\_Ato2004-2006/2005/Lei/L11107.htm);
 * Entidades de classe e Ordem dos Advogados do Brasil;
-* Entidades filantrópicas e sem fins lucrativos que atuam de forma complementar ao Sistema Único de Saúde – SUS – cujo objeto enquadre-se nas despesas com ações e serviços de saúde previstas no art. 3º da Lei Complementar Federal nº 141, de 13 de janeiro de 2012;
+* Entidades filantrópicas e sem fins lucrativos que atuam de forma complementar ao Sistema Único de Saúde – SUS – cujo objeto se enquadre nas despesas com ações e serviços de saúde previstas no art. 3º da Lei Complementar Federal nº 141, de 13 de janeiro de 2012;
 * Repasses para caixas escolares estaduais, as quais são controladas indiretamente pelo Estado e estão sujeitas a restrições e controles típicos das Entidades Públicas e incomuns à sociedade civil (mais de uma vez que o Tribunal de Justiça de Minas Gerais as reconhece como “células de execução de comandos advindos na maior parte do Poder Público”).
 {% endtab %}
 
@@ -136,12 +136,12 @@ Relações contra prestacionais com OSCs (interesses não comuns às partes). Co
 {% hint style="info" %}
 LEITURA IMPORTANTE&#x20;
 
-Art. 3° da [Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e art. 3° do[ Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017).
+Art. 3° da [Lei Federal n° 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm). Art. 3° do[ Decreto Estadual nº 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017).
 {% endhint %}
 
-Organizações Sociais (OS) é outra qualificação que pode ser conferida pelo Estado a entidades privadas sem fins lucrativos que atenderem ao disposto na legislação. Com as OSs são celebrados contratos de gestão, regulamentados pelo  [Decreto nº 47.553, de 07 de dezembro de 2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47553\&comp=\&ano=2018\&texto=original).&#x20;
+Organizações Sociais (OS) é outra qualificação que pode ser conferida pelo Estado a entidades privadas sem fins lucrativos que atenderem ao disposto na legislação. Com as OSs são celebrados contratos de gestão, regulamentados pelo  [Decreto Estadual nº 47.553, de 07 de dezembro de 2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47553\&comp=\&ano=2018\&texto=original).&#x20;
 
-Por sua vez, a Organização da Sociedade Civil de Interesse Público (Oscip) é uma qualificação dada pelo Estado a entidades privadas sem fins lucrativos que cumprirem os requisitos legais. Apenas Oscips podem celebrar termos de parceria, regulamentados pelo [Decreto nº 47.554, de 07 de dezembro de 2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47554\&comp=\&ano=2018\&texto=original).
+&#x20;Por sua vez, Organização da Sociedade Civil de Interesse Público (Oscip) é uma qualificação dada pelo Estado a entidades privadas sem fins lucrativos que cumprirem os requisitos legais. Apenas Oscips podem celebrar termos de parceria, regulamentados pelo [Decreto Estadual nº 47.554, de 07 de dezembro de 2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47554\&comp=\&ano=2018\&texto=original).
 
 As Organizações da Sociedade Civil que receberem essas qualificações podem celebrar contratos de gestão ou termos de parcerias com o Poder Público e também parcerias regidas pelo MROSC.&#x20;
 
@@ -180,8 +180,19 @@ E tem como princípios norteadores:
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Art. 5º da [Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm).
+Art. 5º da [Lei Federal n° 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 {% endhint %}
 
 Agora, já sabemos o que são as OSCs, o que os normativos consideram por esse termo, quais são os novos instrumentos jurídicos utilizados para formalizar as parcerias e os casos de não aplicabilidade da Lei e do Decreto relativos ao MROSC, iremos explicar os tipos de instrumento de parceria.
 
+&#x20;Antes do Marco Regulatório das Organizações da Sociedade Civil, a cooperação entre Poder Público e Organizações da Sociedade Civil era realizada por meio de convênios, observado o art. 116 da[ Lei Federal nº 8.666/1993](http://www.planalto.gov.br/ccivil\_03/Leis/L8666compilado.htm), e as normas de cada ente federado.
+
+
+
+{% hint style="info" %}
+**LEITURA IMPORTANTE**
+
+Art. 2°, incisos II-A e II-B, da [Lei Federal n° 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm).
+{% endhint %}
+
+Tanto a Lei Federal n° 13.019/2014 quanto o Decreto Estadual n° 47.132/2017 apresentam uma lógica processual, sendo possível identificar 5 fases principais:

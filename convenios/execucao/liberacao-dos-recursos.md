@@ -1,6 +1,6 @@
 # Liberação dos recursos
 
-A SEGOV, conforme Decreto nº 46.281/2013, deverá autorizar a liberação do recurso, para tanto deverá ser encaminhada solicitação do concedente via SIGCON-MG-Módulo Saída.&#x20;
+A SEGOV, conforme Decreto Estadual nº 46.281/2013, deverá autorizar a liberação do recurso, para tanto deverá ser encaminhada solicitação do concedente via SIGCON-MG-Módulo Saída.&#x20;
 
 Após a aprovação, caberá ao concedente liberar os recursos de acordo com o estabelecido no cronograma de desembolso, previsões contidas no plano de trabalho, disponibilidade financeira do órgão e cumprimento das condicionantes abaixo:
 

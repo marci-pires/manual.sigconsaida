@@ -15,14 +15,12 @@ A OSC pode solicitar na Proposta de Plano de Trabalho a autorização para pagam
 Retomando a importância do ponto tratado em seção anterior, caso a OSC esteja com inadimplência indicada no Siafi-MG ou irregular no Cagec, não poderá preencher a Proposta de Plano de Trabalho.
 
 {% hint style="info" %}
-Sugestão de leitura sobre diárias de viagem:
-
-Arts. 26 a 34, 53 e 54 do Decreto nº 47.132, de 2017 e arts. 22, 24 a 26, os §§ 1º e 2º do art. 36 e os arts. 39, 40 e 42 do Decreto nº 47.045, de 2016.
+Arts. 26 a 34, 53 e 54 do Decreto Estadual nº 47.132, de 2017. Arts. 22, 24 a 26, os §§ 1º e 2º do art. 36 e os arts. 39, 40 e 42 do Decreto Estadual nº 47.045/2016 (sobre diárias de viagem).
 {% endhint %}
 
 ### Abertura de conta bancária específica para a parceria
 
-A abertura de conta específica para gestão dos recursos da parceria faz-se essencial, uma vez que se trata de previsão legal, constante no art. 51 da [Lei Federal 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e no art. 27, § 4º, do [Decreto 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017) para a celebração e execução da parceria.
+A abertura de conta específica para gestão dos recursos da parceria se faz essencial, uma vez que se trata de previsão legal, constante no art. 51 da [Lei Federal 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e no art. 27, § 4º, do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017) para a celebração e execução da parceria.
 
 A conta bancária deve ser aberta em banco público e ser isenta de tarifas bancárias.
 

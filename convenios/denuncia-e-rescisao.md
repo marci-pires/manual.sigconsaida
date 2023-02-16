@@ -8,13 +8,11 @@ As denúncias deverão ser comunicadas 30 (trinta) dias antes da saída do part�
 
 É importante ressaltar que mesmo após a denúncia (assim como na rescisão), todos os partícipes ainda mantêm suas responsabilidades sobre o convênio (como o de prestar contas, por exemplo).
 
-O art. 66 do Decreto n° 46.319/2013 estabelece como motivos para rescisão do convênio:
+O art. 66 do Decreto Estadual n° 46.319/2013 estabelece como motivos para rescisão do convênio:
 
 > Art. 66. Constituem motivos para rescisão unilateral do convênio de saída, a critério do concedente:&#x20;
 >
-> I - a constatação, a qualquer tempo, de falsidade ou incorreção insanável de informação em documento apresentado ao CAGEC ou na celebração do convênio de saída;&#x20;
->
-> II - a inadimplência pelo convenente de quaisquer das cláusulas pactuadas;&#x20;
+> I - a constatação, a qualquer tempo, de falsidade ou incorreção insanável de informação em documento apresentado ao CAGEC ou na celebração do convênio de saída; II - a inadimplência pelo convenente de quaisquer das cláusulas pactuadas;&#x20;
 >
 > III - o não cumprimento das metas fixadas ou a utilização dos recursos em desacordo com o plano de trabalho, sem prévia autorização do concedente;&#x20;
 >

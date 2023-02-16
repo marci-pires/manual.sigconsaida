@@ -5,7 +5,7 @@ description: 'Atualização: 29/04/2020'
 # Adequação de Concedente no SIGCON
 
 {% hint style="info" %}
-Essa opção deve ser utilizada SOMENTE para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei nº 23.304/2019
+Essa opção deve ser utilizada SOMENTE para os órgãos e entidades estaduais que eventualmente não tenham efetuado a Adequação do Concedente no prazo previsto no art. 141 da Lei Estadual nº 23.304/2019
 {% endhint %}
 
 Uma vez que os instrumentos e saldos de órgãos e entidades extintos foram migrados pelo SIAFI na mudança do exercício (Tabela de Conversão de Unidades), os convênios e parcerias também precisam ser adequados no Sigcon-MG – Módulo Saída em conformidade com a migração já realizada no SIAFI. Portanto, as alterações no Sigcon-MG – Módulo Saída devem ser realizadas em conformidade com a conversão já realizada no SIAFI (Tabela de Conversão de Unidades anexa), sob pena de inviabilizar a posterior publicação de termos aditivos e outras alterações, empenhos, liquidações e pagamentos.

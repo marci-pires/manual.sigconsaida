@@ -1,6 +1,6 @@
 # Análise Técnica / Jurídica
 
-Além de analisar a proposta e os documentos apresentados, o Órgão ou Entidade Estadual Parceiro também deverá adotar uma série de providências para fins de celebração e formalização da parceria. Sobre esse ponto, o art. 35 da Lei Federal 13.019 de 2012, elenca, por exemplo, a necessidade de indicação expressa da existência de prévia dotação orçamentária para a execução da parceria.&#x20;
+Além de analisar a proposta e os documentos apresentados, o Órgão ou Entidade Estadual Parceiro também deverá adotar uma série de providências para fins de celebração e formalização da parceria. Sobre esse ponto, o art. 35 da Lei Federal 13.019/2012, elenca, por exemplo, a necessidade de indicação expressa da existência de prévia dotação orçamentária para a execução da parceria.&#x20;
 
 As áreas técnicas deverão juntar aos autos o certificado atualizado do Cagec, demonstrando a regularidade da OSC nesse cadastro e no Siafi-MG, bem como atestados ou comprovantes de ausência de registro no Cadin-MG, no Cafimp e no Cepim.&#x20;
 
@@ -39,7 +39,7 @@ Considera-se como improbidade administrativa o descumprimento de normas relativa
 Por parte da OSC, também é devida a mesma atenção às exigências da Lei. Caso não haja um setor jurídico próprio e estruturado, recomenda-se a consulta a entidades externas. Como opção, sugere-se o setor jurídico de universidades que prestam assessoramento gratuito.
 
 {% hint style="info" %}
-Arts. 35 a 39 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Arts. 35 a 39 do [Decreto nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 ## Gestor de Parceria

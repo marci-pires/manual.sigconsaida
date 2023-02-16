@@ -3,14 +3,14 @@
 ## GERAL
 
 * [Manual de Utilização](README.md)
-  * [O que é o SIGCON Saída?](prefacio.md)
+  * [O que é o SIGCON Saída?](geral/master/prefacio.md)
 * [Login e Senha](geral/login-e-senha/README.md)
   * [Cadastro de usuário](geral/login-e-senha/cadastro-de-usuario/README.md)
     * [Representante Legal](geral/login-e-senha/cadastro-de-usuario/representante-legal.md)
     * [Usuário Externo](geral/login-e-senha/cadastro-de-usuario/usuario-externo.md)
     * [Usuários Internos (Concedente / OEEP)](geral/login-e-senha/cadastro-de-usuario/usuarios-internos-concedente-oeep.md)
     * [Parlamentares](geral/login-e-senha/cadastro-de-usuario/parlamentares.md)
-  * [Liberação de Perfil](login-e-senha/problemas-com-a-senha.md)
+  * [Liberação de Perfil](geral/login-e-senha/problemas-com-a-senha.md)
   * [Recuperar Login e Senha](login-e-senha/recuperar-login-senha-parlamentares.md)
 * [Emendas Parlamentares](emendas/README.md)
   * [O que são emendas?](geral/emendas/introducao.md)
@@ -108,6 +108,7 @@
 ## PARCERIAS MROSC
 
 * [Definições Gerais](parcerias-mrosc/definicoes-gerais/README.md)
+  * [Lei e Decreto](parcerias-mrosc/definicoes-gerais/lei-e-decreto.md)
   * [Tipos de instrumentos](parcerias-mrosc/definicoes-gerais/tipos-de-instrumentos.md)
   * [Fluxo Simplificado](parcerias-mrosc/definicoes-gerais/fluxo-simplificado.md)
   * [Proposta de Plano de Trabalho](parcerias-mrosc/definicoes-gerais/proposta.md)
@@ -126,7 +127,7 @@
   * [Análise Técnica / Jurídica](parcerias-mrosc/celebracao/analise-tecnica-juridica.md)
   * [Formalização](parcerias-mrosc/celebracao/formalizacao.md)
   * [Plano Autorizado](convenios/celebracao/plano-autorizado.md)
-* [Alteração](parcerias-mrosc/alteracao.md)
+* [Alteração](parcerias-mrosc/alteracao/README.md)
   * [Alteração de Gestor de Parcerias](parcerias-mrosc/alteracao/alteracao-de-gestor-de-parcerias.md)
   * [Alteração de Comissão de Monitoramento](parcerias-mrosc/alteracao/alteracao-de-comissao-de-monitoramento.md)
   * [Concedente / OEEP](convenios/alteracoes/manual-concedente-alteracao/README.md)
@@ -138,7 +139,7 @@
     * [Documentos](parcerias-mrosc/execucao/monitoramento-e-avaliacao/documentos.md)
 * [Prestação de contas](parcerias-mrosc/prestacao-de-contas/README.md)
   * [Documentos](parcerias-mrosc/prestacao-de-contas/documentos.md)
-* [Denúncia e Rescisão](parcerias-mrosc/denuncia-e-rescisao.md)
+* [Denúncia e Rescisão](parcerias-mrosc/denuncia-e-recisao.md)
 
 ## PROCESSO ELETRÔNICO
 

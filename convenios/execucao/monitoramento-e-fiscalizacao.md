@@ -41,5 +41,5 @@ Ainda segundo o art. 39 em seu § 2º: "O concedente realizará, quando possíve
 {% hint style="success" %}
 **SUGESTÃO:**
 
-À sociedade também cabe o papel de fiscalização, podendo qualquer cidadão, associação, partido político ou sindicato denunciar eventuais irregularidades do convênio ao TCEMG, para tanto, basta protocolizar a denúncia à Avenida Raja Gabaglia, 1.315, bairro Luxemburgo, em Belo Horizonte ou por correspondência, via postal, no mesmo endereço (CEP 30.380-435).
+À sociedade também cabe o papel de fiscalização, podendo qualquer cidadão, associação, partido político ou sindicato denunciar eventuais irregularidades do convênio ao TCE/MG, para tanto, “basta protocolizar a denúncia à Avenida Raja Gabaglia, 1.315, bairro Luxemburgo, em Belo Horizonte ou por correspondência, via postal, no mesmo endereço (CEP 30.380-435).”
 {% endhint %}

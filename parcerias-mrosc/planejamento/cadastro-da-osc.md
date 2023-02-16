@@ -75,7 +75,7 @@ Caso a OSC esteja bloqueada no Siafi-MG, o motivo do bloqueio poderá ser verifi
 
 Um dos documentos do _checklist_ relacionado com o art. 39 da Lei Federal nº 13.019/2014 é o comprovante de ausência de registro no Cadastro Informativo de Inadimplência em relação à Administração Pública do Estado de Minas (Cadin-MG).&#x20;
 
-O Cadin-MG tem a finalidade de fornecer à Administração Pública Estadual direta e indireta informações relativas à inadimplência de obrigações para com a Fazenda Pública Estadual, de natureza tributária ou não. Nos termos do art. 10 do [Decreto nº 44.694, de 28 de dezembro de 2007](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=44694\&ano=2007\&tipo=DEC), e do art. 35 do Decreto nº 47.132/2017, não poderão celebrar parcerias com a Administração Pública do Poder Executivo Estadual OSCs registradas no Cadin.&#x20;
+O Cadin-MG tem a finalidade de fornecer à Administração Pública Estadual direta e indireta informações relativas à inadimplência de obrigações para com a Fazenda Pública Estadual, de natureza tributária ou não. Nos termos do art. 10 do [Decreto Estadual nº 44.694, de 28 de dezembro de 2007](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=44694\&ano=2007\&tipo=DEC), e do art. 35 do Decreto nº 47.132/2017, não poderão celebrar parcerias com a Administração Pública do Poder Executivo Estadual OSCs registradas no Cadin.&#x20;
 
 A situação da OSC no Cadin pode ser consultada por meio do seguinte link: [http://consultapublica.fazenda.mg.gov.br/ConsultaPublicaCADIN/](http://consultapublica.fazenda.mg.gov.br/ConsultaPublicaCADIN/)&#x20;
 
@@ -85,12 +85,12 @@ A situação da OSC no Cadin pode ser consultada por meio do seguinte link: [htt
 
 Nos termos do art. 39 da Lei Federal nº 13.019/2014, não podem celebrar parcerias as OSCs punidas com suspensão, bem como com declaração de inidoneidade para participar em licitação ou chamamento público e impedimento de contratar ou celebrar parceria com a Administração Pública.&#x20;
 
-Nessa perspectiva, o art. 35 do [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/) e o art. 52 do [Decreto nº 45.902, de 27 de janeiro de 2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=Dec\&num=45902\&comp=\&ano=2012), dispõem que não podem celebrar parcerias OSCs com registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública do Poder Executivo Estadual (Cafimp).&#x20;
+Nessa perspectiva, o art. 35 do [Decreto Estadual nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/) e o art. 52 do [Decreto Estadual nº 45.902/2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=Dec\&num=45902\&comp=\&ano=2012), dispõem que não podem celebrar parcerias OSCs com registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública do Poder Executivo Estadual (Cafimp).&#x20;
 
 A situação da OSC no Cafimp pode ser consultada no [Portal de Compras MG](http://compras.mg.gov.br/):
 
 ![](<../../.gitbook/assets/image (470).png>)
 
-Ao mesmo tempo, a OSC não pode estar registrada no Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas (Cepim), nos termos do inciso V do art. 39 da Lei Federal nº 13.019/2014, e do Decreto Federal nº 7.592, de 28 de outubro de 2011. Esse cadastro pode ser consultado no [Portal da Transparência - Controladoria Geral da União](https://www.portaltransparencia.gov.br/sancoes/cepim?ordenarPor=nome&-\&direcao=asc) :
+Ao mesmo tempo, a OSC não pode estar registrada no Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas (Cepim), nos termos do inciso V, do art. 39 da Lei Federal nº 13.019/2014, e do Decreto Federal nº 7.592/2011. Esse cadastro pode ser consultado no [Portal da Transparência - Controladoria Geral da União](https://www.portaltransparencia.gov.br/sancoes/cepim?ordenarPor=nome&-\&direcao=asc) :
 
 ![](<../../.gitbook/assets/image (416).png>)

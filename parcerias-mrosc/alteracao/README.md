@@ -10,7 +10,7 @@ Sendo o ajuste na parceria demandado pela OSC, ela deve apresentar, na proposta 
 Os checklists de alteração via termo aditivo das parcerias podem ser acessados em: [http://sigconsaida.mg.gov.br/checklists/](http://sigconsaida.mg.gov.br/checklists/)
 {% endhint %}
 
-Quando a solicitação envolver modificações no objeto, conforme art. 68-A do Decreto nº 47.132, de 2017, a OEEP deverá aditar a parceria com vistas à:
+Quando a solicitação envolver modificações no objeto, conforme art. 68ª do Decreto nº 47.132/2017, a OEEP deverá aditar a parceria com vistas à:
 
 * Reprogramação do objeto;
 * Ampliação do objeto com utilização de saldo decorrente de economia ou de rendimentos;
@@ -21,7 +21,7 @@ Quando a solicitação envolver modificações no objeto, conforme art. 68-A do 
 É permitida a celebração de no máximo dois termos aditivos que impliquem a reprogramação, ampliação ou redução do objeto.
 {% endhint %}
 
-De acordo com o art. 67, §1º do Decreto nº 47.132/2017, o prazo mínimo para solicitação de alteração da parceria pela OSC é de 45(quarenta e cinco) dias antes do encerramento do ajuste. De forma excepcional, o pedido de alteração pode ser aceito a critério do órgão ou entidade estadual fora do prazo mínimo mediante a apresentação de justificativa de atraso da proposta pela OSC desde que esteja dentro da vigência da parceria.
+De acordo com o art. 67, §1º, do Decreto nº 47.132/2017, o prazo mínimo para solicitação de alteração da parceria pela OSC é de 45(quarenta e cinco) dias antes do encerramento do ajuste. De forma excepcional, o pedido de alteração pode ser aceito a critério do órgão ou entidade estadual fora do prazo mínimo mediante a apresentação de justificativa de atraso da proposta pela OSC desde que esteja dentro da vigência da parceria.
 
 A área técnica do OEEP analisará a proposta de alteração e a documentação e, em caso de termo aditivo, submeterá à análise jurídica.&#x20;
 
@@ -40,7 +40,7 @@ Nos casos em que houver atraso na liberação de recurso, o OEEP providenciará 
 {% hint style="success" %}
 **LEITURA IMPORTANTE - Das Alterações**
 
-Arts. 55 e 57 da [Lei Federal nº 13.019, de 2014. ](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
+Arts. 55 e 57 da [Lei Federal nº 13.019/2014. ](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 
-Arts. 67 a 70 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Arts. 67 a 70 do [Decreto nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}

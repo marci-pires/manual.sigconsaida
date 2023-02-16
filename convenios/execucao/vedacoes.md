@@ -1,6 +1,6 @@
 # Vedações
 
-A execução das despesas deve seguir estritamente o acordado no convênio de saída e deve ocorrer durante sua vigência (exceção para as despesas posteriores à vigência em que o fato gerador se der durante a execução do convênio). O art. 35 do Decreto n° 46.319/2013 também estabelece outras vedações, principalmente quanto ao objeto dos gastos.
+A execução das despesas deve seguir estritamente o acordado no convênio de saída e deve ocorrer durante sua vigência (exceção para as despesas posteriores à vigência em que o fato gerador se der durante a execução do convênio). O art. 35 do Decreto n° 46.319/2013 também estabelece outras vedações, principalmente quanto ao objeto dos gastos:
 
 Art. 35. Ficam vedadas na execução do convênio de saída:
 
@@ -22,7 +22,7 @@ Art. 35. Ficam vedadas na execução do convênio de saída:
 >
 > c) a empregado de entidade privada sem fins lucrativos, salvo quando o convênio de saída versar sobre subvenções sociais, desde que previsto no plano de trabalho e vinculado à execução do objeto.&#x20;
 
-**IV - a requisição e a utilização**, pelo convenente ou empresa contratada, de Cadastro Específico do Instituto Nacional de Seguridade Social – CEI – vinculado a Cadastro Nacional de Pessoas Jurídicas – CNPJ – utilizado por órgãos ou entidades do Estado de Minas Gerais.&#x20;
+**IV - a requisição e a utilização**, pelo convenente ou empresa contratada, de Cadastro Específico do Instituto Nacional de Seguridade Social – CEI – vinculado a Cadastro Nacional de Pessoas Jurídicas – CNPJ – utilizado por órgãos ou entidades do Estado de Minas Gerais.
 
 {% hint style="danger" %}
 **FALHAS FREQUENTES:**
@@ -46,4 +46,4 @@ O referido decreto possibilita, ainda, a execução de despesas como remuneraç�
 
 É importante ressaltar que a possibilidade de remuneração de pessoal por meio do recurso do convênio não gera vínculo trabalhista entre o trabalhador e o concedente, mesmo em caso de inadimplência da entidade privada sem fins lucrativos quanto ao pagamento de pessoal.
 
-Quanto às despesas com diárias para todos os tipos de convenentes, estas devem ser previstas se forem imprescindíveis à execução do convênio de saída, observado o Decreto nº 47.045/2016.
+Quanto às despesas com diárias para todos os tipos de convenentes, estas devem ser previstas se forem imprescindíveis à execução do convênio de saída, observado o Decreto Estadual nº 47.045/2016.

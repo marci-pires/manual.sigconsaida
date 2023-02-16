@@ -2,9 +2,9 @@
 
 Jacoby Fernandes (2015, p. 106-108) aponta que “O dever de prestar contas é uma obrigação constitucional de quem trabalha com recursos públicos (...), dirige-se ao controle externo da Administração Pública.”&#x20;
 
-O parágrafo único do art. 70 da Constituição da República Federativa do Brasil de 1988 (CRF/88) dispõe que :
+O parágrafo único do art. 70 da Constituição da República Federativa do Brasil de 1988 (CF/88) dispõe que :
 
-> “Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.”
+> “Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.”&#x20;
 
 A Constituição do Estado de Minas Gerais de 1989, de modo semelhante à CRF/88, contém a seguinte previsão:
 
@@ -25,16 +25,16 @@ Dessa forma, qualquer pessoa, física ou jurídica, que receba e gerencie recurs
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Arts. 2º, 3º, 47 a 52 e 62 a 70 da [Lei Complementar nº 102, de 2008](https://www.almg.gov.br/legislacao-mineira/LCP/102/2008/)
+Arts. 2º, 3º, 47 a 52 e 62 a 70 da [Lei Complementar nº 102/2008](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP\&num=102\&ano=2008)
 
-[Instrução Normativa TCEMG nº 003, de 2013](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN\_2013/IN-03-13.pdf).
+Instrução Normativa TCEMG nº 003/2013.
 {% endhint %}
 
 A responsabilidade pela apresentação da prestação de contas da parceria é da OSC que recebeu os recursos públicos, não se aplicando ao representante legal que assinou o instrumento, pois, seu mandato pode se encerrar e outro assumir as obrigações.
 
 Portanto, o responsável sucessor deve apresentar as contas referentes aos recursos estaduais recebidos pela OSC, independentemente se foi ele que pactuou inicialmente aquela parceria.
 
-A Lei Federal nº 13.019, de 2014 traz uma prestação de contas com foco em resultados e com o foco além da parte financeira da execução. A OSC deve então, apresentar elementos que permitam ao OEEP avaliar se houve o cumprimento das metas e objetivos e do alcance da finalidade.
+A Lei Federal nº 13.019/2014 traz uma prestação de contas com foco em resultados e com o foco além da parte financeira da execução. A OSC deve então, apresentar elementos que permitam ao OEEP avaliar se houve o cumprimento das metas e objetivos e do alcance da finalidade.
 
 {% hint style="danger" %}
 O sucesso da prestação de contas depende essencialmente de uma boa execução!
@@ -53,7 +53,7 @@ Há dois tipos prestações de contas, a anual e a final.&#x20;
 * A anual, que se aplica somente em parcerias com duração superior a um ano, é realizada a cada doze meses a partir do início da vigência do instrumento jurídico pactuado.&#x20;
 * Já a final ocorrerá no encerramento da vigência.
 
-Com a alteração do Decreto 47.132, de 2017 pelo Decreto 48.177, de 2021, foi instituída a possibilidade de prestação de contas amostral, que possibilita ao órgão ou entidade estadual parceiro a seleção das parcerias que deverão apresentar a prestação de contas e o Relatório de Execução do Objeto e Relatório de Execução Financeira, nos termos do art.59, §1º-D, do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+Com a alteração do Decreto Estadual 47.132/2017 pelo Decreto Estadual 48.177/2021, foi instituída a possibilidade de prestação de contas amostral, que possibilita ao órgão ou entidade estadual parceiro a seleção das parcerias que deverão apresentar a prestação de contas e o Relatório de Execução do Objeto e Relatório de Execução Financeira, nos termos do art.59, §1º-D, do[ Decreto Estadual 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 
 ## RELATÓRIOS QUE COMPÕEM A PRESTAÇÃO DE CONTAS
 
@@ -76,7 +76,7 @@ O REO deverá compor toda e qualquer prestação de contas. O conteúdo do Relat
 > VII – comprovação do grau de satisfação do público-alvo, que poderá ser indicado por meio de resultado da pesquisa de satisfação, de declaração de entidade pública ou privada local, de manifestação do conselho de política pública setorial ou de documento equivalente.
 
 {% hint style="info" %}
-Recomendamos a leitura integral do art.77 do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+Recomendamos a leitura integral do art.77 do[ Decreto Estadual 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 Importa dizer que, a modalidade de avaliação realizada na prestação de contas inserida pelo Marco Regulatório das Organizações da Sociedade Civil (MROSC) busca a realização de resultados e alcance da finalidade pactuada, sendo avaliado com maior afinco se o interesse público da parceria foi atingido.
@@ -92,7 +92,7 @@ A OSC será solicitada a apresentar o Relatório de Execução Financeira nas si
 
 Esses documentos irão compor tanto a prestação de contas anual quanto a final, respeitada a seleção por amostragem.
 
-Para a prestação de contas anual, o conteúdo é o mesmo, porém a análise será realizada somente se a prestação de contas for selecionada na amostragem prevista no art. 59 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).&#x20;
+Para a prestação de contas anual, o conteúdo é o mesmo, porém a análise será realizada somente se a prestação de contas for selecionada na amostragem prevista no art. 59 do [Decreto Estadual nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)&#x20;
 
 Em caso da vigência da parceria ser superior a um ano e verificadas irregularidades ao tempo da prestação de contas anual, o OEEP suspenderá a liberação de recursos e notificará a OSC. Será fixado, então, o prazo máximo de 45 dias, prorrogável por uma vez e por igual período, para apresentação de relatório de execução financeira ou saneamento das irregularidades.
 
@@ -150,16 +150,16 @@ O gestor da parceria deverá emitir parecer técnico conclusivo da prestação d
 
 O administrador público tomará sua decisão com base no parecer técnico conclusivo.&#x20;
 
-Verificados indícios de dano ao erário, o valor reprovado será calculado e corrigido pela taxa referencial do Sistema Especial de Liquidação e Custódia – Selic, observado o art. 82 do [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).&#x20;
+Verificados indícios de dano ao erário, o valor reprovado será calculado e corrigido pela taxa referencial do Sistema Especial de Liquidação e Custódia – Selic, observado o art. 82 do [Decreto Estadual nº 47.132/2017. ](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 
 Caso não tenha  dolo ou fraude e não seja caso de restituição integral de recursos, a OSC poderá solicitar o ressarcimento ao erário por meio de ações compensatórias de interesse público. Contudo, as regras e os procedimentos para a compensação ainda serão definidos em resolução da Segov e da CGE.
 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-**Arts. 69, 72  e 75** da [Lei Federal nº 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm).&#x20;
+**Arts. 69, 72  e 75** da [Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm).&#x20;
 
-**Arts. 80 a 85** do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+**Arts. 80 a 85** do [Decreto Estadual nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 ### Fluxos resumidos
@@ -182,23 +182,23 @@ Caso a figura do administrador público e do ordenador de despesas sejam atribu�
 
 Quando for aprovada com ressalvas, também será processada a baixa contábil, porém, a OSC será notificada visando à correção das irregularidades, de modo a prevenir a reincidência. **Não supridas, o OEEP deverá estabelecer mecanismos de registro dessas OSCs para priorizá-las em capacitações.** Mas, sendo reincidência contumaz, poderá aplicar sanções (explicadas na próxima seção).&#x20;
 
-Em caso de irregularidades graves e insanáveis – que apresentem potencialidade de prejuízos ao erário e graves desvios aos princípios do art. 5° da Lei Federal nº 13.019, de 2014 – o OEEP promoverá a representação ao Tribunal de Contas do Estado de Minas Gerais (TCEMG).&#x20;
+Em caso de irregularidades graves e insanáveis – que apresentem potencialidade de prejuízos ao erário e graves desvios aos princípios do art. 5° da Lei Federal nº 13.019/2014 – o OEEP promoverá a representação ao Tribunal de Contas do Estado de Minas Gerais (TCEMG).&#x20;
 
-Se a prestação de contas for rejeitada pelo administrador público ou em caso de omissão, o OEEP iniciará o PACE-Parcerias, regulamentado pelo [Decreto nº 46.830, de 2015.](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=46830\&comp=\&ano=2015\&aba=js\_textoAtualizado#texto)
+Se a prestação de contas for rejeitada pelo administrador público ou em caso de omissão, o OEEP iniciará o PACE-Parcerias, regulamentado pelo [Decreto Estadual nº 46.830/2015.](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=46830\&comp=\&ano=2015\&aba=js\_textoAtualizado#texto)
 
 ![](<../../.gitbook/assets/image (467).png>)
 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-**Arts. 69 e 72** da [Lei Federal nº 13.019, de 2014. ](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
+**Arts. 69 e 72** da [Lei Federal nº 13.019/2014. ](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 
-**Art. 85** do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+**Art. 85** do [Decreto Estadual nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 ## PACE-PARCERIAS
 
-Rejeitada a prestação de contas, o OEEP integrante da Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual deve iniciar o Processo Administrativo de Constituição do Crédito Estadual Não Tributário decorrente de dano ao erário apurado em prestação de contas de transferências de recursos financeiros mediante parcerias – PACE-Parcerias –, previsto no Decreto nº 46.830, de 14 de setembro de 2015.
+Rejeitada a prestação de contas, o OEEP integrante da Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual deve iniciar o Processo Administrativo de Constituição do Crédito Estadual Não Tributário decorrente de dano ao erário apurado em prestação de contas de transferências de recursos financeiros mediante parcerias – PACE-Parcerias –, previsto no Decreto Estadual nº 46.830/2015.
 
 {% hint style="success" %}
 O PACE-Parcerias oportuniza a ampla defesa e o contraditório do interessado!
@@ -221,12 +221,12 @@ Além disso, sendo o PACE-Parcerias corretamente autuado pelo OEEP e constituíd
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Lei nº 21.735/2015. Decreto nº 46.830/2015.
+Lei Estadual nº 21.735/2015 e Decreto Estadual nº 46.830/2015.
 {% endhint %}
 
 ## Parcelamento
 
-O pagamento do crédito não tributário poderá ser parcelado, observadas as regras no Decreto nº 46.830/2015.
+O pagamento do crédito não tributário poderá ser parcelado, observadas as regras no Decreto Estadual nº 46.830/2015.
 
 &#x20;Seguem algumas informações adicionais:
 
@@ -243,7 +243,7 @@ O pedido de parcelamento implica a confissão irretratável do débito e a expre
 
 ## SANÇÕES
 
-Quando a execução da parceria estiver em desacordo com o Plano de Trabalho e com a legislação, o OEEP poderá, observada a Lei nº 14.184/2002 – que disciplina o processo administrativo – e desde que assegurado o contraditório e a ampla defesa, aplicar à OSC parceira as seguintes sanções:
+Quando a execução da parceria estiver em desacordo com o Plano de Trabalho e com a legislação, o OEEP poderá, observada a Lei Estadual nº 14.184/2002 – que disciplina o processo administrativo – e desde que assegurado o contraditório e a ampla defesa, aplicar à OSC parceira as seguintes sanções:
 
 |                                Tipo de Sanção                               | Consequências                                                                                                                                                                                                                                                        |                                                                                                                                                         Quando pode ser aplicada?                                                                                                                                                         | Autoridade que pode aplicá-la |
 | :-------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: |
@@ -253,12 +253,12 @@ Quando a execução da parceria estiver em desacordo com o Plano de Trabalho e c
 
 A perda do direito das ações punitivas destinadas a aplicar essas sanções (prescrição) ocorre no prazo de 5 anos, contados da data de apresentação da prestação de contas ou do fim do prazo para apresentação da prestação de contas anual ou final, no caso de omissão do dever de prestar contas. A prescrição será interrompida com a edição de ato administrativo destinado à apuração da infração.&#x20;
 
-A prescrição punitiva não dispensa processo administrativo para colheita de provas de eventual ilícito praticado pela OSC, para efeito de eventual ressarcimento ao erário, nos termos do § 5º do art. 37 da [CRFB, de 1988](http://www.planalto.gov.br/ccivil\_03/Constituicao/ConstituicaoCompilado.htm).
+A prescrição punitiva não dispensa processo administrativo para colheita de provas de eventual ilícito praticado pela OSC, para efeito de eventual ressarcimento ao erário, nos termos do § 5º do art. 37 da [CF/88](http://www.planalto.gov.br/ccivil\_03/Constituicao/ConstituicaoCompilado.htm).
 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-[Lei nº 14.184, de 2002. ](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=14184\&comp=\&ano=2002\&aba=js\_textoAtualizado#texto)
+[Lei Estadual nº 14.184/2002. ](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=14184\&comp=\&ano=2002\&aba=js\_textoAtualizado#texto)
 
-[Decreto nº 46.830, de 2015.](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=46830\&comp=\&ano=2015\&aba=js\_textoAtualizado#texto)
+[Decreto Estadual nº 46.830/2015.](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=46830\&comp=\&ano=2015\&aba=js\_textoAtualizado#texto)
 {% endhint %}

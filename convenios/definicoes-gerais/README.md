@@ -8,7 +8,7 @@ Dessa forma, os convênios são acordos entre duas partes (sendo uma delas públ
 
 ## Convênios são contratos?&#x20;
 
-De acordo com o Acórdão do Tribunal de Contas da União n° 1.457/2009, a principal diferença entre convênios e contratos está no interesse dos participantes: "no contrato, os interesses das partes são divergentes e opostos, ao passo que nos convênios os partícipes têm interesses comuns e coincidentes" (TCU, 2009).&#x20;
+De acordo com o Acórdão do Tribunal de Contas da União n° 1.457/2009, a principal diferença entre convênios e contratos está no interesse dos participantes: "no contrato, os interesses das partes são divergentes e opostos, ao passo que nos convênios os partícipes têm interesses comuns e coincidentes".&#x20;
 
 A Professora de Direito Administrativo Di Pietro (2012) aponta, ainda, outras características dos convênios que diferem estes dois instrumentos:&#x20;
 

@@ -4,13 +4,13 @@
 
 Os documentos apresentados pelo convenente juntamente com a proposta serão analisados pela área técnica, como assim dispõe o art. 17 da Resolução Conjunta SEGOV/AGE n° 004/2015:
 
-Art. 17. As áreas técnicas do concedente analisarão a proposta de plano de trabalho, efetuarão eventuais ajustes e complementações, emitirão pareceres técnicos fundamentados e incluirão, no SIGCON-MG – Módulo Saída, a minuta do instrumento do convênio de saída a ser celebrado. (MINAS GERAIS, 2015)
+Art. 17. As áreas técnicas do concedente analisarão a proposta de plano de trabalho, efetuarão eventuais ajustes e complementações, emitirão pareceres técnicos fundamentados e incluirão, no SIGCON-MG – Módulo Saída, a minuta do instrumento do convênio de saída a ser celebrado.
 
 A área técnica do concedente anexará no processo de celebração:
 
-> a) atestado ou comprovante de ausência de registro no Cadastro Informativo de Inadimplência em relação à Administração Pública do Estado de Minas (CADIN-MG), nos termos do art. 10 do Decreto nº 44.694/2007 (para todos os tipos de convenentes);
+> a) atestado ou comprovante de ausência de registro no Cadastro Informativo de Inadimplência em relação à Administração Pública do Estado de Minas (CADIN-MG), nos termos do art. 10 do Decreto Estadual nº 44.694/2007 (para todos os tipos de convenentes);
 >
-> b) atestado ou comprovante de ausência de registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP) nos termos do art. 52 do Decreto nº 45.902/2012 (somente quando o convenente for entidade privada sem fins lucrativos);
+> b) atestado ou comprovante de ausência de registro no Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual (CAFIMP) nos termos do art. 52 do Decreto Estadual nº 45.902/2012 (somente quando o convenente for entidade privada sem fins lucrativos);
 >
 > c) certificado atualizado do Cadastro Geral de Convenentes (CAGEC), demonstrando a regularidade nesse cadastro e no Sistema Integrado de Administração Financeira (SIAFI-MG) -  para todos os tipos de convenentes.
 

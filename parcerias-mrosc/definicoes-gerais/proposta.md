@@ -4,11 +4,11 @@ Como requisito para a celebração da parceria, a OSC deverá elaborar a Propost
 
 > A Proposta de Plano de Trabalho é documento a ser apresentado ao Órgão ou Entidade Estadual Parceiro pela OSC selecionada, mediante chamamento público ou não, contendo, no mínimo, os dados necessários à elaboração conjunta do Plano de Trabalho.
 
-Se a parceria a ser celebrada for um Termo de Fomento ou de Colaboração, haverá saída de recursos do orçamento fiscal do Estado de Minas Gerais e, dessa forma, será necessária a tramitação eletrônica do instrumento no Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais (Sigcon-MG - Módulo Saída), nos termos do [Decreto nº 48.138, de 17 de fevereiro de 2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48138\&comp=\&ano=2021).&#x20;
+Se a parceria a ser celebrada for um Termo de Fomento ou de Colaboração, haverá saída de recursos do orçamento fiscal do Estado de Minas Gerais e, dessa forma, será necessária a tramitação eletrônica do instrumento no Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais (Sigcon-MG - Módulo Saída), nos termos do [Decreto Estadual nº 48.138/2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48138\&comp=\&ano=2021).&#x20;
 
 ## Quais são as informações que devem constar na Proposta de Plano de Trabalho?&#x20;
 
-O [Decreto n° 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto), em seu art. 26, traz essa relação. Em suma, é a seguinte:
+O [Decreto Estadual n° 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto), em seu art. 26, traz essa relação. Em suma, é a seguinte:
 
 > Alguns dados são essenciais para a composição da proposta de plano de trabalho, recomendamos acessar as páginas elencadas do processo eletrônico para ver o passo a passo de como fazer.
 
@@ -66,9 +66,11 @@ Os orçamentos objetivam comprovar a compatibilidade dos custos com os preços d
 
 Despesas de pessoal podem ser pagas se a equipe de trabalho atuar na execução do objeto da parceria. Mas, precisam estar previstas no plano de aplicação da Proposta de Plano de Trabalho.&#x20;
 
-As verbas rescisórias podem, inclusive, ser pagas após a vigência, mas há que se fazer um planejamento e pactuação prévios. Assim sendo, quando as características da proposta justificarem a remuneração de equipe de trabalho, a OSC deve providenciar planilha de detalhamento de despesas de pessoal, observado o art. 33 do Decreto nº 47.132, de 2017. O OEEP avaliará a pertinência dessa despesa.&#x20;
+As verbas rescisórias podem, inclusive, ser pagas após a vigência, mas há que se fazer um planejamento e pactuação prévios. Assim sendo, quando as características da proposta justificarem a remuneração de equipe de trabalho, a OSC deve providenciar planilha de detalhamento de despesas de pessoal, observado o art. 33 do Decreto Estadual nº 47.132/2017. O OEEP avaliará a pertinência dessa despesa.&#x20;
 
 Dependendo das características do caso concreto, a OSC poderá pleitear no plano de aplicação da Proposta de Plano de Trabalho despesas com diárias de viagem, adiantamentos e passagens de trabalhador da OSC parceira. Aplica-se, no que couber, a legislação estadual específica, em especial, o Decreto nº 47.045, de 2016. Se deferidos pelo OEEP, todos os gastos com a diária deverão ser demonstrados na prestação de contas.
+
+Aplica-se, no que couber, a legislação estadual específica, em especial, o Decreto Estadual nº 47.045/2016. Se deferidos pelo OEEP, todos os gastos com a diária deverão ser demonstrados na prestação de contas.
 
 A legislação também permite a inclusão na Proposta de Plano de Trabalho de despesas com custos indiretos indispensáveis e proporcionais à execução do objeto da parceria (tais como: internet, consumo de água e luz, remuneração de serviços contábeis e de assessoria jurídica, elaboração de projeto executivo para obras ou reformas, etc).
 

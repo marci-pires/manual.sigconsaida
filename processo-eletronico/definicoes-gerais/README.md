@@ -3,10 +3,10 @@
 O Processo Eletrônico, no contexto do [SIGCON Saída](https://sigconsaida.mg.gov.br/), é uma funcionalidade que permite ao usuário inserir documentos diretamente no sistema e assiná-los digitalmente.
 
 {% hint style="success" %}
-Confira o [Decreto 48.138, de 17 de fevereiro de 2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48138\&comp=\&ano=2021) que dispõe sobre o novo regulamento do [SIGCON Saída](https://sigconsaida.mg.gov.br/), incluindo as novas regras de processo eletrônico.
+Confira o [Decreto Estadual nº 48.138, de 17 de fevereiro de 2021](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC\&num=48138\&comp=\&ano=2021) que dispõe o novo regulamento do [SIGCON Saída](https://sigconsaida.mg.gov.br/), incluindo as novas regras de processo eletrônico
 {% endhint %}
 
-De acordo com a [Resolução conjunta SEPLAG/SEC nº9.921, de 2 de  outubro de 2018](http://planejamento.mg.gov.br/sites/default/files/documentos/gestao-governamental/gestao-de-ti/sei\_1500010014958\_2018\_97.pdf):&#x20;
+De acordo com a [Resolução conjunta SEPLAG/SEC nº9.921, de 02 de outubro de 2018](http://planejamento.mg.gov.br/sites/default/files/documentos/gestao-governamental/gestao-de-ti/sei\_1500010014958\_2018\_97.pdf):&#x20;
 
 * **Processo** é o "conjunto de documentos oficialmente reunidos no decurso de uma ação administrativa";
 * **Processo Eletrônico** é "aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico".

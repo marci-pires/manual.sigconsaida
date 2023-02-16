@@ -1,6 +1,6 @@
 # O que é o SIGCON Saída?
 
-O Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais - SIGCON-MG foi criado pelo Decreto nº 44.424, de 21 de dezembro de 2006, com a finalidade de acompanhar, coordenar e controlar os instrumentos de natureza financeira que permitam a entrada e a saída de recursos no Tesouro Estadual.
+O Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais - SIGCON-MG foi criado pelo Decreto Estadual nº 44.424, de 21 de dezembro de 2006, com a finalidade de acompanhar, coordenar e controlar os instrumentos de natureza financeira que permitam a entrada e a saída de recursos no Tesouro Estadual.
 
 O SIGCON-MG possui dois módulos vinculados a ele: o SIGCON Entrada e o SIGCON Saída. O primeiro módulo não será alvo deste manual, o qual concentrará o seu detalhamento especificamente na utilização do módulo SIGCON Saída.
 

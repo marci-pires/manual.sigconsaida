@@ -7,7 +7,7 @@ Os convênios que envolverem a transferência de recursos financeiros podem ser 
 * **Convênios de Entrada:** há o ingresso de recursos no orçamento estadual, que é quando o Estado é convenente e a União concedente.&#x20;
 * **Convênios de Saída:** há a transferência de recursos financeiros de um ente público para outro ente (como no caso da transferência de recurso do Estado para o município, neste caso o convênio firmado será de saída para o Estado e de entrada para o município).&#x20;
 
-Conforme art. 2°, inciso I do Decreto n° 46.319/2013, os convênios de saída são acordos, em que o concedente integra a Administração Pública do Poder Executivo Estadual, por meio do qual são conjugados esforços, para a realização de programa, projeto, atividade, mediante a transferência de recursos financeiros de dotações consignadas no orçamento estadual.&#x20;
+Conforme art. 2°, inciso I do Decreto Estadual n° 46.319/2013, os convênios de saída são acordos, em que o concedente integra a Administração Pública do Poder Executivo Estadual, por meio do qual são conjugados esforços, para a realização de programa, projeto, atividade, mediante a transferência de recursos financeiros de dotações consignadas no orçamento estadual.&#x20;
 
 ## O que pode ser um objeto de convênio de saída?&#x20;
 

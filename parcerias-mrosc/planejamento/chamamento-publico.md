@@ -163,14 +163,14 @@ As emendas individuais são propostas feitas por cada deputado estadual, muitas 
 Leitura recomendada:
 
 * Arts. 24, 29, 30, 31 e 32 da [Lei Federal n° 13.019, de 2014](http://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2014/lei/l13019.htm).&#x20;
-* Art. 18 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).&#x20;
-* Parcerias com OSCs de Assistência Social: [Lei nº 22.587, de 18 de junho de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=22587\&comp=\&ano=2017).
+* Art. 18 do [Decreto Estadual nº 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto).&#x20;
+* Parcerias com OSCs de Assistência Social: [Lei Estadual nº 22.587/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI\&num=22587\&comp=\&ano=2017).
 {% endhint %}
 
 Importa observar que a dispensa, inexigibilidade e não aplicabilidade, evidenciadas no quadro de exceções ao chamamento público, não excluem a aplicabilidade da Lei e do Decreto.
 
 {% hint style="danger" %}
-As hipóteses de não aplicabilidade, dispensa e inexigibilidade de chamamento público não afastam a aplicação dos demais dispositivos da Lei Federal nº 13.019, de 2014 e do Decreto nº 47.132, de 2017, inclusive os requisitos de habilitação jurídica e fiscal!
+As hipóteses de não aplicabilidade, dispensa e inexigibilidade de chamamento público não afastam a aplicação dos demais dispositivos da Lei Federal nº 13.019/2014 e do Decreto Estadual nº 47.132/2017, inclusive os requisitos de habilitação jurídica e fiscal!
 {% endhint %}
 
 Para a realização de parcerias, há que se respeitar o ordenamento legal: o Marco Regulatório das Organizações da Sociedade Civil deve embasar as parcerias.

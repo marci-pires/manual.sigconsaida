@@ -8,7 +8,7 @@ A denúncia e a rescisão deverão ser comunicadas 60(sessenta) dias antes de su
 
 É importante ressaltar que, mesmo após a denúncia (assim como na rescisão), todos os partícipes ainda mantêm suas responsabilidades sobre a parceria (como o de prestar contas, por exemplo).
 
-O art. 89 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/) estabelece como motivos para a rescisão da parceria:
+O art. 89 do [Decreto Estadual nº 47.132, de 2017 ](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)estabelece como motivos para a rescisão da parceria:
 
 > I – a constatação, a qualquer tempo, de falsidade ou incorreção insanável de informação em documento apresentado ao Cagec ou na celebração da parceria;
 >

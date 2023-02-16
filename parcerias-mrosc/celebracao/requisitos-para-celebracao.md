@@ -4,33 +4,33 @@
 
 Passada a fase de planejamento e organização interna e a fase de seleção, parte-se para a fase de celebração propriamente dita.
 
-Para estar apta a celebrar a parceria com a Administração Pública, as Organizações da Sociedade Civil deverão cumprir uma série de requisitos especificados nos arts. 33 e 34 e não incorrer nas vedações previstas no art. 39 da Lei Federal 13.019, de 2014.
+Para estar apta a celebrar a parceria com a Administração Pública, as Organizações da Sociedade Civil deverão cumprir uma série de requisitos especificados nos arts. 33 e 34 e não incorrer nas vedações previstas no art. 39 da Lei Federal 13.019/2014.
 
 Em cumprimento ao art. 33 da lei supracitada, o quadro abaixo elenca as cláusulas que deverão estar expressamente previstas na norma de organização interna da OSC, conforme o tipo de organização e de parceria a ser celebrada:
 
 ### **ACORDO DE COOPERAÇÃO**
 
-| NORMA DE ORGANIZAÇÃO INTERNA COM A PREVISÃO DE:                                          | ENTIDADE PRIVADA SEM FINS LUCRATIVOS  | SOCIEDADES COOPERATIVAS | ORGANIZAÇÕES RELIGIOSAS |
-| ---------------------------------------------------------------------------------------- | ------------------------------------- | ----------------------- | ----------------------- |
-| Objetivos voltados à promoção de atividades e finalidades de relevância pública e social |  :white\_check\_mark:                 |  :x:                    | :x:                     |
+| **NORMA DE ORGANIZAÇÃO INTERNA COM A PREVISÃO DE:**                                      | **ENTIDADE PRIVADA SEM FINS LUCRATIVOS**  | **SOCIEDADES COOPERATIVAS** | ORGANIZAÇÕES RELIGIOSAS |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------- | ----------------------- |
+| Objetivos voltados à promoção de atividades e finalidades de relevância pública e social |  :white\_check\_mark:                     |  :x:                        | :x:                     |
 
 ### **TERMO DE COLABORAÇÃO OU TERMO DE FOMENTO**
 
-| NORMA DE ORGANIZAÇÃO INTERNA CONTENDO                                                                                                                                                                                                                                                  | ENTIDADE PRIVADA SEM FINS LUCRATIVOS  | SOCIEDADES COOPERATIVAS | ORGANIZAÇÕES RELIGIOSAS |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :---------------------: | ----------------------- |
-| Objetivos voltados à promoção de atividades e finalidades de relevância pública e social                                                                                                                                                                                               |          :white\_check\_mark:         |           :x:           | :x:                     |
-| Cláusula prevendo que: em caso de dissolução da entidade, o respectivo patrimônio líquido seja transferido a pessoa jurídica de igual natureza que preencha os requisitos da Lei Federal nº 13.019, de 2014 e cujo objeto social seja, preferencialmente, o mesmo da entidade extinta. |          :white\_check\_mark:         |           :x:           | :x:                     |
-| Cláusula prevendo que: a escrituração se encontra de acordo com os princípios fundamentais de contabilidade e com as Normas Brasileiras de Contabilidade                                                                                                                               |          :white\_check\_mark:         |   :white\_check\_mark:  | :white\_check\_mark:    |
+| NORMA DE ORGANIZAÇÃO INTERNA CONTENDO                                                                                                                                                                                                                                              | ENTIDADE PRIVADA SEM FINS LUCRATIVOS  | SOCIEDADES COOPERATIVAS | ORGANIZAÇÕES RELIGIOSAS |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :---------------------: | ----------------------- |
+| Objetivos voltados à promoção de atividades e finalidades de relevância pública e social                                                                                                                                                                                           |          :white\_check\_mark:         |           :x:           | :x:                     |
+| Cláusula prevendo que: em caso de dissolução da entidade, o respectivo patrimônio líquido seja transferido a pessoa jurídica de igual natureza que preencha os requisitos da Lei Federal nº 13.019/2014 e cujo objeto social seja, preferencialmente, o mesmo da entidade extinta. |          :white\_check\_mark:         |           :x:           | :x:                     |
+| Cláusula prevendo que: a escrituração se encontra de acordo com os princípios fundamentais de contabilidade e com as Normas Brasileiras de Contabilidade                                                                                                                           |          :white\_check\_mark:         |   :white\_check\_mark:  | :white\_check\_mark:    |
 
 {% hint style="danger" %}
-A OSC deve verificar se seu estatuto, contrato social ou regimento interno possui as cláusulas obrigatórias previstas no **art. 33** da[ Lei Federal nº 13.019, de 2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
+A OSC deve verificar se seu estatuto, contrato social ou regimento interno possui as cláusulas obrigatórias previstas no **art. 33** da[ Lei Federal nº 13.019/2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 {% endhint %}
 
 As normas de organização interna destacadas no quadro devem constar no estatuto, se a OSC for entidade privada sem fins lucrativos ou organização religiosa, ou no contrato social, no caso de OSC sociedade cooperativa.
 
 Em caso de dúvidas quanto ao enquadramento da redação contida no estatuto em conformidade com a lei, recomenda-se a consulta prévia junto ao OEEP para verificação.
 
-Ressaltamos que, em caso de dissolução da entidade, os bens gravados com cláusula de inalienabilidade adquiridos pela parceria deverão ser retirados pela administração pública do Poder Executivo estadual, no prazo de até noventa dias contados da data de notificação da dissolução. O restante do patrimônio líquido deve ser destinado em conformidade com o inciso III do art. 33 da Lei Federal 13.019, de 2014.
+Ressaltamos que, em caso de dissolução da entidade, os bens gravados com cláusula de inalienabilidade adquiridos pela parceria deverão ser retirados pela administração pública do Poder Executivo estadual, no prazo de até noventa dias contados da data de notificação da dissolução. O restante do patrimônio líquido deve ser destinado em conformidade com o inciso III do art. 33 da Lei Federal 13.019/2014.
 
 {% hint style="info" %}
 Patrimônio líquido pode ser considerado os bens e direitos que a OSC possua, subtraídas as dívidas e obrigações.
@@ -41,7 +41,7 @@ Nos arts. 59, 67, 999 e 1093 do Código Civil de 2002 define as regras para alte
 {% endhint %}
 
 {% hint style="success" %}
-Para auxiliar a verificação pelas OSCs se o estatuto se encontra em conformidade com o exigido pela Lei 13.019, de 2014, foi elaborado em conjunto com a Advocacia Geral do Estado o documento 'Alinhamento de Cláusulas Obrigatórias MROSC e documentos na aba de parcerias em: [http://sigconsaida.mg.gov.br/padronizacoes/](http://sigconsaida.mg.gov.br/padronizacoes/) .
+Para auxiliar a verificação pelas OSCs se o estatuto se encontra em conformidade com o exigido pela Lei 13.019/2014, foi elaborado em conjunto com a Advocacia Geral do Estado o documento 'Alinhamento de Cláusulas Obrigatórias MROSC e documentos na aba de parcerias em: [http://sigconsaida.mg.gov.br/padronizacoes/](http://sigconsaida.mg.gov.br/padronizacoes/) .
 {% endhint %}
 
 ## ALTERAÇÃO PARA FINS DE CELEBRAÇÃO
@@ -52,7 +52,7 @@ Quando for necessário ajuste na norma interna para se adequar e estar apta a ce
 As OSCs podem solicitar apoio aos núcleos de prática jurídica das faculdades de direito para orientar a alteração de suas normas de organização interna.
 {% endhint %}
 
-No caso de associações e fundações, as regras estão dispostas nos arts. 59 e 67 da [Lei 10.406, de 2002](http://www.planalto.gov.br/ccivil\_03/leis/2002/L10406compilada.htm) (Código Civil), respectivamente, no caso das cooperativas no art. 1.093 da mesma lei. No que a lei for omissa, aplicam-se as disposições referentes à sociedade simples (art.999 da [Lei 10.406, de 2002](http://www.planalto.gov.br/ccivil\_03/leis/2002/L10406compilada.htm)).
+No caso de associações e fundações, as regras estão dispostas nos arts. 59 e 67 da [Lei 10.406/2002](http://www.planalto.gov.br/ccivil\_03/leis/2002/L10406compilada.htm) (Código Civil), respectivamente, no caso das cooperativas no art. 1.093 da mesma lei. No que a lei for omissa, aplicam-se as disposições referentes à sociedade simples (art.999 da [Lei 10.406/2002](http://www.planalto.gov.br/ccivil\_03/leis/2002/L10406compilada.htm)).
 
 Portanto, vale avaliar qual dispositivo é aplicável ao caso concreto e o que deverá ser observado ao realizar as alterações necessárias.
 
@@ -82,7 +82,7 @@ As OSCs de assistência social inscritas no Conselho Municipal ou Estadual de As
 As OSCs de assistência social devem informar ao tabelião que são isentas de taxas no momento da solicitação do registro da alteração estatutária no cartório de registro civil.
 {% endhint %}
 
-Outros requisitos para celebração do instrumento estão elencados no artigo 33 da Lei Federal 13.019, de 2014, abaixo segue o quadro contendo os requisitos e seu momento de verificação:
+Outros requisitos para celebração do instrumento estão elencados no artigo 33 da Lei Federal 13.019/2014, abaixo segue o quadro contendo os requisitos e seu momento de verificação:
 
 |                                                                                         **REQUISITO**                                                                                         |          **MOMENTO DE VERIFICAÇÃO**         |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
@@ -92,7 +92,7 @@ Outros requisitos para celebração do instrumento estão elencados no artigo 33
 |                                               Condições Materiais e Capacidade Técnica ou Operacional (não necessita ser previamente instalada).                                              |           Checklist de Celebração           |
 
 {% hint style="info" %}
-Arts. 33, 34 e 39 da[ Lei Federal nº 13.019, de 2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
+Arts. 33, 34 e 39 da[ Lei Federal nº 13.019/2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 {% endhint %}
 
 Os quadros a seguir expõem as listas de exigências a serem cumpridas para habilitação jurídica e fiscal da OSC, bem como o momento em que tais requisitos serão verificados.
@@ -146,13 +146,13 @@ Quanto às formas e graus de parentesco a serem observados para que não se inco
 ![](<../../.gitbook/assets/image (410).png>)
 
 {% hint style="info" %}
-O modelo de declaração do responsável legal atestando que a OSC não incorre nas vedações do art. 39 da Lei Federal nº 13.019, de 2014 está disponível em: [http://sigconsaida.mg.gov.br/padronizacoes/](http://sigconsaida.mg.gov.br/padronizacoes/)
+O modelo de declaração do responsável legal atestando que a OSC não incorre nas vedações do art. 39 da Lei Federal nº 13.019/2014 está disponível em: [http://sigconsaida.mg.gov.br/padronizacoes/](http://sigconsaida.mg.gov.br/padronizacoes/)
 {% endhint %}
 
 ## OSCS IMPEDIDAS DE CELEBRAR PARCERIAS
 
 {% hint style="warning" %}
-São consideradas impedidas de celebrar as parcerias regidas pelo MROSC, as organização da sociedade civil que se enquadrem nas vedações do art. 39, da Lei Federal 13.019, elencadas abaixo:
+São consideradas impedidas de celebrar as parcerias regidas pelo MROSC, as organização da sociedade civil que se enquadrem nas vedações do art. 39, da Lei Federal 13.019/2014, elencadas abaixo:
 {% endhint %}
 
 | **CASO A OSC:**                                                                                                                                                                                                                                      |                                              **MOMENTO DE VERIFICAÇÃO**                                              |

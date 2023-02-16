@@ -37,7 +37,7 @@ Para dirimir algumas dúvidas comuns relativas à utilização dos recursos da p
 | Custos indiretos (Internet, transporte, aluguel, telefone, luz), desde que esteja pactuado no Plano de Trabalho.                                        |         ✅         |
 | Remuneração da equipe de trabalho da OSC, desde que esteja pactuado no Plano de Trabalho.                                                               |         ✅         |
 
-Tais hipóteses foram extraídas dos arts. 51 e 33 do Decreto n° 47.132, de 2017. Observe-se que, mesmo para as despesas permitidas pela legislação, é necessária a previsão expressa destas no Plano de Trabalho.
+Tais hipóteses foram extraídas dos arts. 51 e 33 do Decreto n° 47.132/2017. Observe-se que, mesmo para as despesas permitidas pela legislação, é necessária a previsão expressa destas no Plano de Trabalho.
 
 {% hint style="danger" %}
 Somente na hipótese de previsão no Plano de Trabalho as despesas poderão ser realizadas.
@@ -94,15 +94,15 @@ Ao término da vigência, esses documentos serão utilizados para a elaboração
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Arts. 51 a 55 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+Arts. 51 a 55 do [Decreto nº 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 Na próxima sessão iremos abordar a fase de monitoramento e os procedimentos que devem ser adotados pela OSC parceira e pelo órgão ou entidade estadual parceiro e seus agentes, para verificação e acompanhamento da execução da parceria em consonância com a parceria.
 
 Caso haja necessidade de alteração da parceria, seja para alterar o objeto, reduzir ou acrescentar contrapartida, favor verificar a seção abaixo:
 
-{% content-ref url="../alteracao.md" %}
-[alteracao.md](../alteracao.md)
+{% content-ref url="../alteracao/" %}
+[alteracao](../alteracao/)
 {% endcontent-ref %}
 
 {% hint style="warning" %}

@@ -44,14 +44,14 @@ O gestor deve informar formalmente ao administrador público qualquer fato ou in
 {% endhint %}
 
 {% hint style="info" %}
-**LEITURA IMPORTANTE** Arts. 2º, inciso VI, e[ 61 da Lei Federal nº 13.019, de 2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
+**LEITURA IMPORTANTE** Arts. 2º, inciso VI, e[ 61 da Lei Federal nº 13.019/2014.](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 {% endhint %}
 
 ## OBRIGAÇÕES DA OSC NO MONITORAMENTO
 
 Para a boa execução do instrumento, além do gestor cumprir seu papel, a OSC deve ser assertiva ao gestor da parceria, respondendo seus questionamentos, mantendo contato constante para diminuir possibilidade de erros e apresentar toda e qualquer documentação solicitada.
 
-O art.56 do Decreto 47.132, de 2017 discrimina como principais obrigações da OSC no monitoramento da parceria:
+O art. 56 do Decreto 47.132/2017 discrimina como principais obrigações da OSC no monitoramento da parceria:
 
 {% hint style="warning" %}
 Apresentar **periodicamente** o **relatório de monitoramento**, no prazo de até **quinze dias** após o término do período a ser monitorado, informando o andamento da execução do objeto.
@@ -107,7 +107,7 @@ Em uma instância diferente da do gestor, figura a Comissão de Monitoramento e 
 
 Assim como o gestor, a Comissão deve ser designada por meio de ato publicado em meio oficial de comunicação.&#x20;
 
-Os principais requisitos a serem observados ao selecionar os membros que irão compor a Comissão de Monitoramento e Avaliação são os mesmos da Comissão de Seleção, que se encontram no art.22 do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/):
+Os principais requisitos a serem observados ao selecionar os membros que irão compor a Comissão de Monitoramento e Avaliação são os mesmos da Comissão de Seleção, que se encontram no art. 22 do [Decreto 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017):
 
 * a composição deverá conter pelo menos um membro servidor ocupante de cargo efetivo do quadro de pessoal da administração pública do Poder Executivo estadual;
 
@@ -142,7 +142,7 @@ Quando houver, a comissão deve considerar os relatórios de visita técnica in 
 A periodicidade das reuniões será estabelecida no ato de designação da comissão.
 {% endhint %}
 
-O OEEP pode optar por instituir uma ou mais Comissões de Monitoramento e Avaliação, desde que observada a segregação de funções e respeitadas as disposições de impedimento do art. 22, do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+O OEEP pode optar por instituir uma ou mais Comissões de Monitoramento e Avaliação, desde que observada a segregação de funções e respeitadas as disposições de impedimento do art. 22 do [Decreto 47.132/2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 
 {% hint style="danger" %}
 Em respeito à segregação de funções e a imparcialidade, os membros da comissão de monitoramento e avaliação não devem ser gestores de parceria.
@@ -152,16 +152,16 @@ Em respeito à segregação de funções e a imparcialidade, os membros da comis
 A Comissão de Monitoramento e Avaliação poderá solicitar assessoramento técnico de especialista que não integre os seus membros para subsidiar seus trabalhos.&#x20;
 {% endhint %}
 
-O monitoramento e a avaliação da parceria executada com recursos de fundo específico poderão ser realizados por Comissão de Monitoramento e Avaliação a ser constituída pelo respectivo Conselho Gestor, conforme legislação específica, respeitadas as exigências da Lei Federal nº 13.019, de 2014, e do Decreto nº 47.132 , de 2017.
+O monitoramento e a avaliação da parceria executada com recursos de fundo específico poderão ser realizados por Comissão de Monitoramento e Avaliação a ser constituída pelo respectivo Conselho Gestor, conforme legislação específica, respeitadas as exigências da Lei Federal nº 13.019/2014 e do Decreto nº 47.132/2017.
 
-A Comissão de Monitoramento e Avaliação deve, em conformidade com o art.4º da Resolução SEGOV nº29, consolidar relatório contendo as avaliações e resultados do conjunto de parcerias e informações acerca dos trabalhos realizados e propostas de monitoramento apresentadas, em meio eletrônico, que permita o acesso aos interessados ao término de cada exercício.
+A Comissão de Monitoramento e Avaliação deve, em conformidade com o art. 4º da Resolução SEGOV nº 29, consolidar, ao término de cada exercício, em meio eletrônico que permita o acesso aos interessados, relatório contendo as avaliações e resultados do conjunto de parcerias e informações acerca dos trabalhos realizados e propostas de monitoramento apresentadas.
 
 A elaboração desse relatório possibilitará aos próximos integrantes da comissão, bem como ao administrador público e demais interessados, o vislumbre de um histórico, inclusive para consulta própria da Comissão de Monitoramento e Avaliação conseguir avaliar dentre suas ações, melhorias nos procedimentos e consolidar resultados.
 
 {% hint style="info" %}
 **LEITURA IMPORTANTE**
 
-A Resolução  [SEGOV nº29/2021](http://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/resolucoes/resolucao\_SEGOV\_29\_2021\_31\_08\_2021\_SEI.pdf) discrimina as ações e competências da Comissão de Monitoramento e Avaliação.
+A Resolução  [SEGOV nº 29/2021](http://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/resolucoes/resolucao\_SEGOV\_29\_2021\_31\_08\_2021\_SEI.pdf) discrimina as ações e competências da Comissão de Monitoramento e Avaliação.
 {% endhint %}
 
 {% hint style="success" %}

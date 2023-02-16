@@ -11,7 +11,7 @@ Um bom plano de trabalho deve permitir ao convenente executar um projeto com pou
 Um bom plano de trabalho significa que foi construído de forma planejada!&#x20;
 
 {% hint style="success" %}
-Dúvidas com outros termos, consultar o Capítulo l do Decreto n° 46.319/2013.&#x20;
+Dúvidas com outros termos, consultar o Capítulo l do Decreto Estadual n° 46.319/2013.&#x20;
 {% endhint %}
 
 ## Status do Plano de Trabalho

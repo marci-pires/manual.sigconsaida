@@ -78,7 +78,7 @@ g. Status
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 5\.  Cadastrar data de publicação
 

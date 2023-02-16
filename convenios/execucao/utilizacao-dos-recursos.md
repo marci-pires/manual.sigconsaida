@@ -1,6 +1,6 @@
 # Utilização dos recursos
 
-Para execução de despesas, os recursos desembolsados deverão ser depositados na conta corrente específica do convênio e (de acordo com o art. 49 do Decreto n° 46.319/2013) somente poderão ser utilizados para executar as despesas previstas no plano de trabalho.
+Para execução de despesas, os recursos desembolsados deverão ser depositados na conta corrente específica do convênio e (de acordo com o art. 49 do Decreto Estadual n° 46.319/2013) somente poderão ser utilizados para executar as despesas previstas no plano de trabalho.
 
 {% hint style="danger" %}
 **ATENÇÃO:** É importante também que estes gastos observem os “princípios da legalidade, da impessoalidade, da moralidade, da economicidade, da razoabilidade e da eficiência.”
@@ -14,7 +14,7 @@ Os municípios, os órgãos e entidades públicas e os consórcios públicos dev
 
 > Art. 45. Na utilização dos recursos do convênio de saída, a entidade privada sem fins lucrativos convenente deverá instruir suas contratações de serviços, aquisições de bens e gestão dos bens adquiridos com, no mínimo, os seguintes elementos:&#x20;
 >
-> I - cotação prévia de preços, atas de registro de preços ou tabelas de preços de associações profissionais, publicações especializadas ou quaisquer outras fontes de informação, salvo se a aquisição foi realizada por meio de compra direta, nos termos do inciso IV do § 3º do art. 50 do Decreto n° 46.319, de 2013;&#x20;
+> I - cotação prévia de preços, atas de registro de preços ou tabelas de preços de associações profissionais, publicações especializadas ou quaisquer outras fontes de informação, salvo se a aquisição foi realizada por meio de compra direta, nos termos do inciso IV do § 3º do art. 50 do Decreto Estadual n° 46.319/2013;&#x20;
 >
 > II - justificativa da escolha do fornecedor ou prestador de serviços e do preço, demonstrando a compatibilidade com os valores praticados pelo mercado, incluindo, se for o caso, apontamento de priorização da acessibilidade, da sustentabilidade ambiental e do desenvolvimento local como critérios;&#x20;
 >
