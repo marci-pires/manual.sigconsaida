@@ -4,7 +4,7 @@ O OEEP deverá avaliar a Proposta de Plano de Trabalho e demais documentos receb
 
 Caso seja verificada a necessidade de adequar a proposta recebida, a área técnica pode realizar os ajustes e complementações de comum acordo com a OSC parceira, especialmente na hipótese de Termo de Fomento.&#x20;
 
-Se à época de celebração da parceria for verificado que a OSC está irregular no Cagec ou outro cadastro previsto no § 5º do art. 35 do Decreto nº 47.132, de 2017 ou for identificada alguma incorreção em documento complementar, o OEEP poderá notificar a OSC para, no prazo máximo de 15 dias, regularizar sua situação, sob pena de não celebração da parceria (art. 38 do Decreto nº 47.132, de 2017).
+Se, à época de celebração da parceria, for verificado que a OSC está irregular no Cagec ou outro cadastro previsto no § 5º do art. 35 do Decreto nº 47.132, de 2017 ou for identificada alguma incorreção em documento complementar, o Órgão ou Entidade Estadual Parceiro poderá notificar a OSC para, no prazo máximo de 15 dias, regularizar sua situação, sob pena de não celebração da parceria (art. 38 do Decreto nº 47.132, de 2017).
 
 > O Plano de Trabalho é documento que descreve o conteúdo da proposta aprovada e o detalhamento do objeto da parceria, tornando-se base para a execução, gestão dos recursos e acompanhamento do programa, projeto ou atividade, inclusive reforma, obra, serviço, evento ou aquisição de bens.
 

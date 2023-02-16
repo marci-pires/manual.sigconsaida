@@ -1,35 +1,38 @@
-# Manual de Utilização
+---
+description: Manual do Usuário do SIGCON-SAÍDA
+---
+
+# MANUAL DE UTILIZAÇÃO SIGCON-SAÍDA
 
 Prezados usuários,
 
-Este manual foi desenvolvido com o objetivo de explicar detalhadamente como utilizar o portal [SIGCON Saída](https://sigconsaida.mg.gov.br/).&#x20;
+Este manual foi desenvolvido com o objetivo de explicar o passo-a-passo para a utilização do sistema  SIGCON-SAÍDA
 
-### A navegação por este manual ocorre da seguinte forma: ao lado esquerdo da página, temos o sumário completo do documento dividido por títulos. Aqueles marcados com o sinal ">", possuem a opção de navegar pelos seus subtítulos relativos ao tema central do tópico principal. Ao final de cada página também temos a opção de seguir para o título/subtítulo anterior ou seguinte do sumário.
+### A navegação nesse manual _online_ é bem simples! Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
-Para facilitar a compreensão, vocês encontrarão no decorrer do texto algumas caixas com os símbolos abaixo. Elas irão ajudar a detalhar e a chamar a atenção para pontos importantes do tema abordado. Segue legenda:
+Para facilitar a compreensão, no decorrer do texto, vocês encontrarão caixas como as abaixo. Elas vão servir para ajudar a compreensão e chamar atenção para pontos importantes! 🤓 
 
 {% hint style="info" %}
-Informações importantes e complementares
+Para informações importantes e complementares
 {% endhint %}
 
 {% hint style="warning" %}
-Pontos de atenção e que podem gerar dúvidas
+Para pontos de atenção e que podem gerar dúvidas
 {% endhint %}
 
 {% hint style="danger" %}
-Problemas sérios!!!
+Para problemas sérios!!
 {% endhint %}
 
 {% hint style="success" %}
-Dicas e boas práticas no sistema
+Para dicas e boas práticas no sistema
 {% endhint %}
 
-## Esperamos que gostem e que esse material possa ser útil
+## Esperamos que gostem e que esse material possa ser útil!
 
-Atenciosamente,&#x20;
+#### Atenciosamente, 
 
-Equipe de Atendimento [SIGCON Saída](https://sigconsaida.mg.gov.br/).
+#### Equipe de Atendimento SIGCON-SAÍDA
 
-{% hint style="info" %}
-Em caso de **dúvidas**, entre em contato com: **** [atendimento@sigconsaida.mg.gov.br](mailto:%20atendimento@sigconsaida.mg.gov.br)&#x20;
-{% endhint %}
+
+

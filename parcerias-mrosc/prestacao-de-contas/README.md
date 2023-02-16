@@ -4,7 +4,7 @@ Jacoby Fernandes (2015, p. 106-108) aponta que “O dever de prestar contas é u
 
 O parágrafo único do art. 70 da Constituição da República Federativa do Brasil de 1988 (CRF/88) dispõe que :
 
-> “Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.” (BRASIL, 1988)
+> “Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.”
 
 A Constituição do Estado de Minas Gerais de 1989, de modo semelhante à CRF/88, contém a seguinte previsão:
 
@@ -14,7 +14,7 @@ A Constituição do Estado de Minas Gerais de 1989, de modo semelhante à CRF/88
 >
 > § 2º – Prestará contas a pessoa física ou jurídica que:&#x20;
 >
-> I – utilizar, arrecadar, guardar, gerenciar ou administrar dinheiro, bem ou valor públicos ou pelos quais responda o Estado ou entidade da administração indireta; (MINAS GERAIS, 1989)
+> I – utilizar, arrecadar, guardar, gerenciar ou administrar dinheiro, bem ou valor públicos ou pelos quais responda o Estado ou entidade da administração indireta;
 
 Dessa forma, qualquer pessoa, física ou jurídica, que receba e gerencie recursos do Estado de Minas Gerais deverá prestar contas da forma como o recurso foi utilizado.
 
@@ -25,12 +25,12 @@ Dessa forma, qualquer pessoa, física ou jurídica, que receba e gerencie recurs
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Arts. 2º, 3º, 47 a 52 e 62 a 70 da [Lei Complementar nº 102, de 2008](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP\&num=102\&ano=2008)
+Arts. 2º, 3º, 47 a 52 e 62 a 70 da [Lei Complementar nº 102, de 2008](https://www.almg.gov.br/legislacao-mineira/LCP/102/2008/)
 
-Instrução Normativa TCEMG nº 003, de 2013.
+[Instrução Normativa TCEMG nº 003, de 2013](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN\_2013/IN-03-13.pdf).
 {% endhint %}
 
-A responsabilidade pela apresentação da prestação de contas da parceria é da OSC, que recebeu os recursos públicos, não se aplicando ao representante legal que assinou o instrumento pois, seu mandato pode se encerrar e outro assumir as obrigações.
+A responsabilidade pela apresentação da prestação de contas da parceria é da OSC que recebeu os recursos públicos, não se aplicando ao representante legal que assinou o instrumento, pois, seu mandato pode se encerrar e outro assumir as obrigações.
 
 Portanto, o responsável sucessor deve apresentar as contas referentes aos recursos estaduais recebidos pela OSC, independentemente se foi ele que pactuou inicialmente aquela parceria.
 
@@ -53,7 +53,7 @@ Há dois tipos prestações de contas, a anual e a final.&#x20;
 * A anual, que se aplica somente em parcerias com duração superior a um ano, é realizada a cada doze meses a partir do início da vigência do instrumento jurídico pactuado.&#x20;
 * Já a final ocorrerá no encerramento da vigência.
 
-Com a alteração do Decreto 47.132, de 2017 pelo Decreto 48.177, de 2021, foi instituída a possibilidade de prestação de contas amostral, que possibilita ao órgão ou entidade estadual parceiro a seleção das parcerias que deverão apresentar a prestação de contas e o Relatório de Execução do Objeto e Relatório de Execução Financeira, nos termos do art.59, §1º-D, do[ Decreto 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Com a alteração do Decreto 47.132, de 2017 pelo Decreto 48.177, de 2021, foi instituída a possibilidade de prestação de contas amostral, que possibilita ao órgão ou entidade estadual parceiro a seleção das parcerias que deverão apresentar a prestação de contas e o Relatório de Execução do Objeto e Relatório de Execução Financeira, nos termos do art.59, §1º-D, do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 
 ## RELATÓRIOS QUE COMPÕEM A PRESTAÇÃO DE CONTAS
 
@@ -65,18 +65,18 @@ O REO deverá compor toda e qualquer prestação de contas. O conteúdo do Relat
 >
 > II – descrição pormenorizada das etapas e ações desenvolvidas para o cumprimento do objeto;
 >
-> III – documentos de comprovação do cumprimento do objeto (...)
+> III – documentos de comprovação do cumprimento do objeto (...);
 >
 > IV – documentos de comprovação do cumprimento da contrapartida em bens e serviços, quando houver;
 >
 > V – comprovantes de regularidade das OSCs executantes e não celebrantes, quando a parceria tiver sido executada com atuação em rede, nos termos do art. 63;
 >
-> VI – informações básicas sobre a boa e regular aplicação dos recursos da parceria, inclusive os aportados pelo interveniente ou receitas arrecadas pela OSC, se for o caso (...)
+> VI – informações básicas sobre a boa e regular aplicação dos recursos da parceria, inclusive os aportados pelo interveniente ou receitas arrecadas pela OSC, se for o caso (...);
 >
 > VII – comprovação do grau de satisfação do público-alvo, que poderá ser indicado por meio de resultado da pesquisa de satisfação, de declaração de entidade pública ou privada local, de manifestação do conselho de política pública setorial ou de documento equivalente.
 
 {% hint style="info" %}
-Recomendamos a leitura integral do art.77 do[ Decreto 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Recomendamos a leitura integral do art.77 do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 {% endhint %}
 
 Importa dizer que, a modalidade de avaliação realizada na prestação de contas inserida pelo Marco Regulatório das Organizações da Sociedade Civil (MROSC) busca a realização de resultados e alcance da finalidade pactuada, sendo avaliado com maior afinco se o interesse público da parceria foi atingido.
@@ -90,11 +90,11 @@ A OSC será solicitada a apresentar o Relatório de Execução Financeira nas si
 * em caso de denúncia de irregularidade na execução do objeto ou dos recursos financeiros, mediante juízo de admissibilidade realizado pelo administrador público;
 * na hipótese de não comprovação do alcance de metas e resultados pactuados.
 
-Esses documentos irão compor tanto a prestação de contas anual quanto a final, cada qual a seu tempo, respeitada a seleção por amostragem.
+Esses documentos irão compor tanto a prestação de contas anual quanto a final, respeitada a seleção por amostragem.
 
-Para a prestação de contas anual, o conteúdo é o mesmo, porém a análise será realizada somente se a prestação de contas for selecionada na amostragem prevista no art. 59 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)&#x20;
+Para a prestação de contas anual, o conteúdo é o mesmo, porém a análise será realizada somente se a prestação de contas for selecionada na amostragem prevista no art. 59 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).&#x20;
 
-Em caso da vigência da parceria ser superior a um ano e verificadas irregularidades ao tempo da prestação de contas anual, o OEEP suspenderá a liberação de recursos e notificará a OSC. Será fixado, então, o prazo máximo de 45 dias, prorrogável uma vez, por igual período, para apresentação de relatório de execução financeira ou saneamento das irregularidades.
+Em caso da vigência da parceria ser superior a um ano e verificadas irregularidades ao tempo da prestação de contas anual, o OEEP suspenderá a liberação de recursos e notificará a OSC. Será fixado, então, o prazo máximo de 45 dias, prorrogável por uma vez e por igual período, para apresentação de relatório de execução financeira ou saneamento das irregularidades.
 
 Basta clicar na aba abaixo para conseguir acessar e compreender com detalhes os documentos padrões de prestação de contas das parcerias MROSC.
 
@@ -110,7 +110,7 @@ Ao gestor da parceria, caberá apreciar os pareceres sobre aspectos técnicos e 
 
 Ressalta-se que a OSC possui obrigação de guarda da documentação referente a parceria pelo prazo de dez anos.
 
-A prestação de contas, anual ou final, se dará através da apresentação em até 90 dias a contar do término da vigência da parceria, do Relatório de Execução do Objeto. Documento que deve ser apresentado pela OSC independente de solicitação do OEEP e, quando for o caso haverá a avaliação do Relatório de Execução Financeira.
+A prestação de contas, anual ou final, se dará através da apresentação em até 90 dias a contar do término da vigência da parceria, do Relatório de Execução do Objeto. Documento que deve ser apresentado pela OSC independente de solicitação do OEEP e, quando for o caso, haverá a avaliação do Relatório de Execução Financeira.
 
 {% hint style="info" %}
 Os documentos padrões de prestação de contas se encontram em [https://sigconsaida.mg.gov.br/padronizacoes-parcerias/](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/)
@@ -118,10 +118,10 @@ Os documentos padrões de prestação de contas se encontram em [https://sigcons
 A OSC deverá consultar o órgão ou entidade estadual parceiro para a apresentação de eventuais documentações específicas e/ou complementares.
 {% endhint %}
 
-&#x20;Após avaliação de todos os pareceres técnicos contidos no processo, o gestor elabora parecer técnico conclusivo, consolidando o histórico da prestação de contas. O processo de prestação de contas finda com a decisão do administrador público sobre a prestação de contas.
+Após avaliação de todos os pareceres técnicos contidos no processo, o gestor elabora parecer técnico conclusivo, consolidando o histórico da prestação de contas. O processo de prestação de contas finda com a decisão do administrador público sobre a prestação de contas.
 
 {% hint style="info" %}
-Não há óbice para avaliação da prestação de contas de todas as parcerias celebradas caso o OEEP entenda necessário.&#x20;
+Não há óbice para avaliação da prestação de contas de todas as parcerias celebradas, caso o OEEP entenda necessário.&#x20;
 {% endhint %}
 
 ### Quais os prazos da prestação de contas final?&#x20;
@@ -138,7 +138,7 @@ Se a Administração Pública não concluir a análise das contas no prazo previ
 
 Contudo, se não for constatado dolo da OSC ou de seus prepostos, não incidirão juros de mora sobre os débitos eventualmente apurados, no período entre o final do prazo (150 dias, prorrogáveis por mais 150) e a data da decisão sobre as contas.
 
-Quando a Prestação de Contas Final não for encaminhada pela OSC dentro do período estabelecido (até 90 dias, prorrogáveis justificadamente por até 30 dias), a OSC será notificada e novo prazo será fixado, também de 45 dias, prorrogável por igual período para a apresentação da prestação de contas, sob pena de rejeição da prestação e instauração de Processo Administrativo de Constituição de Crédito Estadual Não Tributário decorrente de dano ou erário (PACE-Parcerias). Adiante, explicaremos o que é o [PACE-Parcerias](https://app.gitbook.com/@segov/s/sigcon/\~/drafts/-Mgq1Oa2EiePCagybtOW/mrosc/prestacao-de-contas#pace-parcerias).&#x20;
+Quando a Prestação de Contas Final não for encaminhada pela OSC dentro do período estabelecido (até 90 dias, prorrogáveis justificadamente por até 30 dias), a OSC será notificada e novo prazo será fixado, também de 45 dias, prorrogável por igual período para a apresentação da prestação de contas, sob pena de rejeição da prestação e instauração de Processo Administrativo de Constituição de Crédito Estadual Não Tributário decorrente de dano ou erário (PACE-Parcerias).&#x20;
 
 Se, ao analisar o REO, o parecer da área técnica apontar o descumprimento de metas e resultados estabelecidos no Plano de Trabalho ou indícios de inconformidades na aplicação de recursos, o OEEP notificará a OSC parceira para que apresente, em até 60 dias, REF, ficando suspensa nesse período, a análise da prestação de contas.&#x20;
 
@@ -150,7 +150,7 @@ O gestor da parceria deverá emitir parecer técnico conclusivo da prestação d
 
 O administrador público tomará sua decisão com base no parecer técnico conclusivo.&#x20;
 
-Verificados indícios de dano ao erário, o valor reprovado será calculado e corrigido pela taxa referencial do Sistema Especial de Liquidação e Custódia – Selic, observado o art. 82 do [Decreto nº 47.132/2017. ](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Verificados indícios de dano ao erário, o valor reprovado será calculado e corrigido pela taxa referencial do Sistema Especial de Liquidação e Custódia – Selic, observado o art. 82 do [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).&#x20;
 
 Caso não tenha  dolo ou fraude e não seja caso de restituição integral de recursos, a OSC poderá solicitar o ressarcimento ao erário por meio de ações compensatórias de interesse público. Contudo, as regras e os procedimentos para a compensação ainda serão definidos em resolução da Segov e da CGE.
 
@@ -159,7 +159,7 @@ Caso não tenha  dolo ou fraude e não seja caso de restituição integral de re
 
 **Arts. 69, 72  e 75** da [Lei Federal nº 13.019, de 2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm).&#x20;
 
-**Arts. 80 a 85** do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+**Arts. 80 a 85** do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 {% endhint %}
 
 ### Fluxos resumidos
@@ -170,7 +170,7 @@ Caso não tenha  dolo ou fraude e não seja caso de restituição integral de re
 
 Quando a Prestação de Contas Final for aprovada, o ordenador de despesas do Órgão ou Entidade Estadual Parceiro autorizará a baixa contábil.&#x20;
 
-Não é de competência do gestor da parceria ou das áreas técnicas de prestação de contas, cuja atuação se limita à produção de pareceres relativos à análise técnica, física e financeira do processo, mas sim do administrador público.&#x20;
+Não é de competência do gestor da parceria ou das áreas técnicas de prestação de contas, cuja atuação limita-se à produção de pareceres relativos à análise técnica, física e financeira do processo, mas sim do administrador público.&#x20;
 
 {% hint style="danger" %}
 Caso as figuras de administrador público e ordenador de despesas estejam concentradas em único agente público, é de sua competência tanto a decisão acerca das contas apresentadas pela OSC parceira quanto a autorização da baixa contábil.&#x20;
@@ -193,7 +193,7 @@ Se a prestação de contas for rejeitada pelo administrador público ou em caso 
 
 **Arts. 69 e 72** da [Lei Federal nº 13.019, de 2014. ](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm)
 
-**Art. 85** do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+**Art. 85** do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 {% endhint %}
 
 ## PACE-PARCERIAS
@@ -204,7 +204,7 @@ Rejeitada a prestação de contas, o OEEP integrante da Administração Pública
 O PACE-Parcerias oportuniza a ampla defesa e o contraditório do interessado!
 {% endhint %}
 
-O PACE-Parcerias ocorre antes do processo de Tomada de Contas Especial e tem como produto o Auto de Apuração de Dano ao Erário. Este documento é emitido pelo responsável pelo setor de análise da prestação de contas em duas vias, sendo que uma delas ficará com o responsável pelo Auto e outra será enviada ao responsável pelo dano juntamente com uma notificação do fato.
+O PACE-Parcerias ocorre antes do Processo de Tomada de Contas Especial e tem como produto o Auto de Apuração de Dano ao Erário. Este documento é emitido pelo responsável pelo setor de análise da prestação de contas em duas vias, sendo que uma delas ficará com o responsável pelo Auto e outra será enviada ao responsável pelo dano juntamente com uma notificação do fato.
 
 O responsável pelo dano poderá apresentar defesa, que subsidiará a decisão do ordenador de despesas sobre a constituição ou não do crédito estadual decorrente do dano ao erário apurado na prestação de contas da parceria. Ele ainda pode apresentar recurso de eventual decisão pela existência do crédito ao dirigente máximo do OEEP.&#x20;
 
@@ -219,7 +219,9 @@ A decisão definitiva pela constituição do crédito decorrente do dano implica
 Além disso, sendo o PACE-Parcerias corretamente autuado pelo OEEP e constituído o crédito estadual decorrente de dano ao erário apurado em prestação de contas de transferências de recursos financeiros mediante parcerias, a Advocacia-Geral do Estado pode realizar a inscrição na dívida ativa não tributária do Estado.
 
 {% hint style="info" %}
-LEITURA IMPORTANTE Lei nº 21.735/2015. Decreto nº 46.830/2015.
+**LEITURA IMPORTANTE**&#x20;
+
+Lei nº 21.735/2015. Decreto nº 46.830/2015.
 {% endhint %}
 
 ## Parcelamento
@@ -228,11 +230,11 @@ O pagamento do crédito não tributário poderá ser parcelado, observadas as re
 
 &#x20;Seguem algumas informações adicionais:
 
-* Número máximo de parcelas: 60.
-* Exigência de entrada prévia, em percentual não inferior a 5% do valor do crédito e não inferior ao valor de cada parcela, salvo autorização do ordenador de despesas.
-* O montante a parcelar corresponderá ao somatório dos valores do dano apurado, atualizado pela taxa Selic, deduzida a importância recolhida a título de entrada prévia, mais custas e honorários, se houver.&#x20;
-* Parcelas mensais (valor correspondente a cada parcela será o resultado da divisão dos valores apurados).
-* Valor mínimo da entrada prévia e das parcelas: R$ 500,00, salvo autorização do ordenador de despesas.&#x20;
+* Número máximo de parcelas: 60;
+* Exigência de entrada prévia, em percentual não inferior a 5% do valor do crédito e não inferior ao valor de cada parcela, salvo autorização do ordenador de despesas;
+* O montante a parcelar corresponderá ao somatório dos valores do dano apurado, atualizado pela taxa Selic, deduzida a importância recolhida a título de entrada prévia, mais custas e honorários, se houver;
+* Parcelas mensais (valor correspondente a cada parcela será o resultado da divisão dos valores apurados);
+* Valor mínimo da entrada prévia e das parcelas: R$ 500,00, salvo autorização do ordenador de despesas;
 * Correção das parcelas pela taxa Selic.
 
 {% hint style="danger" %}

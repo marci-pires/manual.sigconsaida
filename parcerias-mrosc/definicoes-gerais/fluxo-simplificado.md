@@ -8,13 +8,13 @@ Tanto a Lei Federal n° 13.019, de 2014 quanto o Decreto n° 47.132, de 2017 apr
 
 ## Fase, Situação e Status
 
-É fundamental atentar-se para alguns conceitos que serão utilizados no decorrer deste Manual para compreender o fluxo de Parcerias MROSC:&#x20;
+É fundamental se atentar a fase, situação e status do instrumento para compreender o fluxo de Convênios de saída.&#x20;
 
-**Fase**: conceito aplicável à todo o ciclo de tramitação do convênio que vai desde a sua criação até o seu encerramento. As fases previstas para o ciclo de convênio são: "[Planejamento](broken-reference)", "[Preparação](broken-reference)", "[Celebração](broken-reference)", "[Execução](broken-reference)" ou "[Prestação de Contas](broken-reference)".
+**Fase**: "[Planejamento](broken-reference)", "[Preparação](broken-reference)", "[Celebração](broken-reference)", "[Execução](broken-reference)" ou "[Prestação de Contas](broken-reference)".
 
-**Situação**: este conceito aplica-se para identificação das fases preparatórias e de assinatura do instrumento propriamente dito. São elas:  "[Proposta de Plano de Trabalho](broken-reference)", "[Plano de Trabalho](broken-reference)", "[Convenio](broken-reference) / [Parceria MROSC](broken-reference)".
+**Situação**: "[Proposta de Plano de Trabalho](broken-reference)", "[Plano de Trabalho](broken-reference)" , "[Convenio ](broken-reference)ou [Parceria MROSC](broken-reference)".
 
-**Status**: enfoque no processo prévio à assinatura da parceria, conferindo maior detalhamento às situações "Proposta de Plano de Trabalho" e do "Plano de Trabalho". Cada situação terá um status distinto, sendo:
+**Status**: as situações de Proposta ou Plano possuem status distintos, sendo:
 
 {% tabs %}
 {% tab title="Proposta de Plano de Trabalho" %}

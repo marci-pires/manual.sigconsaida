@@ -1,75 +1,22 @@
----
-description: Liberação de perfil de Órgãos e Representante Legal
----
+# 🔑 PROBLEMAS COM A SENHA
 
-# Liberação de Perfil
+## Liberação de Senha - Órgãos
 
-## Órgãos
+A [RESOLUÇÃO SEGOV Nº 437, DE 19 DE MAIO DE 2015](http://atendimento.sigconsaida.mg.gov.br/a/tickets/saida.convenios.mg.gov.br/images/resolucoes/resolucao_segov_437_2015_modulo_seguranca_sigcon.pdf) determina que a criação de usuários e gestão de perfis de usuários internos deverá ser efetuada por cada órgão.
 
-A [RESOLUÇÃO SEGOV Nº 437, DE 19 DE MAIO DE 2015](http://atendimento.sigconsaida.mg.gov.br/a/tickets/saida.convenios.mg.gov.br/images/resolucoes/resolucao\_segov\_437\_2015\_modulo\_seguranca\_sigcon.pdf) determina que a criação de usuários e gestão de perfis de usuários internos **deverá ser efetuada por cada órgão**.
+Nessa perspectiva, cada dirigente máximo indicou o Administrador de Segurança do Órgão. 
 
-Nessa perspectiva, cada dirigente máximo deve indicar o Administrador de Segurança do Órgão.&#x20;
+Liberações de senha expirada e revogada, concessão de perfis de acesso e criação de usuário no SIGCON deverá ser feito pelo Administrador de Segurança do Órgão
 
-Liberações de senha expirada e revogada, concessão de perfis de acesso e criação de usuário no [SIGCON Saída](https://sigconsaida.mg.gov.br/) deverão ser feitos pelo Administrador de Segurança do Órgão.
+Para acessar a lista dos administradores de segurança mais atualizada clique no link abaixo
 
-{% hint style="info" %}
-Para acessar a lista dos administradores de segurança atualizada, clique [**aqui**](https://sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/).
-{% endhint %}
+[http://www.sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/](http://www.sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/)
 
-## Representante Legal
+{% embed url="http://www.sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/" %}
 
-O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Legal](problemas-com-a-senha.md#representante-legal), tendo em vista que é o responsável pela gestão dos usuários. É fundamental que o Representante legal esteja com o cadastro **atualizado** no [Portal CAGEC](https://www.portalcagec.mg.gov.br/).&#x20;
+## Liberação de Senha - Representante Legal
 
-**1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial:
+**Passo 1**. O Prefeito/Representante Legal receberá no e-mail registrado no CAGEC mensagem com o link para avaliação do cadastro solicitado.**Passo 2**. O Prefeito/Representante Legal do convenente receberá a mensagem abaixo no e-mail pessoal cadastrado no CAGEC.![blob1476905630496.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803667/original/blob1476905630496.png?1476905631) **Passo 3**. O Prefeito/Representante Legal do convenente deverá abrir uma nova janela no Google Crome ![blob1476905641149.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803679/original/blob1476905641149.png?1476905641), Mozilla Firefox ![blob1476905651089.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803682/original/blob1476905651089.png?1476905651)  
+ ou Internet Explorer ![blob1476905669827.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803689/original/blob1476905669827.png?1476905670)  
+. **Passo 4**. O Prefeito/Representante Legal do convenente deverá digitar na barra de endereço: [http://saida.convenios.mg.gov.br](http://saida.convenios.mg.gov.br/) ![blob1476905684574.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803692/original/blob1476905684574.png?1476905685) **** **Passo 5**. O Prefeito/Representante Legal do convenente deverá digitar o seu login \(CPF\) e a sua senha.**Passo 6**. O Prefeito/Representante Legal do convenente deverá clicar em “Entrar”.**Passo 7**. O Prefeito/Representante Legal do convenente deverá posicionar o mouse no menu lateral **Administração**.![blob1476905708036.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803710/original/blob1476905708036.png?1476905708) ![blob1476905697903.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803700/original/blob1476905697903.png?1476905698)**Passo 8**. O Prefeito/Representante Legal deverá clicar em “Gerir Perfil de Usuário”. ![blob1476905717688.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803715/original/blob1476905717688.png?1476905718)**Passo 9**. O Prefeito/Representante Legal deverá digitar o nome do funcionário ou outro dado relativo ao usuário a ser autorizado.![blob1476905725700.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803720/original/blob1476905725700.png?1476905726) **Passo 10**. O Prefeito/Representante Legal deverá clicar em “Pesquisar”.**Passo 11**. O Prefeito/Representante Legal deverá clicar no botão de edição \(semelhante a um lápis\) ![blob1476905739275.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803732/original/blob1476905739275.png?1476905739).**Passo 12**. Após selecionar o usuário, o Prefeito/Representante Legal deverá clicar na permissão que será dada ao usuário e depois na seta ![blob1476905752911.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803734/original/blob1476905752911.png?1476905753). ![blob1476905768178.png](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/19000803755/original/blob1476905768178.png?1476905768)**Passo 13**. O Prefeito/Representante Legal deverá verificar a “Situação Cadastral” e selecionar a opção “Aprovado”.Caso a pessoa que solicitou o usuário não deva ter acesso ao sistema em nome do convenente, o Prefeito/Representante Legal deverá selecionar a opção “Reprovado”.**Passo 14**. O Prefeito/Representante Legal deverá verificar o “Status” e selecionar a opção “Ativo”;**Passo 15**. O Prefeito/Representante Legal deverá clicar em “Salvar”.
 
-![](<../.gitbook/assets/image (536).png>)
-
-**2**. Como representante legal, informe o usuário e senha e clique em `"Acessar"`:
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**3**. Acesse o menu `"Administração > Perfil de Usuário"`
-
-{% hint style="warning" %}
-Restrito ao representante legal.
-{% endhint %}
-
-![](<../.gitbook/assets/image (317).png>)
-
-**4**. Utilize o filtro de pesquisa para encontrar o usuário desejado e clique em `"Pesquisar"`:
-
-![](<../.gitbook/assets/6 (3).png>)
-
-**5**. O sistema mostrará os usuários que atendem ao filtro utilizado. Clique no ícone da coluna `"Ação"` correspondente ao usuário desejado:
-
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerenciar quais  usuários continuarão a ter permissão no CNPJ.&#x20;
-{% endhint %}
-
-**6**. Confira os dados e inseridos e os campos editáveis:
-
-![](<../.gitbook/assets/image (366).png>)
-
-**7**. Selecione o perfil a ser desempenhado pelo usuário em `"Perfil Disponível"` e, com o uso da **seta** central, encaminhe a seleção para o `"Perfil Selecionado"`::
-
-{% hint style="success" %}
-Se for o primeiro cadastro, a Situação Cadastral estará em **ANÁLISE** e o Status **INATIVO**. Portanto **APROVE**, **ATIVE** o usuário e clique em **SALVAR**.
-{% endhint %}
-
-![](../.gitbook/assets/9.png)
-
-{% hint style="info" %}
-O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x20;
-{% endhint %}
-
-**8**. Todos os Representantes Legais terão sua Assinatura Eletrônica aprovada automaticamente depois de ativos no sistema em razão do seu cadastro no CAGEC:
-
-![](<../.gitbook/assets/10 (1).png>)
-
-{% hint style="warning" %}
-Caso não apareça na `"Lista de Solicitação de Assinatura com Usuário e Senha"`, saia do sistema e entre novamente.&#x20;
-
-Se ainda não aparecer, abra um atendimento e relate em: [**atendimento@sigconsaida.mg.gov.br** ](mailto:atendimento@sigconsaida.mg.gov.br)****
-{% endhint %}

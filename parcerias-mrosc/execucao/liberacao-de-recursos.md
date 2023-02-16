@@ -8,7 +8,7 @@ A liberação de recursos do OEEP à OSC guardará consonância com as metas, fa
 * a verificação de disponibilidade financeira do Órgão ou Entidade Estadual Parceiro;&#x20;
 * a observação da legislação eleitoral.&#x20;
 
-Nas **parcerias prevendo a liberação em parcela única**, a OSC deverá estar regular em consonância às disposições ditas acima e atenta ao recebimento do recurso para seguir com as obrigações legais e pactuadas.
+Nas **parcerias prevendo a liberação em parcela única**, a OSC deverá estar regular em consonância as disposições ditas acima e atenta ao recebimento do recurso para seguir com as obrigações legais e pactuadas.
 
 Nas **parcerias prevendo a liberação de recursos em mais de uma parcela**, a segunda parcela e as demais ficarão retidas nas hipóteses contidas no §1º do art.44 do Decreto 47.132, de 2017 até que seja cumprida a obrigação de apresentação do relatório de monitoramento ou de prestação de contas anual ou seja saneada a irregularidade, vejamos:
 
@@ -29,7 +29,7 @@ Nas **parcerias prevendo a liberação de recursos em mais de uma parcela**, a s
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Art. 44 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
+Art. 44 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
 {% endhint %}
 
 Quando a OSC parceira incorrer nas vedações previstas no art. 39 da Lei Federal nº 13.019, de 2014, o repasse de recursos somente poderá ocorrer nos casos de serviços essenciais que não podem ser adiados sob pena de prejuízo ao erário ou à população, desde que precedida de expressa e fundamentada autorização do dirigente máximo do Órgão ou Entidade Estadual Parceiro.&#x20;
