@@ -14,7 +14,7 @@
 
 **2.** Clique em `"Esqueci senha/login"`
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique no botão correspondente a sua situação
 
@@ -22,15 +22,15 @@
 O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Informe seu usuário e clique em "enviar"
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Será enviado por e-mail o link para redefinir a senha
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Preencha o seu usuário, sua senha, a nova senha e a confirmação da nova senha
 

@@ -1,6 +1,6 @@
-# Proposta
+# Proposta de Plano de Trabalho
 
-Para a celebração, também será necessário elaborar a Proposta de Plano de Trabalho (item 15 do _checklist_ de celebração de Termo de Colaboração ou de Fomento). Claro, essa etapa só será realizada pela OSC que tiver sido selecionada mediante prévio chamamento público, indicação de emenda parlamentar ou dispensa ou inexigibilidade de chamamento.
+Como requisito para a celebração da parceria, a OSC deverá elaborar a Proposta de Plano de Trabalho, conforme item 15 do _checklist_ de celebração de Termo de Colaboração ou de Fomento.
 
 > A Proposta de Plano de Trabalho é documento a ser apresentado ao Órgão ou Entidade Estadual Parceiro pela OSC selecionada, mediante chamamento público ou não, contendo, no mínimo, os dados necessários à elaboração conjunta do Plano de Trabalho.
 
@@ -10,13 +10,13 @@ Se a parceria a ser celebrada for um Termo de Fomento ou de Colaboração, haver
 
 O [Decreto n° 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&comp=\&ano=2017\&texto=consolidado#texto), em seu art. 26, traz essa relação. Em suma, é a seguinte:
 
-Alguns dados são essenciais para a composição da proposta de plano de trabalho, recomendamos acessar as páginas elencadas do processo eletrônico para ver o passo a passo de como fazer.
+> Alguns dados são essenciais para a composição da proposta de plano de trabalho, recomendamos acessar as páginas elencadas do processo eletrônico para ver o passo a passo de como fazer.
 
 ## O que observar ao cadastrar a proposta?
 
 ### **Objeto**
 
-Objeto é o projeto ou atividade a ser executado mediante cumprimento do plano de trabalho e demais condicionantes estabelecidas no instrumento da parceria;
+Objeto é o projeto ou atividade a ser executado mediante cumprimento do plano de trabalho e demais condicionantes estabelecidas no instrumento da parceria.
 
 Recomenda-se que, caso o objeto da parceria envolva a aquisição de bens, que o projeto abarque a necessidade de aquisição, sendo a compra o meio para a consecução da atividade ou projeto de interesse público recíproco.
 
@@ -36,9 +36,9 @@ Para ver o tutorial de como cadastrar a proposta no sistema Sigcon-saída acesse
 
 Ao cadastrar a proposta, tenha todas as informações abaixo em mãos:
 
-* descrição e especificação completa do objeto a ser executado e a população beneficiada diretamente;
-* Dados e informações da OSC e, se for o caso, do interveniente
-* Dados da proposta: descrição e especificação completa do objeto a ser executado e a população beneficiada diretamente;
+* Descrição e especificação completa do objeto a ser executado e a população beneficiada diretamente;
+* Dados e informações da OSC e, se for o caso, do interveniente;
+* Dados da proposta com a descrição e especificação completa do objeto a ser executado e a população beneficiada diretamente;
 * Dados e informações da OSC e, se for o caso, do interveniente;
 * Justificativa para a celebração, contendo a descrição da realidade e o interesse público relacionados com a parceria, devendo ser demonstrado o nexo entre essa realidade e as metas a serem atingidas e a justificativa quanto à eventual necessidade de realização de pagamentos em espécie, na forma do § 3º do art. 51 do Decreto nº 47.132, de 2017;
 * Previsão de receitas da parceria;
@@ -68,13 +68,11 @@ Despesas de pessoal podem ser pagas se a equipe de trabalho atuar na execução 
 
 As verbas rescisórias podem, inclusive, ser pagas após a vigência, mas há que se fazer um planejamento e pactuação prévios. Assim sendo, quando as características da proposta justificarem a remuneração de equipe de trabalho, a OSC deve providenciar planilha de detalhamento de despesas de pessoal, observado o art. 33 do Decreto nº 47.132, de 2017. O OEEP avaliará a pertinência dessa despesa.&#x20;
 
-Dependendo das características do caso concreto, a OSC poderá pleitear no plano de aplicação da Proposta de Plano de Trabalho despesas com diárias de viagem, adiantamentos e passagens de trabalhador da OSC parceira.&#x20;
+Dependendo das características do caso concreto, a OSC poderá pleitear no plano de aplicação da Proposta de Plano de Trabalho despesas com diárias de viagem, adiantamentos e passagens de trabalhador da OSC parceira. Aplica-se, no que couber, a legislação estadual específica, em especial, o Decreto nº 47.045, de 2016. Se deferidos pelo OEEP, todos os gastos com a diária deverão ser demonstrados na prestação de contas.
 
-Aplica-se, no que couber, a legislação estadual específica, em especial, o Decreto nº 47.045, de 2016. Se deferidos pelo OEEP, todos os gastos com a diária deverão ser demonstrados na prestação de contas.
+A legislação também permite a inclusão na Proposta de Plano de Trabalho de despesas com custos indiretos indispensáveis e proporcionais à execução do objeto da parceria (tais como: internet, consumo de água e luz, remuneração de serviços contábeis e de assessoria jurídica, elaboração de projeto executivo para obras ou reformas, etc).
 
-A legislação também permite a inclusão na Proposta de Plano de Trabalho de despesas com custos indiretos indispensáveis e proporcionais à execução do objeto da parceria (tais como: Internet, consumo de água e luz, remuneração de serviços contábeis e de assessoria jurídica, elaboração de projeto executivo para obras ou reformas, etc).
-
-Cada custo deverá ser especificado no plano de aplicação e a OSC deverá apresentar justificativa técnica para esses custos que deverá ser aprovada pelo administrador público.&#x20;
+Cada custo deverá ser especificado no plano de aplicação e a OSC deverá apresentar justificativa técnica para esses custos, os quais deverão ser aprovados pelo administrador público.&#x20;
 
 Se a OSC possuir mais de uma parceria ou desenvolver outros projetos ou atividades com a mesma estrutura, deverá ser elaborada uma tabela de rateio de suas despesas fixas, utilizando como parâmetro a proporcionalidade do uso efetivo na parceria que será celebrada, caso especifique a necessidade de pagamento de custos indiretos.
 

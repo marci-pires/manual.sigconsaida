@@ -10,7 +10,7 @@ Antes de solicitar o cadastro, confira o status do Representante Legal está **a
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`
 
@@ -40,7 +40,7 @@ Para Prefeito/Representante Legal do convenente.
 
 **9.** Digite sua nova senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**

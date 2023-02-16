@@ -110,7 +110,7 @@
 * [Definições Gerais](parcerias-mrosc/definicoes-gerais/README.md)
   * [Tipos de instrumentos](parcerias-mrosc/definicoes-gerais/tipos-de-instrumentos.md)
   * [Fluxo Simplificado](parcerias-mrosc/definicoes-gerais/fluxo-simplificado.md)
-  * [Proposta](parcerias-mrosc/definicoes-gerais/proposta.md)
+  * [Proposta de Plano de Trabalho](parcerias-mrosc/definicoes-gerais/proposta-de-plano-de-trabalho.md)
   * [Plano de Aplicação de Recursos](parcerias-mrosc/definicoes-gerais/plano-de-aplicacao-de-recursos.md)
   * [Plano de Trabalho](parcerias-mrosc/definicoes-gerais/plano-de-trabalho.md)
 * [Planejamento](parcerias-mrosc/planejamento/README.md)
