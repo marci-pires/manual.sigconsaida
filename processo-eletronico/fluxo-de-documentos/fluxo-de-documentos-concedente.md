@@ -4,7 +4,7 @@ description: Manual para órgãos e entidades públicas estaduais
 
 # Concedente / OEEP
 
-**1.** Acesse a aba [Documentos Anexados](../aba-documentos-anexados/) com o perfil de Concedente / OEEP
+**1.** Acesse a aba [Documentos Anexados](../aba-documentos-anexados/) com o perfil de Concedente / OEEP:
 
 ![Tela da aba "Documentos Anexados"](<../../.gitbook/assets/image (470) (1).png>)
 
@@ -25,7 +25,7 @@ description: Manual para órgãos e entidades públicas estaduais
 
 ## Filtrar por Status
 
-**1.** Se necessário, clique em `"Filtrar por status"` e aplique os status desejados para facilitar a pesquisa&#x20;
+**1.** Se necessário, clique em `"Filtrar por status"` e aplique os status desejados para facilitar a pesquisa:
 
 ![](<../../.gitbook/assets/image (459).png>)
 

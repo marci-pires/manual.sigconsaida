@@ -6,7 +6,7 @@ Para instruções de preenchimento Plano de Serviços (ano de 2021 em diante), f
 
 ## Vinculação CPF Gestor FMAS
 
-Caso o Menu Plano de Serviços (imagem abaixo) não esteja sendo exibido para o gestor da Assistência Social, gentileza enviar email para [atendimento@sigconsaida.mg.gov.br](mailto:%20atendimento@sigconsaida.mg.gov.br) informando o **CPF do Gestor da Assistência Social e o CNPJ do Fundo Municipal da Assistência Social (FMAS)**.
+Caso o Menu Plano de Serviços (imagem abaixo) não esteja sendo exibido para o gestor da Assistência Social, gentileza enviar e-mail para [atendimento@sigconsaida.mg.gov.br](mailto:%20atendimento@sigconsaida.mg.gov.br) informando o **CPF do Gestor da Assistência Social e o CNPJ do Fundo Municipal da Assistência Social (FMAS)**.
 
 ![](<../.gitbook/assets/image (486).png>)
 

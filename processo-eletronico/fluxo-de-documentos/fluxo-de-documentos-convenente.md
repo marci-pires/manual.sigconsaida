@@ -4,11 +4,11 @@ description: Instruções voltadas para usuários com perfis de Convenente/OSCs 
 
 # Convenente / OSC Parceira
 
-**1.** Acesse a aba [Documentos Anexados](../aba-documentos-anexados/) com o perfil de Convenente / OSC Parceiras
+**1.** Acesse a aba [Documentos Anexados](../aba-documentos-anexados/) com o perfil de Convenente / OSC Parceiras:
 
 ![](<../../.gitbook/assets/image (467) (1).png>)
 
-**2.** Se necessário, clique em `"Filtrar por status"` e aplique os status desejados para facilitar a pesquisa&#x20;
+**2.** Se necessário, clique em `"Filtrar por status"` e aplique os status desejados para facilitar a pesquisa:
 
 ![](<../../.gitbook/assets/image (459).png>)
 
@@ -30,11 +30,11 @@ Para mais informações de inclusão de documentos e seus diferentes tipos, aces
 
 ## Encaminhar documento(s)
 
-**1.** Selecione um documento clicando na caixa de seleção à esquerda da tela
+**1.** Selecione um documento clicando na caixa de seleção à esquerda da tela:
 
 ![](<../../.gitbook/assets/image (344).png>)
 
-**2.** Clique em "Encaminhar documento(s)" após selecionar o(s) documento(s) desejado
+**2.** Clique em "Encaminhar documento(s)" após selecionar o(s) documento(s) desejado:
 
 {% hint style="danger" %}
 **Precondição**: é necessário que o status esteja em "Cadastramento".
@@ -42,6 +42,6 @@ Para mais informações de inclusão de documentos e seus diferentes tipos, aces
 
 ![](<../../.gitbook/assets/image (463) (1).png>)
 
-**3.** Caso os seus documentos tenham sido encaminhados com sucesso, a mensagem de sucesso e a quantidade de arquivos encaminhados será mostrada e o status do documento estará como `"Encaminhado"`
+**3.** Caso os seus documentos tenham sido encaminhados com sucesso, a mensagem de sucesso e a quantidade de arquivos encaminhados será mostrada e o status do documento estará como `"Encaminhado"`:
 
 ![](<../../.gitbook/assets/image (456).png>)
