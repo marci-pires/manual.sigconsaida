@@ -20,7 +20,7 @@ A anexação de documentos a ser realizada pelo convenente deve ser executada, *
 
 ## Tamanho dos Arquivos
 
-O **** [SIGCON Saída](https://sigconsaida.mg.gov.br/) permite anexar arquivos de até **20MB** para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg .
+O **** [SIGCON Saída](https://sigconsaida.mg.gov.br/) permite anexar arquivos de até **20MB** para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg
 
 {% hint style="info" %}
 No item 16 do Checklist "Projeto Básico ou Executivo", os arquivos **.dwg e semelhantes** podem ter até 40MB
@@ -28,6 +28,6 @@ No item 16 do Checklist "Projeto Básico ou Executivo", os arquivos **.dwg e sem
 
 ### Caso você precise de compactar arquivos para inserir no sistema, por favor siga algum dos procedimentos abaixo
 
-* **DWG:** [Para reduzir o tamanho dos projetos do AutoCad](https://knowledge.autodesk.com/pt-br/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/how-to-reduce-the-size-of-a-dwg-file-in-autocad.html).
-* **PDF:** [Site da Adobe que permite compactar arquivos PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html).
-* **ZIP ou RAR:** uma outra possibilidade é comprimir vários arquivos em uma pasta compactada (ou _zipada_), para isso, [acesse o passo a passo no site da Microsoft para uma forma de compactar arquivos](https://support.microsoft.com/pt-br/windows/compactar-e-descompactar-arquivos-8d28fa72-f2f9-712f-67df-f80cf89fd4e5).
+* **DWG:** [Para reduzir o tamanho dos projetos do AutoCad](https://knowledge.autodesk.com/pt-br/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/how-to-reduce-the-size-of-a-dwg-file-in-autocad.html)
+* **PDF:** [Site da Adobe que permite compactar arquivos PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html)
+* **ZIP ou RAR:** uma outra possibilidade é comprimir vários arquivos em uma pasta compactada (ou _zipada_), para isso, [acesse o passo a passo no site da Microsoft para uma forma de compactar arquivos](https://support.microsoft.com/pt-br/windows/compactar-e-descompactar-arquivos-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)

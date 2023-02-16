@@ -6,19 +6,19 @@
 Para utilizar essa modalidade, é necessário ter **permissão** para assinar. Acesse o tutorial correspondente clicando [aqui](../).
 {% endhint %}
 
-**1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`
+**1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`:
 
 <figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-**2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`
+**2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`:
 
 <figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
-**3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento
+**3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento:
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-**4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**` ```&#x20;
+**4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**:
 
 <figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,29 +26,29 @@ Para utilizar essa modalidade, é necessário ter **permissão** para assinar. A
 Ao selecionar vários documentos e acionar a assinatura, **TODOS** terão o mesmo perfil de assinatura. Caso deseje perfis diferentes para os documentos, faça **seleções separadas**.
 {% endhint %}
 
-**5.** Selecione corretamente os campos de Órgão assinante, usuário e perfil de assinatura, digite a senha do SIGCON Saída e clique em `"Assinar com Usuário e Senha"`
+**5.** Selecione corretamente os campos de Órgão assinante, usuário e perfil de assinatura, digite a senha do SIGCON Saída e clique em `"Assinar com Usuário e Senha"`:
 
 <figure><img src="../../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
 ## Assinatura com Certificado Digital
 
-**1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`
+**1.** Acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`:
 
 <figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-**2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`
+**2.** Encontre o instrumento desejo e clique em `"Ações"` e em `"Editar Convênio/Parceria"`:
 
 <figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
-**3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento
+**3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento:
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-**4.** Selecione o documento que você deseja assinar e clique em `"Ações"` e em `"Assinar com Certificado Digital"`
+**4.** Selecione o documento que você deseja assinar e clique em `"Ações"` e em `"Assinar com Certificado Digital"`:
 
 <figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
-**5.** Digite sua senha e clique em `"Assinar Digitalmente"`
+**5.** Digite sua senha e clique em `"Assinar Digitalmente"`:
 
 ![](../../../.gitbook/assets/processo\_eletronico\_assinatura\_digital\_token.png)
 

@@ -26,7 +26,7 @@ A assinatura de documentos é **necessária** em diversas situações e status d
    * PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP
 
 {% hint style="info" %}
-* Para cada momento da celebração existem documentos específicos que serão assinados nesse momento;
+* Para cada momento da celebração existem documentos específicos que serão assinados;
 * **Somente** prossiga com a assinatura de instrumentos em lote caso esses **instrumentos estejam prontos** para seguir para o próximo passo.
 {% endhint %}
 
@@ -34,7 +34,7 @@ A assinatura de documentos é **necessária** em diversas situações e status d
 
 {% tabs %}
 {% tab title="Plano de Trabalho" %}
-Se o processo está na fase de _Plano de Trabalho_ no status **“PROCESSO DE ASSINATURA - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos:&#x20;
+Se o processo está na fase de _Plano de Trabalho_ no status **“PROCESSO DE ASSINATURA - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA - CONCEDENTE/OEEP**”, no momento da assinatura em lote, o sistema vai verificar e permitir a assinatura nos seguintes casos:&#x20;
 
 * Para qualquer tipo: PLANO DE TRABALHO&#x20;
 * Para o instrumento do tipo “Convênio”: TERMO DO CONVÊNIO
