@@ -6,7 +6,7 @@ Em regra, apenas convênios vigentes podem ser aditados. Nessa perspectiva, em p
 
 A convalidação deve ser cadastrada pelo usuário com o perfil de `Encaminhador`, e só estará habilitada se o convênio estiver com a vigência encerrada.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 A opção de convalidação só estará disponível se o convênio estiver vencido. O restante das opções para alterações estarão disponíveis quando a convalidação for aprovada, mesmo com a vigência encerrada.
 
@@ -16,7 +16,7 @@ A opção de convalidação só estará disponível se o convênio estiver venci
 * O campo "Data atual" exibe a data final da vigência do convênio, na qual tem o início o período de convalidação;
 * O valor preenchido pelo usuário no "nº Dias" é acrescido à "Data Atual" e o resultado dessa soma é exibido no campo "Data Final";
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após o preenchimento dos campos obrigatórios o usuário deve clicar em "Salvar".
 
