@@ -11,7 +11,7 @@ Os rendimentos de ativos financeiros poderão ser aplicados no objeto da parceri
 
 ## CONTRAPARTIDA
 
-Caso a parceria preveja o aporte de contrapartida, no caso de ser financeira, esta deverá seguir a mesma lógica do repasse dos recursos, devendo ser depositada na conta bancária e aplicada conforme as datas de utilização explicadas no início dessa seção.
+Caso a parceria preveja o aporte de contrapartida financeira, esta deverá seguir a mesma lógica do repasse dos recursos, devendo ser depositada na conta bancária e aplicada conforme as datas de utilização explicadas no início dessa seção.
 
 No caso de contrapartida não financeira, sua aplicação se dará nos moldes em que fora pactuada no Plano de Trabalho.
 
@@ -19,7 +19,7 @@ Reitera-se que a execução deve estar em plena conformidade com o pactuado no P
 
 #### PERMISSÕES E VEDAÇÕES DE UTILIZAÇÃO
 
-Para dirimir algumas dúvidas comuns relativas à utilização dos recursos da parceria, listamos abaixo algumas possibilidades. No quadro, consta a hipótese, de um lado e, de outro, a respectiva permissão ou vedação.
+Para dirimir algumas dúvidas comuns relativas à utilização dos recursos da parceria, listamos abaixo algumas possibilidades. No quadro, constam as hipóteses de permissão ou vedação:
 
 | **UTILIZAÇÃO DOS RECURSOS DA PARCERIA**                                                                                                                 | PERMISSÃO/VEDAÇÃO |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
@@ -27,7 +27,7 @@ Para dirimir algumas dúvidas comuns relativas à utilização dos recursos da p
 | Realizar despesas em data anterior ou posterior à vigência da parceria.                                                                                 |         ❌         |
 | A título da taxa de comissão de administração, de gerência ou similar.                                                                                  |         ❌         |
 | Com taxas bancárias.                                                                                                                                    |         ❌         |
-| Com multas, juros ou correção monetária (salvo decorrentes de atrasos da AP).                                                                           |         ❌         |
+| Com multas, juros ou correção monetária (salvo decorrentes de atrasos da Administração Pública).                                                        |         ❌         |
 | Publicidade (salvo as previstas no Plano de Trabalho e vinculadas ao objeto da parceria).                                                               |         ❌         |
 | Realização de pagamento após a vigência da parceria (salvo quando o fato gerador tenha ocorrido durante vigência).                                      |         ❌         |
 | Pagamentos ao servidor ou empregado público (salvo hipóteses prevista em lei).                                                                          |         ❌         |
@@ -94,15 +94,15 @@ Ao término da vigência, esses documentos serão utilizados para a elaboração
 {% hint style="info" %}
 **LEITURA IMPORTANTE**&#x20;
 
-Arts. 51 a 55 do [Decreto nº 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+Arts. 51 a 55 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 {% endhint %}
 
 Na próxima sessão iremos abordar a fase de monitoramento e os procedimentos que devem ser adotados pela OSC parceira e pelo órgão ou entidade estadual parceiro e seus agentes, para verificação e acompanhamento da execução da parceria em consonância com a parceria.
 
 Caso haja necessidade de alteração da parceria, seja para alterar o objeto, reduzir ou acrescentar contrapartida, favor verificar a seção abaixo:
 
-{% content-ref url="../alteracao/" %}
-[alteracao](../alteracao/)
+{% content-ref url="../alteracao.md" %}
+[alteracao.md](../alteracao.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}

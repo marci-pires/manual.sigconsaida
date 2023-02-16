@@ -1,12 +1,12 @@
 # Monitoramento e avaliação
 
-Primeiramente cabe destacar que a avaliação do monitoramento difere da prestação de contas, sendo avaliado aqui a conformidade da execução enquanto ela ocorre, de forma a minimizar possíveis erros e danos futuros.
+Primeiramente cabe destacar que o monitoramento difere da prestação de contas, sendo avaliado aqui a conformidade da execução enquanto ela ocorre, de forma a minimizar possíveis erros e danos futuros.
 
 O Gestor é o principal ator nessa etapa da parceria, viabilizando a fase do monitoramento, que se dará por meio da interlocução entre esse ator, a OSC e a comissão de monitoramento e avaliação.
 
 Para subsidiar o monitoramento e avaliação, o OEEP poderá realizar visita técnica in loco, auxiliando na verificação do cumprimento do objeto da parceria e do alcance das metas pactuadas.
 
-De modo semelhante, nas parcerias com vigência superior a um ano, o OEEP realizará, quando possível, pesquisa de satisfação dos beneficiários, visando a contribuir com o cumprimento dos objetivos pactuados e ajuste das metas e ações definidas
+De modo semelhante, nas parcerias com vigência superior a um ano, o OEEP realizará, quando possível, pesquisa de satisfação dos beneficiários, visando a contribuir com o cumprimento dos objetivos pactuados e ajuste das metas e ações definidas:
 
 ![](<../../../.gitbook/assets/image (394).png>)
 
@@ -24,8 +24,8 @@ O gestor da parceria deve:
 * Fiscalizar a execução da parceria;
 * Informar ao seu superior hierárquico a existência de fatos que comprometam ou possam comprometer as atividades ou metas da parceria e de indícios de irregularidades na gestão dos recursos, bem como as providências adotadas ou que serão adotadas para sanar os problemas detectados;
 * Analisar o relatório de monitoramento e a prestação de contas anual;
-* Produzir o relatório técnico de monitoramento e avaliação, observado o art. 59 da [Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e o art.59-A [Decreto nº 47.132/2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017);
-* Emitir parecer técnico conclusivo de análise da prestação de contas final;&#x20;
+* Produzir o relatório técnico de monitoramento e avaliação, observado o art. 59 da [Lei Federal nº 13.019/2014](http://www.planalto.gov.br/CCIVIL\_03/\_Ato2011-2014/2014/Lei/L13019compilado.htm) e o art.59-A [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/);
+* Emitir parecer técnico conclusivo de análise da prestação de contas final.
 
 O gestor da parceria poderá obter auxílios das áreas técnicas competentes para subsidiar suas ações, inclusive no monitoramento.
 
@@ -33,10 +33,10 @@ O gestor da parceria poderá obter auxílios das áreas técnicas competentes pa
 O modelo de Termo de Designação do gestor está disponível em [https://sigconsaida.mg.gov.br/padronizacoes-parcerias/](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/)
 {% endhint %}
 
-Em hipótese de inexecução do objeto por culpa exclusiva da OSC, sendo atendimento de serviços essenciais à população, poderá o OEEP retomar os bens públicos em poder da OSC e assumir a responsabilidade pela execução restante do objeto previsto no Plano de Trabalho. Visto que enseja tais providências, é papel do gestor comunicar sobre a situação de inexecução ao administrador público
+Em hipótese de inexecução do objeto por culpa exclusiva da OSC, sendo atendimento de serviços essenciais à população, poderá o OEEP retomar os bens públicos em poder da OSC e assumir a responsabilidade pela execução restante do objeto previsto no Plano de Trabalho. Visto que enseja tais providências, é papel do gestor comunicar sobre a situação de inexecução ao administrador público.
 
 {% hint style="success" %}
-O gestor e a OSC devem manter contato constante! Assim, a OSC terá as orientações necessárias para a correta execução da parceria. Por outro lado, o gestor poderá realizar o adequado acompanhamento e fiscalização da parceria.&#x20;
+O gestor e a OSC devem manter contato constante! Assim, a OSC terá as orientações necessárias para a correta execução da parceria. Por outro lado, o gestor poderá realizar o adequado acompanhamento e avaliação da parceria.&#x20;
 
 O gestor pode solicitar informações sobre a execução da parceria à OSC e analisar o relatório de monitoramento sempre que entender necessário!&#x20;
 
@@ -54,7 +54,7 @@ Para a boa execução do instrumento, além do gestor cumprir seu papel, a OSC d
 O art.56 do Decreto 47.132, de 2017 discrimina como principais obrigações da OSC no monitoramento da parceria:
 
 {% hint style="warning" %}
-Apresentar **periodicamente** o **relatório de monitoramento**, no prazo de até **quinze dias** após o término do período a ser monitorado, informando o andamento da execução do objeto
+Apresentar **periodicamente** o **relatório de monitoramento**, no prazo de até **quinze dias** após o término do período a ser monitorado, informando o andamento da execução do objeto.
 {% endhint %}
 
 ### Relatório de Monitoramento
@@ -65,7 +65,7 @@ Para que o gestor da parceria possa verificar o andamento da execução, o relat
 
 > I - descrição das ações realizadas para o cumprimento das metas estabelecidas, demonstrando o alcance dos resultados previstos para o período;
 >
-> II - fotografias, vídeos, depoimentos e outros suportes
+> II - fotografias, vídeos, depoimentos e outros suportes;
 >
 > III - considerações acerca dos aspectos pactuados no plano de trabalho, de modo a evidenciar possíveis aspectos dificultadores na execução do objeto;
 >
@@ -79,7 +79,7 @@ Para que o gestor da parceria possa verificar o andamento da execução, o relat
 >
 > IX - demonstrativo de despesas executadas, nos termos do § 7º-A do art. 67, acompanhada de justificativa para o remanejamento, quando for o caso;
 >
-> X - informações complementares, a critério do órgão ou entidade estadual parceiro, considerando a complexidade do objeto da parceria.
+> X - informações complementares, a critério do órgão ou entidade estadual parceiro, considerando a complexidade do objeto da parceria;
 >
 > VI - quando a parceria envolver a realização de reforma ou obra:
 >
@@ -107,14 +107,14 @@ Em uma instância diferente da do gestor, figura a Comissão de Monitoramento e 
 
 Assim como o gestor, a Comissão deve ser designada por meio de ato publicado em meio oficial de comunicação.&#x20;
 
-Os principais requisitos a serem observados ao selecionar os membros que irão compor a Comissão de Monitoramento e Avaliação são os mesmos da Comissão de Seleção, que se encontram no art.22 do [Decreto 47.132, de 2017](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017):
+Os principais requisitos a serem observados ao selecionar os membros que irão compor a Comissão de Monitoramento e Avaliação são os mesmos da Comissão de Seleção, que se encontram no art.22 do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/):
 
 * a composição deverá conter pelo menos um membro servidor ocupante de cargo efetivo do quadro de pessoal da administração pública do Poder Executivo estadual;
 
 O membro da comissão de seleção deverá se declarar impedido de participar do processo, caso tenha mantido relação jurídica, nos últimos cinco anos, com alguma das OSCs em disputa, tais como:
 
 * seja ou ter sido associado, cooperado, dirigente, conselheiro ou trabalhador de OSC participante do processo seletivo;
-* &#x20;ser cônjuge ou parente, até segundo grau, inclusive por afinidade, dos dirigentes de OSC participante do processo seletivo
+* &#x20;ser cônjuge ou parente, até segundo grau, inclusive por afinidade, dos dirigentes de OSC participante do processo seletivo;
 * ter recebido, como beneficiário, os serviços de qualquer OSC participante do processo seletivo;
 * ter efetuado doações para OSC participante do processo seletivo;
 * ter interesse direto ou indireto na parceria;
@@ -142,7 +142,7 @@ Quando houver, a comissão deve considerar os relatórios de visita técnica in 
 A periodicidade das reuniões será estabelecida no ato de designação da comissão.
 {% endhint %}
 
-O OEEP pode optar por instituir uma ou mais Comissões de Monitoramento e Avaliação, desde que observada a segregação de funções e respeitadas as disposições de impedimento do art. 22, do [Decreto 47.132, de 2017.](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)
+O OEEP pode optar por instituir uma ou mais Comissões de Monitoramento e Avaliação, desde que observada a segregação de funções e respeitadas as disposições de impedimento do art. 22, do [Decreto 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/).
 
 {% hint style="danger" %}
 Em respeito à segregação de funções e a imparcialidade, os membros da comissão de monitoramento e avaliação não devem ser gestores de parceria.
@@ -154,7 +154,7 @@ A Comissão de Monitoramento e Avaliação poderá solicitar assessoramento téc
 
 O monitoramento e a avaliação da parceria executada com recursos de fundo específico poderão ser realizados por Comissão de Monitoramento e Avaliação a ser constituída pelo respectivo Conselho Gestor, conforme legislação específica, respeitadas as exigências da Lei Federal nº 13.019, de 2014, e do Decreto nº 47.132 , de 2017.
 
-A Comissão de Monitoramento e Avaliação deve, em conformidade com o art.4º da Resolução SEGOV nº29, consolidar, ao término de cada exercício, em meio eletrônico que permita o acesso aos interessados, relatório contendo as avaliações e resultados do conjunto de parcerias e informações acerca dos trabalhos realizados e propostas de monitoramento apresentadas.
+A Comissão de Monitoramento e Avaliação deve, em conformidade com o art.4º da Resolução SEGOV nº29, consolidar relatório contendo as avaliações e resultados do conjunto de parcerias e informações acerca dos trabalhos realizados e propostas de monitoramento apresentadas, em meio eletrônico, que permita o acesso aos interessados ao término de cada exercício.
 
 A elaboração desse relatório possibilitará aos próximos integrantes da comissão, bem como ao administrador público e demais interessados, o vislumbre de um histórico, inclusive para consulta própria da Comissão de Monitoramento e Avaliação conseguir avaliar dentre suas ações, melhorias nos procedimentos e consolidar resultados.
 

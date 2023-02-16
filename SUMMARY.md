@@ -138,7 +138,7 @@
     * [Documentos](parcerias-mrosc/execucao/monitoramento-e-avaliacao/documentos.md)
 * [Prestação de contas](parcerias-mrosc/prestacao-de-contas/README.md)
   * [Documentos](parcerias-mrosc/prestacao-de-contas/documentos.md)
-* [Denúncia e recisão](parcerias-mrosc/denuncia-e-recisao.md)
+* [Denúncia e Rescisão](parcerias-mrosc/denuncia-e-rescisao.md)
 
 ## PROCESSO ELETRÔNICO
 

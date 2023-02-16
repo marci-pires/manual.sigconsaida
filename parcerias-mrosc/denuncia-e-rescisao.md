@@ -1,14 +1,14 @@
-# Denúncia e recisão
+# Denúncia e Rescisão
 
 Os partícipes (Órgão ou Entidade Estadual Parceiro, OSC e/ou interveniente) podem, a qualquer tempo, desistir da parceria, a este ato denominamos denúncia (que difere da denúncia sobre algum ato cometido pela OSC).&#x20;
 
-A rescisão, ocorre quando há descumprimento do que foi pactuado na parceria, podendo inclusive unilateral, caso em que o Órgão ou Entidade Estadual Parceiro extingue a parceria.
+A rescisão, ocorre quando há descumprimento do que foi pactuado na parceria, podendo ser inclusive unilateral, caso em que o OEEP extingue a parceria.
 
 A denúncia e a rescisão deverão ser comunicadas 60(sessenta) dias antes de sua efetivação, apresentando justificativa para o impedimento da continuidade de sua participação na parceria.&#x20;
 
 É importante ressaltar que, mesmo após a denúncia (assim como na rescisão), todos os partícipes ainda mantêm suas responsabilidades sobre a parceria (como o de prestar contas, por exemplo).
 
-O art. 89 do [Decreto nº 47.132, de 2017 ](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC\&num=47132\&ano=2017)estabelece como motivos para a rescisão da parceria:
+O art. 89 do [Decreto nº 47.132, de 2017](https://www.almg.gov.br/legislacao-mineira/DEC/47132/2017/) estabelece como motivos para a rescisão da parceria:
 
 > I – a constatação, a qualquer tempo, de falsidade ou incorreção insanável de informação em documento apresentado ao Cagec ou na celebração da parceria;
 >

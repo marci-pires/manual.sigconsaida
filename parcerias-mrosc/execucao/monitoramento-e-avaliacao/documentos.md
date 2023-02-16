@@ -32,16 +32,16 @@ A periodicidade será definida no instrumento da parceria e deve observar o inte
 A análise de conformidade do cumprimento do objeto pactuado e os resultados alcançados durante a execução do Termo de Colaboração ou de Fomento e, para tanto:&#x20;
 
 * a descrição sumária das atividades e metas estabelecidas;&#x20;
-* análise das atividades realizadas e do cumprimento das metas e do impacto e do benefício social obtido em razão da execução do objeto estabelecido (com base nos indicadores constantes no Plano de Trabalho);
+* análise das atividades realizadas e cumprimento das metas, do impacto e do benefício social obtido em razão da execução do objeto estabelecido (com base nos indicadores constantes no Plano de Trabalho);
 * valores efetivamente transferidos pela administração pública;&#x20;
 * análise dos documentos comprobatórios das despesas apresentadas pela OSC na prestação de contas, quando não comprovado o alcance de metas e resultados estabelecidos no respectivo Termo de Colaboração ou de Fomento;&#x20;
 * análise de eventuais auditorias realizadas pelos controles interno e externo, no âmbito da fiscalização preventiva, bem como de suas conclusões e das medidas que tomaram em decorrência dessas auditorias.
 
 ### Quando deve ser produzido?
 
-* Quando a parceria for selecionada por amostragem\*, conforme ato do dirigente máximo do OEEP
-* Quando for identificado, pelo gestor, indício de descumprimento injustificado do alcance das metas da parceria.&#x20;
-* Quando for aceita denúncia de irregularidade na execução parcial do objeto, mediante juízo de admissibilidade realizado pelo administrador público.
+* Quando a parceria for selecionada por amostragem, conforme ato do dirigente máximo do OEEP;
+* Quando for identificado, pelo gestor, indício de descumprimento injustificado do alcance das metas da parceria;
+* Quando for aceita denúncia de irregularidade na execução parcial do objeto, mediante juízo de admissibilidade realizado pelo administrador público;
 * &#x20;No caso de parcerias para execução de atividades.
 {% endtab %}
 
