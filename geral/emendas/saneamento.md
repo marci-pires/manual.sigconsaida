@@ -30,25 +30,25 @@ A indicação das propostas saneadoras e do montante que será remanejado atrav�
 
 Na próxima tela estará disponível o saldo com impedimento de ordem técnica para realizar proposta saneadora ou realizar o remanejamento através do  [Remanejamento Constitucional](remanejamento-constitucional.md).
 
-![](<../../.gitbook/assets/image (299).png>)
+![](<../../.gitbook/assets/image (299) (1).png>)
 
 Para visualizar mais informações do inciso clique no botão "Expandir Inciso".
 
-![](<../../.gitbook/assets/image (280).png>)
+![](<../../.gitbook/assets/image (280) (1).png>)
 
 Para apresentar a proposta saneadora de uma indicação: o usuário deverá selecionar a indicação, o sistema exibirá uma mensagem de confirmação e o campo para preenchimento da proposta saneadora que o usuário deverá preencher.
 
-![](<../../.gitbook/assets/image (288).png>)
+![](<../../.gitbook/assets/image (288) (1).png>)
 
 Em seguida o campo para preenchimento do **VALOR** a ser sanado ficará habilitado para preenchimento.
 
-![](<../../.gitbook/assets/image (297).png>)
+![](<../../.gitbook/assets/image (297) (1).png>)
 
 &#x20;O preenchimento das informações só é confirmado depois que o usuário acionar o comando “Salvar”, na parte inferior da tela.&#x20;
 
 Para informar o valor que será remanejado através do Remanejamento Constitucional: basta preencher o valor no campo “[Remanejamento Constitucional](remanejamento-constitucional.md)” e acionar o comando “Salvar”, na parte inferior da tela.
 
-![](<../../.gitbook/assets/image (293).png>)
+![](<../../.gitbook/assets/image (293) (1).png>)
 
 {% hint style="danger" %}
 **ATENÇÃO:** Nos termos do art. 160, §§ 4°, 6º e 18, da Constituição do Estado de Minas Gerais, 50% das emendas parlamentares individuais deverão ser destinados a ações e serviços públicos de saúde, e 50% de emendas parlamentares de Bloco/Bancada devem ser destinados a ações e serviços públicos de saúde e/ou à manutenção e ao desenvolvimento do ensino . Dessa forma, as escolhas de saneamento e/ou remanejamento devem respeitar esses percentuais.

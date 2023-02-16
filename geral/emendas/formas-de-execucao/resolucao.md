@@ -24,7 +24,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **3.** Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual devem ser preenchidas as informações relativas à finalidade na qual os recursos serão aplicados e o montante que será indicado para isso.
 
-![](<../../../.gitbook/assets/image (186).png>)
+![](<../../../.gitbook/assets/image (186) (1).png>)
 
 > **Passo-a-passo**
 >

@@ -16,7 +16,7 @@ Após definir o valor que será [sanado](saneamento.md) das indicações com imp
 
 Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Solucionar Impedimento de Ordem Técnica > Remanejamento Constitucional`
 
-![](<../../.gitbook/assets/image (292).png>)
+![](<../../.gitbook/assets/image (292) (1).png>)
 
 {% hint style="danger" %}
 **ATENÇÃO:** Nos termos do art. 160,§§ 4°e 18º, da Constituição do Estado de Minas Gerais, **50% das emendas parlamentares individuais** deverão ser destinados a ações e serviços públicos de **saúde** e para o tipo de classificação **Bloco / Bancada** devem ser destinados a ações e serviços públicos de **saúde** ou à **manutenção e ao desenvolvimento do ensino**.&#x20;

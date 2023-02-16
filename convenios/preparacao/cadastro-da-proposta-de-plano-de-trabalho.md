@@ -10,15 +10,15 @@ A **Proposta de Plano de Trabalho** é o documento a ser apresentado à Administ
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/), clique no menu `"Convênios / Parcerias > Cadastrar Nova Proposta"`:
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (296).png>)
 
 **2.** Escolha o Concedente/órgão ou entidade parceira (1) e insira o CNPJ da instituição que irá receber os recursos:
 
 {% hint style="info" %}
-Caso não saiba o CNPJ, pesquise utilizando a **ferramenta de busca**<img src="../../.gitbook/assets/image (377).png" alt="" data-size="original">(2)
+Caso não saiba o CNPJ, pesquise utilizando a **ferramenta de busca**<img src="../../.gitbook/assets/image (377) (1).png" alt="" data-size="original">(2)
 {% endhint %}
 
-![](<../../.gitbook/assets/image (260).png>)
+![](<../../.gitbook/assets/image (323).png>)
 
 **3.** Após clicar no ícone de lupa, a janela **"Pesquisa"** será aberta na tela. Pesquise o CNPJ ou Razão Social e clique em `"Pesquisar"`:
 
@@ -34,7 +34,7 @@ Caso não saiba o CNPJ, pesquise utilizando a **ferramenta de busca**<img src=".
 
 **5.** Note que o Convenente/OSC Parceira selecionada acima possui Status <mark style="color:red;">**IRREGULAR**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> no [CAGEC](https://www.portalcagec.mg.gov.br/), não sendo possível dar continuidade no processo:
 
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../.gitbook/assets/image (319).png>)
 
 {% hint style="info" %}
 Siga as orientações do [Manual de Utilização do CAGEC](https://manual.portalcagec.mg.gov.br/) clicando [**aqui**](https://manual.portalcagec.mg.gov.br/atualizacao-de-dados). Após a atualização dos dados, volte na tela e clique novamente na lupa para carregar os dados corrigidos.&#x20;

@@ -8,7 +8,7 @@ Os remanejamentos e indicações realizados podem ser consultados nas próprias 
 
 O relatório de `Incisos` exibe todos os incisos do parlamentar, discriminando o seu valor inicial, o seu valor após os remanejamentos para outros incisos, e o montante indicado. Diversos filtros podem ser utilizados na geração do relatório, caso o usuário deseje visualizar somente os incisos de um determinado órgão, por exemplo.
 
-![](<../../.gitbook/assets/image (428).png>)
+![](<../../.gitbook/assets/image (428) (1).png>)
 
 > **O usuário pode gerar o relatório em PDF, para impressão, ou em CSV, caso deseje trabalhar os dados no excel.**
 
@@ -58,7 +58,7 @@ No `Relatório de Encerramento de Execução` é exibido todas as indicações d
 
 **Esse relatório é disponibilizado somente para os órgãos e entidades estaduais.**
 
-![](<../../.gitbook/assets/image (415) (1).png>)
+![](<../../.gitbook/assets/image (415).png>)
 
 ## Saneamento / Remanejamento
 

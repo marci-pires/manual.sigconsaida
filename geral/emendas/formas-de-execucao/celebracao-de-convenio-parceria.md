@@ -47,7 +47,7 @@ Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual tam
 
 **4.** O sistema verifica se todas as informações foram preenchidas corretamente e exibe uma mensagem confirmando que a operação foi realizada com sucesso.
 
-![](<../../../.gitbook/assets/9 (2) (1).png>)
+![](<../../../.gitbook/assets/9 (2).png>)
 
 {% hint style="danger" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.
@@ -59,6 +59,6 @@ A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pe
 
 Para que a indicação seja dividida em mais de 1 especificação, a mesma tem que ser realizada somente com Gênero e Categoria conforme tela abaixo:
 
-![](<../../../.gitbook/assets/image (440) (1).png>)
+![](<../../../.gitbook/assets/image (440).png>)
 
 Conforme tela acima, só foi detalhado a indicação em Gênero e Categoria. No momento da vinculação da mesma  no plano ou proposta será feito a divisão das especificações, discriminando o valor individualmente de cada especificação.

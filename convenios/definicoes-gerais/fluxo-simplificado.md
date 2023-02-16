@@ -2,7 +2,7 @@
 
 &#x20;De forma geral, os Convênios de Saída seguem o seguinte fluxo:
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (338).png>)
 
 ## Fase, Situação e Status
 

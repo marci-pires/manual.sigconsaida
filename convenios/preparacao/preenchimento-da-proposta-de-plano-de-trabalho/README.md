@@ -2,7 +2,7 @@
 
 **1.** Após o cadastro inicial, é necessário realizar o preenchimento da Proposta do Plano de Trabalho propriamente dita. O cabeçalho (em azul) apresenta as principais informações referentes à proposta:
 
-![](<../../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (354).png>)
 
 {% hint style="danger" %}
 **Problemas frequentes:**

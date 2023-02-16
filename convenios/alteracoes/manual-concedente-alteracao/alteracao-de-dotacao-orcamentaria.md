@@ -12,7 +12,7 @@
 
 **2.** Expanda a aba `"Alterações do Convênio/Parceria"` do instrumento em situação de Convênio/Parceria e clique em "Alteração":
 
-![](<../../../.gitbook/assets/image (166).png>)
+![](<../../../.gitbook/assets/image (343).png>)
 
 **3.** Preencha o campo **"Título da Alteração"** na aba "Caracterização da Proposta"
 
@@ -24,7 +24,7 @@
 
 **5.** Na aba "Reservado ao Concedente", inclua a nova dotação (1) e remova (2) a dotação cadastrada anteriormente. O valor (R$) das dotações deve ser o mesmo:
 
-![](<../../../.gitbook/assets/image (522).png>)
+![](<../../../.gitbook/assets/image (332).png>)
 
 **6.** Na aba "Justificativa da Alteração", preencha o campo solicitado e clique em `"Salvar"`
 
@@ -32,11 +32,11 @@
 
 **7.** Após realizar corretamente as devidas alterações, clique em `“Salvar e encaminhar alterações”` no final da página:
 
-![](<../../../.gitbook/assets/image (560).png>)
+![](<../../../.gitbook/assets/image (352).png>)
 
 **8.** Será exibida uma mensagem de "Tipo de Alteração: **DOTAÇÃO ORÇAMENTÁRIA"**. Clique em `"Sim"`:
 
-![](<../../../.gitbook/assets/image (331).png>)
+![](<../../../.gitbook/assets/image (331) (1).png>)
 
 **9.** A alteração passará para o status de "Validação da Alteração pelo Responsável Legal". É necessário **Representante Legal do Convenente/OSC Parceira assine a alteração**, clicando em `"Assinar Alteração"`:
 
@@ -44,11 +44,11 @@
 
 **10.** O Representante Legal deve inserir seus dados, senha do SIGCON Saída e clicar em `"Enviar"` para realizar a assinatura manual:
 
-![](<../../../.gitbook/assets/image (302).png>)
+![](<../../../.gitbook/assets/image (302) (1).png>)
 
 **11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`:
 
-![](<../../../.gitbook/assets/image (310).png>)
+![](<../../../.gitbook/assets/image (310) (1).png>)
 
 
 
@@ -56,4 +56,4 @@
 
 **13.** Uma mensagem de sucesso será exibida e a alteração apresentará o status "**VIGENTE".** Para gerar o PDF/Imagem, clique nos botões correspondentes
 
-![](<../../../.gitbook/assets/image (333).png>)
+![](<../../../.gitbook/assets/image (333) (1).png>)

@@ -12,21 +12,21 @@ Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https:
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial:
 
-![](<../../../.gitbook/assets/image (544).png>)
+![](<../../../.gitbook/assets/image (533).png>)
 
 **2.** Clique em `"Trocar Senha"`:
 
-<figure><img src="../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Em seguida, clique em `"Assembleia Legislativa do Estado de Minas Gerais"`:
 
-``![](<../../../.gitbook/assets/image (212).png>)``
+``![](<../../../.gitbook/assets/image (542).png>)``
 
 **4.** Então, clique em `"Realizar troca de Senha"`:
 
 **6.** Preencha o formulário com a nova senha e clique em `"Alterar"`:
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondição**
@@ -56,20 +56,20 @@ O procedimento para cadastro dos **Usuários Assessores** é igual ao cadastro d
 
 **2.** Em seguida, como parlamentar, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e o menu `"Emendas > Administração > Associar Assessor"`:
 
-![](<../../../.gitbook/assets/image (187).png>)
+![](<../../../.gitbook/assets/image (532).png>)
 
 **3.** Na tela para associar o assessor, preencha o usuário do assessor que será associado.&#x20;
 
 Se o cadastro do usuário do assessor <mark style="color:red;">**não estiver concluído**</mark>, será exibida uma mensagem de erro:
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (516).png>)
 
 Se o usuário do assessor estiver <mark style="color:green;">**devidamente cadastrado**</mark>, o sistema exibirá o **nome dele na tela**.&#x20;
 
 Clique em `“Associar Usuário”`:
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (527).png>)
 
 **4.** O sistema exibirá a mensagem de sucesso, e os assessores associados podem ser visualizados na tabela “**Assessores Cadastrados**”:
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (515).png>)

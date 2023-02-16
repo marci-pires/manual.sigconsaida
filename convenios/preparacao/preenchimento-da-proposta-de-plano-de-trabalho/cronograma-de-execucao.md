@@ -6,7 +6,7 @@
 
 **2.** Insira a descrição da meta no campo `"Descrição"` e clique em `"Salvar"`:
 
-![](<../../../.gitbook/assets/image (28) (1).png>)
+![](<../../../.gitbook/assets/image (28).png>)
 
 **3.** Clique no `"Nº Ordem"` da meta desejada e em `"Incluir um Novo Tipo de Atendimento"`:
 
@@ -18,11 +18,11 @@ O botão **"Incluir Novo Tipo de Atendimento"** só ficará disponível após se
 O procedimento deverá ser **repetido** de acordo com o número de Metas.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (136) (1).png>)
+![](<../../../.gitbook/assets/image (136).png>)
 
 **4.** Selecione o `"Tipo de Atendimento"` (1) e clique em `"Salvar"` (2):
 
-![](<../../../.gitbook/assets/image (73).png>)
+![](<../../../.gitbook/assets/image (347).png>)
 
 **5.** Após adicionar o "Tipo de Atendimento", clique no `"Nº Ordem"` do **"Tipo de Atendimento"** desejado e clique em `"Incluir Nova Etapa"`:
 
@@ -42,8 +42,8 @@ O procedimento deverá ser **repetido** de acordo com o número de etapas e suas
 A soma do número de dias das Etapas do Cronograma de Execução deverá ser igual ao **número total de dias de vigência** informado na Aba "Caracterização da Proposta".
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (255).png>)
 
 **7.** O número de dias das Etapas do Cronograma de Execução deverá estar compreendido no número de dias de vigência informado na Aba "Caracterização da Proposta", conforme quadro que se apresenta abaixo
 
-![](<../../../.gitbook/assets/image (484).png>)
+![](<../../../.gitbook/assets/image (227).png>)

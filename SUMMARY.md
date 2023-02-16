@@ -129,6 +129,8 @@
 * [Alteração](parcerias-mrosc/alteracao.md)
   * [Alteração de Gestor de Parcerias](parcerias-mrosc/alteracao/alteracao-de-gestor-de-parcerias.md)
   * [Alteração de Comissão de Monitoramento](parcerias-mrosc/alteracao/alteracao-de-comissao-de-monitoramento.md)
+  * [Concedente / OEEP](convenios/alteracoes/manual-concedente-alteracao/README.md)
+  * [Convenente / OSC Parceira](convenios/alteracoes/manual-convenente-alteracao/README.md)
 * [Execução](parcerias-mrosc/execucao/README.md)
   * [Liberação de Recursos](parcerias-mrosc/execucao/liberacao-de-recursos.md)
   * [Utilização dos recursos](parcerias-mrosc/execucao/utilizacao-dos-recursos.md)

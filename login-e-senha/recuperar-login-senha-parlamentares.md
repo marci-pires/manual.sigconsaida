@@ -12,11 +12,11 @@
 
 **1**. Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial:
 
-![](<../.gitbook/assets/image (543).png>)
+![](<../.gitbook/assets/image (297).png>)
 
 **2.** Clique em `"Esqueci senha/login"`:
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique no botão correspondente a sua situação
 
@@ -32,7 +32,7 @@ O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidade
 
 **4.** Informe seu usuário e clique em "enviar"
 
-<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Se tiver selecionado a recuperação do `"login"`, contate o Administrador de Segurança (TI) da Assembleia Legislativa de Minas Gerais:
 

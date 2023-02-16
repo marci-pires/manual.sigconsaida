@@ -10,12 +10,12 @@ Sendo o ajuste na parceria demandado pela OSC, ela deve apresentar, na proposta 
 Os checklists de alteração via termo aditivo das parcerias podem ser acessados em: [http://sigconsaida.mg.gov.br/checklists/](http://sigconsaida.mg.gov.br/checklists/)
 {% endhint %}
 
-Quando a solicitação envolver modificações no objeto, conforme art. 68ª do Decreto nº 47.132, de 2017, a OEEP deverá aditar a parceria com vistas à:
+Quando a solicitação envolver modificações no objeto, conforme art. 68-A do Decreto nº 47.132, de 2017, a OEEP deverá aditar a parceria com vistas à:
 
-* Reprogramação do objeto
-* Ampliação do objeto com utilização de saldo decorrente de economia ou de rendimentos
-* Ampliação do objeto com acréscimo de recursos pelos participes
-* Redução do objeto
+* Reprogramação do objeto;
+* Ampliação do objeto com utilização de saldo decorrente de economia ou de rendimentos;
+* Ampliação do objeto com acréscimo de recursos pelos participes;
+* Redução do objeto.
 
 {% hint style="danger" %}
 É permitida a celebração de no máximo dois termos aditivos que impliquem a reprogramação, ampliação ou redução do objeto.
@@ -35,7 +35,7 @@ Vale observar que é dispensada a formalização de termo aditivo desde que a da
 
 Nesses casos, será uma alteração simples, que demanda apenas o envio de proposta de alteração e justificativa, sendo essencial a aprovação da área técnica do OEEP.&#x20;
 
-Nos casos em que houver atraso na liberação de recurso, o OEEP providenciará prorrogação da vigência do Termo de Colaboração ou de Fomento equivalente ao lapso de tempo do atraso no pagamento ou considerando o prazo previsto para liberação dos recursos, por meio da prorrogação de ofício, a qual depende de análise técnica, dispensada a análise jurídica
+Nos casos em que houver atraso na liberação de recurso, o OEEP providenciará prorrogação da vigência do Termo de Colaboração ou de Fomento equivalente ao lapso de tempo do atraso no pagamento ou considerando o prazo previsto para liberação dos recursos, por meio da prorrogação de ofício, a qual depende de análise técnica, dispensada a análise jurídica.
 
 {% hint style="success" %}
 **LEITURA IMPORTANTE - Das Alterações**

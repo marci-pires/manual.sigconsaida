@@ -6,15 +6,15 @@
 
 A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST"**:
 
-![](<../../.gitbook/assets/image (352).png>)
+![](<../../.gitbook/assets/image (238).png>)
 
 **1.** Na tela da Proposta, desça a página e clique em `"Checklist - Anexar Documentação"`:
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (348).png>)
 
 **2.** O **** Checklist possui uma lista com diversos tipos de arquivos solicitados. Para anexar estes arquivos, clique em "Incluir Documento":
 
-![](<../../.gitbook/assets/image (523).png>)
+![](<../../.gitbook/assets/image (370).png>)
 
 {% hint style="info" %}
 Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para Adequação. Caso isso não seja realizado, o Convenente não irá conseguir anexar os documentos para regularização.&#x20;
@@ -26,7 +26,7 @@ Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalh
 
 **3.** Selecione o tipo de documento:
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (318).png>)
 
 As opções abaixo detalham o procedimento de cada tipo de documento:
 

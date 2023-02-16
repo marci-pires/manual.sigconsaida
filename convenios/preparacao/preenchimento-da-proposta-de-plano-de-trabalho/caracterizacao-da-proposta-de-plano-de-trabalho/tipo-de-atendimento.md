@@ -14,4 +14,4 @@ Caso já tenha utilizado algum recurso de Emenda, o "Tipo de Atendimento" proven
 
 **2.** A **"Lista de Tipos de Atendimento"** apresentará os tipos adicionados. **** Clique no ícone da coluna `"Editar"` para inserir os valores respectivos as Origens de Recursos:
 
-![](<../../../../.gitbook/assets/image (29).png>)
+![](<../../../../.gitbook/assets/image (316).png>)

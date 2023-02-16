@@ -12,15 +12,15 @@ Antes de solicitar o cadastro, confira se o status do Representante Legal da sua
 
 **1.** Como Prefeito/Representante Legal do convenente, acesse o&#x20;
 
-![](<../../../.gitbook/assets/image (289).png>)
+![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`:
 
-<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`:
 
-![](<../../../.gitbook/assets/image (444).png>)
+![](<../../../.gitbook/assets/image (514).png>)
 
 **4.** Então, clique em `"Pré Cadastro"`:
 
@@ -30,7 +30,7 @@ Antes de solicitar o cadastro, confira se o status do Representante Legal da sua
 Para Prefeito/Representante Legal do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Preencha todos os campos (CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail) e clique em `"Enviar"`:
 
@@ -42,7 +42,7 @@ Para Prefeito/Representante Legal do convenente.
 
 **8.** O Prefeito/Representante Legal receberá no e-mail registrado no CAGEC uma mensagem com o link para a gerar **** uma nova senha.
 
-![](<../../../.gitbook/assets/image (545).png>)
+![](<../../../.gitbook/assets/image (513).png>)
 
 **8.** Será exibida tela com o CPF do Prefeito/Representante Legal como usuário.
 
@@ -50,7 +50,7 @@ Para Prefeito/Representante Legal do convenente.
 
 **9.** Digite sua nova senha atendendo aos seguintes critérios de segurança
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Precondições**

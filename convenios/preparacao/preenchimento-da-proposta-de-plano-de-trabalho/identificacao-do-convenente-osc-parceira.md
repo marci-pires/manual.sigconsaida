@@ -10,4 +10,4 @@ Na fase anterior foi inserido o Concedente/OSC Parceira,beneficiários do Convê
 
 **2.** Clique em `"Salvar"` para concluir o processo de identificação do Convenente/ OSC Parceira.
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>

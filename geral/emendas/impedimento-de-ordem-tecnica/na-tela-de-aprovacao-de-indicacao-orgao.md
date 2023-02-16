@@ -14,6 +14,6 @@ Selecione uma indicação e clique no botão de Impedimento de Ordem Técnica, c
 
 3\. Na próxima tela que será exibida, o usuário deverá selecionar a classificação do impedimento e colocar a justificativa, conforme instruções na imagem abaixo.
 
-![](<../../../.gitbook/assets/image (181) (1).png>)
+![](<../../../.gitbook/assets/image (181).png>)
 
 4\. Após o impedimento de ordem técnica o status da indicação será alterado para **"Reprovado"** e  um e-mail será enviado para o Parlamentar com informações sobre a reprovação.

@@ -12,7 +12,7 @@ O art. 3° do Decreto n° 46.319/2013 lista todos os agentes que estão vedados 
 
 **1.** Expanda a aba **"Identificação do Concedente/Órgão ou Entidade Estadual Parceiro**" e selecione os dados do Concedente/órgão ou Entidade Estadual Parceira:
 
-![](<../../../.gitbook/assets/image (542).png>)
+![](<../../../.gitbook/assets/image (258).png>)
 
 {% hint style="info" %}
 Caso tenha selecionado o Concedente **incorreto**, realize a operação novamente, selecionando a instituição correta.

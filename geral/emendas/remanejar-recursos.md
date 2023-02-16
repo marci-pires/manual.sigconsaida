@@ -28,7 +28,7 @@ A tela de solicitação de remanejamento exibirá informações referentes aos v
 
 Por fim, o usuário deverá preencher o valor que deseja remanejar, considerando o valor disponível.
 
-![](<../../.gitbook/assets/image (416).png>)
+![](<../../.gitbook/assets/image (416) (1).png>)
 
 **6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Os registros de remanejamentos salvos são exibidos na tabela “Lista de Solicitação de Remanejamento”, na parte inferior da tela.
 
