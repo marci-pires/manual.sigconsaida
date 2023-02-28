@@ -14,10 +14,10 @@ Selecione o **tipo de despesa (5)** - Custos Indiretos, despesa com pessoal, di�
 
 Clique no **ícone de "+" (6)** da coluna "Vincular Etapa":
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 {% hint style="info" %}
-Vincular uma etapa no item é **fundamental** para deixar evidente como serão gastos os recursos no decorrer do período de vigência do convênio.
+Vincular uma etapa no item é **fundamental e obrigatório** para deixar evidente como serão gastos os recursos no decorrer do período de vigência do convênio.
 {% endhint %}
 
 **3.** Na janela aberta, selecione (1) a etapa referente ao item (inserida anteriormente nas [**Metas do** **Cronograma de Execução**](broken-reference)). Clique em `"+ Vincular"` (2):
@@ -26,7 +26,7 @@ Vincular uma etapa no item é **fundamental** para deixar evidente como serão g
 
 **4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convênio:
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (44) (1).png>)
 
 **5.** Finalizadas as alterações a tela apresentará todas as aplicações dos recursos. Clique em `"Salvar"` para concluir o processo:
 

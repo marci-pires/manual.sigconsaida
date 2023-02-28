@@ -83,7 +83,7 @@ Podemos supor também que o convenente pretenda fazer uma adaptação no acesso 
 
 O "Plano de Aplicação de Recursos" também deverá ser alterado caso o concedente e o convenente pretendam ampliar as metas do convênio. O saldo em conta e os rendimentos que serão utilizados para promover a ampliação de metas são provenientes de uma economia durante a execução do convênio, isto é, gastou-se menos do que se estimava necessário para executá-la. Assim, a utilização do saldo em conta e dos rendimentos implica necessariamente na correção dos valores que foram estimados durante a celebração do convênio. Por exemplo, suponhamos um único demonstrativo de recursos que representa as despesas previstas para a execução do objeto:
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 Agora vamos imaginar que esse convênio possui um saldo remanescente na conta, o qual pretende-se utilizar para realizar novas despesas:
 

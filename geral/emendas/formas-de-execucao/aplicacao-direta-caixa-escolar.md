@@ -2,7 +2,7 @@
 
 A indicação do tipo “Caixa Escolar” consiste na aplicação dos recursos de emenda parlamentar na gestão de infraestrutura das escolas do ensino médio e fundamental de Minas Gerais. Por esse motivo, essa opção de indicação só estará disponível nos incisos cuja unidade orçamentária for referente à Secretaria de Estado de Educação.
 
-![](<../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1).png>)
 
 **1.** A indicação de recursos do tipo “Caixa Escolar” é realizada em três etapas:
 

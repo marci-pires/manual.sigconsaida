@@ -1,0 +1,16 @@
+# Processo de assinatura do Convenente/OSCs
+
+Quando o instrumento volta autorizado pela SEGOV o Concedente deve avisar ao Convenente para assinar o instrumento.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+* Pesquisar o Instrumento, clicar em ações - Editar Plano&#x20;
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+* Clicar em - Assinar Convênio/Parceria - Convenente/OSC
+
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+* Escolher o tipo de assinatura - Clicar em Assinar
+

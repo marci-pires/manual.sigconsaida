@@ -10,6 +10,10 @@ Em hipótese alguma, o convenente poderá criar obstáculo ou constrangimento pa
 
 Por outro lado, cabe ao concedente exercer o acompanhamento da execução do convênio e a fiscalização da aplicação dos recursos por meio de visitas _in loco._
 
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><mark style="color:green;">DEVERÁ SER PREENCHIDO PELO CONVENENTE E FISCALIZADO PELO CONCEDENTE</mark></p></figcaption></figure>
+
+
+
 O concedente indicará um servidor ou equipe para o acompanhamento e fiscalização do convênio. De acordo com os arts. 38 e 39 da Resolução Conjunta SEGOV/AGE n° 004/2015:
 
 > Art. 38. Compete ao servidor ou à equipe responsável pelo acompanhamento orientar e acompanhar as ações referentes ao convênio de saída em andamento, bem como:

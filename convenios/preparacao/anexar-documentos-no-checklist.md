@@ -1,8 +1,8 @@
-# Anexar Documentos no Checklist
+---
+description: ANEXAR OS DOCUMENTOS
+---
 
-{% hint style="info" %}
-**Somente** o **Concedente/OEEP** pode inserir documentos.&#x20;
-{% endhint %}
+# Anexar Documentos no Checklist
 
 A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST"**:
 

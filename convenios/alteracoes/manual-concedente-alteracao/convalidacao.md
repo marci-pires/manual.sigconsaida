@@ -6,7 +6,7 @@ Em regra, apenas convênios vigentes podem ser aditados. Nessa perspectiva, em p
 
 A convalidação deve ser cadastrada pelo usuário com o perfil de `Encaminhador`, e só estará habilitada se o convênio estiver com a vigência encerrada.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 A opção de convalidação só estará disponível se o convênio estiver vencido. O restante das opções para alterações estarão disponíveis quando a convalidação for aprovada, mesmo com a vigência encerrada.
 
@@ -30,7 +30,7 @@ O correto seria preencher neste campo o período entre a data em que a vigência
 
 Após salvas as informações da convalidação, esta é exibida na tabela “Lista de Convalidações Cadastradas”. Além de cadastrar a convalidação, o usuário com o perfil de “Encaminhador” também deverá realizar a assinatura da convalidação e em seguida encaminhá-la para que o ordenador de despesas também a assine:
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 Finalmente, após a assinatura do ordenador de despesas, a convalidação assume o status de “Aprovada”, habilitando o cadastro de alterações no convênio.
 

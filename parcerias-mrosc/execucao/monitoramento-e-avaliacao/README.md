@@ -10,6 +10,10 @@ De modo semelhante, nas parcerias com vigência superior a um ano, o OEEP realiz
 
 ![](<../../../.gitbook/assets/image (394).png>)
 
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>MONITORAMENTO DENTRO DO SIGCON</p></figcaption></figure>
+
+##
+
 ## GESTOR DA PARCERIA
 
 O gestor da parceria é o agente público responsável pela gestão da parceria celebrada, de forma a ser o orientador da OSC durante todo o processo para que execute em conformidade com o pactuado. Sua designação deve ocorrer por ato publicado em meio oficial de comunicação, podendo ocorrer no extrato da parceria.

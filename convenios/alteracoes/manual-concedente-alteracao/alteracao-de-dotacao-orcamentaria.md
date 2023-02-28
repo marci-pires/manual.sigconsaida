@@ -42,9 +42,7 @@
 
 ![](<../../../.gitbook/assets/image (330) (1).png>)
 
-**10.** O Representante Legal deve inserir seus dados, senha do SIGCON Saída e clicar em `"Enviar"` para realizar a assinatura manual:
-
-![](<../../../.gitbook/assets/image (302) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`:
 

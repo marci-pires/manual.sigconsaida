@@ -14,7 +14,7 @@ Para incluir um documento em um bloco de assinatura, é necessário CADASTRAR o 
 
 **3.** Acesse o(s) documento(s) na [Aba de Documentos Anexados](../aba-documentos-anexados/) do instrumento:
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 **4.** `Selecione`**`(1)`** o(s) documento(s) desejado e clique em `"Incluir em Bloco de Assinatura"`**`(2)`**:
 
@@ -26,4 +26,4 @@ Para incluir um documento em um bloco de assinatura, é necessário CADASTRAR o 
 
 **6.** Clique em `"Sim"` para confirmar a associação:
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

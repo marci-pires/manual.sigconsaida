@@ -16,7 +16,7 @@ Para utilizar essa modalidade, é necessário ter **permissão** para assinar. A
 
 **3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento:
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**:
 
@@ -42,7 +42,7 @@ Ao selecionar vários documentos e acionar a assinatura, **TODOS** terão o mesm
 
 **3.** Acesse o a [Aba de Documentos Anexados](../../aba-documentos-anexados/) do instrumento:
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Selecione o documento que você deseja assinar e clique em `"Ações"` e em `"Assinar com Certificado Digital"`:
 

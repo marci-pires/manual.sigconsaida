@@ -113,7 +113,7 @@ Os seguintes campos estão habilitados para fazer o filtro:
 Para visualizar a justificativa da diligência clica no link "Abrir diligência" conforme imagem abaixo:
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40) (1).png>)
 
 > Um janela sera aberta com a justificativa
 

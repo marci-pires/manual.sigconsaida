@@ -22,11 +22,15 @@ Tabela de Conversão de Unidades
 
 **1.** Expanda a aba “Alterações do Convênio/Parceria” e clique em `“Adequação do Convênio/Parceria”`:
 
-![](<../../../../.gitbook/assets/image (163).png>)
+<figure><img src="../../../../.gitbook/assets/adequação.png" alt=""><figcaption></figcaption></figure>
 
 **2.** Preencha os dados e clique em `“Salvar e Encaminhar para Aprovação”`:
 
-![](<../../../../.gitbook/assets/image (141).png>)
+<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `“Sim”` no _pop-up_ de confirmação:
 

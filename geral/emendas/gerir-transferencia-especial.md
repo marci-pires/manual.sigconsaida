@@ -46,7 +46,7 @@ e. Gerar a declaração de transferência
 f. Visualizar as transferências
 {% endhint %}
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 3\. Cadastrar data de publicação para todas as transferências
 

@@ -2,7 +2,7 @@
 
 **1.** Preencha os dados dos responsáveis pela documentação de celebração, monitoramento, execução e prestação de contas:
 
-![](<../../../../.gitbook/assets/image (30).png>)
+![](<../../../../.gitbook/assets/image (30) (1).png>)
 
 **2.** **Se houver**, digite as "Obrigações dos Intervenientes":
 

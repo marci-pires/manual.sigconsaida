@@ -91,3 +91,7 @@ Conforme art. 116, § 2º, da Lei Federal nº 8.666/1993, e art. 26 da Resoluç�
 
 Ausência de comunicação ao Poder Legislativo local. A comunicação ao Poder Legislativo é importante para o controle social.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+* Após o Encaminhador Assinar o Plano ele deve clicar em Encaminhar para a Segov no final da página.
