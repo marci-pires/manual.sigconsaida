@@ -18,7 +18,7 @@ Ela permite alterar o instrumentos e os saldos no Sigcon-MG – Módulo Saída e
 
 **1.** Expanda a aba “Alterações do Convênio/Parceria” e clique em `“Adequação do Convênio/Parceria”`:
 
-![](<../../../../.gitbook/assets/image (14) (2).png>)
+![](<../../../../.gitbook/assets/image (14).png>)
 
 **2.** Preencha os dados e clique em `“Salvar e Encaminhar para Aprovação”`:
 

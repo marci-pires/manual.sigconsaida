@@ -70,16 +70,16 @@ Perfil: `Analista Técnico`
 
 * Quando um valor de emenda utilizado poderá ser alterado, ou para mais ou para menos.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Clicar na Caracterização da Proposta;
 * Ir em Emenda Paralamentar;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Na Emenda Parlamentar, clicar em Expandir no botão azul do lado direito;
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Para desvincular um valor, tem que clicar em Ações, na parte de baixo irá aparecer o valor utilizado, podendo ser alterado ou excluído.
 
@@ -91,7 +91,7 @@ O usuário aciona o botão **\[ENCAMINHAR ANÁLISE JURÍDICA]**
 
 * Se for necessário a alteração do Instrumento pelo convenente, o analista clica em retornar para adequação no final da página do instrumento.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Informar diligência
 

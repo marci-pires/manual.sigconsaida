@@ -65,7 +65,7 @@ Já na alteração do convênio, a “Lista de Tipos de Atendimento” discrimin
 
 Para incluir valores de emenda parlamentar, o procedimento é o mesmo realizado nas propostas de plano de trabalho. Após a vinculação da indicação, o valor vinculado é utilizado na lista de tipos de atendimento da alteração:
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (58) (1).png>)
 
 ### **Ampliação de metas**
 

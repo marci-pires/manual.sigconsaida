@@ -14,7 +14,7 @@
 
 **3.** Após o preenchimento dos campos obrigatórios, clique em `"Salvar"`  e verifique se o sistema exibe a seguinte mensagem de sucesso:
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.** O documento anexado aparecerá na aba [Documentos Anexados](../):
 

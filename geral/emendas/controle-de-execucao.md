@@ -41,13 +41,13 @@ description: >-
 
 `Na próxima tela selecione o Tipo de Indicação`
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (2).png>)
 
 ### 1. Aplicação Direta - Caixa Escolar
 
 **1.1.** Selecione o Tipo de Indicação `Aplicação Direta - Caixa Escolar`:
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (2).png>)
 
 **1.2.** Vinculação da indicação:
 

@@ -42,7 +42,7 @@
 
 ![](<../../../.gitbook/assets/image (330) (1).png>)
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 **11.** A **Análise Técnica** deve ser realizada pelo Concedente/Órgão Estadual/Entidade Parceira. Ao finalizar, clique em `"Salvar"`:
 

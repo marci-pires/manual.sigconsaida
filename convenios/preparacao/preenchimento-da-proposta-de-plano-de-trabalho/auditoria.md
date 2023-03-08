@@ -6,7 +6,7 @@ A aba **"Auditoria"** serve para registrar todo o histórico de movimentações 
 
 A tabela **"Histórico de Alterações"** apresenta todas as modificações realizadas anteriormente:
 
-![](<../../../.gitbook/assets/image (11) (1).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
 Se necessário, insira a data inicial e final e clique em `"Filtrar..."` para filtras as modificações por usuário apresentadas na tela:
 

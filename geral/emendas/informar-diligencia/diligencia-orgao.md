@@ -75,7 +75,7 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)
 
 ## Gerenciar a diligências
 
@@ -123,7 +123,7 @@ Para visualizar a justificativa da diligência clica no link "Abrir diligência"
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Depois que a diligencia é fechada um e-mail será enviado para o parlamentar com informações do fechamento da diligência  e o botão ficará desabilitado conforme imagem abaixo: |
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (74) (1).png>)
 
 6\. Visualizar Diligências no Plano de Trabalho
 
@@ -132,4 +132,4 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)

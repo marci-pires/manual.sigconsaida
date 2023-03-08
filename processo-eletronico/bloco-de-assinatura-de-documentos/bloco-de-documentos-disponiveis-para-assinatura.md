@@ -10,7 +10,7 @@
 
 **3.** Se desejar, utilize o filtro de pesquisa, selecionando o `bloco desejado`**`(1)`** e clicando em `"Filtrar"`**`(2)`**:
 
-<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Para assinatura, `selecione o(s) documento(s)`**`(1)`** e clique em `"Assinar documento(s) selecionado(s)"`**`(2)`**:
 

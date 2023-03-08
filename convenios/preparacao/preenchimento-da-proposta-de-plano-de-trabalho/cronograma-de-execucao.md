@@ -6,7 +6,7 @@
 
 **2.** Insira a descrição da meta no campo `"Descrição"` e clique em `"Salvar"`:
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 **3.** Clique no `"Nº Ordem"` da meta desejada e em `"Incluir um Novo Tipo de Atendimento"`:
 

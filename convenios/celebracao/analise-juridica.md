@@ -6,7 +6,7 @@ Após manifestação da área técnica, o processo deve ser submetido à área j
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Digitar o Parecer Jurídico; Escolher o tipo de Parecer; Clicar em Salvar;&#x20;
 * Assinar a/as análises;

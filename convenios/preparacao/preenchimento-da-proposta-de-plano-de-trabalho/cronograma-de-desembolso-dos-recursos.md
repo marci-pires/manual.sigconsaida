@@ -2,7 +2,7 @@
 
 **1.** Expanda a aba" **Cronograma de Desembolso dos Recursos".** Selecione a origem do **desembolso (1)**, o **mês (2)**, o **ano (3)** e **** digite o **valor do desembolso (4).** Clique em `"Salvar"`(5):
 
-![](<../../../.gitbook/assets/image (60).png>)
+![](<../../../.gitbook/assets/image (60) (1).png>)
 
 {% hint style="info" %}
 O valor do desembolso não pode exceder o Valor Total do Concedente/órgão ou entidade estadual parceiro.
