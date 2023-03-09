@@ -16,7 +16,7 @@ Antes de solicitar o cadastro, confira se o status do Representante Legal da sua
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`:
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`:
 
@@ -30,7 +30,7 @@ Antes de solicitar o cadastro, confira se o status do Representante Legal da sua
 Para Prefeito/Representante Legal do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Preencha todos os campos (CPF; CNPJ do convenente; Nome Completo; Setor de Trabalho; Telefone; Data de Nascimento; E-mail Institucional; e Repita o E-mail) e clique em `"Enviar"`:
 

@@ -1,10 +1,16 @@
+---
+description: >-
+  Status - Processo de Assinatura - Concedente/OEEP - Nesta fase o Ordenador de
+  Despesa assina o convênio. Tem que ter o perfil de Ordenador de Despesa
+---
+
 # Processo de Assinatura do Concedente/OEEP
 
 <figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Clicar em - Assinar Convênio/Parceria - Concedente/OEEP
 
-<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 * Escolher o tipo de Assinatura - Selecionar todos os campos - Clicar em Assinar &#x20;
 

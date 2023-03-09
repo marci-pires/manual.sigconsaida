@@ -1,5 +1,11 @@
 # Enviar Proposta
 
+{% hint style="info" %}
+Para enviar a propsota o status deve ser "VALIDAÇÃO DA PROPOSTA PELO REPRESENTANTE LEGAL"
+
+Necessário que o usuário tenha perfil de `REPRESENTANTE LEGAL`
+{% endhint %}
+
 **1.** Após executar todas as ações correspondentes do sub-processo de [Preparação](broken-reference), o Convenente/OSC deverá [assinar ](broken-reference)a proposta e encaminhar a documentação:&#x20;
 
 ![](<../../.gitbook/assets/image (342).png>)

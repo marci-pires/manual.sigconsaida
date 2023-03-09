@@ -28,9 +28,9 @@ Tabela de Conversão de Unidades
 
 <figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (38) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Clique em `“Sim”` no _pop-up_ de confirmação:
 

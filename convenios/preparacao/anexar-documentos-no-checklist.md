@@ -1,8 +1,14 @@
 ---
-description: ANEXAR OS DOCUMENTOS
+description: Status - CHECKLIST - Tem que ter o perfil de CADASTRADOR
 ---
 
 # Anexar Documentos no Checklist
+
+{% hint style="info" %}
+O Status em que é possível anexar documentos no checklist é "PREENCHIMENTO DE CHECKLIST"
+
+Necessário que o usuário tenha perfil de `CADASTRADOR`
+{% endhint %}
 
 A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST"**:
 

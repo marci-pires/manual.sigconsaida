@@ -75,7 +75,7 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89) (1).png>)
+![](<../../../.gitbook/assets/image (89).png>)
 
 ## Gerenciar a diligências
 
@@ -132,4 +132,4 @@ As diligências também poderão ser visualizadas no plano de trabalho. \
 Para visualizar é só clicar em expandir a aba diligencia conforme imagem abaixo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89) (1).png>)
+![](<../../../.gitbook/assets/image (89).png>)

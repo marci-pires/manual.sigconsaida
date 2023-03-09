@@ -1,3 +1,7 @@
+---
+description: Status de Alteração - dependendo da alteração o sistema dirá o que ela será
+---
+
 # Termo Aditivo
 
 ## Criar um Termo Aditivo

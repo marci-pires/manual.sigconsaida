@@ -1,3 +1,10 @@
+---
+description: >-
+  Status - Processo de Publicação - Nesta fase faz a publicação do convênio no
+  Minas Gerais e depois coloca a data no sistema - Tem que ter os perfis de
+  Responsável Pela Publicação, Encaminhador
+---
+
 # Processo de Publicação
 
 <figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>

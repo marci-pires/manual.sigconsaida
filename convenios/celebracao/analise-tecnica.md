@@ -1,5 +1,13 @@
 # Análise Técnica
 
+{% hint style="info" %}
+O Plano de Trabalho deve estar no status de "ANÁLISE TÉCNICA"&#x20;
+
+Necessário que o usuário tenha perfil de `ANÁLISTA TÉCNICO`
+{% endhint %}
+
+&#x20;<mark style="color:red;">Nesta fase o analista técnico pode fazer alterações, se necessário, dentro do plano de trabalho, com o perfil de CADASTRADOR.</mark>
+
 Os documentos apresentados pelo convenente juntamente com a proposta serão analisados pela área técnica, como assim dispõe o art. 17 da Resolução Conjunta SEGOV/AGE n° 004/2015:
 
 Art. 17. As áreas técnicas do concedente analisarão a proposta de plano de trabalho, efetuarão eventuais ajustes e complementações, emitirão pareceres técnicos fundamentados e incluirão, no SIGCON-MG – Módulo Saída, a minuta do instrumento do convênio de saída a ser celebrado.
@@ -75,11 +83,11 @@ Perfil: `Analista Técnico`
 * Clicar na Caracterização da Proposta;
 * Ir em Emenda Paralamentar;
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * Na Emenda Parlamentar, clicar em Expandir no botão azul do lado direito;
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Para desvincular um valor, tem que clicar em Ações, na parte de baixo irá aparecer o valor utilizado, podendo ser alterado ou excluído.
 
@@ -91,7 +99,7 @@ O usuário aciona o botão **\[ENCAMINHAR ANÁLISE JURÍDICA]**
 
 * Se for necessário a alteração do Instrumento pelo convenente, o analista clica em retornar para adequação no final da página do instrumento.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Informar diligência
 

@@ -76,6 +76,7 @@
     * [Documento Anexados](convenios/preparacao/preenchimento-da-proposta/documento-anexados.md)
   * [Anexar Documentos no Checklist](convenios/preparacao/anexar-documentos-no-checklist.md)
   * [Enviar Proposta](convenios/preparacao/enviar-proposta.md)
+  * [Análise do Checklist para Celebração](convenios/preparacao/analise-do-checklist-para-celebracao.md)
 * [Celebração](convenios/celebracao/README.md)
   * [Análise Técnica](convenios/celebracao/analise-tecnica.md)
   * [Análise Jurídica](convenios/celebracao/analise-juridica.md)

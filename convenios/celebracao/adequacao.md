@@ -1,8 +1,12 @@
 # Adequação
 
+{% hint style="info" %}
+Quando um Plano de Trabalho estiver no status de "ADEQUAÇÃO" o Convenente/OSC deverá realizar os ajustes solicitados pelo Concedente/OEEP
+{% endhint %}
+
 ## Retornar para Adequação
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Para retornar um plano de trabalho para Adequação, o usuário deve ter o perfil de "**Analista Técnico**".
 {% endhint %}
 
@@ -18,7 +22,7 @@ Para retornar um plano de trabalho para Adequação, o usuário deve ter o perfi
 
 ## Realizar adequação
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Para realizar a adequação de um plano de trabalho, o usuário deve ter o perfil de "**Cadastrador**".
 {% endhint %}
 

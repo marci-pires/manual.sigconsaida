@@ -1,3 +1,7 @@
+---
+description: Status - Plano Autorizado - Quando o instrumento retorna da Segov
+---
+
 # Plano Autorizado
 
 {% hint style="info" %}
@@ -19,3 +23,4 @@
 **4.** Após enviar e salvar o documento, clique em `"Encaminhar para Processo de Assinatura Convenente/OSC"` no final da página:
 
 ![](<../../.gitbook/assets/image (315).png>)
+

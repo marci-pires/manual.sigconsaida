@@ -1,5 +1,11 @@
 # Preenchimento da Proposta de Plano de Trabalho
 
+{% hint style="info" %}
+O Status em que é possível preencher Proposta de Plano de Trabalho "EM CADASTRAMENTO"
+
+Necessário que o usuário tenha perfil de `CADASTRADOR`
+{% endhint %}
+
 **1.** Após o cadastro inicial, é necessário realizar o preenchimento da Proposta do Plano de Trabalho propriamente dita. O cabeçalho (em azul) apresenta as principais informações referentes à proposta:
 
 ![](<../../../.gitbook/assets/image (354).png>)
