@@ -68,7 +68,7 @@ Perfil: `Analista Técnico`
 
 ### Invalidar análise
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Clique para editar análise desejada
 2. Selecione a opção de invalidar análise
@@ -83,7 +83,7 @@ Perfil: `Analista Técnico`
 * Clicar na Caracterização da Proposta;
 * Ir em Emenda Paralamentar;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Na Emenda Parlamentar, clicar em Expandir no botão azul do lado direito;
 

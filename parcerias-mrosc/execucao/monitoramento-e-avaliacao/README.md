@@ -10,7 +10,7 @@ De modo semelhante, nas parcerias com vigência superior a um ano, o OEEP realiz
 
 ![](<../../../.gitbook/assets/image (394).png>)
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>MONITORAMENTO DENTRO DO SIGCON</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>MONITORAMENTO DENTRO DO SIGCON</p></figcaption></figure>
 
 ##
 

@@ -10,7 +10,7 @@ description: >-
 
 * Clicar em - Assinar Convênio/Parceria - Concedente/OEEP
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Escolher o tipo de Assinatura - Selecionar todos os campos - Clicar em Assinar &#x20;
 

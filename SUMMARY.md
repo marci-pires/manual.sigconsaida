@@ -180,13 +180,9 @@
 
 * [Plano de Serviços - SEDESE (FMAS E CMAS)](outros-instrumentos/plano-de-servicos-sedese-fmas-e-cmas.md)
 
-## REFERÊNCIAS
+## Aplicativo SIGCON-Saída
 
-* [Bibliografia](referencias/bibliografia.md)
-
-## Aplicativo SIGCON Saída
-
-* [Download do App SIGCON Saída](aplicativo-sigcon-saida/download-do-app-sigcon-saida.md)
+* [Download do App Sigcon-Saída](aplicativo-sigcon-saida/download-do-app-sigcon-saida.md)
 * [Acesso Aberto](aplicativo-sigcon-saida/acesso-aberto/README.md)
   * [Convênios/Parcerias](aplicativo-sigcon-saida/acesso-aberto/convenios-parcerias/README.md)
     * [Pesquisar Instrumentos](aplicativo-sigcon-saida/acesso-aberto/convenios-parcerias/pesquisar-instrumentos.md)
@@ -202,3 +198,12 @@
     * [Assinar documentos](aplicativo-sigcon-saida/acesso-com-usuario-e-senha/bloco-de-assinaturas/assinar-documentos.md)
     * [Selecionar mais de um documento para assinatura](aplicativo-sigcon-saida/acesso-com-usuario-e-senha/bloco-de-assinaturas/selecionar-mais-de-um-documento-para-assinatura.md)
   * [Manual On-line](aplicativo-sigcon-saida/acesso-aberto/manual-on-line.md)
+
+## QR Code Sigcon-Saída
+
+* [Sobre o QR Code](qr-code-sigcon-saida/sobre-o-qr-code.md)
+* [Acessar o QR Code](qr-code-sigcon-saida/acessar-o-qr-code.md)
+
+## REFERÊNCIAS
+
+* [Bibliografia](referencias/bibliografia.md)
