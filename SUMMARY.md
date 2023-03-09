@@ -202,6 +202,7 @@
 ## QR Code Sigcon-Saída
 
 * [Sobre o QR Code](qr-code-sigcon-saida/sobre-o-qr-code.md)
+* [Utilização do QR Code](qr-code-sigcon-saida/utilizacao-do-qr-code.md)
 * [Acessar o QR Code](qr-code-sigcon-saida/acessar-o-qr-code.md)
 
 ## REFERÊNCIAS
