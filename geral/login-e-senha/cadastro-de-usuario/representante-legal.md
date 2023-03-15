@@ -1,6 +1,8 @@
 # Representante Legal
 
-**1.** Como Prefeito/Representante Legal do convenente, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
+**1.** Com o perfil de **Prefeito/Representante Legal do convenente**, acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial
+
+![](<../../../.gitbook/assets/image (525).png>)
 
 > O representante legal da instituição convenente é a:
 >
@@ -9,10 +11,6 @@
 {% hint style="warning" %}
 Antes de solicitar o cadastro, confira se o status do Representante Legal da sua instituição está **atualizado** no [CAGEC](https://www.portalcagec.mg.gov.br/)
 {% endhint %}
-
-**1.** Como Prefeito/Representante Legal do convenente, acesse o&#x20;
-
-![](<../../../.gitbook/assets/image (525).png>)
 
 **2.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`:
 
@@ -48,7 +46,7 @@ Para Prefeito/Representante Legal do convenente.
 
 **9.**  Como Prefeito/Representante Legal do convenente, acesse o e-mail cadastrado no CAGEC e clique link contido na mensagem:
 
-**9.** Digite sua nova senha atendendo aos seguintes critérios de segurança
+**10.** Digite sua nova senha atendendo aos seguintes critérios de segurança
 
 <figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +58,7 @@ Para Prefeito/Representante Legal do convenente.
 \- A senha deve conter pelo menos uma letra e um número.
 {% endhint %}
 
-**10.** Repita a nova senha criada e clique em `"Salvar"`
+**11.** Repita a nova senha criada e clique em `"Salvar"`
 
 {% hint style="info" %}
 O Prefeito/Representante Legal passará a acessar a nova versão do [SIGCON Saída](https://sigconsaida.mg.gov.br/) com o novo login (seu CPF) e com a nova senha criada.
