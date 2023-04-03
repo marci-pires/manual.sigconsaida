@@ -14,7 +14,7 @@
 
 **4.** No seu celular ou outro dispositivo móvel, abra o aplicativo da câmera <img src="../.gitbook/assets/image (25).png" alt="" data-size="line"> e aponte para o QR Code do instrumento desejado. Clique no **link** reconhecido pela camera (em amarelo na imagem abaixo)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Uma página será aberta no Portal de Transparência de Convênios e Parcerias MROSC com os dados do instrumento em PDF&#x20;
 

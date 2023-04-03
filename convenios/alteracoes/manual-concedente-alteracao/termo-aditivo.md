@@ -1,7 +1,3 @@
----
-description: Status de Alteração - dependendo da alteração o sistema dirá o que ela será
----
-
 # Termo Aditivo
 
 ## Criar um Termo Aditivo
@@ -78,7 +74,15 @@ Se necessário alterar a "Vigência" do Convênio, preencha o campo “Proposta 
 
 {% hint style="danger" %}
 Para que as alteração do Convênio sejam enviadas para o Órgão Concedente, é necessário que o **Responsável Legal do Convenente aprove** antes.
+
+
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+* Escolher o tipo de assinatura - Clicar em Assinar
+
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Trâmite do Termo Aditivo
 
@@ -104,7 +108,8 @@ Para que o concedente/OEEP analise o checklist, é essencial que o Responsável 
 5. **Análise e aprovação da alteração pelo encaminhador:** O usuário encaminhador é último à tramitar o termo aditivo no órgão concedente, é ele o responsável por encaminhar o termo aditivo para análise da SEGOV.
 6. **Aprovação da SEGOV** (SEGOV – Designação do plano de trabalho, Análise e emissão de parecer, aprovação do plano de trabalho)**:** Análise da alteração do convênio, conforme estipulado no art. 6º do Decreto Estadual nº 46.281/2013.
 7. **Alteração Aprovada:** Depois que o termo aditivo é aprovado pela SEGOV, resta apenas assina-lo e publica-lo, essa etapa é para que seja preenchida a data de assinatura do termo aditivo.
-8. **Alteração Assinada:** Depois que o termo aditivo foi assinado pelas partes, resta apenas publica-lo, esta etapa é justamente para que o usuário preencha a data em que o convênio foi publicado no Diário Oficial do Estado de Minas Gerais.&#x20;
-9. **Vigente:** Depois de publicado, o termo aditivo está vigente, as alterações feitas serão aplicadas ao convênio.
+8. **Assinatura do Representante Legal:** Assinar após voltar da SEGOV aprovado e encaminhar.
+9. **Alteração Assinada:** Depois que o termo aditivo foi assinado pelas partes, resta apenas publica-lo, esta etapa é justamente para que o usuário preencha a data em que o convênio foi publicado no Diário Oficial do Estado de Minas Gerais.&#x20;
+10. **Vigente:** Depois de publicado, o termo aditivo está vigente, as alterações feitas serão aplicadas ao convênio.
 
 
