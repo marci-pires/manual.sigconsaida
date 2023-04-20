@@ -38,7 +38,7 @@ Para Prefeito/Representante Legal do convenente.
 
 ![](<../../../.gitbook/assets/tela de pre cadastro aviso.png>)
 
-**8.** O Prefeito/Representante Legal receberá no e-mail registrado no CAGEC uma mensagem com o link para a gerar **** uma nova senha.
+**8.** O Prefeito/Representante Legal receberá no e-mail registrado no CAGEC uma mensagem com o link para a gerar uma nova senha.
 
 ![](<../../../.gitbook/assets/image (513).png>)
 

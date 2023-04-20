@@ -16,7 +16,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 > **Passo-a-passo**
 >
-> 1. &#x20;**** Preencher o CNPJ, a razão social ou o município do beneficiário
+> 1. &#x20;Preencher o CNPJ, a razão social ou o município do beneficiário
 > 2. Clicar em “Pesquisar”.
 > 3. Selecione os beneficiários.
 > 4. Clique em “Adicionar”.

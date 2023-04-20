@@ -12,6 +12,6 @@ Caso já tenha utilizado algum recurso de Emenda, o "Tipo de Atendimento" proven
 Se não encontrar o "Tipo de Atendimento" correspondente, entre em contato com o Concedente do convênio e solicite maiores informações.
 {% endhint %}
 
-**2.** A **"Lista de Tipos de Atendimento"** apresentará os tipos adicionados. **** Clique no ícone da coluna `"Editar"` para inserir os valores respectivos as Origens de Recursos:
+**2.** A **"Lista de Tipos de Atendimento"** apresentará os tipos adicionados. Clique no ícone da coluna `"Editar"` para inserir os valores respectivos as Origens de Recursos:
 
 ![](<../../../../.gitbook/assets/image (316).png>)

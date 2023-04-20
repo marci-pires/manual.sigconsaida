@@ -18,7 +18,7 @@ A proposta deve estar no Status de **"PREENCHIMENTO CHECKLIST"**:
 
 ![](<../../.gitbook/assets/image (348).png>)
 
-**2.** O **** Checklist possui uma lista com diversos tipos de arquivos solicitados. Para anexar estes arquivos, clique em "Incluir Documento":
+**2.** O Checklist possui uma lista com diversos tipos de arquivos solicitados. Para anexar estes arquivos, clique em "Incluir Documento":
 
 ![](<../../.gitbook/assets/image (370).png>)
 

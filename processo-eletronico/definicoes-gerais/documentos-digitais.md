@@ -6,7 +6,7 @@ As informações registradas, codificada de forma acessível e interpretável po
 
 **Um documento nato-digital se refere a um criado originalmente em meio eletrônico ou digital.**
 
-Ou seja, **** já “nasceram” digitais, possuem validade legal equiparando-os aos documentos físicos.
+Ou seja, já “nasceram” digitais, possuem validade legal equiparando-os aos documentos físicos.
 
 Porém, para que essa equiparação seja legal, existem algumas regras, entre elas a certificação e a **assinatura digital**.
 
@@ -18,7 +18,7 @@ Como exemplo, documentos produzidos por programas como Microsoft Office (Word, E
 
 **É um documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital.**
 
-O **documento digitalizado** é **** aquele que já existe em formato físico e é posteriormente convertido em digital, por meio da digitalização. Esse processo é a conversão fiel do documento físico existente para o código digital, usando um aparelho Scanner ou até fotografando o documento.
+O **documento digitalizado** é aquele que já existe em formato físico e é posteriormente convertido em digital, por meio da digitalização. Esse processo é a conversão fiel do documento físico existente para o código digital, usando um aparelho Scanner ou até fotografando o documento.
 
 Para atestar a autenticidade desses documentos, é necessário que esses sejam conferidos e assinados por um Agente autorizado a utilizar o sistema.
 

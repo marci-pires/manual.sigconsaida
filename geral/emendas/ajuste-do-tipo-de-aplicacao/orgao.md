@@ -35,4 +35,3 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 Para retorno de indicação do tipo **RESOLUÇÃO,** a mesma não pode estar vinculada ao beneficiário na tela de cadastro de resolução e nem ter sido enviada para o SIAFI.
 {% endhint %}
 
-****

@@ -19,7 +19,7 @@ description: Manual para órgãos e entidades públicas estaduais
 
 ![](<../../.gitbook/assets/image (473).png>)
 
-**1.** Clique no item da coluna `"Alterar Status"` correspondente ao documento desejado e escolha __ **"Aprovado"** __ para quando ele estiver apto, **"Reprovado"** __ para quando não estiver apto ou **"Não se aplica"** para quando não se aplicar ao processo de celebração a que o objeto se trata
+**1.** Clique no item da coluna `"Alterar Status"` correspondente ao documento desejado e escolha **"Aprovado"** para quando ele estiver apto, **"Reprovado"** para quando não estiver apto ou **"Não se aplica"** para quando não se aplicar ao processo de celebração a que o objeto se trata
 
 ![](<../../.gitbook/assets/image (471) (1).png>)
 

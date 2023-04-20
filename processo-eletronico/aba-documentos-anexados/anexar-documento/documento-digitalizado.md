@@ -43,7 +43,7 @@ Tamanho máximo do arquivo permitido: 15MB
 
 <figure><img src="../../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
-**8.** Para verificar se o arquivo foi carregado corretamente, verifique o **"Nome do Documento"** possui o nome **** do arquivo que foi carregado:
+**8.** Para verificar se o arquivo foi carregado corretamente, verifique o **"Nome do Documento"** possui o nome do arquivo que foi carregado:
 
 <figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 

@@ -80,7 +80,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
 {% endhint %}
@@ -147,7 +147,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Valor Executado ≤ Valor Pago
 4. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
@@ -213,7 +213,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
 {% endhint %}
@@ -258,7 +258,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
 {% endhint %}
@@ -323,7 +323,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
 {% endhint %}
@@ -361,7 +361,7 @@ Caso a condição abaixo seja atendida, irá gerar **Impedimento de Ordem Técni
 {% hint style="info" %}
 **Demais Condições:**
 
-1. Valor Pago ≤ **** Valor Empenhado
+1. Valor Pago ≤ Valor Empenhado
 2. Valor Empenhado ≤ Valor Utilizado
 3. Uma indicação só pode ser desvinculada se houver pelo menos 2 indicações no mesmo controle de execução.
 {% endhint %}
@@ -409,9 +409,9 @@ Instruções para importação dos dados:
 
 1- Escolha o Tipo de Importação: Empenho ou Indicação;
 
-&#x20;         ****          1.1- Dados do Empenho: Número Controle Execução, Número do Empenho e Data de Registro;&#x20;
+&#x20;         1.1- Dados do Empenho: Número Controle Execução, Número do Empenho e Data de Registro;&#x20;
 
-&#x20;         ****          1.2- Dados da Indicação: Número Controle Execução, Número da Indicação, Valor Empenhado, Valor Pago;&#x20;
+&#x20;         1.2- Dados da Indicação: Número Controle Execução, Número da Indicação, Valor Empenhado, Valor Pago;&#x20;
 
 2- Realize o download do modelo da planilha para importação;&#x20;
 
@@ -419,9 +419,9 @@ Instruções para importação dos dados:
 
 &#x20;         **3.1- Não alterar o nome e ordem das colunas em destaque na 1ª linha;**&#x20;
 
-&#x20;         ****          3.2- Formato de campos de Valor: 9.999,99;
+&#x20;         3.2- Formato de campos de Valor: 9.999,99;
 
-&#x20;         ****          3.3- Os campos de Data devem estar formatados como tipo Data: Ex.: DD/MM/YYYY;&#x20;
+&#x20;         3.3- Os campos de Data devem estar formatados como tipo Data: Ex.: DD/MM/YYYY;&#x20;
 
 &#x20;         **3.4- Formato do arquivo: Planilha deve ser salva no formato XLSX.**
 {% endhint %}

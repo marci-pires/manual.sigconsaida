@@ -43,7 +43,7 @@ Se o processo está na fase de _Plano de Trabalho_ no status **“PROCESSO DE AS
 {% endtab %}
 
 {% tab title="Alteração" %}
-Se o processo está no processo de Alteração __ no status **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos:&#x20;
+Se o processo está no processo de Alteração no status **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONVENENTE/OSC”** ou **“PROCESSO DE ASSINATURA DA ALTERAÇÃO - CONCEDENTE/OEEP**”, no momento da assinatura em lote o sistema vai verificar e permitir a assinatura nos seguintes casos:&#x20;
 
 * &#x20;Se a alteração for do tipo “Termo Aditivo”:  TERMO ADITIVO
 * Se a alteração for do tipo “Prorrogação de Ofício”: PRORROGAÇÃO DE OFÍCIO

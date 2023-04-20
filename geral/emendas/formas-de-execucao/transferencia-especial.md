@@ -19,7 +19,7 @@ A modalidade de transferência exclusivamente a municípios de recursos estaduai
 > 1. Preencha o valor da indicação
 > 2. Clique em “Enviar Indicações”
 
-****
+
 
 **2.** Após o preenchimento correto, o sistema irá gerar uma mensagem como a abaixo
 

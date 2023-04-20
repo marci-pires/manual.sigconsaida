@@ -8,8 +8,8 @@ Clique no link abaixo que corresponda a sua situação para ser redirecionado pa
 [cadastro-de-usuario](cadastro-de-usuario/)
 {% endcontent-ref %}
 
-{% content-ref url="problemas-com-a-senha.md" %}
-[problemas-com-a-senha.md](problemas-com-a-senha.md)
+{% content-ref url="liberacao-perfil.md" %}
+[liberacao-perfil.md](liberacao-perfil.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../login-e-senha/recuperar-login-senha-parlamentares.md" %}

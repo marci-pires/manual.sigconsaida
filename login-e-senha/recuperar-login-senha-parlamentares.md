@@ -3,7 +3,7 @@
 ## Esqueci Senha/Login (exceto Usuários Parlamentares e assessores parlamentares)
 
 {% hint style="info" %}
-**• Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais:**  solicite a troca da senha no SIGCON Saída e  ****  será enviada uma mensagem o e-mail cadastrado com o link para que você possa definir a nova senha. Caso não receba a mensagem, confira seu endereço de e-mail cadastrado junto ao Responsável Legal da entidade ao qual você está vinculado.
+**• Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais:**  solicite a troca da senha no SIGCON Saída e  será enviada uma mensagem o e-mail cadastrado com o link para que você possa definir a nova senha. Caso não receba a mensagem, confira seu endereço de e-mail cadastrado junto ao Responsável Legal da entidade ao qual você está vinculado.
 
 • **Servidores Governo de MG:** procurar o [Administrador Setorial do Órgão](https://sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/).
 

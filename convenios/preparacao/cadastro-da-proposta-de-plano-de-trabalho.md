@@ -6,7 +6,7 @@ A **Proposta de Plano de Trabalho** é o documento a ser apresentado à Administ
 Conforme art. 7º da Resolução Nº 004/2015, parágrafo único: **Não poderá preencher proposta de Plano de Trabalho o interessado que estiver inadimplente no Sistema Integrado da Administração Financeira – SIAFI-MG – ou apresentar irregularidade no Cadastro Geral de Convenentes – CAGEC** , salvo exceções previstas na Lei de Diretrizes Orçamentárias.
 {% endhint %}
 
-****
+
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/), clique no menu `"Convênios / Parcerias > Cadastrar Nova Proposta"`:
 
@@ -32,7 +32,7 @@ Caso não saiba o CNPJ, pesquise utilizando a **ferramenta de busca**<img src=".
 
 ![](<../../.gitbook/assets/manual\_convenentes\_proposta\_pesquisa\_concedente\_2 (2).jpg>)
 
-**5.** Note que o Convenente/OSC Parceira selecionada acima possui Status <mark style="color:red;">**IRREGULAR**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> no [CAGEC](https://www.portalcagec.mg.gov.br/), não sendo possível dar continuidade no processo:
+**5.** Note que o Convenente/OSC Parceira selecionada acima possui Status <mark style="color:red;">**IRREGULAR**</mark> no [CAGEC](https://www.portalcagec.mg.gov.br/), não sendo possível dar continuidade no processo:
 
 ![](<../../.gitbook/assets/image (319).png>)
 

@@ -16,7 +16,7 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 > **Passo-a-passo**
 >
-> 1. &#x20;**** Digite o código da escola
+> 1. &#x20;Digite o código da escola
 > 2. Clique em "Adicionar"
 
 #### Pesquisa de Código da Escola
@@ -27,7 +27,7 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 > **Passo-a-passo**
 >
-> 1. &#x20;**** Digite o nome da escola ou o município em que ela se localiza
+> 1. &#x20;Digite o nome da escola ou o município em que ela se localiza
 > 2. Clique em "Pesquisar"
 > 3. Selecione as escolas que serão beneficiárias
 > 4. Clique em "Confirmar"
@@ -38,7 +38,7 @@ A escolha da escola receberá os recursos é feita pelo preenchimento do código
 
 > **Passo-a-passo**
 >
-> 1. &#x20;**** Selecione o tipo de  aplicação.
+> 1. &#x20;Selecione o tipo de  aplicação.
 > 2. Preencha o valor da indicação
 > 3. Clique em “Enviar Indicações”
 

@@ -10,7 +10,7 @@
     * [Usuário Externo](geral/login-e-senha/cadastro-de-usuario/usuario-externo.md)
     * [Usuários Internos (Concedente / OEEP)](geral/login-e-senha/cadastro-de-usuario/usuarios-internos-concedente-oeep.md)
     * [Parlamentares](geral/login-e-senha/cadastro-de-usuario/parlamentares.md)
-  * [Liberação de Perfil](geral/login-e-senha/problemas-com-a-senha.md)
+  * [Liberação de Perfil](geral/login-e-senha/liberacao-perfil.md)
   * [Recuperar Login e Senha](login-e-senha/recuperar-login-senha-parlamentares.md)
 * [Emendas Parlamentares](emendas/README.md)
   * [O que são emendas?](geral/emendas/introducao.md)

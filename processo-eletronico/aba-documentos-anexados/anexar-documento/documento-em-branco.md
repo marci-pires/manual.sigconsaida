@@ -9,7 +9,7 @@
 <figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Caso você não encontre o Tipo **** de Documento que deseja, entre em contato com o Concedente que deseja propor ou encaminhar a proposta por e-mail para atendimento@sigconsaida.mg.gov.br.
+Caso você não encontre o Tipo de Documento que deseja, entre em contato com o Concedente que deseja propor ou encaminhar a proposta por e-mail para atendimento@sigconsaida.mg.gov.br.
 {% endhint %}
 
 **3.** Após o preenchimento dos campos obrigatórios clicar em `"Salvar"` e verifique se o sistema exibe a seguinte mensagem de sucesso:

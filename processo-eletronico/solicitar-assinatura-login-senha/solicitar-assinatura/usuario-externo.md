@@ -22,7 +22,7 @@ Mantenha seus dados sempre **atualizados**.
 
 **4.** Será necessário Anexar os documentos para completar a solicitação. Para cada um dos itens, siga as orientações:&#x20;
 
-1. Para <mark style="color:blue;">**baixar o documento**</mark> "Termo de Declaração de Concordância e veracidade", **clique no TEXTO SUBLINHADO** e salve o documento. Depois, **** imprima o termo, assine, digitalize e anexe o documento no ícone de pasta <img src="../../../.gitbook/assets/icone_pasta.png" alt="" data-size="original"> ;
+1. Para <mark style="color:blue;">**baixar o documento**</mark> "Termo de Declaração de Concordância e veracidade", **clique no TEXTO SUBLINHADO** e salve o documento. Depois, imprima o termo, assine, digitalize e anexe o documento no ícone de pasta <img src="../../../.gitbook/assets/icone_pasta.png" alt="" data-size="original"> ;
 2. Digitalize a **FRENTE** de um documento de identificação civil com CPF e anexe o documento no ícone pasta<img src="../../../.gitbook/assets/icone_pasta.png" alt="" data-size="original">;
 3. Digitalize o **VERSO** de um documento de identificação civil com CPF e anexe o documento no ícone de pasta<img src="../../../.gitbook/assets/icone_pasta.png" alt="" data-size="original">;
 4. Digitalize um comprovante de endereço e anexe o documento no ícone de pasta<img src="../../../.gitbook/assets/icone_pasta.png" alt="" data-size="original">;

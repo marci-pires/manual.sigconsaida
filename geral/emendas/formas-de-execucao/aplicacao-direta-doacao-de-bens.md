@@ -20,7 +20,7 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 > **Passo-a-passo**
 >
-> 1. &#x20;**** Preencher o CNPJ, a razão social ou o município do beneficiário para pesquisar
+> 1. &#x20;Preencher o CNPJ, a razão social ou o município do beneficiário para pesquisar
 > 2.  Clicar em “Pesquisar”
 >
 >     Selecione a caixinha com o ✅ para marcar o beneficiário de interesse

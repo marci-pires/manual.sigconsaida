@@ -18,7 +18,7 @@ Para acessar a lista dos administradores de segurança atualizada, clique [**aqu
 
 ## Representante Legal
 
-O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Legal](problemas-com-a-senha.md#representante-legal), tendo em vista que é o responsável pela gestão dos usuários. É fundamental que o Representante legal esteja com o cadastro **atualizado** no [Portal CAGEC](https://www.portalcagec.mg.gov.br/).&#x20;
+O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Legal](liberacao-perfil.md#representante-legal), tendo em vista que é o responsável pela gestão dos usuários. É fundamental que o Representante legal esteja com o cadastro **atualizado** no [Portal CAGEC](https://www.portalcagec.mg.gov.br/).&#x20;
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial:
 
@@ -71,5 +71,5 @@ O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x2
 {% hint style="warning" %}
 Caso não apareça na `"Lista de Solicitação de Assinatura com Usuário e Senha"`, saia do sistema e entre novamente.&#x20;
 
-Se ainda não aparecer, abra um atendimento e relate em: [**atendimento@sigconsaida.mg.gov.br** ](mailto:atendimento@sigconsaida.mg.gov.br)****
+Se ainda não aparecer, abra um atendimento e relate em: [**atendimento@sigconsaida.mg.gov.br** ](mailto:atendimento@sigconsaida.mg.gov.br)
 {% endhint %}

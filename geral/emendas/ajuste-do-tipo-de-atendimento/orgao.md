@@ -39,7 +39,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 ![](<../../../.gitbook/assets/image (220).png>)
 
-&#x20; ****  2. Pesquise a **proposta** ou **plano de trabalho**.
+&#x20; 2\. Pesquise a **proposta** ou **plano de trabalho**.
 
 ![Digite o nº da proposta ou plano desejado e clique em Pesquisar  ](<../../../.gitbook/assets/image (209).png>)
 

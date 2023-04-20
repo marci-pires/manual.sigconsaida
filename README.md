@@ -31,5 +31,5 @@ Atenciosamente,&#x20;
 Equipe de Atendimento [SIGCON Saída](https://sigconsaida.mg.gov.br/).
 
 {% hint style="info" %}
-Em caso de **dúvidas**, entre em contato com: **** [atendimento@sigconsaida.mg.gov.br](mailto:%20atendimento@sigconsaida.mg.gov.br)&#x20;
+Em caso de **dúvidas**, entre em contato com: [atendimento@sigconsaida.mg.gov.br](mailto:%20atendimento@sigconsaida.mg.gov.br)&#x20;
 {% endhint %}

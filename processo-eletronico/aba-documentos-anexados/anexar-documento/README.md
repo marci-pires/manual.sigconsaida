@@ -4,7 +4,7 @@
 
 **• Propostas** com status: "Validação da Proposta pelo Responsável Legal" - Anexar documentos pelo <mark style="color:blue;">**Checklist**</mark>;&#x20;
 
-**• Planos de Trabalho** com status: "Adequação, Análise Técnica, Análise Jurídica, Aguardando envio para a SEGOV" - **** Tanto "Convenente/OSC Parceira" como "Concedente/OSC Parceira" podem anexar os documentos, desde que permitido pelo concedente, no caso desta última.
+**• Planos de Trabalho** com status: "Adequação, Análise Técnica, Análise Jurídica, Aguardando envio para a SEGOV" - Tanto "Convenente/OSC Parceira" como "Concedente/OSC Parceira" podem anexar os documentos, desde que permitido pelo concedente, no caso desta última.
 
 {% hint style="info" %}
 Quando o órgão abrir uma diligência, é necessário enviar o Plano de Trabalho para "Adequação". Caso isso não seja realizado, **o Convenente não irá conseguir anexar os documentos** para regularização.&#x20;
@@ -20,7 +20,7 @@ A anexação de documentos a ser realizada pelo convenente deve ser executada, *
 
 ## Tamanho dos Arquivos
 
-O **** [SIGCON Saída](https://sigconsaida.mg.gov.br/) permite anexar arquivos de até **20MB** para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg .
+O [SIGCON Saída](https://sigconsaida.mg.gov.br/) permite anexar arquivos de até **20MB** para as extensões: .pdf, .cvs, .rtf, .xls .xlsx, .doc, .docx, .cvs, .txt, .png, .jpeg .
 
 {% hint style="info" %}
 No item 16 do Checklist "Projeto Básico ou Executivo", os arquivos **.dwg e semelhantes** podem ter até 40MB
