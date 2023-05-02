@@ -1,7 +1,7 @@
 # Incluir Documentos em Bloco de Assinatura
 
 {% hint style="danger" %}
-Para incluir um documento em um bloco de assinatura, é necessário CADASTRAR o bloco **anteriormente**. Acesse o tutorial correspondente clicando [aqui](cadastrar-novo-bloco.md).&#x20;
+Para incluir um documento em um bloco de assinatura, é necessário CADASTRAR o bloco **anteriormente**. Acesse o tutorial correspondente clicando [aqui](cadastrar-novo-bloco/).&#x20;
 {% endhint %}
 
 **1.** Para associar um documento a um bloco de assinatura, acesse o menu `"Convênios / Parcerias > Pesquisar Proposta / Plano de Trabalho / Convênio/Parceria"`:

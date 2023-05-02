@@ -8,11 +8,11 @@ A diferença entre o acesso com login e sem login é que o primeiro poderá real
 
 1. Para acessar a tela de login, o usuário poderá clicar em "Bloco de Assinaturas" na tela de abertura ou em "Login" no menu lateral:
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/image (52).png>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (52).png>)
 
-<mark style="color:red;"></mark>![](../../.gitbook/assets/image.png)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (2).png>)
 
 2. Em seguida, a tela de login será aberta, onde deverão ser inseridas as mesmas credenciais utilizadas na versão _web_ do sistema:
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.41.38.jpeg>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.41.38.jpeg>)
 

@@ -8,12 +8,12 @@ A funcionalidade de gerir os blocos está disponível **apenas para usuários in
 
 Utilize o menu ao lado esquerdo, ou clique no link desejado para acessar o tutorial da funcionalidade correspondente.
 
-{% content-ref url="cadastrar-novo-bloco.md" %}
-[cadastrar-novo-bloco.md](cadastrar-novo-bloco.md)
+{% content-ref url="cadastrar-novo-bloco/" %}
+[cadastrar-novo-bloco](cadastrar-novo-bloco/)
 {% endcontent-ref %}
 
-{% content-ref url="editar-bloco-existente.md" %}
-[editar-bloco-existente.md](editar-bloco-existente.md)
+{% content-ref url="cadastrar-novo-bloco/editar-bloco-existente.md" %}
+[editar-bloco-existente.md](cadastrar-novo-bloco/editar-bloco-existente.md)
 {% endcontent-ref %}
 
 {% content-ref url="incluir-documentos-em-bloco-de-assinatura.md" %}
