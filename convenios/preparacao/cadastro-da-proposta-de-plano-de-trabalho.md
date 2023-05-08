@@ -46,7 +46,7 @@ Poderá ser cadastrada uma Proposta de Plano de Trabalho mesmo que o Convenente 
 
 **6.** Após selecionar o CNPJ corretamente, complete as informações solicitadas:
 
-![](<../../.gitbook/assets/manual\_convenentes\_proposta\_identificacao (1).jpg>)
+<figure><img src="../../.gitbook/assets/identificação convenete.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **Vencimento do Mandato do Responsável Legal** e o **Cargo** não são dados obrigatórios e podem ser alterados após importados do [CAGEC](https://www.portalcagec.mg.gov.br/).
