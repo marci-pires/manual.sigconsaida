@@ -93,4 +93,4 @@ Enquanto a utilização dos rendimentos representa uma nova entrada de recursos 
 
 Portanto, na ampliação de metas, para discriminar os valores provenientes de uma economia realizada e os valores provenientes da aplicação financeira dos recursos, o valor da economia realizada deve ser subtraído do valor estimado inicialmente para as despesas previstas para a execução do objeto.
 
-![](<../../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (98) (1).png>)

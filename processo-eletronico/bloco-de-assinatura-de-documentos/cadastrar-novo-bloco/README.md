@@ -18,4 +18,4 @@ A seleção de **Ativo** ou **Inativo** serve para controle, caso o Bloco de Doc
 
 **3.** Após preencher todos campos corretamente, clique em `"Novo"`:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>

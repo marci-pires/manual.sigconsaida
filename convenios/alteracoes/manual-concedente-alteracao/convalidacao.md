@@ -16,7 +16,7 @@ A opção de convalidação só estará disponível se o convênio estiver venci
 * O campo "Data atual" exibe a data final da vigência do convênio, na qual tem o início o período de convalidação;
 * O valor preenchido pelo usuário no "nº Dias" é acrescido à "Data Atual" e o resultado dessa soma é exibido no campo "Data Final";
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após o preenchimento dos campos obrigatórios o usuário deve clicar em "Salvar".
 

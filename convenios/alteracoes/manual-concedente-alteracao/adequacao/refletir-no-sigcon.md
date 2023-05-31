@@ -52,4 +52,4 @@ Tabela de Conversão de Unidades
 
 **3.** A Adequação do Convênio mudará para o status **“VIGENTE”** e o processo será concluído:
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (82) (1).png>)
