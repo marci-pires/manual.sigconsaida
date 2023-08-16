@@ -14,9 +14,9 @@ description: >-
 
 Após definir o valor que será [sanado](saneamento.md) das indicações com impedimento de ordem técnica e o valor que será remanejado através do Remanejamento Constitucional, o parlamentar ainda deverá definir para quais dotações orçamentárias o remanejamento será realizado.&#x20;
 
-Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Solucionar Impedimento de Ordem Técnica > Remanejamento Constitucional`
+Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Escolha Saneamento ou Remanejamento Constitucional/Nova indicação > Remanejamento Constitucional`
 
-![](<../../.gitbook/assets/image (292) (1).png>)
+<figure><img src="https://lh4.googleusercontent.com/A2rwEo154-436m-_f6s7K7Ob9Z9f4zTlDSddRchPQHukRTr7Exr7qxa3V3fFhcrQCipo97psNFqKOLHWM310VugWR7FVPBuVTG4qX_z9xeTP51yYKANpVhwrOHhymLF10CEi9cjzMk2gKdQ1ixPmkPY" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **ATENÇÃO:** Nos termos do art. 160,§§ 4°e 18º, da Constituição do Estado de Minas Gerais, **50% das emendas parlamentares individuais** deverão ser destinados a ações e serviços públicos de **saúde** e para o tipo de classificação **Bloco / Bancada** devem ser destinados a ações e serviços públicos de **saúde** ou à **manutenção e ao desenvolvimento do ensino**.&#x20;

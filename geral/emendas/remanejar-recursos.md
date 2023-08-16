@@ -3,13 +3,13 @@
 \
 Os incisos disponíveis inicialmente para que os parlamentares realizem as indicações de recursos são aqueles definidos na LOA. A forma como os recursos estão alocados pode ser modificada durante o período de celebração no SIGCON-SAÍDA, e posteriormente as alterações realizadas por meio dos remanejamentos são formalizadas através de Decreto.
 
-&#x20;  **1.** A opção para remanejar os recursos de emenda parlamentar é acessada através do menu `Emendas > Gerenciar Indicações > Remanejamentos – Solicitação`, conforme a imagem abaixo:
+&#x20;  **1.** A opção para remanejar os recursos de emenda parlamentar é acessada através do menu `Emendas > Gerenciar Indicações > Solicitação de Remanejamento`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/0 (12).png>)
+<figure><img src="../../.gitbook/assets/Design sem nome (1).png" alt="" width="413"><figcaption></figcaption></figure>
 
 &#x20;  **2.** Na tela de solicitação de remanejamento de recursos são exibidas todas as unidades orçamentárias nas quais o parlamentar possui incisos vinculados.
 
-![](<../../.gitbook/assets/1 (20).png>)
+<figure><img src="../../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  **3.** Após selecionar uma unidade orçamentária, são exibidos os incisos relacionados àquela unidade orçamentária, o usuário deverá selecionar aquele do qual deseja transferir os recursos.
 
@@ -21,14 +21,17 @@ Os incisos disponíveis inicialmente para que os parlamentares realizem as indic
 
 > &#x20;Valor disponível para remanejamento = \[valor do inciso] - \[valores de remanejamento solicitados - valores que já foram indicados]
 
-**5.** Para solicitar um remanejamento, o usuário deve clicar na coluna no **ícone de edição**, na coluna `Ação`. \
+**5.** Para solicitar um remanejamento, o usuário deve clicar na coluna no **ícone de edição**, na coluna `Ação`.&#x20;
+
+<figure><img src="../../.gitbook/assets/LDO - Remanejamento GIf.gif" alt=""><figcaption></figcaption></figure>
+
 O sistema exibirá novamente os dados do inciso selecionado e os campos de solicitação do remanejamento.\
 \
 A tela de solicitação de remanejamento exibirá informações referentes aos valores disponíveis.
 
 Por fim, o usuário deverá preencher o valor que deseja remanejar, considerando o valor disponível.
 
-![](<../../.gitbook/assets/image (416) (1).png>)
+<figure><img src="../../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Os registros de remanejamentos salvos são exibidos na tabela “Lista de Solicitação de Remanejamento”, na parte inferior da tela.
 
@@ -40,7 +43,7 @@ Após a solicitação de remanejamento o saldo disponível para remanejamento do
 
 **7.** A solicitação de remanejamento possui o status de `Solicitado` no momento em que é registrada, e somente após a aprovação da SEGOV ela assume o status de `Aprovado`. Assim que a solicitação de remanejamento é salva, a SEGOV recebe um e-mail de alerta para que a solicitação do parlamentar seja aprovada, a fim de agilizar o processo de aprovação desse remanejamento.
 
-![O saldo disponível para remanejamento é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV](<../../.gitbook/assets/1 (18).png>)
+<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption><p>O saldo disponível para remanejamento é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV</p></figcaption></figure>
 
 {% hint style="danger" %}
 **REGRAS:**

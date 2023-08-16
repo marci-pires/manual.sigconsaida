@@ -20,7 +20,7 @@ Para realizar indicações no SIGCON-SAÍDA, é necessário entender os tipos de
 
 Para indicar os recursos de emenda parlamentar o usuário deve acessar o menu`Emendas > Gerenciar Indicações > Indicação de Recursos`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/image (439).png>)
+<figure><img src="../../.gitbook/assets/Indicação de Recursos - 1.PNG" alt=""><figcaption></figcaption></figure>
 
 No menu de indicação de recursos são exibidos os incisos do parlamentar, assim como as informações relativas à **unidade orçamentária**, à **ação**, ao **grupo de despesa** e aos **valores disponíveis** para indicação.&#x20;
 
@@ -28,7 +28,7 @@ No menu de indicação de recursos são exibidos os incisos do parlamentar, assi
 
 **1.** A busca pode ser feita pelo nome do responsável (**1**), pelo n**º** do inciso ou nº da indicação (**2**).
 
-![](<../../.gitbook/assets/image (423) (1).png>)
+<figure><img src="../../.gitbook/assets/Indicação de Recursos - 3 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **2.** Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
 
@@ -44,11 +44,13 @@ Se o parlamentar for o responsável pelo Bloco na tabela de resultados serão mo
 
 
 
-**1.** O botão de “EXPANDIR INCISO” <img src="../../.gitbook/assets/icone_expandir.jpg" alt="" data-size="original"> exibe as indicações realizadas naquele inciso:
+**1.** O botão de “EXPANDIR INCISO” ![](<../../.gitbook/assets/image (567).png>) exibe as indicações realizadas naquele inciso:
 
-**2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis <img src="../../.gitbook/assets/icone_lapis.jpg" alt="" data-size="original"> na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
+**2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](<../../.gitbook/assets/image (568).png>)na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
 
-![](<../../.gitbook/assets/11 (1).png>)
+
+
+<figure><img src="../../.gitbook/assets/Design sem nome.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As **formas de execução** que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso
@@ -64,11 +66,7 @@ Formas de Execução:&#x20;
 * **Transferência Especial**
 * **Celebração de Outros Instrumentos Jurídicos**
 
-**3.** Como exemplo, após clicar em editar <img src="../../.gitbook/assets/icone_lapis.jpg" alt="" data-size="original">&#x20;
-
-![](<../../.gitbook/assets/12 (1).png>)
-
-**4.** A seguinte tela aparece com as opções permitidas para o inciso S745
+**3.** Como exemplo, após clicar em indicar ![](<../../.gitbook/assets/image (568).png>), a seguinte tela aparece com as opções permitidas para o inciso em questão.
 
 ![](<../../.gitbook/assets/image (414) (1).png>)
 

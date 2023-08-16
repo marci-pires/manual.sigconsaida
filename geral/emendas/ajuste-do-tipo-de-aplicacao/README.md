@@ -23,7 +23,7 @@ Posteriormente, o órgão ou entidade gestora e a SCGI/SEGOV deverão realizar n
 Aprovada a indicação com o novo tipo de aplicação, ela deve ser novamente vinculada no instrumento (se for o caso). Válido para indicações do tipo **Resolução** ou **Caixa Escolar**.
 
 {% hint style="warning" %}
-**Conforme art. 1º, inciso IV, da Lei nº 23.648/2020, e art. 16, § 1º,  inciso** **II da Resolução SEGOV nº 001/2021 , o prazo para a realização de ajuste de categoria e especificação de tipo de atendimento de indicações no SIGCON para Celebração de Convênio/Parceria** de emendas parlamentares impositivas, inclusive indicações Covid-19, termina dia 15/06/2021.
+**O prazo para a realização de ajuste de categoria e especificação de tipo de atendimento de indicações no SIGCON para Celebração de Convênio/Parceria** de emendas parlamentares impositivas são anualmente especificadas na Lei de Diretrizes Orçamentárias e Resolução SEGOV referente ao ano de exercício.
 {% endhint %}
 
 O ajuste permite a mudança do tipo de aplicação de indicações aprovadas para os instrumentos supracitados desde que mantido o grupo de despesas, a ação orçamentária e o beneficiário. Essa mudança permite compatibilizar a indicação com a documentação entregue. \

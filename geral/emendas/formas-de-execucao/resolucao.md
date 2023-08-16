@@ -12,7 +12,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **2.** A escolha de quem receberá os recursos é feita através da seleção de beneficiários:
 
-![](<../../../.gitbook/assets/image (198) (1).png>)
+<figure><img src="../../../.gitbook/assets/Resolução SES - Parte 1 GIF.gif" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >
@@ -24,7 +24,7 @@ A indicação do tipo “Resolução” consiste na transferência de recursos d
 
 **3.** Os beneficiários adicionados são exibidos na tabela de “Entrada”, na qual devem ser preenchidas as informações relativas à finalidade na qual os recursos serão aplicados e o montante que será indicado para isso.
 
-![](<../../../.gitbook/assets/image (186) (1).png>)
+<figure><img src="../../../.gitbook/assets/Resolução SES - 2 GIF.png" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >

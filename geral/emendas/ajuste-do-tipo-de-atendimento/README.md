@@ -23,7 +23,7 @@ Posteriormente, o órgão ou entidade gestora e a SCGI deverão realizar nova ap
 Aprovada a indicação com o novo tipo de atendimento, ela deve ser novamente vinculada no plano de trabalho.
 
 {% hint style="warning" %}
-**Conforme art. 1º, inciso IV, da Lei nº 23.648/2020, e art. 16, § 1º,  inciso** **I da Resolução SEGOV nº 001/2021 , o prazo para a realização de ajuste de categoria e especificação de tipo de atendimento de indicações no SIGCON para Celebração de Convênio/Parceria** de emendas parlamentares impositivas, inclusive indicações Covid-19, termina dia 15/06/2021.
+**O prazo para a realização de ajuste de categoria e especificação de tipo de atendimento de indicações no SIGCON para Celebração de Convênio/Parceria** de emendas parlamentares impositivas são anualmente especificadas na Lei de Diretrizes Orçamentárias e Resolução SEGOV referente ao ano de exercício.
 {% endhint %}
 
 O ajuste permite a mudança da categoria e da especificação do tipo de atendimento de indicações aprovadas para Celebração de Convênios/Parcerias, desde que mantido o grupo de despesas, a ação orçamentária e o beneficiário. Essa mudança permite compatibilizar a indicação com a documentação entregue. \

@@ -47,7 +47,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 ![](<../../../.gitbook/assets/image (217).png>)
 
-4\. No plano de trabalho expande a Aba "Caracterização da Proposta " e localize as indicações vinculadas e clique no botão `Expandir`,  conforme imagem abaixo.
+4\. No plano de trabalho expande a Aba "Informações Gerais " e localize as indicações vinculadas e clique no botão `Expandir`,  conforme imagem abaixo.
 
 ![](<../../../.gitbook/assets/image (203) (1).png>)
 

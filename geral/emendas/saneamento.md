@@ -16,9 +16,9 @@ description: Procedimento para superação de impedimento de ordem técnica.
 
 Após o envio das justificativas dos impedimentos de ordem técnica pelo Poder Executivo, o Poder Legislativo deverá indicar as propostas saneadoras para os impedimentos identificados ou solicitar o remanejamento constitucional dos recursos, nos termos do art. 141, §3º, do Ato de Disposições Constitucionais Transitórias (ADCT) e conforme regulamentado pelos arts. 16 a 23 da Resolução Segov nº 743/2020.&#x20;
 
-Ao optar pelo saneamento, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas > Solucionar Impedimentos de Ordem Técnica > Saneamento”.
+Ao optar pelo saneamento, os parlamentares deverão acessar o SIGCON-SAÍDA no menu “Emendas > Escolha Saneamento ou Remanejamento Constitucional/Nova Indicação > Saneamento”.
 
-![](<../../.gitbook/assets/image (267) (1).png>)
+<figure><img src="https://lh4.googleusercontent.com/JooDWWsUW1Ah1mrAG1GbgTZsQqT5tz6wk_YjFMGst_EqKUjwtKfHOlY6h1badife_43lsI0NdR_RMN5qiP118bi2eZEpY-W-PMjbQfPA3F4EhmhYZ7Bg1GH1IBeifNXq0cctk90zHVF-VjtiAB66Yuc" alt=""><figcaption></figcaption></figure>
 
 Na próxima tela será exibido o saldo de impedimento de ordem técnica que o usuário possui para indicar o saneamento ou remanejamento constitucional, bem como as informações por inciso.  O saldo com Impedimento de Ordem Técnica diminui à medida em que o usuário realiza as propostas saneadoras ou indica que fará o remanejamento constitucional.
 

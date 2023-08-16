@@ -10,15 +10,15 @@ O cancelamento da indicação pode ser acessado a partir do menu “Emendas” >
 A busca pode ser feita pelo nome do responsável (_1, no lado esquerdo da tela_), por número do inciso ou número da indicação (_2, canto direto da tela_) &#x20;
 {% endhint %}
 
-![Relação de Inciso do Parlamentar](<../../.gitbook/assets/manual\_parlamentares\_indicacao\_tela-de-indicacao (1).jpg>)
+<figure><img src="../../.gitbook/assets/1 (26).png" alt=""><figcaption><p>Relação de Inciso do Parlamentar</p></figcaption></figure>
 
-### **Clique no ícone** <img src="../../.gitbook/assets/icone_expandir.jpg" alt="" data-size="line"> **em expandir inciso**&#x20;
+### **Clique no ícone** ![](<../../.gitbook/assets/image (561).png>) **em expandir inciso**&#x20;
 
 {% hint style="info" %}
 Na próxima tela serão exibidas todas as indicações para o inciso selecionado.
 {% endhint %}
 
-![](../../.gitbook/assets/cancelar\_indicacao.png)
+<figure><img src="../../.gitbook/assets/Cancelar Indicação.png" alt=""><figcaption></figcaption></figure>
 
 Para cancelar um indicação clica no botão "Cancelar Indicação(ões)" e insira a justificativa conforme imagem abaixo.
 
