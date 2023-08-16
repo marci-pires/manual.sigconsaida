@@ -4,7 +4,7 @@ O aplicativo também permite que o usuário selecione mais de um documento para 
 
 1.  Para selecionar mais de um documento, clique no símbolo de três barras horizontais no canto superior direito do aplicativo:
 
-    ![](<../../../.gitbook/assets/image (12).png>)
+    ![](<../../../.gitbook/assets/image (12) (2).png>)
 2.  Logo abaixo, uma barra cinza aparecerá e clique no "checkbox" no canto superior esquerdo da barra para que os documentos apresentem a opção de seleção:
 
     ![](<../../../.gitbook/assets/image (53).png>)

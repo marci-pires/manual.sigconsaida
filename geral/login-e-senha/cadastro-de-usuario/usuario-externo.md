@@ -28,7 +28,7 @@ PARA SEGUIR COM A INCLUSÃO DO USUÁRIO EXTERNO O [REPRESENTANTE LEGAL](broken-r
 Para usuários externos do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **7.** O link para criação de senha só é enviado ao usuário externo após a aprovação do responsável legal. Assim que receber o link, basta clicar para acessar o sistema:
 

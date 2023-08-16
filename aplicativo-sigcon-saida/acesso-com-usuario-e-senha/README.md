@@ -10,7 +10,7 @@ A diferença entre o acesso com login e sem login é que o primeiro poderá real
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 2. Em seguida, a tela de login será aberta, onde deverão ser inseridas as mesmas credenciais utilizadas na versão _web_ do sistema:
 

@@ -6,7 +6,7 @@ description: >-
 
 # Processo de Assinatura do Concedente/OEEP
 
-<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Clicar em - Assinar Convênio/Parceria - Concedente/OEEP
 

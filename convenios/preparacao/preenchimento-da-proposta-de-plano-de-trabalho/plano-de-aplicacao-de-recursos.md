@@ -34,7 +34,7 @@ Vincular uma etapa no item é **fundamental e obrigatório** para deixar evident
 
 **4.** Na coluna **"Equipe de Trabalho"**, só marque a caixinha se houver contratação de uma equipe com o custo pelo convente:
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Agora é possível salvar o plano de aplicação de recursos de maneira intermediária clicando em "Salvar Rascunho"
@@ -48,5 +48,5 @@ Agora é possível salvar o plano de aplicação de recursos de maneira intermed
 
 **7.** Os arquivos anexados aparecerão na **"Lista de Anexos"**. Na coluna "Ação", clique no `ícone de LUPA` para visualizar. Para excluir, clique no `ícone de "X"`
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 

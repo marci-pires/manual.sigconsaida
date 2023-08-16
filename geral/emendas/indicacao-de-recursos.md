@@ -44,9 +44,9 @@ Se o parlamentar for o responsável pelo Bloco na tabela de resultados serão mo
 
 
 
-**1.** O botão de “EXPANDIR INCISO” ![](<../../.gitbook/assets/image (567).png>) exibe as indicações realizadas naquele inciso:
+**1.** O botão de “EXPANDIR INCISO” ![](<../../.gitbook/assets/image (554).png>) exibe as indicações realizadas naquele inciso:
 
-**2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](<../../.gitbook/assets/image (568).png>)na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
+**2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](<../../.gitbook/assets/image (555).png>)na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
 
 
 
@@ -66,7 +66,7 @@ Formas de Execução:&#x20;
 * **Transferência Especial**
 * **Celebração de Outros Instrumentos Jurídicos**
 
-**3.** Como exemplo, após clicar em indicar ![](<../../.gitbook/assets/image (568).png>), a seguinte tela aparece com as opções permitidas para o inciso em questão.
+**3.** Como exemplo, após clicar em indicar ![](<../../.gitbook/assets/image (555).png>), a seguinte tela aparece com as opções permitidas para o inciso em questão.
 
 ![](<../../.gitbook/assets/image (414) (1).png>)
 

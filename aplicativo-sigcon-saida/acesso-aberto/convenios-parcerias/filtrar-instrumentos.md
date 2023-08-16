@@ -4,15 +4,15 @@ A funcionalidade de filtro em "Convênios e Parcerias" permite a inserção de v
 
 1. Para filtrar o(s) instrumento(s) desejado(s), clicar no símbolo de três pontos verticais posicionado no canto superior direito do aplicativo:
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (2).png>)
 
 2. Em seguida clicar em "Filtrar":
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (3).png>)
 
 3. Após clicar em "Filtrar", irá abrir uma tela com diversas opções de filtro para seleção dos instrumentos:
 
-<mark style="color:red;"></mark>![](<../../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.24.35.jpeg>)<mark style="color:red;"></mark>
+![](<../../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.24.35.jpeg>)
 
 4. Caso o usuário deseje excluir as informações inseridas no filtro e começar uma nova inserção, basta clicar na lixeira no canto superior direito da tela para apagar o conteúdo:
 

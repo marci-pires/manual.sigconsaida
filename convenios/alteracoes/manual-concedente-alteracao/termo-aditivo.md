@@ -78,7 +78,7 @@ Para que as alteração do Convênio sejam enviadas para o Órgão Concedente, �
 
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Escolher o tipo de assinatura - Clicar em Assinar
 

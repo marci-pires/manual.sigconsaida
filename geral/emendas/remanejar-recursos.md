@@ -9,7 +9,7 @@ Os incisos disponíveis inicialmente para que os parlamentares realizem as indic
 
 &#x20;  **2.** Na tela de solicitação de remanejamento de recursos são exibidas todas as unidades orçamentárias nas quais o parlamentar possui incisos vinculados.
 
-<figure><img src="../../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  **3.** Após selecionar uma unidade orçamentária, são exibidos os incisos relacionados àquela unidade orçamentária, o usuário deverá selecionar aquele do qual deseja transferir os recursos.
 
@@ -31,7 +31,7 @@ A tela de solicitação de remanejamento exibirá informações referentes aos v
 
 Por fim, o usuário deverá preencher o valor que deseja remanejar, considerando o valor disponível.
 
-<figure><img src="../../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Os registros de remanejamentos salvos são exibidos na tabela “Lista de Solicitação de Remanejamento”, na parte inferior da tela.
 
@@ -43,7 +43,7 @@ Após a solicitação de remanejamento o saldo disponível para remanejamento do
 
 **7.** A solicitação de remanejamento possui o status de `Solicitado` no momento em que é registrada, e somente após a aprovação da SEGOV ela assume o status de `Aprovado`. Assim que a solicitação de remanejamento é salva, a SEGOV recebe um e-mail de alerta para que a solicitação do parlamentar seja aprovada, a fim de agilizar o processo de aprovação desse remanejamento.
 
-<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption><p>O saldo disponível para remanejamento é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>O saldo disponível para remanejamento é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV</p></figcaption></figure>
 
 {% hint style="danger" %}
 **REGRAS:**

@@ -25,7 +25,7 @@ description: >-
 \
 `Emendas > Gerenciar Indicações > Controle de Execução`, conforme a imagem abaixo:
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (1).png>)
 
 #### **Nessa tela basta escolher o filtro para pesquisa e clicar no botão `Pesquisar`.**
 
