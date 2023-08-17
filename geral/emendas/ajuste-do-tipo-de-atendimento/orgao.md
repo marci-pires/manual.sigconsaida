@@ -23,9 +23,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 &#x20; **2.** Na próxima tela você vai selecionar a indicação desejada e clicar no botão `Retornar Indicação(ões) para Ajuste Parlamentar`.
 
-![](<../../../.gitbook/assets/image (199) (1).png>)
-
-![](<../../../.gitbook/assets/image (195) (1).png>)
+<figure><img src="../../../.gitbook/assets/Selecione a Indicação (1).gif" alt=""><figcaption><p>Tela de Aprovação de Indicação</p></figcaption></figure>
 
 **3.** Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo:
 

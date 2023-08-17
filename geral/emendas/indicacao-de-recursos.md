@@ -28,7 +28,7 @@ No menu de indicação de recursos são exibidos os incisos do parlamentar, assi
 
 **1.** A busca pode ser feita pelo nome do responsável (**1**), pelo n**º** do inciso ou nº da indicação (**2**).
 
-<figure><img src="../../.gitbook/assets/Indicação de Recursos - 3 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Utilize os campos de pesquisa para agilizar a busca por um determinado inciso
 
@@ -48,9 +48,7 @@ Se o parlamentar for o responsável pelo Bloco na tabela de resultados serão mo
 
 **2.** Para indicar os recursos, o usuário deve clicar sobre o ícone do lápis ![](<../../.gitbook/assets/image (555).png>)na coluna `INDICAR`, no canto direito da tabela de incisos.&#x20;
 
-
-
-<figure><img src="../../.gitbook/assets/Design sem nome.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Indicação de Recurso (1).gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As **formas de execução** que estarão disponíveis no inciso irão depender da **unidade orçamentária**, **ação** e **grupo de despesa** daquele inciso

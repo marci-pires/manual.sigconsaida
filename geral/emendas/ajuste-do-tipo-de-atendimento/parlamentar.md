@@ -16,7 +16,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
 
-![](<../../../.gitbook/assets/image (227) (1).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste Parlamentar - 1.png" alt=""><figcaption></figcaption></figure>
 
 > Na tela de indicações do inciso, a indicação será exibida com o status `Aguardando Ajuste Parlamentar`.
 

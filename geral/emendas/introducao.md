@@ -12,7 +12,7 @@ A Constituição Estadual, por meio das Emendas Constitucionais nºs 96/2018, 10
 
 ### Para o exercício de 2023, ressalta-se:
 
-*  A [Emenda à Constituição nº 112 de 24/04/2023](https://www.almg.gov.br/legislacao-mineira/EMC/112/2023/) estabeleceu o **limite de 1,5% da Receita Corrente Líquida (RCL)** para a **aprovação de emendas individuais** para o exercício de 2024, sendo que **50%** (cinquenta por cento) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
+*  A [Emenda à Constituição nº 96 de 26/07/2018](https://www.almg.gov.br/legislacao-mineira/texto/EMC/96/2018/) estabeleceu o **limite de 1% da Receita Corrente Líquida (RCL)** para a **aprovação de emendas individuais** para o exercício de 2024, sendo que **50%** (cinquenta por cento) desse limite percentual deve ser destinado a ações e serviços públicos de saúde;
 * O [Ato das Disposições Constitucionais Transitórias (ADCT)](https://www.almg.gov.br/legislacao-mineira/texto/EMC/96/2018/) estabelece o **limite de 0,0041% da Receita Corrente Liquida** para a **aprovação de emendas de blocos e bancadas**, por deputado integrante do bloco ou da bancada, sendo **no mínimo 50%** (cinquenta por cento) desse percentual destinado a ações e serviços públicos de saúde ou à manutenção e ao desenvolvimento do ensino;
 * **É vedado** o cômputo de qualquer percentual de restos a pagar das programações orçamentárias para o cumprimento da execução orçamentária e financeira das emendas individuais;
 * Para emendas de **bloco ou bancada**, poderão ser consideradas, para o cômputo da execução orçamentária, as despesas inscritas em restos a pagar relativas às emendas de aplicação direta, até o limite de 50% (cinquenta por cento) do valor dessas emendas;
