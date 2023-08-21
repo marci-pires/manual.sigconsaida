@@ -13,7 +13,7 @@ Os incisos disponíveis inicialmente para que os parlamentares realizem as indic
 
 &#x20;  **3.** Após selecionar uma unidade orçamentária, são exibidos os incisos relacionados àquela unidade orçamentária, o usuário deverá selecionar aquele do qual deseja transferir os recursos.
 
-![A letra “S” indica que o inciso foi previsto inicialmente na LOA, enquanto que a letra “R” indica que o inciso é resultante do remanejamento de recursos de outro inciso.](<../../.gitbook/assets/2 (14).png>)
+<figure><img src="../../.gitbook/assets/Remanejamento Print 3.PNG" alt=""><figcaption><p>A letra “S” indica que o inciso foi previsto inicialmente na LOA, enquanto que a letra “R” indica que o inciso é resultante do remanejamento de recursos de outro inciso</p></figcaption></figure>
 
 **4.** Após selecionar uma Unidade Orçamentária são exibidos os incisos que o parlamentar possui naquela UO, assim como as respectivas informações do número da emenda ao qual cada inciso está relacionado, o valor do inciso, o valor inicial do inciso, e o valor do inciso disponível para remanejamento. Nos casos em que o número do inciso é precedido pela letra “S”, o valor inicial do inciso é o valor do inciso previsto inicialmente na LOA, já nos casos em que o número do inciso é precedido pela letra “R”, o valor inicial do inciso é o valor que foi remanejado de outro inciso.&#x20;
 
@@ -33,17 +33,15 @@ Por fim, o usuário deverá preencher o valor que deseja remanejar, considerando
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-**6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Os registros de remanejamentos salvos são exibidos na tabela “Lista de Solicitação de Remanejamento”, na parte inferior da tela.
+**6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Em seguida, será aberta uma tela para o parlamentar validar e confirmar os dados do remanejamento. Caso o parlamentar deseje especificar o objeto ou beneficiário ele deverá preencher o campo de "Detalhamento" com a especificação pretendida.
 
-Na tabela “Lista de Solicitação de Remanejamento” são exibidas as solicitações de remanejamento dos recursos com o valor e o status de cada uma. As demais informações podem ser consultadas clicando-se sobre o botão visualizar. Caso o parlamentar deseje consultar as informações sobre todas as suas solicitações de remanejamento, elas estarão disponíveis no relatório `Remanejamento de Incisos`. Acesse por: `Menu Emendas > Relatórios > Remanejamento de Incisos`
+<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (568).png" alt=""><figcaption><p>Tela de Validação de Remanejamento</p></figcaption></figure>
 
 {% hint style="danger" %}
-Após a solicitação de remanejamento o saldo disponível para remanejamento do inciso é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV. **Caso a solicitação seja reprovada pela SEGOV, o valor da solicitação de remanejamento é estornado para o saldo disponível para remanejamento.**
+Após a solicitação de remanejamento o saldo disponível para remanejamento do inciso é automaticamente deduzido, o próprio sistema já faz as validações de aprovação ou reprovação do remanejamento e debita do saldo.&#x20;
 {% endhint %}
-
-**7.** A solicitação de remanejamento possui o status de `Solicitado` no momento em que é registrada, e somente após a aprovação da SEGOV ela assume o status de `Aprovado`. Assim que a solicitação de remanejamento é salva, a SEGOV recebe um e-mail de alerta para que a solicitação do parlamentar seja aprovada, a fim de agilizar o processo de aprovação desse remanejamento.
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>O saldo disponível para remanejamento é deduzido, mesmo que a solicitação ainda não tenha sido aprovada pela SEGOV</p></figcaption></figure>
 
 {% hint style="danger" %}
 **REGRAS:**

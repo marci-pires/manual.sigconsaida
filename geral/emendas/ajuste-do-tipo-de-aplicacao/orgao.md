@@ -1,7 +1,5 @@
 # Órgão
 
-
-
 {% hint style="info" %}
 **Precondição**
 
@@ -21,17 +19,21 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 &#x20; **2.** Na próxima tela você vai selecionar a indicação desejada e clicar no botão `Retornar Indicação(ões) para Ajuste Parlamentar`.
 
-![](<../../../.gitbook/assets/image (421) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Ajuste de tipo de Aplicação Órgão print 1.png" alt=""><figcaption></figcaption></figure>
 
 **3.** Na próxima tela o campo **Justificativa** precisa ser preenchido conforme imagem abaixo:
 
-![](<../../../.gitbook/assets/image (432).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste de tipo de Aplicação Órgão print 2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **4.** As indicações retornadas para ajuste do tipo de atendimento os status passará  a  **"Aguardando Ajuste Parlamentar"**&#x20;
 
 {% hint style="danger" %}
 **ATENÇÃO:**
 
-Para retorno de indicação do tipo **RESOLUÇÃO,** a mesma não pode estar vinculada ao beneficiário na tela de cadastro de resolução e nem ter sido enviada para o SIAFI.
+Para retorno de indicação do tipo **RESOLUÇÃO**, a mesma não pode estar vinculada ao beneficiário na tela de cadastro de resolução e nem ter sido enviada para o SIAFI.
+
+Para retorno de indicação do tipo **CAIXA ESCOLAR**, a mesma não pode ter sido enviada para a SEE.
 {% endhint %}
 

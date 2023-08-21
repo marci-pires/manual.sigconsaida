@@ -25,7 +25,7 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 <figure><img src="../../../.gitbook/assets/Selecione a Indicação (1).gif" alt=""><figcaption><p>Tela de Aprovação de Indicação</p></figcaption></figure>
 
-**3.** Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo:
+**3.** Na próxima tela o campo justificativa precisa ser preenchido conforme imagem abaixo e devidamente confirmado:
 
 ![](<../../../.gitbook/assets/image (196) (1).png>)
 
@@ -39,23 +39,23 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 &#x20; 2\. Pesquise a **proposta** ou **plano de trabalho**.
 
-![Digite o nº da proposta ou plano desejado e clique em Pesquisar  ](<../../../.gitbook/assets/image (209).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste Órgão parte 2 print 2.png" alt=""><figcaption></figcaption></figure>
 
 3\.  Clique sobre o nº da proposta ou do plano de trabalho para abri-lo:
 
-![](<../../../.gitbook/assets/image (217).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste Órgão parte 2 print 3.png" alt=""><figcaption></figcaption></figure>
 
 4\. No plano de trabalho expande a Aba "Informações Gerais " e localize as indicações vinculadas e clique no botão `Expandir`,  conforme imagem abaixo.
 
-![](<../../../.gitbook/assets/image (203) (1).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste do tipo de atendimento Parte 2 Print 4 (1).gif" alt=""><figcaption></figcaption></figure>
 
-5\.  Na próxima tela clique no botão <img src="../../../.gitbook/assets/lixeira.png" alt="" data-size="line"> conforme imagem abaixo:
+5\.  Na próxima tela clique no botão ![](<../../../.gitbook/assets/image (558).png>) conforme imagem abaixo:
 
-![](<../../../.gitbook/assets/image (430) (1).png>)
+<figure><img src="../../../.gitbook/assets/Aprovação Órgão - Parte 2 print 5.png" alt=""><figcaption></figcaption></figure>
 
 6\. Caso queira, retorne à tela de vinculação/desvinculação e verifique a indicação foi desvinculada:
 
-![](<../../../.gitbook/assets/image (438).png>)
+<figure><img src="../../../.gitbook/assets/Aprovação Órgão - Parte 2 print 6 (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. A indicação desvinculada e estará disponível para ser retornada para ajuste do tipo de atendimento.
 
@@ -66,7 +66,5 @@ A partir das Emendas 2021, é possível o **retorno pelo órgão** de indicaçõ
 {% endhint %}
 
 {% hint style="info" %}
-**Prazo para ajuste de Tipo de Atendimento Completo (Gênero - Categoria - Especificação): `02/02/2021 à 30/04/2021`**
-
-**Prazo para ajuste de Categoria e Especificação (sem alterar grupo de despesas): `02/02/2021 à 15/06/2021`**
+Prazo para ajuste de Tipo de Atendimento Completo (Gênero - Categoria - Especificação) e o Prazo para ajuste de Categoria e Especificação (sem alterar grupo de despesas) são especificados na LDO e Resolução SEGOV do ano corrente.
 {% endhint %}

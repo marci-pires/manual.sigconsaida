@@ -12,9 +12,9 @@ Sempre que uma indicação é retornada pelo Órgão para ajuste, o status dela 
 
 ![](../../../.gitbook/assets/indicar\_recursos.png)
 
-**2.** Em seguida, o usuário deverá localizar a indicação que foi retornada para ajuste através do inciso, clicando sobre o ícone na coluna “Expandir Inciso”, ou pelos campos de busca disponíveis:
+**2.** Em seguida, o usuário deverá localizar a indicação que foi retornada para ajuste através do inciso, clicando sobre o ícone na coluna “Expandir Inciso” , ou pelos campos de busca disponíveis:
 
-Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada.
+Os campos de pesquisa do inciso e da indicação podem facilitar a localização da indicação que deve ser ajustada. Após a indicação ser devidamente localizada, clique no ícone ![](<../../../.gitbook/assets/image (560).png>).
 
 <figure><img src="../../../.gitbook/assets/Ajuste Parlamentar - 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,13 +22,15 @@ Os campos de pesquisa do inciso e da indicação podem facilitar a localização
 
 **3.** O status da indicação fica realçado quando ela for retornada para ajustes. Ao clicar sobre o status dela é possível visualizar a justificativa de retorno para ajuste inserida pelo Órgão:
 
-![](../../../.gitbook/assets/visualizar\_justificativa\_tipo.png)
+<figure><img src="../../../.gitbook/assets/Ajuste Parlamentar 2.png" alt=""><figcaption></figcaption></figure>
 
-**4.** Ao clicar sobre o ícone “Editar” é exibida uma janela para alteração do tipo de atendimento.
+**4.** Clique no ícone "editar" ![](<../../../.gitbook/assets/image (561).png>)para fazer as devidas alterações na indicação retornada para ajustes.
 
-![](<../../../.gitbook/assets/image (202) (1).png>)
+<figure><img src="../../../.gitbook/assets/Ajuste Parlamentar 3.png" alt=""><figcaption></figcaption></figure>
 
+**5.** Após clicar no ícone "editar" é exibida uma janela para alteração do tipo de atendimento.
 
+<figure><img src="../../../.gitbook/assets/Ajuste Parlamentar 4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Após a alteração do tipo de atendimento é só clicar em **“Enviar para Aprovação do Órgão”.**
@@ -39,7 +41,5 @@ Após o ajuste da indicação é necessário que o órgão para qual ela foi ind
 {% endhint %}
 
 {% hint style="danger" %}
-**Prazo para ajuste de Tipo de Atendimento Completo (Gênero - Categoria - Especificação): `02/02/2021 à 30/04/2021`**
-
-**Prazo para ajuste de Categoria e Especificação (sem alterar grupo de despesas): `02/02/2021 à 15/06/2021`**
+Prazo para ajuste de Tipo de Atendimento Completo (Gênero - Categoria - Especificação) e o Prazo para ajuste de Categoria e Especificação (sem alterar grupo de despesas) são especificados na LDO e Resolução SEGOV do ano corrente.
 {% endhint %}
