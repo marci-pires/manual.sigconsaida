@@ -12,16 +12,16 @@ description: >-
    \
    `Emendas > Gerenciar Indicações > Gerenciar Diligências`, conforme a imagem abaixo:
 
-![](<../../../.gitbook/assets/image (171).png>)
+<figure><img src="../../../.gitbook/assets/Diligência - Parlamentar 1.png" alt=""><figcaption></figcaption></figure>
 
-2\.  Na próxima tela será listada todas as diligencias informadas para o parlamentar para fins de visualização&#x20;
+2\.  Na próxima tela será listada todas as diligencias informadas para o parlamentar para fins de visualização e o usuário pode utilizar dos filtros para pesquisar uma diligência especifica:
 
-![](<../../../.gitbook/assets/image (133).png>)
+<figure><img src="../../../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
 
 3\. Visualizar a justificativa da diligência recebida
 
 {% hint style="info" %}
-Para visualizar a justificativa da diligência clica no link "Abrir diligência" conforme imagem abaixo:
+Para visualizar a justificativa da diligência clica no botão "Abrir justificativa" conforme imagem abaixo:
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (169) (1).png>)
+<figure><img src="../../../.gitbook/assets/Diligência - Parlamentar 3.png" alt=""><figcaption></figcaption></figure>

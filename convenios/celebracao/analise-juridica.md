@@ -8,7 +8,7 @@ Necessário que o usuário tenha perfil de `ANÁLISTA JURÍDICO`
 
 Após manifestação da área técnica, o processo deve ser submetido à área jurídica, que elaborará parecer acerca da constitucionalidade, legalidade e juridicidade da celebração do convênio e sobre a minuta do instrumento que deverá ser inserida no SIGCON Saída.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (41) (2).png" alt=""><figcaption></figcaption></figure>
 

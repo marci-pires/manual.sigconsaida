@@ -2,6 +2,8 @@
 
 A indicação de recursos do tipo `Celebração de Convênio/Parceria MROSC` resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado (que repassará os recursos indicados pelo parlamentar) e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação (que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada).
 
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 1\. A indicação de recursos para a celebração de outros instrumentos jurídicos é realizada em três etapas:
 
 1. **Como** os recursos serão utilizados
@@ -16,7 +18,7 @@ A definição de como os recursos serão utilizados é feita através do preench
 
 Se o grupo de despesa do inciso for **Investimentos**, não será possível selecionar a combinação de gênero e categoria como “AQUISIÇÃO DE BENS – Consumo”, pois essa classificação configura uma despesa de custeio.
 
-![](../../../.gitbook/assets/manual\_parlamentares\_indicacao\_inciso.jpg)
+<figure><img src="../../../.gitbook/assets/Celebração de Convênios - 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **As opções disponíveis na escolha do tipo de atendimento variam conforme o grupo de despesa do inciso. As opções de escolha da Categoria variam conforme o Gênero selecionado. As opções de escolha da Especificação variam conforme a Categoria selecionada.**
@@ -26,11 +28,11 @@ Se o grupo de despesa do inciso for **Investimentos**, não será possível sele
 
 Os resultados são exibidos na tabela. Para selecionar um beneficiário é necessário marcar a _checkbox_ ao lado esquerdo do CNPJ, inclusive é possível selecionar mais de um beneficiário de uma vez. Em seguida, clique no botão `PESQUISAR`.
 
-![](<../../../.gitbook/assets/image (194) (1).png>)
+<figure><img src="../../../.gitbook/assets/Celebração de Convênios - 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >
-> 1. Clique em pesquisar após preencher a razão social ou o município do beneficiário da indicação
+> 1. Clique em pesquisar após preencher o CNPJ, razão social ou o município do beneficiário da indicação
 > 2. Selecione no resultado da pesquisa para quem será indicado os recursos (pode ser selecionada mais de uma opção).
 > 3. Clique em “Adicionar” para realizar indicações para os beneficiários selecionados
 
@@ -38,7 +40,7 @@ Os resultados são exibidos na tabela. Para selecionar um beneficiário é neces
 
 Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual também são dispostos os dados do tipo de atendimento, e na qual é preenchido o valor da indicação de recursos. Após preencher o valor das indicações é necessário marcar a checkbox e depois clicar em “Enviar Indicações”.
 
-![](<../../../.gitbook/assets/image (231) (1).png>)
+<figure><img src="../../../.gitbook/assets/Celebração de Convênios - 3.png" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >
@@ -47,7 +49,7 @@ Os beneficiários adicionados são exibidos na tabela “Entrada”, na qual tam
 
 **4.** O sistema verifica se todas as informações foram preenchidas corretamente e exibe uma mensagem confirmando que a operação foi realizada com sucesso.
 
-![](<../../../.gitbook/assets/9 (2).png>)
+![](<../../../.gitbook/assets/14 (1).png>)
 
 {% hint style="danger" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser disponibilizada durante o cadastro de convênios ou parcerias pelo beneficiário da indicação.

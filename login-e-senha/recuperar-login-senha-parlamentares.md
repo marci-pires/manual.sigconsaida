@@ -24,7 +24,7 @@
 O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Esqueci Senha/Login (Usuários Parlamentares e assessores parlamentares)
 

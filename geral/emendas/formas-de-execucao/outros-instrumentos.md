@@ -6,47 +6,31 @@
 
 > Esses tipos de instrumentos citados acima não são cadastrados e tramitados no SIGCON. Somente é realizada a indicação da emenda no sistema e cadastrado seu controle de execução.
 
+<figure><img src="../../../.gitbook/assets/Outros Instrumentos - 2.png" alt="" width="331"><figcaption></figcaption></figure>
 
+**1.** Selecione o `Beneficiário` da indicação. Busque pelo `CNPJ`, `Razão Social` OU `Município` e clique em `Pesquisar`:
 
-&#x20;  **1.** Acesse o menu `Emendas > Gerenciar Indicações > Indicações de Recursos`
+<figure><img src="../../../.gitbook/assets/Outros Instrumentos - 3.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  **2.** Digite o nº do inciso ou busque pelo inciso na lista e clique em `Indicar`:&#x20;
+**2.** Selecione os beneficiários na tabela e clique em `Adicionar`:
 
-![](<../../../.gitbook/assets/image (352) (1).png>)
+<figure><img src="../../../.gitbook/assets/Outros Instrumentos - 4.gif" alt=""><figcaption></figcaption></figure>
 
-&#x20; **3.** Na próxima tela, selecione o tipo de indicação `Outros Instrumentos`:
+**3.** Escolha um valor no campo `Tipo de Aplicação`, preencha a `Descrição` e insira o `Valor` da indicação:
 
-![](<../../../.gitbook/assets/image (355) (1).png>)
-
-**4.** Selecione o `Beneficiário` da indicação. Busque pelo `CNPJ`, `Razão Social` OU `Município` e clique em `Pesquisar`:
-
-![](<../../../.gitbook/assets/image (350) (1).png>)
-
-**5.** Selecione os beneficiários na tabela e clique em `Adicionar`:
-
-![](<../../../.gitbook/assets/image (347) (1).png>)
-
-**6.** Escolha um valor no campo `Tipo de Aplicação`, preencha a `Descrição` e insira o `Valor` da indicação:
-
-![](<../../../.gitbook/assets/image (351) (1).png>)
+<figure><img src="../../../.gitbook/assets/Outros Instrumentos - 5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **Ao selecionar o Tipo de Aplicação, serão exibidos somente os tipos de acordo com o Grupo de Despesas (Outras Despesas Correntes ou Investimento).**
 {% endhint %}
 
-**7.** Clique em `Enviar Indicações`:
+**4.** Clique em `Enviar Indicações`:
 
-![](<../../../.gitbook/assets/image (357) (1).png>)
+<figure><img src="../../../.gitbook/assets/Outros Instrumentos - 6.png" alt=""><figcaption></figcaption></figure>
 
-**8.** Clique em `OK`:
+**5.** Indicações realizada com sucesso!
 
-![](<../../../.gitbook/assets/image (354) (1).png>)
-
-**9.** Indicações realizada com sucesso!
-
-![](<../../../.gitbook/assets/image (362) (1).png>)
-
-
+![](<../../../.gitbook/assets/14 (1).png>)
 
 {% hint style="info" %}
 A indicação deve ser aprovada pelo órgão em que foi indicada e em seguida pela SEGOV, para somente então ser concluída.

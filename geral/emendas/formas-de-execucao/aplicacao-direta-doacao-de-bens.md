@@ -12,11 +12,11 @@ Na hipótese de indicação para a forma de execução de doação de bens móve
 
 **1.** Na página seguinte, preencha os campos de acordo com o passo-a-passo abaixo!
 
-![](<../../../.gitbook/assets/image (201) (1).png>)
+<figure><img src="../../../.gitbook/assets/Aplicação Direta - Doação de Bens - 01.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (193) (1).png>)
+<figure><img src="../../../.gitbook/assets/Aplicação Direta - Doação de Bens - 02.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (229) (1).png>)
+<figure><img src="../../../.gitbook/assets/Aplicação Direta - Doação de Bens - 03 (1252 x 367 px).png" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >

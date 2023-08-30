@@ -8,11 +8,16 @@ A modalidade de transferência exclusivamente a municípios de recursos estaduai
 
 **1.** Selecione o município e clique em `Adicionar`
 
-![](../../../.gitbook/assets/tela\_ind\_tranferencia.png)
+<figure><img src="../../../.gitbook/assets/Transferências Especiais 1 (1).png" alt=""><figcaption></figcaption></figure>
+
+> **Passo-a-passo**
+>
+> 1. Selecione o município
+> 2. Clique em "Adicionar"
 
 #### Informe o valor da indicação
 
-![](../../../.gitbook/assets/valor\_transferencia.png)
+<figure><img src="../../../.gitbook/assets/Transferências Especiais 02.png" alt=""><figcaption></figcaption></figure>
 
 > **Passo-a-passo**
 >

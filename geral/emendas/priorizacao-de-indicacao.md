@@ -6,4 +6,4 @@ A priorização pode ser acessada a partir do menu `Emendas > Gerenciar Indicaç
 
 Para definir uma nova prioridade da indicação insira a nova ordem no campo "Repriorizar" e clique em salvar conforme a imagem abaixo.
 
-![](../../.gitbook/assets/priorizacao.png)
+<figure><img src="../../.gitbook/assets/Repriorização de Indicação 1.png" alt=""><figcaption></figcaption></figure>

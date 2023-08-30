@@ -11,7 +11,7 @@ A "Proposta de Plano de Trabalho" é a situação que ocorre na **fase** de "[Pr
 
 
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Cadastramento:** somente o Convenente/OSC poderá anexar documentos.

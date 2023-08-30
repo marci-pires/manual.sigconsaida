@@ -26,7 +26,7 @@ Para isso, o parlamentar deverá acessar SIGCON-SAÍDA no menu `Emendas > Escolh
 
 ### **1º passo: Escolha as informações da dotação (siga as orientações na imagem)**
 
-![Tela de remanejamento constitucional](<../../.gitbook/assets/image (291) (1).png>)
+<figure><img src="../../.gitbook/assets/Remanejamento Constitucional 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exibidos quatro saldos:
 
@@ -41,14 +41,14 @@ A fim de orientar as escolhas de remanejamento do usuário, nessa tela são exib
 
 ### **2º passo: Depois que o remanejamento for salvo o usuário poderá editar, excluir ou refazer o saneamento.**
 
-![Opções de edição do remanejamento](<../../.gitbook/assets/image (290) (1).png>)
+<figure><img src="../../.gitbook/assets/Remanejamento Constitucional 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-Caso o usuário deseje alterar as informações do saneamento e do montante direcionado para o remanejamento, conforme preenchido orientado na seção [Saneamento](saneamento.md), é necessário que ele clique no comando “Refazer Saneamento”. Contudo, essa opção irá apagar os registros das programações orçamentárias que o usuário já preencheu no remanejamento.
+Caso o usuário deseje alterar as informações do saneamento e do montante direcionado para o remanejamento, conforme preenchido orientado na seção [Saneamento](saneamento.md), é necessário que ele clique no comando “Refazer Escolha”. Contudo, essa opção irá apagar os registros das programações orçamentárias que o usuário já preencheu no remanejamento.
 
 {% hint style="danger" %}
-**Atenção:** Ao escolher REFAZER SANEAMENTO, todas as indicações de programação de remanejamento constitucional serão perdidas e você deve iniciar novamente o processo de saneamento.
+**Atenção:** Ao escolher REFAZER ESCOLHA, todas as indicações de programação de remanejamento constitucional serão perdidas e você deve iniciar novamente o processo de saneamento.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (289) (1).png>)
+<figure><img src="../../.gitbook/assets/Remanejamento Constitucional 3.PNG" alt=""><figcaption></figcaption></figure>
 
-Após clicar no botão<img src="../../.gitbook/assets/sim.png" alt="" data-size="original"> o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.
+Após clicar no botão ![](<../../.gitbook/assets/image (571).png>) o sistema irá redirecionar para a tela de saneamento e nesse momento é necessário  informar novamente os valores a serem saneados.

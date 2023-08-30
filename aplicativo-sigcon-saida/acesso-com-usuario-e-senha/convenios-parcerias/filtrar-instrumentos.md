@@ -12,7 +12,7 @@ A funcionalidade de filtro em "Convênios e Parcerias" permite a inserção de v
 
 3. Após clicar em "Filtrar", irá abrir uma tela com diversas opções de filtro para seleção dos instrumentos:
 
-<mark style="color:red;"></mark>![](<../../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.24.35.jpeg>)<mark style="color:red;"></mark>
+![](<../../../.gitbook/assets/WhatsApp Image 2023-03-01 at 10.24.35.jpeg>)
 
 4. Caso deseje excluir as informações inseridas no filtro e começar uma nova inserção, clicar na lixeira no canto superior direito da tela para apagar o conteúdo:
 
@@ -20,4 +20,4 @@ A funcionalidade de filtro em "Convênios e Parcerias" permite a inserção de v
 
 4. Ao finalizar a inclusão das informações para triagem dos instrumentos, clicar no botão "Filtrar" ao final da página:
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)

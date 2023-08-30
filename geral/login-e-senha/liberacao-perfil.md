@@ -26,7 +26,7 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 
 **2**. Como representante legal, informe o usuário e senha e clique em `"Acessar"`:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3**. Acesse o menu `"Administração > Perfil de Usuário"`
 

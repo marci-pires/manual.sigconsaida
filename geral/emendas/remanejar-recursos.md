@@ -9,7 +9,7 @@ Os incisos disponíveis inicialmente para que os parlamentares realizem as indic
 
 &#x20;  **2.** Na tela de solicitação de remanejamento de recursos são exibidas todas as unidades orçamentárias nas quais o parlamentar possui incisos vinculados.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  **3.** Após selecionar uma unidade orçamentária, são exibidos os incisos relacionados àquela unidade orçamentária, o usuário deverá selecionar aquele do qual deseja transferir os recursos.
 
@@ -31,7 +31,7 @@ A tela de solicitação de remanejamento exibirá informações referentes aos v
 
 Por fim, o usuário deverá preencher o valor que deseja remanejar, considerando o valor disponível.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6.** Após preencher as informações de remanejamento do inciso, o usuário deve clicar em **“Salvar”**. Em seguida, será aberta uma tela para o parlamentar validar e confirmar os dados do remanejamento. Caso o parlamentar deseje especificar o objeto ou beneficiário ele deverá preencher o campo de "Detalhamento" com a especificação pretendida.
 

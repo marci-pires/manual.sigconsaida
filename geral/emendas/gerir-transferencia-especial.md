@@ -28,7 +28,7 @@ Importante
    \
    `Transferência Especial > Gerir transferência Especial`, conforme a imagem abaixo:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;    2\.  Na próxima tela as seguintes funcionalidades estarão disponíveis:
 
@@ -52,7 +52,7 @@ f. Visualizar as transferências
 Se a data da publicação, número da resolução e dotação orçamentária for igual para todas as transferências e para facilitar o cadastro disponibilizamos o fluxo de aplicar a todas conforme imagem abaixo:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Filtro de transferências
 
@@ -80,7 +80,7 @@ i. Grupo de Despesa
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\.  Cadastrar número de resolução e data de publicação
 
@@ -88,7 +88,7 @@ Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 Selecione a transferência e digite a data no campo data de publicação e o número de resolução no campo Nº Resolução e clique no botão salvar
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Transferência Especial (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gerir transferência especial 1.png" alt=""><figcaption></figcaption></figure>
 
 6\.  Enviar para o SIAFI
 
@@ -102,7 +102,7 @@ Selecione uma transferência e clique no botão enviar para o SIAFI
 Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIAFI"** caso contrário o status ficará  **"NÃO ENVIADO"** e uma mensagem será exibida com informações do motivo.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Transferência Especial (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gerir transferência especial 2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **ATENÇÃO: Item 7 - Orientações para emissão da Declaração pelo Parlamentar**
@@ -114,7 +114,7 @@ Se o envio ocorrer com sucesso o status será alterado para **"REGISTRADO NO SIA
 Selecione uma transferência e clique no botão `Ações` e no menu `Gerar Declaração`
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gerir transferência especial 3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 A Declaração só é emitida se o status da Transferência Especial for **Registrado no SIAFI.**
