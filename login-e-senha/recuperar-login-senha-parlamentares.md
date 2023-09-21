@@ -24,7 +24,7 @@
 O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidades e Órgãos Públicos Federais ou Municipais.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Esqueci Senha/Login (Usuários Parlamentares e assessores parlamentares)
 
@@ -32,7 +32,7 @@ O tutorial abaixo corresponde a **Prefeitura, OSC, Consórcio Público, Entidade
 
 **4.** Informe seu usuário e clique em "enviar"
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Se tiver selecionado a recuperação do `"login"`, contate o Administrador de Segurança (TI) da Assembleia Legislativa de Minas Gerais:
 

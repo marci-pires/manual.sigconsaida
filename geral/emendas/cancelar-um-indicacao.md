@@ -12,7 +12,7 @@ A busca pode ser feita pelo nome do responsável (_1, no lado esquerdo da tela_)
 
 <figure><img src="../../.gitbook/assets/1 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-### **Clique no ícone** ![](<../../.gitbook/assets/image (7) (1).png>) **em expandir inciso**&#x20;
+### **Clique no ícone** ![](<../../.gitbook/assets/image (7) (1) (1).png>) **em expandir inciso**&#x20;
 
 {% hint style="info" %}
 Na próxima tela serão exibidas todas as indicações para o inciso selecionado.

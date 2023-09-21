@@ -10,7 +10,7 @@ Em hipótese alguma, o convenente poderá criar obstáculo ou constrangimento pa
 
 Por outro lado, cabe ao concedente exercer o acompanhamento da execução do convênio e a fiscalização da aplicação dos recursos por meio de visitas _in loco._
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:green;">DEVERÁ SER PREENCHIDO PELO CONVENENTE E FISCALIZADO PELO CONCEDENTE</mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:green;">DEVERÁ SER PREENCHIDO PELO CONVENENTE E FISCALIZADO PELO CONCEDENTE</mark></p></figcaption></figure>
 
 
 

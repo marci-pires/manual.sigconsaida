@@ -10,4 +10,4 @@ A tabela **"Histórico de Alterações"** apresenta todas as modificações real
 
 Se necessário, insira a data inicial e final e clique em `"Filtrar..."` para filtras as modificações por usuário apresentadas na tela:
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)

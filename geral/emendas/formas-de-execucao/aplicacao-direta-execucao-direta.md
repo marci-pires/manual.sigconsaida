@@ -41,7 +41,7 @@ Caso o órgão possua mais de uma unidade administrativa, é necessário informa
 >
 > 1. Faça a seleção do tipo de aplicação
 > 2. Preencha o valor da indicação e se possível especifique as informações da indicação no campo de descrição
-> 3. Clique em <img src="../../../.gitbook/assets/image (13).png" alt="" data-size="line">
+> 3. Clique em <img src="../../../.gitbook/assets/image (13) (1).png" alt="" data-size="line">
 
 {% hint style="success" %}
 Ao selecionar o Tipo de Aplicação, serão exibidos somente os tipos de acordo com o Grupo de Despesas (Outras Despesas Correntes ou Investimento).
