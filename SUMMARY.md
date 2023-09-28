@@ -15,6 +15,7 @@
 * [Emendas Parlamentares](emendas/README.md)
   * [O que são emendas?](geral/emendas/introducao.md)
   * [Indicação de Recursos](geral/emendas/indicacao-de-recursos.md)
+  * [Visualizar indicações](geral/emendas/visualizar-indicacoes.md)
   * [Remanejamento Inicial (LDO)](geral/emendas/remanejar-recursos.md)
   * [Ajuste do Tipo de Atendimento](geral/emendas/ajuste-do-tipo-de-atendimento/README.md)
     * [Órgão](geral/emendas/ajuste-do-tipo-de-atendimento/orgao.md)
@@ -45,7 +46,7 @@
   * [Cancelar Indicação](geral/emendas/cancelar-um-indicacao.md)
   * [Saneamento](geral/emendas/saneamento.md)
   * [Remanejamento Constitucional](geral/emendas/remanejamento-constitucional.md)
-  * [Reprovação Parcial](geral/emendas/reprovacao-parcial.md)
+  * [Complementar dados de indicação](geral/emendas/complementar-dados-de-indicacao.md)
 * [Portal de Ensino a Distância](geral/portal-de-ensino-a-distancia.md)
 
 ## CONVÊNIOS
