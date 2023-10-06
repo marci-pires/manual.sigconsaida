@@ -212,3 +212,8 @@
 ## REFERÊNCIAS
 
 * [Bibliografia](referencias/bibliografia.md)
+
+## LINKS ÚTEIS
+
+* [Canal do Youtube](https://www.sigconsaida.mg.gov.br/youtube)
+* [Portal EAD](https://www.sigconsaida.mg.gov.br/ead)
