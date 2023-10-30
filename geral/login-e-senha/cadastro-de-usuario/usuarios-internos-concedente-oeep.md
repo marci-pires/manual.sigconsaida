@@ -1,10 +1,7 @@
 # Usuários Internos (Concedente / OEEP)
 
-### Caso você seja um funcionário de algum órgão ou entidade parceira que irá participar do processo como concedente, é necessário entrar em contato com o [administrador setorial do seu órgão](http://sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/) e solicitar o cadastro.
+#### Acesse aqui os contatos dos  [administrador setorial do seu órgão](http://sigconsaida.mg.gov.br/suporte-administradores-de-seguranca/) para solicitar o cadastro.
 
-As informações necessárias para o cadastro são:
+## Fluxo Simplificado
 
-* xxxx
-* xxxx
-* xxxx
-
+<figure><img src="../../../.gitbook/assets/Ativo 1.png" alt=""><figcaption></figcaption></figure>
