@@ -4,4 +4,6 @@
 
 ## Fluxo Simplificado
 
-<figure><img src="../../../.gitbook/assets/Ativo 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Ativo 2.png" alt=""><figcaption></figcaption></figure>
