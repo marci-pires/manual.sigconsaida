@@ -30,7 +30,11 @@ Para usuários externos do convenente.
 
 <figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**7.** O link para criação de senha só é enviado ao usuário externo após a aprovação do responsável legal. Assim que receber o link, basta clicar para acessar o sistema:
+**7.** Preencha todos os campos e clique em Enviar. Caso necessite de assinar com usuário poderá já marcar no campo indicado. Importante lembrar que o Representante legal irá Aprova, Ativar e dar perfil. A liberação da assinatura com usuário será feita posteriormente pela área técnica do Concedente/OEEP.
+
+<figure><img src="../../../.gitbook/assets/Imagem do WhatsApp de 2023-11-07 à(s) 13.25.18_6e3464b0.jpg" alt=""><figcaption></figcaption></figure>
+
+**8.** O link para criação de senha só é enviado ao usuário externo após a aprovação do responsável legal. Assim que receber o link, basta clicar para acessar o sistema:
 
 {% hint style="warning" %}
 **ATENÇÃO**
@@ -40,7 +44,7 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 
 ![](https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTkwNTUyNjUxNzUsImRvbWFpbiI6ImF0ZW5kaW1lbnRvc2lnY29uc2FpZGEuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjQ1NzM0M30.\_M3VpJdDX0Oty\_tBDVGgJ5yKfuErY3tcsbTFxKSggi4)
 
-**8.** Digite sua senha atendendo aos seguintes critérios de segurança
+**9.** Digite sua senha atendendo aos seguintes critérios de segurança
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,4 +55,4 @@ O login de acesso só é liberado para o usuário após a aprovação do Respons
 * A senha deve conter pelo menos uma letra e um número.
 {% endhint %}
 
-**9.**  Repita a nova senha criada e clique em `"Salvar"`:
+**10.**  Repita a nova senha criada e clique em `"Salvar"`:
