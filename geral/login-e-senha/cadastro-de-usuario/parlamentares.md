@@ -4,7 +4,9 @@
 Caso o usuário seja antigo e tenha **perdido seu acesso** ou a **senha revogada**, siga para a página de [Recuperação de Senha](../../../login-e-senha/recuperar-login-senha-parlamentares.md).
 {% endhint %}
 
-Para ter acesso ao SIGCON – Saída, é necessário primeiramente que o parlamentar ou seus respectivos assessores tenham um registro no **ADSEG (Sistema de Administração Descentralizada de Segurança)**. O registro no ADSEG é de responsabilidade do Administrador Setorial de Segurança da ALMG. O Administrador Setorial irá fornecer o nome de login e senha para acesso ao sistema.
+Para ter acesso ao SIGCON – Saída, é necessário primeiramente que o parlamentar ou seus respectivos assessores tenham um registro no **ADSEG (Sistema de Administração Descentralizada de Segurança)**. O registro do usuário do Parlamentar no ADSEG é de responsabilidade da Diretoria de Finanças da ALMG (email: financas@almg.gov.br).&#x20;
+
+**Após o cadastro, solicitar a senha do usuário do parlamentar pelo email atendimento@sigconsaida.mg.gov.br, informando o usuário do Parlamentar.**
 
 {% hint style="info" %}
 Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https://sigconsaida.mg.gov.br/) digitando o mesmo login e senha registrado no ADSEG.
