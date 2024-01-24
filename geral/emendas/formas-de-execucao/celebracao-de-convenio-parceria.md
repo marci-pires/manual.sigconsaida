@@ -2,7 +2,7 @@
 
 A indicação de recursos do tipo `Celebração de Convênio/Parceria MROSC` resultará na disponibilização de recursos para a celebração de convênios ou parcerias entre o Estado (que repassará os recursos indicados pelo parlamentar) e a prefeitura, consórcio ou OSC definidos como beneficiários da indicação (que irão executar o serviço, evento, obra ou aquisição para qual a indicação foi realizada).
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. A indicação de recursos para a celebração de outros instrumentos jurídicos é realizada em três etapas:
 

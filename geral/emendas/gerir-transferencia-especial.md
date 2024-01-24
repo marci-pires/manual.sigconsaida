@@ -28,7 +28,7 @@ Importante
    \
    `Transferência Especial > Gerir transferência Especial`, conforme a imagem abaixo:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;    2\.  Na próxima tela as seguintes funcionalidades estarão disponíveis:
 
@@ -52,7 +52,7 @@ f. Visualizar as transferências
 Se a data da publicação, número da resolução e dotação orçamentária for igual para todas as transferências e para facilitar o cadastro disponibilizamos o fluxo de aplicar a todas conforme imagem abaixo:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Filtro de transferências
 
@@ -80,7 +80,7 @@ i. Grupo de Despesa
 
 Para pesquisar selecione o campo desejável e clique no botão pesquisar:
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\.  Cadastrar número de resolução e data de publicação
 

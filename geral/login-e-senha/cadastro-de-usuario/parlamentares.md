@@ -18,7 +18,7 @@ Com o registro já efetuado no **ADSEG,** basta entrar no [SIGCON Saída](https:
 
 **2.** Clique em `"Trocar Senha"`:
 
-<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Em seguida, clique em `"Assembleia Legislativa do Estado de Minas Gerais"`:
 

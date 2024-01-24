@@ -15,7 +15,7 @@ Para celebração de instrumento, resolução SES, Caixa Escolar e Transferênci
 
 <figure><img src="../../../.gitbook/assets/Celebração de Instrumento, Resolução SES, Caixa Escolar e Transferência Especial 1.png" alt=""><figcaption></figcaption></figure>
 
-**1.2 Clique no botão de edição** ![](<../../../.gitbook/assets/image (5).png>)&#x20;
+**1.2 Clique no botão de edição** ![](<../../../.gitbook/assets/image (5) (1).png>)&#x20;
 
 <figure><img src="../../../.gitbook/assets/Celebração de Instrumento, Resolução SES, Caixa Escolar e Transferência Especial 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ Para editar os valores dos controles de execução já cadastrados em massa é p
 
 **2.3  Na aba de "Importação de Dados", faça o download da planilha modelo e após o devido preenchimento faça a importação. Siga as orientações destacadas para evitar erros.**
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Instruções para importação dos dados:&#x20;
 >

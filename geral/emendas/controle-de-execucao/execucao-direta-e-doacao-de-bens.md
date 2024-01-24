@@ -87,7 +87,7 @@ No caso de doação de bens, essa aba de preenchimento dos dados do SEI terá do
 
 Além disso, é possível dar Impedimento de Ordem Técnica em lote, ou seja, selecionar várias indicações e informar o Impedimento de Ordem Técnica:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Condição para Impedimento de Ordem Técnica (IOT):**
@@ -117,15 +117,15 @@ A importação de dados surge como uma alternativa ao preenchimento manual das a
 
 1.9.1 Faça a escolha no Tipo de Importação a ser realizada: `Empenho ou Indicação`:
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Planilha Empenho:** com essa planilha é possível a importação do nº de empenho e data de registro do empenho para o controle que está sendo editado.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Planilha Indicação:** com essa planilha é possível a importação do nº de indicação, valor empenhado, valor liquidado, valor pago, valor utilizado, processo SEI e valor executado para o controle que está sendo editado.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.9.2  Após o preenchimento da planilha, faça o upload da mesma. Clique em `Procurar arquivo` e busque pela planilha a ser importada. Após isso, clique no botão `Importar`. Após a importação clique no Botão `Salvar` do Controle de Execução.
 
@@ -165,11 +165,11 @@ A importação de dados surge como uma alternativa ao preenchimento manual das a
 
 **2.2 Clique em pesquisar.**&#x20;
 
-**2.3 Em seguida, clique no ícone** <img src="../../../.gitbook/assets/image (11).png" alt="" data-size="line">**para editar o controle de execução em questão.**&#x20;
+**2.3 Em seguida, clique no ícone** <img src="../../../.gitbook/assets/image (11) (1).png" alt="" data-size="line">**para editar o controle de execução em questão.**&#x20;
 
 <figure><img src="../../../.gitbook/assets/Tela inicial do Controle de Execução (1).png" alt=""><figcaption><p>Tela inicial de Pesquisa do Controle de Execução</p></figcaption></figure>
 
-É possível, também, editar apenas os valores do controle de execução clicando em <img src="../../../.gitbook/assets/image (10).png" alt="" data-size="line">. Nesse caso será aberta a seguinte janela, com o preenchimento simplificado do controle de execução:&#x20;
+É possível, também, editar apenas os valores do controle de execução clicando em <img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">. Nesse caso será aberta a seguinte janela, com o preenchimento simplificado do controle de execução:&#x20;
 
 <figure><img src="../../../.gitbook/assets/Editar Valores do Controle de Execução.PNG" alt=""><figcaption><p>Tela de edição de valores do controle de execução</p></figcaption></figure>
 
@@ -183,7 +183,7 @@ Para editar os valores dos controles de execução já cadastrados em massa é p
 
 2.4.2  Na aba de "Importação de Dados", faça o download da planilha modelo e após o devido preenchimento faça a importação. Siga as orientações destacadas para evitar erros.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 > Instruções para importação dos dados:&#x20;
 >
@@ -219,7 +219,7 @@ Para editar os valores dos controles de execução já cadastrados em massa é p
 
 Além disso, é possível importar os dados em massa do Controle de Execução do Ano Anterior na página de busca/cadastro de controle de execução, para isso siga as orientações destacadas:
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Instruções para preenchimento da planilha:
 >

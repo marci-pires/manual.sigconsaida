@@ -14,7 +14,7 @@ PARA SEGUIR COM A INCLUSÃO DO USUÁRIO EXTERNO O [REPRESENTANTE LEGAL](broken-r
 
 **3.** Após o redirecionamento para a página de login, clique em `"Novo Usuário"`:
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.** Clique em `"Prefeituras e Organizações da Sociedade Civil e outros Convenentes/Parceiros"`:
 
@@ -28,7 +28,7 @@ PARA SEGUIR COM A INCLUSÃO DO USUÁRIO EXTERNO O [REPRESENTANTE LEGAL](broken-r
 Para usuários externos do convenente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **7.** Preencha todos os campos e clique em Enviar. Caso necessite de assinar com usuário poderá já marcar no campo indicado. Importante lembrar que o Representante legal irá Aprova, Ativar e dar perfil. A liberação da assinatura com usuário será feita posteriormente pela área técnica do Concedente/OEEP.
 

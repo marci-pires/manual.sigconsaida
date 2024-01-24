@@ -41,7 +41,7 @@ Siga as orientações do [Manual de Utilização do CAGEC](https://manual.portal
 {% endhint %}
 
 {% hint style="danger" %}
-Poderá ser cadastrada uma Proposta de Plano de Trabalho mesmo que o Convenente esteja BLOQUEADO no [CAGEC](https://www.portalcagec.mg.gov.br/) caso ele se enquadre em um Tipo de Repasse Especial: **Educação, Saúde, Assistência Social, Calamidade Pública ou Repasse MGI – Calamidade Pública.**
+Poderá ser cadastrada uma Proposta de Plano de Trabalho mesmo que o Convenente esteja IRREGULAR no [CAGEC](https://www.portalcagec.mg.gov.br/) caso ele se enquadre em um Tipo de Repasse Especial: **Educação, Saúde, Assistência Social, Calamidade Pública ou Repasse MGI – Calamidade Pública ou seja Emenda Impositiva (no caso de prefeituras ou consórcios público).**
 {% endhint %}
 
 **6.** Após selecionar o CNPJ corretamente, complete as informações solicitadas:

@@ -20,4 +20,4 @@ A funcionalidade de filtro em "Convênios e Parcerias" permite a inserção de v
 
 4. Ao finalizar a inclusão das informações para triagem dos instrumentos, clicar no botão "Filtrar" ao final da página:
 
-![](<../../../.gitbook/assets/image (13) (1) (1).png>)
+![](<../../../.gitbook/assets/image (13) (1) (1) (1).png>)
