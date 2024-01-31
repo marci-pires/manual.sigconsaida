@@ -2,7 +2,7 @@
 
 **1.** Digite o CEP e clique em `"Buscar"` para que os campos sejam preenchidos:
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Após os campos serem preenchidos automaticamente, para preencher o campo "Latitude" e "Longitude", pesquise o endereço no [Google Maps](https://www.google.com.br/maps). Clique com o botão direito do mouse no ícone de alfinete localizado no endereço correspondente:
 
@@ -22,8 +22,8 @@
 
 **6.** Copie os dados e preencha corretamente os campos de latitude e longitude. Clique em `"Salvar Endereço"`:
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 **7.** O endereço salvo será exibido na "Lista de Endereços":
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
