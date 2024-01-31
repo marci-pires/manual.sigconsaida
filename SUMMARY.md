@@ -91,7 +91,7 @@
 * [Alteração](convenios/alteracoes/README.md)
   * [Concedente / OEEP](convenios/alteracoes/manual-concedente-alteracao/README.md)
     * [Termo Aditivo](convenios/alteracoes/manual-concedente-alteracao/termo-aditivo.md)
-    * [Alteração de Agentes Responsáveis](convenios/alteracoes/manual-concedente-alteracao/termo-aditivo-1.md)
+    * [Alteração de Agentes Responsáveis](convenios/alteracoes/manual-concedente-alteracao/agentes-responsaveis.md)
     * [Alteração Simples](convenios/alteracoes/manual-concedente-alteracao/alteracao.md)
     * [Alteração de Dotação Orçamentária](convenios/alteracoes/manual-concedente-alteracao/alteracao-de-dotacao-orcamentaria.md)
     * [Retificação por Erro Humano](convenios/alteracoes/manual-concedente-alteracao/retificacao-por-erro-humano.md)
