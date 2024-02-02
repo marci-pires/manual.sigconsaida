@@ -2,10 +2,6 @@
 
 A **Proposta de Plano de Trabalho** é o documento a ser apresentado à Administração Pública do Poder Executivo Estadual pelo interessado em celebrar convênio de saída, contendo, no mínimo, os dados necessários à avaliação do programa, projeto, atividade, inclusive reforma ou obra, serviço, evento ou aquisição de bens.
 
-{% hint style="info" %}
-Conforme art. 7º da Resolução Nº 004/2015, parágrafo único: **Não poderá preencher proposta de Plano de Trabalho o interessado que estiver inadimplente no Sistema Integrado da Administração Financeira – SIAFI-MG – ou apresentar irregularidade no Cadastro Geral de Convenentes – CAGEC** , salvo exceções previstas na Lei de Diretrizes Orçamentárias.
-{% endhint %}
-
 
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/), clique no menu `"Convênios / Parcerias > Cadastrar Nova Proposta"`:
