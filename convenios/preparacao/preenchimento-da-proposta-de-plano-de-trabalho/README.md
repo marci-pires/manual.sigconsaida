@@ -38,8 +38,8 @@ Um bom plano de trabalho deve permitir ao convenente executar um projeto com **p
 [identificacao-do-interveniente.md](identificacao-do-interveniente.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="caracterizacao-da-proposta-de-plano-de-trabalho/" %}
+[caracterizacao-da-proposta-de-plano-de-trabalho](caracterizacao-da-proposta-de-plano-de-trabalho/)
 {% endcontent-ref %}
 
 {% content-ref url="cronograma-de-execucao.md" %}

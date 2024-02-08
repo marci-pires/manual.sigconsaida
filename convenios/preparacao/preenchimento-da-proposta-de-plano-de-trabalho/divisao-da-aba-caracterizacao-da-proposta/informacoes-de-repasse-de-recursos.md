@@ -51,7 +51,7 @@ Para mais informações sobre recursos de “Emenda Parlamentares”, procure o 
 
 8. Caso o instrumento tenha contrapartida, selecione qual o tipo de contrapartida (Financeira ou Não Financeira) e então insira o valor:
 
-<figure><img src="../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 9.  Para adicionar o "**Tipo de Atendimento**" selecione o "Gênero", em seguida a "Categoria" e posteriormente a "Especificação". Clique em `"Incluir"`:
 
@@ -73,7 +73,7 @@ Para mais informações sobre recursos de “Emenda Parlamentares”, procure o 
 
 11. Escolha se a conta vai ser aberta de forma automática ou manual. Caso seja manual é necessário a inserção dos dados bancários:
 
-<figure><img src="../../../../.gitbook/assets/image (7) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Não** é possível repetir a conta já utilizada em outra proposta no sistema.&#x20;

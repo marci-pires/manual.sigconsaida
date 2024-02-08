@@ -18,7 +18,7 @@ Para acessar a lista dos administradores de segurança atualizada, clique [**aqu
 
 ## Representante Legal
 
-O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Legal](liberacao-perfil.md#representante-legal), tendo em vista que é o responsável pela gestão dos usuários. É fundamental que o Representante legal esteja com o cadastro **atualizado** no [Portal CAGEC](https://www.portalcagec.mg.gov.br/).&#x20;
+O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Legal](problemas-com-a-senha.md#representante-legal), tendo em vista que é o responsável pela gestão dos usuários. É fundamental que o Representante legal esteja com o cadastro **atualizado** no [Portal CAGEC](https://www.portalcagec.mg.gov.br/).&#x20;
 
 **1.** Acesse o [SIGCON Saída](https://sigconsaida.mg.gov.br/) e clique em `"Entrar"` no canto superior direito da tela inicial:
 
@@ -34,15 +34,15 @@ O primeiro usuário que deve efetuar o cadastro no SIGCON é o [Representante Le
 Restrito ao representante legal.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (317).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **4**. Utilize o filtro de pesquisa para encontrar o usuário desejado e clique em `"Pesquisar"`:
 
-![](<../../.gitbook/assets/6 (3).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **5**. O sistema mostrará os usuários que atendem ao filtro utilizado. Clique no ícone da coluna `"Ação"` correspondente ao usuário desejado:
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerenciar quais  usuários continuarão a ter permissão no CNPJ.&#x20;
@@ -50,7 +50,7 @@ Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerencia
 
 **6**. Confira os dados e inseridos e os campos editáveis:
 
-![](<../../.gitbook/assets/image (366).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **7**. Selecione o perfil a ser desempenhado pelo usuário em `"Perfil Disponível"` e, com o uso da **seta** central, encaminhe a seleção para o `"Perfil Selecionado"`::
 
@@ -58,7 +58,7 @@ Além de **APROVAR** e **DAR PERFIL**, utilize essa funcionalidade para gerencia
 Se for o primeiro cadastro, a Situação Cadastral estará em **ANÁLISE** e o Status **INATIVO**. Portanto **APROVE**, **ATIVE** o usuário e clique em **SALVAR**.
 {% endhint %}
 
-![](../../.gitbook/assets/9.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x20;
@@ -66,7 +66,7 @@ O perfil permitido para liberar o cadastro da proposta é o **CADASTRADOR**.&#x2
 
 **8**. Todos os Representantes Legais terão sua Assinatura Eletrônica aprovada automaticamente depois de ativos no sistema em razão do seu cadastro no CAGEC:
 
-![](<../../.gitbook/assets/10 (1).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Caso não apareça na `"Lista de Solicitação de Assinatura com Usuário e Senha"`, saia do sistema e entre novamente.&#x20;
