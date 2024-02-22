@@ -13,7 +13,7 @@
   * [Liberação de Perfil](geral/login-e-senha/problemas-com-a-senha.md)
   * [Perfis do Sistema](geral/login-e-senha/perfis-do-sistema.md)
   * [Recuperar Login e Senha](login-e-senha/recuperar-login-senha-parlamentares.md)
-  * [Page](geral/login-e-senha/page.md)
+  * [Trocar a Senha](geral/login-e-senha/trocar-a-senha.md)
 * [Emendas Parlamentares](emendas/README.md)
   * [O que são emendas?](geral/emendas/introducao.md)
   * [Indicação de Recursos](geral/emendas/indicacao-de-recursos.md)
