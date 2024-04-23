@@ -1,5 +1,11 @@
 # Definições Gerais
 
+##
+
+{% hint style="warning" %}
+Alertamos que as orientações dispostas neste manual relativas a **convênios de saída** são destinadas a instrumentos regidos pelo **Decreto n° 46.319/2013 e Resolução Conjunta Segov/AGE n° 004/2015.** O manual contendo as orientações para convênios firmados com base no Decreto n° 48.745/2023 está em processo de elaboração.
+{% endhint %}
+
 ## O que é convênio?
 
 > &#x20;"\[..] é o acordo de vontades \[….], por meio do qual são conjugados esforços e (ou) recursos, visando a disciplinar a atuação harmônica e sem intuito lucrativo das partes, para o desempenho de competências administrativas." (JUSTEN FILHO, 2010).
