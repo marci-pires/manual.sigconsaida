@@ -1,5 +1,9 @@
 # Plano de Trabalho
 
+{% hint style="warning" %}
+Alertamos que as orientações dispostas neste manual relativas a **convênios de saída** são destinadas a instrumentos regidos pelo **Decreto n° 46.319/2013 e Resolução Conjunta Segov/AGE n° 004/2015.** O manual contendo as orientações para convênios firmados com base no Decreto n° 48.745/2023 está em processo de elaboração.
+{% endhint %}
+
 ## O que é um Plano de Trabalho?&#x20;
 
 O plano de trabalho é o documento que descreve o conteúdo da proposta aprovada e o detalhamento do objeto do convênio de saída, tornando-se base para a execução, gestão dos recursos e acompanhamento do programa, projeto, atividade, inclusive reforma ou obra, serviço, evento ou aquisição de bens.&#x20;

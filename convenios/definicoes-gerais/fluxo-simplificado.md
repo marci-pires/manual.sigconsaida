@@ -1,5 +1,9 @@
 # Fluxo Simplificado
 
+{% hint style="warning" %}
+Alertamos que as orientações dispostas neste manual relativas a **convênios de saída** são destinadas a instrumentos regidos pelo **Decreto n° 46.319/2013 e Resolução Conjunta Segov/AGE n° 004/2015.** O manual contendo as orientações para convênios firmados com base no Decreto n° 48.745/2023 está em processo de elaboração.
+{% endhint %}
+
 &#x20;De forma geral, os Convênios de Saída seguem o seguinte fluxo:
 
 ![](<../../.gitbook/assets/image (338).png>)
