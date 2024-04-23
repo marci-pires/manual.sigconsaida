@@ -5,9 +5,9 @@ Prezados usuários,
 Este manual foi desenvolvido com o objetivo de explicar detalhadamente como utilizar o portal [SIGCON Saída](https://sigconsaida.mg.gov.br/).&#x20;
 
 {% hint style="warning" %}
-Alertamos que as orientações dispostas neste manual relativas a **convênios de saída** são destinadas a instrumentos regidos pelo **Decreto n° 46.319/2013 e Resolução Conjunta Segov/AGE n° 004/2015.**
+Alertamos que as orientações dispostas neste manual relativas a **convênios de saída** são destinadas a instrumentos regidos pela  **Lei Federal n° 8.666/1993,** **Decreto n° 46.319/2013 e Resolução Conjunta Segov/AGE n° 004/2015.**
 
-Por esta razão, orientamos que eventuais **dúvidas** e questionamentos relacionados aos convênios de saída celebrados nos termos do **Decreto n° 48.745/2023**, sejam encaminhadas ao suporte **atendimento@sigconsaida.mg.gov.br**. &#x20;
+Assim sendo, orientamos que eventuais **dúvidas** **e questionamentos** relacionados aos convênios de saída celebrados nos termos da Lei Federal n° 8.666/1993 e Decreto n° 43.635/2003, ou  pela legislação em vigor, **Lei Federal n° 14.133/2021 e** **Decreto n° 48.745/2023**, sejam encaminhadas ao suporte **atendimento@sigconsaida.mg.gov.br**. &#x20;
 
 Informamos, ainda, que o manual destinado a orientações relativas aos instrumentos regidos pelo novo decreto está em processo de elaboração pela SEGOV.
 {% endhint %}
