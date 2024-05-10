@@ -1,7 +1,8 @@
 ---
 description: >-
-  Status - Processo de Assinatura - Concedente/OEEP - Nesta fase o Ordenador de
-  Despesa assina o convênio. Tem que ter o perfil de Ordenador de Despesa
+  Status - Processo de Assinatura - Concedente/OEEP. Nesta fase o Ordenador de
+  Despesa assina o convênio. Tem que ter o perfil de Responsável Legal
+  Concedente ou Adm Público Oeep.
 ---
 
 # Processo de Assinatura do Concedente/OEEP
