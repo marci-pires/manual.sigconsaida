@@ -88,6 +88,7 @@
 * [Celebração](convenios/celebracao/README.md)
   * [Análise Técnica](convenios/celebracao/analise-tecnica.md)
   * [Análise Jurídica](convenios/celebracao/analise-juridica.md)
+  * [Análise Técnica - Atendimento de Ressalvas](convenios/celebracao/analise-tecnica-atendimento-de-ressalvas.md)
   * [Adequação](convenios/celebracao/adequacao.md)
   * [Formalização](convenios/celebracao/formalizacao.md)
   * [Plano Autorizado](convenios/celebracao/plano-autorizado.md)
