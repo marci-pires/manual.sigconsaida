@@ -1,6 +1,6 @@
 # Manual de Utilização
 
-Prezados usuários,,
+Prezados usuários,
 
 Este manual foi desenvolvido com o objetivo de explicar detalhadamente como utilizar o portal [SIGCON Saída](https://sigconsaida.mg.gov.br/).&#x20;
 
